@@ -1,6 +1,8 @@
 // Wikipedia REST page/summary lookup for show info (used when adding a new show).
 const SUMMARY_URL = 'https://en.wikipedia.org/api/rest_v1/page/summary/';
-export const WIKI_USER_AGENT = 'STARSongFinder/1.0 (school musical theatre song finder; https://taeacanada.ca/regional-star-fest/)';
+// Wikimedia asks for a contact in the User-Agent. The project isn't affiliated with TAEA, so it names
+// its own repository. Also sent by `npm run fetch-media` for the seed images.
+export const WIKI_USER_AGENT = 'STARSongFinder/1.0 (school musical theatre song finder; https://github.com/jponline77/star_finder)';
 const THEATRE_RE = /\b(musical|musicals|opera|operetta|play|theatre|theater|broadway|west end|stage show)\b/i;
 
 /**

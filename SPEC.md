@@ -60,8 +60,8 @@ Sheet1, row 1 = section titles ("Solos" in A1, "Duets" in J1), row 2 = headers, 
   `exceljs` (xlsx import/export), `multer` (uploads), `helmet`, `express-rate-limit`. (`server/`)
 - **Database:** SQLite file at `server/data/star.db` (WAL mode, foreign_keys ON).
 - **Tests:** server: `node --test` + `supertest`. client: `vitest` for pure logic (filters,
-  formatting), `tsc --noEmit`. E2E: `@playwright/test@1.63.0` (matches the cached Chromium at
-  `~/.cache/ms-playwright/chromium-1243`; do NOT download other browsers).
+  formatting), `tsc --noEmit`. E2E: `@playwright/test@1.63.0` with its matching Chromium (installed
+  once per machine with `npx playwright install chromium`; no other browsers are needed).
 - Ports: API `3001` (env `PORT`), Vite dev `5173` with `/api`, `/media`, `/uploads` proxied to 3001.
   In production (`npm start`) Express serves `client/dist` + SPA fallback on port 3001.
 
@@ -75,7 +75,7 @@ star_website/
     src/ index.js app.js db.js schema.sql routes/*.js lib/*.js
     scripts/ import-xlsx.js enrich.js export-seed.js (as needed)
     seed/ star_spreadsheet.xlsx corrections.json shows.json media.json
-    media/            # cached images committed to the project (show posters, album art)
+    media/            # seed images (show posters, album art) downloaded by `npm run fetch-media` (gitignored)
     uploads/          # user uploads (gitignored)
     data/             # star.db (gitignored)
     test/
@@ -228,7 +228,7 @@ interface SongPart { position: 1 | 2; character: string; vocalRange: string | nu
 interface ShowRef { id: number; name: string; slug: string; imageUrl: string | null }
 interface SongMedia {
   previewUrl: string | null;      // 30s preview (Apple)
-  artworkUrl: string | null;      // local: /media/art/... (committed seed art) or /uploads/art/... (fetched for website rows)
+  artworkUrl: string | null;      // local: /media/art/... (seed art from `npm run fetch-media`) or /uploads/art/... (fetched for website rows)
   appleMusicUrl: string | null;
   recordingName: string | null;
   recordingArtist: string | null;
@@ -272,7 +272,7 @@ interface Show {
 ```
 Endpoints:
 - `GET  /api/health` → `{ ok: true }`
-- `GET  /api/meta` → `{ vocalRanges: string[], genres: string[], subGenres: {name:string, genre:string|null, count:number}[], shows: {id,name,slug}[], counts: {songs, solos, duets, shows}, timeLimitSeconds: 360, warnSeconds: 330, festival: { name, date: '2026-12-11', venue, url } }`
+- `GET  /api/meta` → `{ vocalRanges: string[], genres: string[], subGenres: {name:string, genre:string|null, count:number}[], shows: {id,name,slug}[], counts: {songs, solos, duets, shows}, timeLimitSeconds: 360, warnSeconds: 330, festivals: Festival[], defaultFestivalSlug: string | null }` (see §7b)
 - `GET  /api/songs` → `{ songs: Song[], total: number }`. Optional query filters (all combinable, AND
   semantics; multi-values comma-separated → OR within that field):
   `q` (accent/case-insensitive substring over title, show name, characters, genre, subGenre),
@@ -285,7 +285,7 @@ Endpoints:
   - Either `showId` (existing) or `showName` (finds existing case/accent-insensitively, else creates a community show).
   - `parts` length must be 1 for solo and 2 for duet. Character required (≤ 80 chars).
   - `title` 1–120 chars. Duplicate (kind, show, title) → 409 with the existing song id in `details.existingId`.
-  - `audioLink` must be an https URL. `preview.previewUrl` must be https on `*.itunes.apple.com` or `*.mzstatic.com`; `preview.artworkUrl` must be https on `*.mzstatic.com` — server downloads it (metadata stripped) into its own file under `/uploads/art/` (deleted when replaced or when the song is deleted). A local `artworkUrl` is accepted only if it is the song's current art or a committed `/media/art/` file.
+  - `audioLink` must be an https URL. `preview.previewUrl` must be https on `*.itunes.apple.com` or `*.mzstatic.com`; `preview.artworkUrl` must be https on `*.mzstatic.com` — server downloads it (metadata stripped) into its own file under `/uploads/art/` (deleted when replaced or when the song is deleted). A local `artworkUrl` is accepted only if it is the song's current art or a seed `/media/art/` file that is on disk.
   - Non-admins may add at most 50 songs and 20 shows per day (`STAR_DAILY_SONG_LIMIT` / `STAR_DAILY_SHOW_LIMIT`) → 429.
   - `source` is always set to `'community'` for API-created rows.
 - `PUT  /api/songs/:id` → `Song` (same body as POST; full replace of editable fields, parts replaced).
@@ -302,7 +302,7 @@ Endpoints:
 - `GET  /api/lookup/wikipedia?name=` → `{ found: boolean, title?, description?, extract?, imageUrl?, wikiUrl? }` (Wikipedia REST `page/summary`, try "<name> (musical)" first, then "<name>"; only accept pages whose description/extract mentions musical/opera/play/theatre; send a descriptive User-Agent).
 - `GET  /api/stats` → `{ byGenre, bySubGenre, byRange, byShow, byKind, lengthBuckets, mature: {yes,no}, overLimit: number, withPreview: number }` (each `{label, count}[]`).
 - `GET  /api/export.xlsx` → downloads a workbook with two sheets "Solos" and "Duets" using the original column headers (+ an "Added by" column: Spreadsheet/Community), lengths as `m:ss` text.
-- Static: `/media/*` → `server/media` (committed seed art/posters; the website never writes here), `/uploads/*` → `server/uploads` (`audio/`, `images/` uploaded posters, `art/` and `shows/` images fetched from Apple/Wikipedia) (with `X-Content-Type-Options: nosniff`, long cache for media).
+- Static: `/media/*` → `server/media` (seed art/posters downloaded by `npm run fetch-media`; the website never writes here; a missing file is a plain 404 and the client shows its gradient fallback), `/uploads/*` → `server/uploads` (`audio/`, `images/` uploaded posters, `art/` and `shows/` images fetched from Apple/Wikipedia) (with `X-Content-Type-Options: nosniff`, long cache for media).
 - Other status codes any endpoint may return: 429 rate limits (reads 1,200/min, exports 10/min, writes 60/min, …), 503 + `Retry-After` when the database is locked by another process, 400 for a malformed URL. In production, unknown paths under `/assets/` or with a file extension are a real 404 (not the SPA's index.html).
 
 ### 5a. Accounts, sessions & permissions (email + password)
@@ -407,15 +407,21 @@ Every correction must be listed in the final report to the user.
    "wikiTitle": "Hadestown", "wikiUrl": "https://en.wikipedia.org/wiki/Hadestown",
    "imageFile": "hadestown.jpg", "imageCredit": "Poster via Wikipedia (fair use)", "imageSourceUrl": "https://upload.wikimedia.org/..." }]
 ```
-Show images are downloaded to `server/media/shows/<file>` (committed, so setup works offline).
+Show images live at `server/media/shows/<imageFile>`. They are third-party artwork and **not in the
+repository**: `npm run fetch-media` (part of `npm run setup`) downloads each `imageSourceUrl` to its
+`imageFile`. The import stores `/media/shows/<imageFile>` even when the file isn't there yet (one
+summary warning counts the missing images), so fetching them later needs no re-import.
 
 **media.json** — object keyed by `"<kind>|<canonical show>|<canonical title>"`:
 ```json
 { "solo|Hadestown|Flowers": { "itunesTrackId": 123, "previewUrl": "https://audio-ssl.itunes.apple.com/...",
-  "artworkFile": "a1b2c3.jpg", "appleMusicUrl": "https://music.apple.com/...", "recordingName": "...",
+  "artworkFile": "a1b2c3.jpg", "artworkUrl": "https://is1-ssl.mzstatic.com/.../600x600bb.jpg",
+  "appleMusicUrl": "https://music.apple.com/...", "recordingName": "...",
   "recordingArtist": "...", "confidence": "high|medium|verified", "verifiedBy": "note" } }
 ```
-Album art cached at `server/media/art/<file>` (600×600). A key mapped to `null` means "verified no
+Album art lives at `server/media/art/<artworkFile>` (600×600; the name is `sha256(artworkUrl)[:16]` when
+enrich downloaded it, but it is only a cache key). Like the posters it is not in the repository:
+`npm run fetch-media` downloads each `artworkUrl` to its `artworkFile`. A key mapped to `null` means "verified no
 good match — don't show a preview". Wrong audio is worse than no audio: only keep matches where
 the track is clearly the same song from a cast recording (or film/concert recording) of that show.
 
@@ -454,8 +460,7 @@ Consistent visual language (in `client/src/lib/vocab.ts`):
 - Mature badge: "Mature themes" (🔞 not used — use a discrete ⚠️ label). "Hide mature" filter.
 
 Pages / routes:
-1. `/` Home — marquee hero with animated bulbs, festival countdown (Vancouver Regional, Dec 11 2026,
-   SFU SCA; from `/api/meta.festival`), big search box (Enter → `/songs?q=`), quick-pick chips
+1. `/` Home — marquee hero with animated bulbs, countdown for the visitor's chosen festival (see §7b), big search box (Enter → `/songs?q=`), quick-pick chips
    ("Soprano solos", "Tenor solos", "Comedy duets", "Under 3 minutes", "No mature content"),
    "Spotlight Song of the Day" (deterministic from date), feature cards to other pages, stats teaser.
 2. `/songs` Browse — instant client-side filtering of the full list (fetch once): search box
@@ -537,6 +542,154 @@ helpers (`normalize.ts` accent folding, `filters.ts` filter+sort logic + URL (de
 `pages/`, `styles/` (tokens.css, base.css, component CSS). Use `data-testid` on key elements for
 e2e: `search-input`, `song-card`, `result-count`, `filter-kind-solo`, `filter-kind-duet`,
 `filter-range-<Range>`, `song-title`, `play-preview`, `add-song-form`, `submit-song`.
+
+## 7b. Selectable festival (location) — added 2026-09-27
+
+Goal: students anywhere in BC (not just Vancouver) pick **their** regional STAR Fest; everything
+festival-specific (home countdown, STAR Prep dates, "your festival" highlights) follows that choice.
+Nothing is hardcoded to Vancouver any more.
+
+**Data** — new table (migration v3; `schema.sql` stays the v1 baseline, append a migration in `db.js`):
+```sql
+CREATE TABLE festivals (
+  id          INTEGER PRIMARY KEY,
+  slug        TEXT NOT NULL UNIQUE,              -- slugify(name-ish), e.g. 'surrey', 'online', 'star-fest-west'
+  name        TEXT NOT NULL,                     -- 'Surrey Regional STAR Fest'
+  kind        TEXT NOT NULL CHECK (kind IN ('regional','online','national')),
+  province    TEXT,                              -- 'BC' (NULL for online)
+  city        TEXT,
+  start_date  TEXT,                              -- 'YYYY-MM-DD' or NULL when TBD
+  end_date    TEXT,                              -- multi-day festivals; for 'online' = submission deadline
+  date_label  TEXT,                              -- free text shown instead of/alongside dates ('Date to be announced')
+  venue       TEXT,
+  info_url    TEXT,                              -- https only
+  sort_order  INTEGER NOT NULL DEFAULT 0,
+  active      INTEGER NOT NULL DEFAULT 1 CHECK (active IN (0,1)),   -- inactive = hidden from pickers
+  created_at  TEXT NOT NULL DEFAULT (strftime('%Y-%m-%dT%H:%M:%fZ','now')),
+  updated_at  TEXT NOT NULL DEFAULT (strftime('%Y-%m-%dT%H:%M:%fZ','now'))
+);
+ALTER TABLE users ADD COLUMN festival_id INTEGER REFERENCES festivals(id) ON DELETE SET NULL;
+```
+Seed file `server/seed/festivals.json` (`{ festivals: [...] }`, camelCase fields as in the table).
+The server seeds the table from it at startup **when the table is empty** (so upgrading an existing
+deployment needs no re-import); `npm run import` upserts by slug but never overwrites rows edited on
+the website (`updated_at > created_at`) unless `--overwrite-edits`. Festival leaders' personal
+contact details are NOT stored.
+
+**API** (camelCase JSON):
+```ts
+interface Festival {
+  id: number; slug: string; name: string; kind: 'regional' | 'online' | 'national';
+  province: string | null; city: string | null;
+  startDate: string | null; endDate: string | null; dateLabel: string | null;
+  venue: string | null; infoUrl: string | null; sortOrder: number; active: boolean;
+}
+```
+- `GET /api/festivals` → `{ festivals: Festival[] }` — public, active only, ordered by
+  `sort_order, start_date, name`. Admins may pass `?all=1` to include inactive ones.
+- `/api/meta` — REMOVE the old single `festival` object; ADD `festivals: Festival[]` (active) and
+  `defaultFestivalSlug: string | null` (from env `STAR_DEFAULT_FESTIVAL`; ignored with a startup
+  warning if it doesn't match an active regional/online festival).
+- `User` gains `festivalSlug: string | null`. `PUT /api/auth/me` accepts `festivalSlug`
+  (`null` clears; must be an ACTIVE festival of kind `regional` or `online`, else 400
+  `details.festivalSlug`). Allowed even while `mustChangePassword` is set? No — same rules as other
+  profile writes.
+- Admin only: `POST /api/admin/festivals` (201), `PUT /api/admin/festivals/:id` (partial update),
+  `DELETE /api/admin/festivals/:id` (204; users pointing at it get NULL). Validation: name 3–80,
+  slug auto from name on create (unique; 409 on clash), kind enum, dates `YYYY-MM-DD` real calendar
+  dates with `endDate >= startDate` when both set, dateLabel ≤ 120, venue/city ≤ 120, province ≤ 40,
+  infoUrl https ≤ 500, sortOrder integer. Same CSRF/content-type/rate-limit rules as other writes.
+
+**Client behaviour**
+- `FestivalProvider` + `useFestival()` → `{ festivals, regionalChoices, selected: Festival|null,
+  setFestival(slug|null), source }`. Selection priority: `?festival=<slug>` in the URL (applied
+  once, persisted, then removed from the URL with `replace`) → the logged-in user's
+  `festivalSlug` → localStorage `star.festival` → `meta.defaultFestivalSlug` → none. Changing it
+  updates localStorage and, when logged in, `PUT /api/auth/me` (optimistic; toast on failure). On
+  login/signup: if the account has a festival, adopt it; if not and the browser has one, save it to
+  the account. Unknown/inactive slugs are ignored gracefully.
+- `FestivalPicker` (accessible: native `<select>` or a proper listbox popover): regionals grouped
+  "BC regional festivals" (date order, TBD last) and "Online"; each option shows name/city + date.
+  Reachable from every page (header on wide screens and inside the mobile menu, as a compact
+  "📍 Surrey" chip / "📍 Choose your festival"), plus prominent on Home, STAR Prep and My Stuff.
+- **Home hero:** selected → "<name> · <date>", "Curtain up at <venue> in…" + countdown (online:
+  "Online entries close in…" — see deviations; TBD: "Date to be announced — check with your teacher"; today:
+  "Curtain up today!"; past: "That's a wrap! 🎉" + a nudge toward nationals — list `national`
+  festivals, e.g. STAR Fest West May 20–23, 2027 at UBC). None selected → "Where are you
+  performing?" with one-tap chips for each BC regional + Online (no countdown until chosen).
+- **STAR Prep:** hero countdown for the selected festival; the regional list comes from the API
+  (not hardcoded) with a "Your festival" badge + "Make this mine" buttons; an "After regionals:
+  National STAR Festivals" block from `kind='national'` rows; keep the "confirm dates with your
+  teacher" caveat and the TAEA link.
+- **My Stuff:** "My festival" setting (picker). **Admin:** new "Festivals" tab — table/cards with
+  add, edit (modal form), hide/show (active), delete (confirm).
+- Share links: a "Share a link for this festival" copy button (e.g. on STAR Prep) producing
+  `<origin>/?festival=<slug>` so teachers can send classes a pre-set link.
+- Multi-day dates render as ranges ("May 20–23, 2027"). Date helpers must treat 'YYYY-MM-DD' as a
+  local calendar day (existing `parseLocalDate`).
+
+**As built — deviations and decisions (2026-09-27)** (the rest of §7b holds as written):
+- **Data:** `festivals.json` follows TAEA's 2026/27 table exactly; Victoria (`2026-12-10`) and the
+  Online Regional deadline (`2027-02-28`) have no year there, so the season's years are inferred
+  (noted in the file's `_about`). Nanaimo is `dateLabel: "Date and venue to be announced"`, no venue.
+  STAR Fest West's `infoUrl` is TAEA's national page.
+- **Online wording:** the hero says "Online entries close in…" / "Online entries close today!", not
+  "Video submissions…": TAEA's table only says "Closes February 28th" and nothing on its pages says
+  the entries are videos. The countdown runs to the END of the deadline day, then "Submissions closed".
+- **Schema:** extra column `festivals.edited_at` (set when an admin creates or really changes a
+  festival, like songs/shows). `npm run import` treats a row as website-edited when `edited_at` is set
+  or `updated_at > created_at`; a save that changes nothing doesn't count. Festivals missing from the
+  file are never deleted; `--reset` reloads them from the file. Startup seeding runs only while the
+  table is empty.
+- **Deleted festivals stay deleted** (migration v4): `DELETE /api/admin/festivals/:id` records the slug in
+  `festival_tombstones(slug TEXT PRIMARY KEY, deleted_at TEXT NOT NULL)` (`import_tombstones` only takes
+  songs/shows). `npm run import` and startup seeding skip tombstoned slugs (the import counts them as
+  `skippedDeleted`, prints "not re-created (deleted on the website)" and warns) unless `--overwrite-edits`,
+  which re-creates them and clears the tombstone; an admin `POST` that makes the same slug clears it too.
+- **Slugs:** made from the name with parentheses and the "Regional STAR Fest" / "STAR Fest(ival)"
+  ending dropped ("Kelowna Regional STAR Fest" → `kelowna`), max 60 chars; a clash is 409 (`error`
+  and `details.name` name the festival that has it, plus `existingId`); the slug never changes on
+  PUT, so share links survive renames. Slugs in links / `PUT /auth/me` are trimmed + lowercased.
+- **Ordering:** the API orders by `sort_order`, then dated before undated, `start_date`, name. The
+  client re-sorts every list for display by date ("to be announced" last) with `sortOrder` breaking
+  ties — so that's what students and admins see.
+- **Extra endpoints/fields:** `GET /api/admin/festivals` (admin alias of `?all=1`); admin write
+  endpoints return the bare `Festival`; `POST /api/auth/signup` accepts an optional `festivalSlug`
+  (same rules as `PUT /auth/me`), and the client sends the visitor's own (url/local, never default)
+  choice, retrying without it if refused.
+- **Temporary password:** the server lets `PUT /auth/me` set `festivalSlug` like the display name
+  ("same rules as other profile writes"); the client keeps the choice on the device until the new
+  password is chosen, then saves it to the account — even if the account already had one (a choice made
+  while it couldn't be saved beats the account's older value; the same goes for a save that found the
+  session ended, when that same user logs back in; another user logging in gets their own festival).
+- **Saves in flight:** the client compares a new choice with the last value queued for the account (not
+  the possibly stale `user.festivalSlug`), so A→B→A sends A again and the last choice wins; a save that
+  answers after a logout / another login doesn't put that user back into the page.
+- **Festival checked at write time:** signup and `PUT /auth/me` (with a password change) validate
+  `festivalSlug`, wait for scrypt, then look the festival up again right before the write; a festival
+  hidden/deleted meanwhile → 400 `details.festivalSlug` (a foreign-key failure maps to the same 400, and only
+  a UNIQUE clash on the email is the signup 409).
+- **Online "Opens" day:** for `kind='online'`, `end_date` is the submission deadline even when
+  `start_date` (the admin form's "Opens") is set — the countdown, phase and status follow the deadline
+  ("Online entries open <day> and close in…" before opening). An online festival with only an opening day
+  counts to it, then reads "Online entries are open now" (never "wrapped").
+- **Phases at midnight:** heroes and cards re-check the phase at every local midnight (`useLocalDay`), so
+  the copy changes together with the countdown; the "Next stop" nationals nudge lists only nationals that
+  aren't over (none left → "See you next season!").
+- **`STAR_DEFAULT_FESTIVAL`:** trimmed, case-insensitive, re-checked on every `/api/meta` (admins can
+  hide it); an invalid value is warned about once at startup (and again only if it becomes invalid).
+  A default is never stored in localStorage or pushed to an account. The e2e server runs without it
+  (the first-visit chips are tested); its client side is tested by answering `/api/meta` with a default.
+- **Hidden / deleted festivals:** a user's hidden festival is still returned as `festivalSlug`; the
+  client ignores it (falls back to this device → default → the chips) and picks it up again, without a
+  reload, if it's shown again while nothing else is chosen. If the device has another valid choice,
+  that one is re-saved to the account. `DELETE` sets `users.festival_id` to NULL.
+- **Links:** `?festival=` works on any route; other params and the hash are kept when it's removed;
+  a success toast names the festival, an unknown/national slug gets a polite note. The copy button is
+  labelled "Copy a link for this festival" and shows the URL. National rows in Admin → Festivals
+  have no share link and a "Listed" switch (their `active` only controls whether they're listed).
+- **Header:** the chip is in the bar from 640px (a 📍-only button at 1100–1279px, where the desktop
+  nav needs the room); below 640px the picker is a native `<select>` in the mobile menu.
 
 ## 8. Root scripts (package.json at repo root)
 - `npm run setup` → install server + client deps, run import (creates `server/data/star.db`).

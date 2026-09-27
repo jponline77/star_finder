@@ -429,7 +429,7 @@ describe('images downloaded from Apple/Wikipedia', () => {
       assert.equal(downloads, n, 'the poster we already have is not downloaded again');
       assert.equal((await u.del(`/api/shows/${show.id}`)).status, 204);
       assert.deepEqual(fs.readdirSync(path.join(t.uploadsDir, 'shows')), []);
-      assert.deepEqual(fs.readdirSync(t.mediaDir).filter((f) => !f.startsWith('.')), [], 'nothing in the committed media folder');
+      assert.deepEqual(fs.readdirSync(t.mediaDir).filter((f) => !f.startsWith('.')), [], 'nothing in the seed media folder');
 
       // song art: replaced → old deleted; song deleted → art deleted; failed save → download deleted
       const preview = (n2) => ({ preview: { previewUrl: 'https://audio-ssl.itunes.apple.com/a.m4a', artworkUrl: `https://is1-ssl.mzstatic.com/${n2}/600x600bb.jpg` } });

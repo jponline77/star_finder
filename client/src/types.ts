@@ -28,7 +28,7 @@ export interface SongMedia {
   /** 30-second preview (Apple / iTunes). */
   previewUrl: string | null;
   /**
-   * Local album art: /media/art/abc.jpg (committed seed art) or /uploads/art/abc.jpg (fetched for
+   * Local album art: /media/art/abc.jpg (seed art from `npm run fetch-media`) or /uploads/art/abc.jpg (fetched for
    * a song added or changed on the website).
    */
   artworkUrl: string | null;
@@ -79,6 +79,8 @@ export interface User {
   role: Role;
   mustChangePassword: boolean;
   createdAt: string;
+  /** The user's chosen festival (SPEC §7b) — an active regional/online festival slug, or null. */
+  festivalSlug: string | null;
 }
 
 export type CommentTag = 'general' | 'tip' | 'question' | 'performed';
@@ -155,12 +157,31 @@ export interface MetaShow {
   slug: string;
 }
 
+export type FestivalKind = 'regional' | 'online' | 'national';
+
+/** A STAR festival (SPEC §7b) — GET /api/festivals, /api/meta.festivals. */
 export interface Festival {
+  id: number;
+  /** e.g. 'surrey', 'online', 'star-fest-west' */
+  slug: string;
+  /** e.g. 'Surrey Regional STAR Fest' */
   name: string;
-  /** ISO date, e.g. '2026-12-11' */
-  date: string;
-  venue: string;
-  url: string;
+  kind: FestivalKind;
+  /** 'BC' (null for online) */
+  province: string | null;
+  city: string | null;
+  /** 'YYYY-MM-DD' (a local calendar day), or null when the date is still to be announced */
+  startDate: string | null;
+  /** Last day of a multi-day festival; for kind 'online' = the entry deadline. */
+  endDate: string | null;
+  /** Free text shown instead of / alongside the dates ('Date to be announced'). */
+  dateLabel: string | null;
+  venue: string | null;
+  /** https only */
+  infoUrl: string | null;
+  sortOrder: number;
+  /** Inactive = hidden from pickers (admins still see them with ?all=1). */
+  active: boolean;
 }
 
 export interface Meta {
@@ -173,7 +194,10 @@ export interface Meta {
   timeLimitSeconds: number;
   /** 330 */
   warnSeconds: number;
-  festival: Festival;
+  /** Active festivals, ordered by sortOrder, startDate, name (SPEC §7b). */
+  festivals: Festival[];
+  /** Site-wide default (env STAR_DEFAULT_FESTIVAL) — an active regional/online slug, or null. */
+  defaultFestivalSlug: string | null;
 }
 
 // ---------------------------------------------------------------------------
@@ -307,6 +331,8 @@ export interface SignupInput {
   email: string;
   password: string;
   displayName: string;
+  /** Optional: the festival already picked in this browser (an active regional/online slug). */
+  festivalSlug?: string | null;
 }
 
 export interface LoginInput {
@@ -318,6 +344,8 @@ export interface ProfileUpdateInput {
   displayName?: string;
   currentPassword?: string;
   newPassword?: string;
+  /** An ACTIVE regional/online festival slug; null clears it (SPEC §7b). */
+  festivalSlug?: string | null;
 }
 
 export interface CommentInput {
@@ -358,6 +386,27 @@ export interface AdminUserPatch {
   role?: Role;
   disabled?: boolean;
 }
+
+/**
+ * Body of POST /api/admin/festivals (and, all optional, PUT /api/admin/festivals/:id).
+ * The slug is made from the name on create by the server (409 on a clash).
+ */
+export interface FestivalInput {
+  name: string;
+  kind: FestivalKind;
+  province?: string | null;
+  city?: string | null;
+  startDate?: string | null;
+  endDate?: string | null;
+  dateLabel?: string | null;
+  venue?: string | null;
+  infoUrl?: string | null;
+  sortOrder?: number;
+  active?: boolean;
+}
+
+/** PUT /api/admin/festivals/:id — partial update. */
+export type FestivalPatch = Partial<FestivalInput>;
 
 // ---------------------------------------------------------------------------
 // Errors

@@ -171,7 +171,7 @@ describe('admin users', () => {
     const res = await admin.get('/api/admin/users');
     assert.equal(res.status, 200);
     const s = res.body.users.find((u) => u.email === 'student@example.com');
-    assert.deepEqual(Object.keys(s).sort(), ['commentCount', 'createdAt', 'disabled', 'displayName', 'email', 'id', 'lastLoginAt', 'mustChangePassword', 'role', 'showCount', 'songCount']);
+    assert.deepEqual(Object.keys(s).sort(), ['commentCount', 'createdAt', 'disabled', 'displayName', 'email', 'festivalSlug', 'id', 'lastLoginAt', 'mustChangePassword', 'role', 'showCount', 'songCount']);
     assert.equal(s.songCount, 1);
     assert.equal(s.showCount, 1);
     assert.equal(s.commentCount, 0);

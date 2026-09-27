@@ -31,11 +31,12 @@ describe('auth endpoints', () => {
     const c = client(t.app);
     const res = await c.post('/api/auth/signup', { email: '  Alice@Example.COM ', password: PASSWORD, displayName: '  Alice  ' });
     assert.equal(res.status, 201);
-    assert.deepEqual(Object.keys(res.body.user).sort(), ['createdAt', 'displayName', 'email', 'id', 'mustChangePassword', 'role']);
+    assert.deepEqual(Object.keys(res.body.user).sort(), ['createdAt', 'displayName', 'email', 'festivalSlug', 'id', 'mustChangePassword', 'role']);
     assert.equal(res.body.user.email, 'alice@example.com');
     assert.equal(res.body.user.displayName, 'Alice');
     assert.equal(res.body.user.role, 'user');
     assert.equal(res.body.user.mustChangePassword, false);
+    assert.equal(res.body.user.festivalSlug, null);
     const cookie = res.headers['set-cookie'].find((c) => c.startsWith('star_sid='));
     assert.ok(cookie, 'session cookie set');
     assert.match(cookie, /HttpOnly/i);

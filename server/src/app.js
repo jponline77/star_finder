@@ -20,6 +20,8 @@ import { commentsRouter } from './routes/comments.js';
 import { meRouter, adminRouter } from './routes/admin.js';
 import { metaRouter } from './routes/meta.js';
 import { lookupRouter } from './routes/lookup.js';
+import { festivalsRouter } from './routes/festivals.js';
+import { DEFAULT_FESTIVALS_SEED, seedFestivalsIfEmpty, defaultFestivalResolver } from './lib/festivals.js';
 
 /**
  * @typedef {object} AppContext
@@ -34,6 +36,7 @@ import { lookupRouter } from './routes/lookup.js';
  * @property {ReturnType<typeof createDailyCaps>} caps
  * @property {ReturnType<typeof createUploadGuard>} uploadGuard
  * @property {(email: string) => boolean} isAdminEmail
+ * @property {() => string|null} defaultFestivalSlug STAR_DEFAULT_FESTIVAL if it names an active regional/online festival
  * @property {{ info: Function, warn: Function, error: Function }} log
  */
 
@@ -72,9 +75,13 @@ const requestTag = (req) => `${new Date().toISOString()} ${req.method} ${req.ori
 /**
  * @param {{ db: import('better-sqlite3').Database, uploadsDir: string, mediaDir: string,
  *   clientDistDir?: string|null, fetchImpl?: typeof fetch, env?: Record<string, string|undefined>,
- *   logger?: { info: Function, warn: Function, error: Function } }} opts
+ *   logger?: { info: Function, warn: Function, error: Function }, festivalsSeedPath?: string|null }} opts
+ *   festivalsSeedPath: seed/festivals.json by default — loaded only while the festivals table is empty.
  */
-export function createApp({ db, uploadsDir, mediaDir, clientDistDir = null, fetchImpl = globalThis.fetch, env = process.env, logger = console }) {
+export function createApp({
+  db, uploadsDir, mediaDir, clientDistDir = null, fetchImpl = globalThis.fetch, env = process.env, logger = console,
+  festivalsSeedPath = DEFAULT_FESTIVALS_SEED,
+}) {
   if (!db) throw new Error('createApp: db is required');
   ensureUploadDirs(uploadsDir);
   fs.mkdirSync(mediaDir, { recursive: true });
@@ -93,12 +100,24 @@ export function createApp({ db, uploadsDir, mediaDir, clientDistDir = null, fetc
     caps: createDailyCaps(db, env),
     uploadGuard: createUploadGuard({ db, uploadsDir, env }),
     isAdminEmail: (email) => adminEmails.has(String(email).toLowerCase()),
+    defaultFestivalSlug: () => null,
     log: {
       info: (...a) => logger.info?.(...a),
       warn: (...a) => logger.warn?.(...a),
       error: (...a) => logger.error?.(...a),
     },
   };
+
+  // Festivals (SPEC §7b): an upgraded site gets the seed list on its first start (no re-import
+  // needed); after that the table belongs to the admins. STAR_DEFAULT_FESTIVAL is checked now (so
+  // a typo shows up in the startup log) and again on every /api/meta.
+  seedFestivalsIfEmpty(db, festivalsSeedPath, ctx.log);
+  ctx.defaultFestivalSlug = defaultFestivalResolver(db, env.STAR_DEFAULT_FESTIVAL, ctx.log);
+  try {
+    ctx.defaultFestivalSlug();
+  } catch (err) {
+    ctx.log.warn(`⚠️  Couldn't check STAR_DEFAULT_FESTIVAL: ${err.message}`);
+  }
 
   // STAR_ADMIN_EMAILS: startup only, and only for accounts that existed when the email was listed
   // (signup doesn't prove anyone owns an address — see applyAdminEmails).
@@ -203,6 +222,7 @@ export function createApp({ db, uploadsDir, mediaDir, clientDistDir = null, fetc
   api.use('/', commentsRouter(ctx));
   api.use('/songs', songsRouter(ctx));
   api.use('/shows', showsRouter(ctx));
+  api.use('/festivals', festivalsRouter(ctx));
   api.use('/', metaRouter(ctx));
   api.use((_req, res) => res.status(404).json({ error: 'Not found' }));
   app.use('/api', api);

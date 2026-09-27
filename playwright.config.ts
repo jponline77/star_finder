@@ -7,12 +7,13 @@ import { defineConfig, devices } from '@playwright/test';
  * The web server is the real production build: the client is built, a fresh database is imported
  * from the committed seed files into test-results/ (e2e/prepare-db.mjs), then Express serves the
  * API + client/dist on port 3501 (E2E_PORT to change it; E2E_DATA_DIR moves the test-results/
- * data). Nothing in server/data, server/media or server/uploads is read or modified.
+ * data). Nothing in server/data or server/uploads is read, and nothing under server/ is modified
+ * (server/media is only copied from).
  * e2e/global-setup.ts then signs up the admin account (admin@test.local) and promotes it with
  * `make-admin`.
  *
- * Uses the Chromium that ships with @playwright/test 1.63.0 (already cached — never run
- * `playwright install`).
+ * Needs the Chromium build that matches @playwright/test 1.63.0: run `npx playwright install chromium`
+ * once per machine before the first run (after that the suite works offline).
  */
 const PORT = Number(process.env.E2E_PORT) || 3501;
 const BASE_URL = `http://127.0.0.1:${PORT}`;
@@ -44,13 +45,13 @@ export default defineConfig({
     // added to the database (they only read, so they run in parallel with each other).
     {
       name: 'read-only',
-      testMatch: /(browse|shows|song-detail|fun|stats-export|mobile)\.spec\.ts$/,
+      testMatch: /(browse|shows|song-detail|fun|stats-export|mobile|festivals)\.spec\.ts$/,
       use: { ...devices['Desktop Chrome'], viewport: { width: 1280, height: 900 } },
     },
     // Specs that sign up, add songs, comment and moderate.
     {
       name: 'accounts-and-writes',
-      testMatch: /(auth|contribute|comments|admin|routes)\.spec\.ts$/,
+      testMatch: /(auth|contribute|comments|admin|routes|festival-accounts)\.spec\.ts$/,
       dependencies: ['read-only'],
       use: { ...devices['Desktop Chrome'], viewport: { width: 1280, height: 900 } },
     },

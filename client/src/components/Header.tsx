@@ -3,6 +3,7 @@ import { useEffect, useRef, useState, type ComponentType, type FocusEvent } from
 import { Link, NavLink, useLocation } from 'react-router';
 import { useSetlist } from '../lib/setlist';
 import { AccountMenu } from './AccountMenu';
+import { FestivalPicker } from './FestivalPicker';
 import { Marquee } from './Marquee';
 import { ThemeToggle } from './ThemeToggle';
 
@@ -47,7 +48,7 @@ function NavLinks({ onNavigate, testIdPrefix = '' }: { onNavigate?: () => void; 
   );
 }
 
-/** Sticky site header: marquee logo, nav (hamburger < 1100px), Add a song, theme, account. */
+/** Sticky site header: marquee logo, nav (hamburger < 1100px), festival chip, Add a song, theme, account. */
 export function Header() {
   const [menuOpen, setMenuOpen] = useState(false);
   const location = useLocation();
@@ -94,6 +95,7 @@ export function Header() {
         </nav>
 
         <div className="header-actions">
+          <FestivalPicker className="header-festival" testId="header-festival" />
           <Link to="/add" className="btn btn-primary btn-sm header-add" data-testid="nav-add-song">
             <Plus size={17} aria-hidden="true" />
             <span className="btn-label-long">Add a song</span>
@@ -123,6 +125,7 @@ export function Header() {
             <Link to="/add" className="btn btn-primary btn-lg btn-block" onClick={() => setMenuOpen(false)}>
               <Plus size={20} aria-hidden="true" /> Add a song
             </Link>
+            <FestivalPicker variant="select" id="mobile-festival" className="mobile-festival" testId="mobile-festival" announce />
             <NavLinks onNavigate={() => setMenuOpen(false)} testIdPrefix="mobile-" />
             <div className="mobile-nav-actions">
               <Link to="/" className="btn btn-ghost" onClick={() => setMenuOpen(false)}>

@@ -4,6 +4,12 @@
   "private": true,
   "type": "module",
   "description": "STAR Song Finder API (Express 5 + SQLite)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jponline77/star_finder.git"
+  },
+  "homepage": "https://github.com/jponline77/star_finder#readme",
   "engines": {
     "node": ">=22.12.0 <27"
   },
@@ -11,6 +17,7 @@
     "start": "node src/index.js",
     "dev": "node --watch src/index.js",
     "import": "node scripts/import-xlsx.js",
+    "fetch-media": "node scripts/fetch-media.js",
     "make-admin": "node scripts/make-admin.js",
     "enrich": "node scripts/enrich.js",
     "test": "node --test \"test/**/*.test.js\"",

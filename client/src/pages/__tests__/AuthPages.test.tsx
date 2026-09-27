@@ -1,7 +1,8 @@
 import { afterEach, describe, expect, it, vi } from 'vitest';
 import { fireEvent, screen, waitFor } from '@testing-library/react';
 import { renderWithProviders } from '../../test/render';
-import { makeUser } from '../../test/fixtures';
+import { makeMeta, makeUser } from '../../test/fixtures';
+import { FESTIVAL_STORAGE_KEY } from '../../lib/festivals';
 import LoginPage from '../LoginPage';
 import SignupPage from '../SignupPage';
 
@@ -116,5 +117,52 @@ describe('SignupPage', () => {
     fireEvent.click(screen.getByTestId('signup-submit'));
     expect(await screen.findByText(/already exists/)).toBeInTheDocument();
     expect(screen.getByRole('link', { name: 'log in instead?' })).toBeInTheDocument();
+  });
+
+  const fill = () => {
+    fireEvent.change(screen.getByTestId('signup-name'), { target: { value: 'Belter' } });
+    fireEvent.change(screen.getByTestId('signup-email'), { target: { value: 'kid@example.com' } });
+    fireEvent.change(screen.getByTestId('signup-password'), { target: { value: 'long-enough-1' } });
+    fireEvent.click(screen.getByTestId('signup-submit'));
+  };
+
+  it('brings the festival picked in this browser onto the new account', async () => {
+    window.localStorage.setItem(FESTIVAL_STORAGE_KEY, 'surrey');
+    const fn = stubFetch(201, { user: makeUser({ displayName: 'Belter', festivalSlug: 'surrey' }) });
+    renderWithProviders(<SignupPage />, { route: '/join', path: '/join', meta: makeMeta() });
+    fill();
+    await waitFor(() => expect(fn).toHaveBeenCalled());
+    const [, init] = fn.mock.calls[0] as unknown as [string, RequestInit];
+    expect(JSON.parse(String(init.body))).toEqual({ email: 'kid@example.com', password: 'long-enough-1', displayName: 'Belter', festivalSlug: 'surrey' });
+    await waitFor(() => expect(fn).toHaveBeenCalledTimes(1)); // no extra PUT: the account already has it
+  });
+
+  it('never sends a site-wide default, and retries without a festival the server no longer offers', async () => {
+    window.localStorage.setItem(FESTIVAL_STORAGE_KEY, 'victoria');
+    const bodies: unknown[] = [];
+    const fn = vi.fn(async (_url: unknown, init?: RequestInit) => {
+      const body = JSON.parse(String(init?.body ?? '{}'));
+      bodies.push(body);
+      if (String(_url) === '/api/auth/signup' && body.festivalSlug)
+        return new Response(JSON.stringify({ error: 'Please check the form', details: { festivalSlug: 'That festival isn’t available' } }), { status: 400, headers: { 'Content-Type': 'application/json' } });
+      if (String(_url) === '/api/auth/signup') return new Response(JSON.stringify({ user: makeUser({ displayName: 'Belter' }) }), { status: 201, headers: { 'Content-Type': 'application/json' } });
+      return new Response(JSON.stringify({ user: makeUser({ displayName: 'Belter', festivalSlug: body.festivalSlug }) }), { status: 200, headers: { 'Content-Type': 'application/json' } });
+    });
+    vi.stubGlobal('fetch', fn);
+    renderWithProviders(<SignupPage />, { route: '/join', path: '/join', meta: makeMeta() });
+    fill();
+    await waitFor(() => expect(bodies.length).toBeGreaterThanOrEqual(2));
+    expect(bodies[0]).toMatchObject({ festivalSlug: 'victoria' });
+    expect(bodies[1]).not.toHaveProperty('festivalSlug');
+    expect(await screen.findByText(/You're in the cast/)).toBeInTheDocument();
+  });
+
+  it('does not send the site default festival', async () => {
+    const fn = stubFetch(201, { user: makeUser({ displayName: 'Belter' }) });
+    renderWithProviders(<SignupPage />, { route: '/join', path: '/join', meta: makeMeta({ defaultFestivalSlug: 'vancouver' }) });
+    fill();
+    await waitFor(() => expect(fn).toHaveBeenCalled());
+    const [, init] = fn.mock.calls[0] as unknown as [string, RequestInit];
+    expect(JSON.parse(String(init.body))).not.toHaveProperty('festivalSlug');
   });
 });

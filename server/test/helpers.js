@@ -21,11 +21,13 @@ export const noNetwork = async (url) => {
 
 /**
  * Fresh app on a temp DB + temp uploads/media dirs. Rate limits are raised unless overridden in env.
- * @param {{ env?: Record<string,string>, fetchImpl?: typeof fetch }} [opts]
+ * The festivals table is seeded from the real seed/festivals.json unless `festivalsSeedPath` says
+ * otherwise (null = start with no festivals). `dbFile` reuses an existing database file.
+ * @param {{ env?: Record<string,string>, fetchImpl?: typeof fetch, logger?: object, festivalsSeedPath?: string|null, dbFile?: string }} [opts]
  */
-export function makeTestApp({ env = {}, fetchImpl = noNetwork } = {}) {
+export function makeTestApp({ env = {}, fetchImpl = noNetwork, logger = silentLogger, festivalsSeedPath, dbFile } = {}) {
   const dir = fs.mkdtempSync(path.join(os.tmpdir(), 'star-test-'));
-  const db = openDb(path.join(dir, 'test.db'));
+  const db = openDb(dbFile ?? path.join(dir, 'test.db'));
   const uploadsDir = path.join(dir, 'uploads');
   const mediaDir = path.join(dir, 'media');
   const app = createApp({
@@ -39,7 +41,8 @@ export function makeTestApp({ env = {}, fetchImpl = noNetwork } = {}) {
       STAR_MIN_FREE_MB: '0',
       ...env,
     },
-    logger: silentLogger,
+    logger,
+    ...(festivalsSeedPath !== undefined ? { festivalsSeedPath } : {}),
   });
   const cleanup = () => {
     app.locals.close();

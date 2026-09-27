@@ -203,7 +203,7 @@ describe('songs CRUD + validation', () => {
     assert.equal(duet.status, 201);
   });
 
-  test('POST with iTunes preview downloads artwork into /uploads/art (not the committed media folder)', async () => {
+  test('POST with iTunes preview downloads artwork into /uploads/art (not the seed media folder)', async () => {
     const png = (await import('./helpers.js')).PNG;
     let calls = 0;
     const fetchImpl = async (url) => {

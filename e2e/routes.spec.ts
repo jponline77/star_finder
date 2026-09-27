@@ -17,6 +17,7 @@ interface RouteCase {
 
 const ROUTES: RouteCase[] = [
   { name: 'home', who: 'anon', path: '/', ready: 'spotlight-song' },
+  { name: 'home (festival chosen)', who: 'anon', path: '/?festival=fraser-valley', ready: 'home-festival' },
   { name: 'browse grid', who: 'anon', path: '/songs', ready: 'song-card' },
   { name: 'browse table', who: 'anon', path: '/songs?view=table', ready: 'song-row' },
   { name: 'song detail (solo)', who: 'anon', path: async (p) => `/songs/${(await songByTitle(p.request, 'Into the Fire')).id}`, ready: 'similar-songs' },
@@ -37,6 +38,7 @@ const ROUTES: RouteCase[] = [
   { name: 'edit song', who: 'user', path: async (p) => `/songs/${(await apiCreateSolo(p.request)).id}/edit`, ready: 'add-song-form' },
   { name: 'my stuff', who: 'user', path: '/me', ready: 'me-pass' },
   { name: 'admin', who: 'admin', path: '/admin', ready: 'users-table' },
+  { name: 'admin festivals', who: 'admin', path: '/admin?tab=festivals', ready: 'festival-row' },
 ];
 
 for (const route of ROUTES) {

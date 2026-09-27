@@ -22,6 +22,9 @@ import type {
   CommentPatch,
   CommentTarget,
   Contributions,
+  Festival,
+  FestivalInput,
+  FestivalPatch,
   ItunesLookupResult,
   LoginInput,
   Meta,
@@ -366,6 +369,13 @@ export const getHealth = (signal?: AbortSignal) => get<{ ok: true }>('/api/healt
 /** GET /api/meta */
 export const getMeta = (signal?: AbortSignal) => get<Meta>('/api/meta', undefined, signal);
 
+/**
+ * GET /api/festivals → { festivals } — active festivals, ordered by sortOrder, startDate, name.
+ * `{ all: true }` (admins only) includes hidden ones.
+ */
+export const getFestivals = (signal?: AbortSignal, options: { all?: boolean } = {}) =>
+  get<{ festivals: Festival[] }>('/api/festivals', { all: options.all }, signal);
+
 /** GET /api/stats */
 export const getStats = (signal?: AbortSignal) => get<Stats>('/api/stats', undefined, signal);
 
@@ -471,7 +481,7 @@ export const logout = () => post<void>('/api/auth/logout');
 /** GET /api/auth/me → { user: User | null } */
 export const getMe = (signal?: AbortSignal) => get<{ user: User | null }>('/api/auth/me', undefined, signal);
 
-/** PUT /api/auth/me → { user } (password change needs currentPassword) */
+/** PUT /api/auth/me → { user } (password change needs currentPassword; `festivalSlug` sets/clears the festival) */
 export const updateMe = (input: ProfileUpdateInput) => put<{ user: User }>('/api/auth/me', input);
 
 // ---------------------------------------------------------------------------
@@ -527,3 +537,26 @@ export const adminResetPassword = (id: number) =>
 /** GET /api/admin/comments?limit=100 → newest first */
 export const adminListComments = (limit = 100, signal?: AbortSignal) =>
   get<{ comments: Comment[] }>('/api/admin/comments', { limit }, signal);
+
+// ---------------------------------------------------------------------------
+// Admin: festivals (SPEC §7b)
+// ---------------------------------------------------------------------------
+
+/** Accept either a bare Festival or `{ festival }` from the write endpoints. */
+function unwrapFestival(res: Festival | { festival: Festival }): Festival {
+  return res && typeof res === 'object' && 'festival' in res && res.festival && typeof res.festival === 'object' ? res.festival : (res as Festival);
+}
+
+/** GET /api/festivals?all=1 (admin) → every festival, hidden ones included. */
+export const adminListFestivals = (signal?: AbortSignal) => getFestivals(signal, { all: true });
+
+/** POST /api/admin/festivals → 201 Festival (400 `details` per field; 409 when the name's slug is taken). */
+export const adminCreateFestival = (input: FestivalInput) =>
+  post<Festival | { festival: Festival }>('/api/admin/festivals', input).then(unwrapFestival);
+
+/** PUT /api/admin/festivals/:id (partial) → Festival */
+export const adminUpdateFestival = (id: number, patch: FestivalPatch) =>
+  put<Festival | { festival: Festival }>(`/api/admin/festivals/${enc(id)}`, patch).then(unwrapFestival);
+
+/** DELETE /api/admin/festivals/:id → 204 (people who had picked it go back to "not chosen"). */
+export const adminDeleteFestival = (id: number) => del(`/api/admin/festivals/${enc(id)}`);

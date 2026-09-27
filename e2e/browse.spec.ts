@@ -6,7 +6,10 @@ test.describe('Home and Browse', () => {
     expect(expected.length).toBeGreaterThan(5);
 
     await page.goto('/');
-    await expect(page.getByTestId('countdown')).toBeVisible();
+    // first visit: no festival chosen yet → "Where are you performing?" instead of a countdown
+    // (the festival flows themselves are in festivals.spec.ts)
+    await expect(page.getByTestId('festival-where')).toBeVisible();
+    await expect(page.getByTestId('countdown')).toHaveCount(0);
     const search = page.getByTestId('search-input');
     await search.fill('les miserables');
     await search.press('Enter');

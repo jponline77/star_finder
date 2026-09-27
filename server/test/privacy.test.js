@@ -21,7 +21,7 @@ test('public payloads never contain user emails or password hashes', async () =>
     const urls = [
       '/api/songs', `/api/songs/${song.id}`, `/api/songs/${ids.corn}`, '/api/shows', '/api/shows/private-show',
       `/api/songs/${song.id}/comments`, '/api/shows/private-show/comments', `/api/songs/${ids.corn}/comments`,
-      '/api/meta', '/api/stats',
+      '/api/meta', '/api/stats', '/api/festivals',
     ];
     for (const url of urls) {
       for (const agent of [request(t.app), alice.agent, admin.agent]) {

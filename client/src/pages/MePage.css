@@ -382,6 +382,25 @@
   justify-content: flex-end;
 }
 
+.me-festival-status {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35em;
+  min-height: 1.4em;
+  margin-top: calc(-1 * var(--space-xs));
+  font-size: var(--step--1);
+  font-weight: 700;
+  color: var(--text-muted);
+}
+
+.me-festival-status:empty {
+  display: none;
+}
+
+.me-festival-status.is-saved {
+  color: var(--success-text);
+}
+
 .me-strength {
   display: flex;
   gap: 4px;

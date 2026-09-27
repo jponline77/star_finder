@@ -2,20 +2,19 @@
  * /star-prep — STAR Prep (SPEC §7.9, facts from SPEC §1).
  * Rules in plain English (time limit, backing track, song rules, dress & set pieces), the slate
  * (format, examples, generic SlateBuilder), a rehearsal timer (./star-prep/RehearsalTimer), the
- * rubric, the "not a competition" note, and the 2026–27 BC regional dates.
+ * rubric, the "not a competition" note, and the festival dates (from the API — SPEC §7b: the
+ * visitor's festival is counted down in the hero and highlighted in the list).
  */
-import { ArrowRight, Ban, CalendarDays, Check, ExternalLink, MapPin } from 'lucide-react';
+import { ArrowRight, Ban, Check } from 'lucide-react';
 import type { ReactNode } from 'react';
 import { Link } from 'react-router';
-import { Countdown } from '../components/Countdown';
 import { Marquee } from '../components/Marquee';
 import { SlateBuilder } from '../components/SlateBuilder';
 import { useDocumentTitle } from '../hooks/useDocumentTitle';
 import { browseHref } from '../lib/filters';
-import { daysUntil, formatLongDate, parseLocalDate } from '../lib/format';
-import { DEFAULT_FESTIVAL, RUBRIC_CATEGORIES, RUBRIC_LEVELS, TAEA_URL, WARN_SECONDS } from '../lib/vocab';
-import { useSongs } from '../state/SongsProvider';
-import { APPROVED_LICENSORS, BC_REGIONALS, regionalStatus, RUBRIC_DETAILS, RUBRIC_LEVEL_BLURB, SLATE_EXAMPLES } from './star-prep/content';
+import { RUBRIC_CATEGORIES, RUBRIC_LEVELS, WARN_SECONDS } from '../lib/vocab';
+import { APPROVED_LICENSORS, RUBRIC_DETAILS, RUBRIC_LEVEL_BLURB, SLATE_EXAMPLES } from './star-prep/content';
+import { FestivalDates, PrepCountdown } from './star-prep/FestivalDates';
 import { RehearsalTimer } from './star-prep/RehearsalTimer';
 import './StarPrepPage.css';
 
@@ -122,9 +121,6 @@ function TimingStrip() {
 
 export default function StarPrepPage() {
   useDocumentTitle('STAR Prep');
-  const { meta } = useSongs();
-  const festival = meta?.festival ?? DEFAULT_FESTIVAL;
-  const today = new Date();
 
   return (
     <div className="prep-page">
@@ -136,12 +132,7 @@ export default function StarPrepPage() {
             Get <span className="nowrap">stage-ready</span>
           </h1>
           <p className="prep-lede">The STAR rules in plain English, a slate builder, and a rehearsal timer that knows about the 6:00 limit.</p>
-          <div className="prep-countdown">
-            <p className="prep-countdown-label">
-              {festival.name} · <strong>{formatLongDate(festival.date)}</strong>
-            </p>
-            <Countdown date={festival.date} label={festival.name} hideSeconds compact />
-          </div>
+          <PrepCountdown />
         </Marquee>
         <nav className="prep-jump" aria-label="On this page">
           <ul role="list" className="chip-group">
@@ -392,55 +383,7 @@ export default function StarPrepPage() {
         </section>
 
         {/* ---------------- dates ---------------- */}
-        <section className="section" id="dates" aria-labelledby="dates-title">
-          <h2 id="dates-title" className="section-title">
-            <span className="emoji" aria-hidden="true">
-              📅
-            </span>
-            2026–27 BC Regional STAR Fests
-          </h2>
-          <ol className="prep-dates" role="list" data-testid="regional-dates">
-            {BC_REGIONALS.map((r) => {
-              const status = regionalStatus(daysUntil(r.date, today));
-              const d = parseLocalDate(r.date);
-              return (
-                <li key={r.city} className={`prep-date is-${status.state}${r.home ? ' is-home' : ''}`}>
-                  <span className="prep-date-cal" aria-hidden="true">
-                    <span className="prep-date-month">{d.toLocaleDateString('en-CA', { month: 'short' })}</span>
-                    <span className="prep-date-day">{d.getDate()}</span>
-                  </span>
-                  <span className="prep-date-body">
-                    <span className="prep-date-city">
-                      {r.city}
-                      {r.home && <span className="badge badge-gold prep-date-home">Our festival</span>}
-                      <span className="prep-date-status">{status.label}</span>
-                    </span>
-                    <span className="prep-date-meta">
-                      <CalendarDays size={14} aria-hidden="true" /> {formatLongDate(r.date)}
-                    </span>
-                    {r.venue && (
-                      <span className="prep-date-meta">
-                        <MapPin size={14} aria-hidden="true" /> {r.venue}
-                      </span>
-                    )}
-                  </span>
-                </li>
-              );
-            })}
-          </ol>
-          <div className="callout callout-info prep-caveat">
-            <span aria-hidden="true">ℹ️</span>
-            <p>
-              Dates come from the 2026–27 program guide and can change. <strong>Always confirm with your teacher</strong> and the official TAEA page.
-            </p>
-          </div>
-          <p className="prep-official">
-            <a href={TAEA_URL} className="btn btn-primary" target="_blank" rel="noopener noreferrer">
-              Official TAEA Regional STAR Fest page <ExternalLink size={16} aria-hidden="true" />
-              <span className="visually-hidden"> (opens in a new tab)</span>
-            </a>
-          </p>
-        </section>
+        <FestivalDates />
       </div>
     </div>
   );

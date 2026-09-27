@@ -3,11 +3,17 @@
   "version": "1.0.0",
   "private": true,
   "description": "STAR Song Finder — browse, search and add musical theatre solos & duets for the STAR Festival",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jponline77/star_finder.git"
+  },
+  "homepage": "https://github.com/jponline77/star_finder#readme",
   "engines": {
     "node": ">=22.12.0 <27"
   },
   "scripts": {
-    "setup": "npm install && npm --prefix server install && npm --prefix client install && npm --prefix server run import",
+    "setup": "npm install && npm --prefix server install && npm --prefix client install && npm --prefix server run fetch-media && npm --prefix server run import",
     "dev": "concurrently -k -n server,client -c yellow,magenta \"npm --prefix server run dev\" \"npm --prefix client run dev\"",
     "build": "npm --prefix client run build",
     "start": "node server/src/index.js --production",
@@ -15,6 +21,7 @@
     "e2e": "playwright test",
     "enrich": "npm --prefix server run enrich --",
     "import": "npm --prefix server run import --",
+    "fetch-media": "npm --prefix server run fetch-media --",
     "backup": "npm --prefix server run backup --",
     "make-admin": "npm --prefix server run make-admin --"
   },

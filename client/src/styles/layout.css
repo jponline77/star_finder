@@ -144,6 +144,52 @@
   display: none;
 }
 
+/* festival chip: in the bar from 640px (below that it lives in the mobile menu) */
+.header-festival {
+  display: none;
+}
+
+@media (min-width: 640px) {
+  .header-festival {
+    display: block;
+  }
+  .header-festival .festival-chip-text {
+    max-width: 11rem;
+  }
+}
+
+/* desktop nav + festival chip share the bar */
+@media (min-width: 1100px) {
+  .main-nav .nav-link {
+    padding-inline: 0.55em;
+  }
+  .header-festival .festival-chip-long {
+    display: none;
+  }
+  .header-festival .festival-chip-short {
+    display: inline;
+  }
+  /* every seeded name fits ("Prince George" is the longest, ~98px in Nunito 800 — with room for
+     wider fallback fonts); longer names get an ellipsis (full name in the tooltip + listbox) */
+  .header-festival .festival-chip-text {
+    max-width: 7.25rem;
+  }
+}
+
+/* narrow desktops: the chip becomes a 📍 button (name in its label/tooltip; gold edge = chosen) */
+@media (min-width: 1100px) and (max-width: 1279px) {
+  .header-festival .festival-chip-text {
+    display: none;
+  }
+  .header-festival .festival-chip {
+    gap: 0.15rem;
+    padding-inline: 0.65em 0.45em;
+  }
+  .logo .marquee-inner {
+    font-size: 1.02rem;
+  }
+}
+
 .header-theme {
   display: none;
 }
@@ -166,27 +212,21 @@
   }
 }
 
-/* mid-size desktops: drop nav icons, short "Add" label, avatar-only account chip */
-@media (max-width: 1359px) {
-  .main-nav .nav-link .nav-icon {
-    display: none;
-  }
-  .header-add .btn-label-long {
-    display: none;
-  }
-  .account-chip {
-    padding-right: 3px;
-  }
-  .account-chip .account-name,
-  .account-chip .account-caret {
-    display: none;
-  }
+/* The bar lives in the 1240px container, so even on big screens there's no room for nav icons,
+   "Add a song" and the account name next to the festival chip: the desktop bar keeps them
+   compact (icons + full labels remain in the mobile menu and the account menu). */
+.main-nav .nav-link .nav-icon {
+  display: none;
 }
-
-@media (min-width: 1360px) {
-  .header-add .btn-label-short {
-    display: none;
-  }
+.header-add .btn-label-long {
+  display: none;
+}
+.account-chip {
+  padding-right: 3px;
+}
+.account-chip .account-name,
+.account-chip .account-caret {
+  display: none;
 }
 
 @media (max-width: 1099px) {
@@ -228,6 +268,10 @@
   border-radius: var(--radius-md);
   background: var(--surface-2);
   font-size: var(--step-0);
+}
+
+.mobile-festival .select {
+  background-color: var(--surface-2);
 }
 
 .mobile-nav-actions {

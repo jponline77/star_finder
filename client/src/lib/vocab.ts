@@ -238,14 +238,6 @@ export const WARN_SECONDS = 330;
 
 export const TAEA_URL = 'https://taeacanada.ca/regional-star-fest/';
 
-/** Fallback festival info when /api/meta is unavailable. */
-export const DEFAULT_FESTIVAL = {
-  name: 'Vancouver Regional STAR Fest',
-  date: '2026-12-11',
-  venue: 'SFU School for the Contemporary Arts (SFU SCA)',
-  url: TAEA_URL,
-} as const;
-
 export const RUBRIC_CATEGORIES = [
   'Expression',
   'Characterization',

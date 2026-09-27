@@ -101,7 +101,7 @@ describe('shows', () => {
 });
 
 describe('show images from remote URLs', () => {
-  test('imageUrl on upload.wikimedia.org is downloaded to /uploads/shows (not the committed media folder)', async () => {
+  test('imageUrl on upload.wikimedia.org is downloaded to /uploads/shows (not the seed media folder)', async () => {
     const calls = [];
     const fetchImpl = async (url, opts) => {
       calls.push({ url, redirect: opts?.redirect });

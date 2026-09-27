@@ -104,4 +104,16 @@ describe('Countdown', () => {
     expect(screen.getByTestId('countdown')).toHaveTextContent('That’s a wrap for 2026 — see you next season!');
     expect(screen.getByTestId('countdown')).not.toHaveTextContent('showtime');
   });
+  it('deadline mode counts to the END of the closing day, then says submissions closed', () => {
+    vi.useFakeTimers({ toFake: ['Date'] });
+    vi.setSystemTime(new Date(2027, 1, 28, 21, 30));
+    const { unmount } = renderWithProviders(<Countdown date="2027-02-28" deadline label="Online Regional STAR Fest" />);
+    expect(screen.getByTestId('countdown')).toHaveTextContent(/0days02hrs30min/);
+    expect(screen.getByTestId('countdown')).toHaveTextContent('until Online Regional STAR Fest closes at the end of Sunday, February 28, 2027');
+    unmount();
+    vi.setSystemTime(new Date(2027, 2, 1, 0, 5));
+    renderWithProviders(<Countdown date="2027-02-28" deadline />);
+    expect(screen.getByTestId('countdown')).toHaveTextContent('Submissions closed');
+    expect(screen.getByTestId('countdown')).not.toHaveTextContent('showtime');
+  });
 });

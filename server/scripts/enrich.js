@@ -28,7 +28,8 @@
 //
 // Writes: songs.preview_url/artwork_path/apple_music_url/recording_name/recording_artist/
 // itunes_track_id (never updated_at/edited_at, so the next import doesn't mistake the row for a website edit),
-// server/media/art/<sha256(url)[:16]>.jpg for spreadsheet songs (committed seed art), and
+// server/media/art/<sha256(url)[:16]>.jpg for spreadsheet songs (seed art — not in the repository;
+// media.json records each file's artworkUrl so `npm run fetch-media` can download it again), and
 // server/seed/media.json keyed "kind|canonical show|canonical title" (SPEC §6). Art and posters for
 // community songs/shows (--community, --shows) go to the uploads folder like the website's own
 // downloads (not committed; part of the backup). Relative paths resolve from where you run it.
@@ -804,7 +805,8 @@ export async function main(argv = process.argv.slice(2), deps = {}) {
     }
     log(`🎧 Enriching ${songs.length} song(s) (${opts.mode}${opts.dryRun ? ', dry run' : ''}); ${skipped.length} skipped. iTunes throttle ≤ ${ITUNES_PER_MINUTE}/min.`);
 
-    // Songs whose media.json entry already exists (and art is on disk) just need the DB updated.
+    // Songs whose media.json entry already exists just need the DB updated — when its art is on disk,
+    // or can be downloaded by `npm run fetch-media` (artworkUrl), like the import does.
     const updateSong = db.prepare(`UPDATE songs SET preview_url = ?, artwork_path = ?, apple_music_url = ?, recording_name = ?,
       recording_artist = ?, itunes_track_id = ? WHERE id = ?`);
     const results = [];
@@ -812,7 +814,8 @@ export async function main(argv = process.argv.slice(2), deps = {}) {
     for (const s of songs) {
       const key = s.source === 'spreadsheet' ? findMediaKey(media, mediaKey(s.kind, s.show, s.title)) : null;
       const entry = key ? media[key] : undefined;
-      if (opts.mode !== 'all' && opts.songId === null && entry && entry.previewUrl && (!entry.artworkFile || fs.existsSync(path.join(mediaDir, 'art', entry.artworkFile)))) {
+      if (opts.mode !== 'all' && opts.songId === null && entry && entry.previewUrl
+        && (!entry.artworkFile || entry.artworkUrl || fs.existsSync(path.join(mediaDir, 'art', entry.artworkFile)))) {
         if (!opts.dryRun) {
           updateSong.run(entry.previewUrl, entry.artworkFile ? `/media/art/${entry.artworkFile}` : null, entry.appleMusicUrl ?? null,
             entry.recordingName ?? null, entry.recordingArtist ?? null, entry.itunesTrackId ?? null, s.id);
@@ -893,6 +896,8 @@ export async function main(argv = process.argv.slice(2), deps = {}) {
         itunesTrackId: track.trackId,
         previewUrl: track.previewUrl,
         artworkFile: artworkPath ? path.basename(artworkPath) : null,
+        // where artworkFile came from (fetch-media downloads it again on a fresh checkout)
+        artworkUrl: artworkPath ? track.artworkUrl : null,
         appleMusicUrl: track.appleMusicUrl ?? null,
         recordingName: track.collectionName || null,
         recordingArtist: track.artistName || null,

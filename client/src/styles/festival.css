@@ -1,0 +1,440 @@
+/* ==========================================================================
+   Festival picker (SPEC §7b): header chip + listbox popover, native select,
+   inline summary, one-tap chips. Used on every page (header), so it's global.
+   ========================================================================== */
+
+/* ------------------------------------------------------------ compact chip */
+.festival-picker {
+  position: relative;
+  min-width: 0;
+}
+
+.festival-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  max-width: 100%;
+  min-height: 40px;
+  padding: 0.3em 0.6em 0.3em 0.7em;
+  border: 1px solid var(--border-strong);
+  border-radius: var(--radius-pill);
+  background: var(--surface-2);
+  color: var(--text);
+  font-weight: 800;
+  font-size: var(--step--1);
+  line-height: 1.15;
+  white-space: nowrap;
+  cursor: pointer;
+  transition:
+    border-color var(--dur) var(--ease-out),
+    background-color var(--dur) var(--ease-out),
+    box-shadow var(--dur) var(--ease-out);
+}
+
+.festival-chip:hover,
+.festival-chip[aria-expanded='true'] {
+  border-color: var(--primary);
+}
+
+/* nothing chosen yet: a dashed "ticket" edge invites a tap */
+.festival-chip:not(.is-set) {
+  border-style: dashed;
+  border-color: color-mix(in srgb, var(--accent-pink) 60%, var(--border-strong));
+}
+
+.festival-chip.is-set {
+  border-color: color-mix(in srgb, var(--primary) 55%, var(--border-strong));
+  background: color-mix(in srgb, var(--primary) 10%, var(--surface-2));
+}
+
+.festival-chip-pin {
+  flex: none;
+  font-size: 1.05em;
+}
+
+.festival-chip-text {
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.festival-chip-short {
+  display: none;
+}
+
+.festival-chip-caret {
+  flex: none;
+  color: var(--text-muted);
+  transition: transform var(--dur) var(--ease-out);
+}
+
+.festival-chip[aria-expanded='true'] .festival-chip-caret {
+  transform: rotate(180deg);
+}
+
+@media (pointer: coarse) {
+  .festival-chip {
+    min-height: var(--tap);
+  }
+}
+
+/* on the dark marquee heroes (always dark, in both themes) */
+.festival-picker.is-marquee .festival-chip {
+  min-height: var(--tap);
+  padding-inline: 1em 0.8em;
+  border-color: rgba(255, 201, 74, 0.55);
+  background: rgba(0, 0, 0, 0.35);
+  color: var(--marquee-text);
+  font-size: var(--step-0);
+}
+
+.festival-picker.is-marquee .festival-chip:not(.is-set) {
+  border-color: rgba(255, 140, 194, 0.75);
+}
+
+.festival-picker.is-marquee .festival-chip:hover,
+.festival-picker.is-marquee .festival-chip[aria-expanded='true'] {
+  border-color: var(--marquee-gold);
+  background: rgba(255, 201, 74, 0.14);
+}
+
+.festival-picker.is-marquee .festival-chip-caret {
+  color: rgba(255, 243, 207, 0.8);
+}
+
+/* ------------------------------------------------------------ popover listbox */
+.festival-popover {
+  position: absolute;
+  top: calc(100% + 8px);
+  z-index: calc(var(--z-header) + 6);
+  display: flex;
+  flex-direction: column;
+  width: min(360px, calc(100vw - 24px));
+  padding: var(--space-xs);
+  border: 1px solid var(--border-strong);
+  border-radius: var(--radius-lg);
+  background: var(--surface);
+  box-shadow: var(--shadow-lg);
+  color: var(--text);
+  text-align: left;
+  animation: toast-in var(--dur) var(--ease-out);
+}
+
+.festival-picker.align-end .festival-popover {
+  right: 0;
+}
+
+.festival-picker.align-start .festival-popover {
+  left: 0;
+}
+
+.festival-picker.align-center .festival-popover {
+  left: 50%;
+  translate: -50% 0;
+}
+
+.festival-popover-title {
+  padding: 0.45em 0.6em 0.3em;
+  font-family: var(--font-display);
+  font-size: var(--step-1);
+  line-height: 1.1;
+  color: var(--heading);
+}
+
+.festival-popover-empty {
+  padding: 0.6em;
+  color: var(--text-muted);
+}
+
+.festival-listbox {
+  /* tall enough for this season's 8 choices on a 900px-high screen; scrolls beyond that */
+  max-height: min(64vh, 600px);
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  border-radius: var(--radius-md);
+  outline: none;
+}
+
+.festival-group + .festival-group {
+  margin-top: var(--space-2xs);
+}
+
+.festival-group-label {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  padding: 0.55em 0.6em 0.25em;
+  background: var(--surface);
+  font-size: var(--step--2);
+  font-weight: 900;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--text-subtle);
+}
+
+.festival-option {
+  display: grid;
+  grid-template-columns: 1.7rem minmax(0, 1fr) 20px;
+  align-items: center;
+  gap: 0.55rem;
+  min-height: 50px;
+  padding: 0.4em 0.6em;
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+}
+
+.festival-option.is-active {
+  background: var(--surface-2);
+}
+
+.festival-listbox:focus-visible .festival-option.is-active {
+  outline: 2px solid var(--focus);
+  outline-offset: -2px;
+}
+
+.festival-option.is-selected {
+  background: var(--primary-soft);
+}
+
+.festival-option.is-selected.is-active {
+  background: color-mix(in srgb, var(--primary) 22%, transparent);
+}
+
+.festival-option-emoji {
+  display: grid;
+  place-items: center;
+  font-size: 1.15rem;
+}
+
+.festival-option-text {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  min-width: 0;
+}
+
+.festival-option-name {
+  font-weight: 800;
+  color: var(--heading);
+  overflow-wrap: anywhere;
+}
+
+.festival-option.is-selected .festival-option-name {
+  color: var(--primary-text);
+}
+
+.festival-option-city {
+  font-weight: 600;
+  color: var(--text-muted);
+}
+
+.festival-option-date {
+  font-size: var(--step--1);
+  color: var(--text-muted);
+}
+
+.festival-option.is-past .festival-option-text {
+  opacity: 0.72;
+}
+
+.festival-option-check {
+  display: grid;
+  place-items: center;
+  color: var(--primary-text);
+}
+
+.festival-popover-more {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  min-height: var(--tap);
+  margin-top: var(--space-2xs);
+  padding: 0.4em 0.6em;
+  border-top: 1px solid var(--border);
+  font-size: var(--step--1);
+  font-weight: 800;
+  text-decoration: none;
+  color: var(--link);
+}
+
+.festival-popover-more:hover {
+  text-decoration: underline;
+}
+
+/* ------------------------------------------------------------ native select */
+.festival-select-label {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35em;
+}
+
+.festival-select-label svg {
+  color: var(--primary-text);
+}
+
+/* ------------------------------------------------------------ inline summary */
+.festival-inline {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-sm);
+}
+
+.festival-summary {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+  padding: var(--space-sm) var(--space-md);
+  border: 1px solid color-mix(in srgb, var(--primary) 35%, var(--border));
+  border-radius: var(--radius-md);
+  background:
+    radial-gradient(90% 140% at 0% 0%, var(--primary-soft), transparent 70%),
+    var(--surface-2);
+}
+
+.festival-summary-name {
+  font-weight: 900;
+  line-height: 1.3;
+  color: var(--heading);
+}
+
+.festival-summary-when {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.2em 0.5em;
+}
+
+.festival-summary-meta {
+  font-size: var(--step--1);
+  color: var(--text-muted);
+}
+
+.festival-summary-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3em;
+  align-self: flex-start;
+  min-height: 24px;
+  margin-top: 0.2rem;
+  font-size: var(--step--1);
+  font-weight: 800;
+}
+
+.festival-status {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.12em 0.6em;
+  border-radius: var(--radius-pill);
+  background: var(--surface-3);
+  font-size: var(--step--2);
+  font-weight: 900;
+  color: var(--text-muted);
+  white-space: nowrap;
+}
+
+.is-soon > .festival-status,
+.is-today > .festival-status,
+.is-soon .festival-summary-when .festival-status,
+.is-today .festival-summary-when .festival-status {
+  background: var(--accent-pink-soft);
+  color: var(--accent-pink);
+}
+
+/* ------------------------------------------------------------ one-tap chips */
+.festival-chips {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: var(--space-xs);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.festival-chip-option {
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-template-areas:
+    'emoji name'
+    'emoji date';
+  align-items: center;
+  justify-content: start;
+  column-gap: 0.45rem;
+  min-height: 52px;
+  padding: 0.4em 1em 0.4em 0.75em;
+  border: 1px solid var(--border-strong);
+  border-radius: var(--radius-pill);
+  background: var(--surface);
+  color: var(--text);
+  text-align: left;
+  cursor: pointer;
+  transition:
+    background-color var(--dur) var(--ease-out),
+    border-color var(--dur) var(--ease-out),
+    transform var(--dur-fast) var(--ease-out);
+}
+
+.festival-chip-option > .emoji {
+  grid-area: emoji;
+  font-size: 1.2rem;
+}
+
+.festival-chip-option-name {
+  grid-area: name;
+  font-weight: 900;
+  font-size: var(--step-0);
+  line-height: 1.1;
+}
+
+.festival-chip-option-date {
+  grid-area: date;
+  font-size: var(--step--2);
+  font-weight: 800;
+  letter-spacing: 0.04em;
+  color: var(--text-muted);
+}
+
+.festival-chip-option:hover {
+  border-color: var(--primary);
+  transform: translateY(-1px);
+}
+
+.festival-chip-option:active {
+  transform: scale(0.97);
+}
+
+.festival-chip-option[aria-pressed='true'] {
+  border-color: var(--primary);
+  background: var(--primary);
+  color: var(--on-primary);
+}
+
+.festival-chip-option[aria-pressed='true'] .festival-chip-option-date {
+  color: inherit;
+}
+
+/* chips on the dark marquee */
+.festival-chips.is-marquee .festival-chip-option {
+  border-color: rgba(255, 201, 74, 0.45);
+  background: rgba(0, 0, 0, 0.35);
+  color: var(--marquee-text);
+}
+
+.festival-chips.is-marquee .festival-chip-option-date {
+  color: rgba(255, 243, 207, 0.78);
+}
+
+.festival-chips.is-marquee .festival-chip-option:hover {
+  border-color: var(--marquee-gold);
+  background: rgba(255, 201, 74, 0.16);
+}
+
+.festival-chips.is-marquee .festival-chip-option[aria-pressed='true'] {
+  border-color: var(--marquee-gold);
+  background: var(--marquee-gold);
+  color: #2a1a00;
+}
+
+.festival-chips.is-marquee .festival-chip-option[aria-pressed='true'] .festival-chip-option-date {
+  color: #2a1a00;
+}

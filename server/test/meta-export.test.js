@@ -31,8 +31,11 @@ describe('meta, stats, export', () => {
     assert.deepEqual(m.counts, { songs: 8, solos: 5, duets: 3, shows: 5 });
     assert.equal(m.timeLimitSeconds, 360);
     assert.equal(m.warnSeconds, 330);
-    assert.equal(m.festival.date, '2026-12-11');
-    assert.ok(m.festival.name && m.festival.venue && m.festival.url);
+    // SPEC §7b: no single hardcoded festival any more — the active list + the site's default
+    assert.equal('festival' in m, false);
+    assert.ok(Array.isArray(m.festivals) && m.festivals.length > 0);
+    assert.ok(m.festivals.every((f) => f.active === true));
+    assert.equal(m.defaultFestivalSlug, null);
   });
 
   test('GET /api/stats', async () => {

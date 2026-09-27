@@ -14,8 +14,9 @@ npm test                # vitest run (unit + component tests, jsdom)
 npm run typecheck       # tsc -b
 ```
 
-`@playwright/test@1.63.0` is a devDependency (matches the cached Chromium 1243 — never run
-`playwright install`).
+`@playwright/test@1.63.0` is a devDependency of the repository root (the e2e suite lives in `../e2e`).
+Its browser is a separate download: run `npx playwright install chromium` from the repository root
+once before the first `npm run e2e` (see the root README, "For developers").
 
 ---
 
@@ -32,11 +33,11 @@ client/
     types.ts                 # API types (SPEC §5)
     lib/                     # pure helpers (+ *.test.ts)
     hooks/                   # generic hooks
-    state/                   # providers: Toast, Auth, Songs, Audio + RequireAuth
+    state/                   # providers: Toast, Auth, Songs, Festival, Audio + RequireAuth
     components/              # shared UI (+ __tests__/)
     pages/                   # ONE FILE PER ROUTE (default export) + optional <Page>.css
-    styles/                  # tokens.css base.css components.css song.css comments.css layout.css
-    test/                    # setup.ts, fixtures.ts (makeSong…), render.tsx (renderWithProviders)
+    styles/                  # tokens.css base.css components.css song.css comments.css layout.css festival.css
+    test/                    # setup.ts, fixtures.ts (makeSong, makeFestivals…), render.tsx (renderWithProviders)
 ```
 
 ## Routes (src/App.tsx)
@@ -52,7 +53,7 @@ client/
 | `/shows/:slug` | `pages/ShowDetailPage.tsx` | done, remounted per `:slug` |
 | `/match` `/spin` `/setlist` `/star-prep` `/stats` | `MatchPage` `SpinPage` `SetlistPage` `StarPrepPage` `StatsPage` | done |
 | `/me` | `pages/MePage.tsx` | done, `RequireAuth` |
-| `/admin` | `pages/AdminPage.tsx` | done, `RequireAuth` (admin check INSIDE the page) |
+| `/admin` | `pages/AdminPage.tsx` | done, `RequireAuth` (admin check INSIDE the page); tabs Users / Comments / Festivals (`?tab=festivals`, `admin/FestivalsPanel.tsx`) |
 | `/login` `/signup` | `LoginPage` `SignupPage` (+ `BackstagePass.tsx`, `AuthPages.css`) | done |
 | `*` | `pages/NotFoundPage.tsx` | done |
 
@@ -101,7 +102,8 @@ an older deploy is gone (`vite:preloadError`).
 | Function | Endpoint → result |
 |---|---|
 | `getHealth()` | GET /api/health |
-| `getMeta(signal?)` | GET /api/meta → `Meta` |
+| `getMeta(signal?)` | GET /api/meta → `Meta` (incl. `festivals`, `defaultFestivalSlug`) |
+| `getFestivals(signal?, {all?})` | GET /api/festivals(?all=1) → `{ festivals }` (prefer `useFestival()`) |
 | `getStats(signal?)` | GET /api/stats → `Stats` |
 | `EXPORT_XLSX_URL` | `/api/export.xlsx` (use `<a href download>`) |
 | `listSongs(query?: SongQuery, signal?)` | GET /api/songs → `{ songs, total }` |
@@ -117,16 +119,18 @@ an older deploy is gone (`vite:preloadError`).
 | `uploadShowImage(id, file, opts?)` | POST /api/shows/:id/image → `Show` |
 | `lookupItunes(title, show, signal?)` | GET /api/lookup/itunes → `{ candidates: ItunesCandidate[] }` |
 | `lookupWikipedia(name, signal?)` | GET /api/lookup/wikipedia → `WikipediaLookupResult` |
-| `signup(input)` / `login(input)` / `logout()` / `getMe()` / `updateMe(input)` | /api/auth/* (prefer `useAuth()`) |
+| `signup(input)` / `login(input)` / `logout()` / `getMe()` / `updateMe(input)` | /api/auth/* (prefer `useAuth()`; `updateMe({ festivalSlug })` sets/clears the festival, `signup` may carry `festivalSlug`) |
 | `listComments(target, signal?)` / `postComment(target, {body, tag})` | GET/POST …/comments (`target = {type:'song'|'show', id}`) |
 | `listSongComments(id)` `listShowComments(idOrSlug)` `postSongComment` `postShowComment` | shorthands |
 | `updateComment(id, {body?, tag?})` / `deleteComment(id)` | PATCH / DELETE /api/comments/:id |
 | `getContributions(signal?)` | GET /api/me/contributions → `{ songs, shows, comments }` |
 | `adminListUsers()` / `adminUpdateUser(id, {role?, disabled?})` / `adminResetPassword(id)` / `adminListComments(limit=100)` | /api/admin/* |
+| `adminListFestivals()` / `adminCreateFestival(input)` / `adminUpdateFestival(id, patch)` / `adminDeleteFestival(id)` | GET /api/festivals?all=1 · POST/PUT/DELETE /api/admin/festivals (400 `details` per field, 409 name clash) |
 
 Types (`src/types.ts`): `Kind, Source, Role, VocalRange, SongPart, ShowRef, SongMedia, CreatedBy,
 Song, SongDetail, User, Comment, CommentTag, CommentTarget, CommentTargetType, CommentAuthor,
-ShowCharacter, Show, ShowDetail, Meta, MetaShow, SubGenreMeta, Festival, Stats, StatBucket,
+ShowCharacter, Show, ShowDetail, Meta, MetaShow, SubGenreMeta, Festival, FestivalKind, FestivalInput,
+FestivalPatch, Stats, StatBucket,
 ItunesCandidate, ItunesLookupResult, WikipediaLookupResult, SongInput, SongPartInput,
 SongPreviewInput, ShowInput, SongQuery, SongSort, SignupInput, LoginInput, ProfileUpdateInput,
 CommentInput, CommentPatch, Contributions, AdminUser, AdminUserPatch, ApiErrorBody`.
@@ -135,12 +139,28 @@ CommentInput, CommentPatch, Contributions, AdminUser, AdminUserPatch, ApiErrorBo
 
 ## Providers & hooks
 
-Order: `Router → ToastProvider → AuthProvider → SongsProvider → AudioProvider → Layout`.
+Order: `Router → ToastProvider → AuthProvider → SongsProvider → FestivalProvider → AudioProvider → Layout`.
 
 - **`useAuth()`** → `{ user: User|null, loading, isAdmin, login(email, pw): Promise<User>, signup({email,password,displayName}): Promise<User>, logout(), refresh(): Promise<User|null>, updateProfile({displayName?, currentPassword?, newPassword?}): Promise<User> }`.
   `user.mustChangePassword` → Layout shows a banner linking to `/me`; LoginPage routes to `/me`.
 - **`<RequireAuth>`** (state/RequireAuth) — redirects to `/login?next=…`. Also
   `useLoginRedirect()` → `(next?) => void`, `useCurrentPath()`.
+- **`useFestival()`** (state/FestivalProvider, SPEC §7b) → `{ festivals, regionalChoices, nationals, selected: Festival|null, source: 'url'|'account'|'local'|'default'|'none', setFestival(slug|null): Promise<boolean>, ready, loadError, retryLoad(), saving, refreshFestivals() }`
+  (`loadError`: neither /api/meta nor GET /api/festivals could be loaded — show an error with `retryLoad()` instead of a skeleton).
+  Festivals come from `meta.festivals` (active only; `refreshFestivals()` re-fetches GET /api/festivals, e.g. after
+  an admin edit). Selection on load: `?festival=<slug>` (applied once, saved, then removed from the URL with
+  `replace`, other params + hash kept; unknown slugs → a friendly toast) → the user's `festivalSlug` → localStorage
+  `star.festival` → `meta.defaultFestivalSlug` → none. Only active regional/online festivals are choosable.
+  `setFestival` writes localStorage at once and, when logged in, `PUT /api/auth/me { festivalSlug }` (optimistic,
+  saves queued in order and compared with the last value queued, so A→B→A saves A again and the last choice
+  wins; on failure the choice + storage roll back and a toast explains; a 401/403 MUST_CHANGE_PASSWORD keeps it on
+  this device). Login/signup adopt the account's festival, or save this browser's choice to an account that has
+  none (never the site default); no account writes while `mustChangePassword` — a choice made then (or one whose
+  save found the session ended) is saved to that same account once it can be, instead of the account's old one.
+  `useAuth().updateProfile` ignores an answer that arrives after a logout / another login.
+  Logout keeps the choice on the device. SignupPage sends the device's choice as `festivalSlug` (retried without it
+  if the server no longer offers that festival). When the list changes while nothing is chosen (e.g. an admin shows
+  a hidden festival again), the account's / this device's festival is picked up without a reload.
 - **`useSongs()`** → `{ songs, songsById, meta, loading, error, reload(), upsertSong(song), removeSong(id), patchSong(id, partial), getSong(id), shows, showsLoading, showsError, loadShows(force?) }`.
 - **`useSong(id)`** → `{ song (cached instantly, then detail), similar, loading, refreshing, error, notFound, reload(), setSong(song) }`.
 - **`useShow(slugOrId)`** → `{ show: ShowDetail|null, summary, loading, error, notFound, reload(), setShow }`.
@@ -156,7 +176,9 @@ Order: `Router → ToastProvider → AuthProvider → SongsProvider → AudioPro
 - hooks/: `useApiData(fetcher, deps, {enabled?})` → `{ data, loading, error, reload, setData }`;
   `useDocumentTitle(title)`; `useMediaQuery(q)`, `useIsDesktop()` (≥900px), `usePrefersReducedMotion()`,
   `prefersReducedMotion()`; `useDebouncedValue(v, ms)`; `useClickOutside(ref, fn, active)`;
-  `useUrlFilters()` → `{ filters, setFilters(next, {replace?, debounce?}) }` (instant local state + URL sync).
+  `useUrlFilters()` → `{ filters, setFilters(next, {replace?, debounce?}) }` (instant local state + URL sync);
+  `useLocalDay()` → a `Date` refreshed just after every local midnight (and on returning to the tab) — pass it as
+  `now` to `festivalPhaseOf` / `festivalStatus` so heroes and cards change phase together with `<Countdown>`.
 
 ## Shared components (`src/components/`)
 
@@ -182,7 +204,9 @@ Order: `Router → ToastProvider → AuthProvider → SongsProvider → AudioPro
 | `EmptyState` / `ErrorState` | `{ emoji?, title, children?, actions?, level? }` / `{ title?, message?, onRetry? }` |
 | `Skeleton`, `TextSkeleton`, `SongCardSkeleton`, `SongGridSkeleton`, `PageSkeleton` | sizes / `count` |
 | `Marquee` | `{ children, size?: sm|md|lg, still?, as?, className?, innerClassName? }` |
-| `Countdown` | `{ date: 'YYYY-MM-DD', label?, hideSeconds?, compact? }` |
+| `Countdown` | `{ date: 'YYYY-MM-DD', label?, deadline?, hideSeconds?, compact? }` (`deadline`: counts to the END of `date`, then "Submissions closed") |
+| `FestivalPicker` | `{ variant?: 'compact'|'select'|'inline', placeholder?, shortPlaceholder?, tone?: 'default'|'marquee', align?: 'start'|'center'|'end', label?, id?, allowClear?, announce?, onPicked?, testId? }` — compact = "📍 Surrey" / "📍 Choose your festival" chip + WAI-ARIA listbox popover (↑↓ Home End, Enter/Space, Esc, type-ahead, Tab → the "All festival dates" link, closes when focus leaves; groups "BC regional festivals" / "Online"; testIds `<testId>`, `<testId>-listbox`, `<testId>-more`, `festival-option-<slug>`); select = labelled native `<select>` with optgroups; inline = select + `FestivalSummary` (My Stuff) |
+| `FestivalChips` / `FestivalSummary` | `{ labelledBy?, className? ('is-marquee' on the dark heroes), announce?, onPicked?, testId? }` one-tap `aria-pressed` chips (`festival-chip-<slug>`) / `{ festival }` name, date, venue, status, info link |
 | `Confetti` / `fireConfetti(opts)` | `<Confetti fire={n} />` or imperative `fireConfetti({x?, y?, count?, duration?})` |
 | `Modal` | `{ open, onClose, title, children?, footer?, wide?, closeOnBackdrop?, alert?, testId? }` (native `<dialog>`) |
 | `ConfirmDialog` / `useConfirm()` | `{ open, title, children?, confirmLabel?, tone?: 'danger'|'primary', onConfirm (async ok), onCancel }` / `const {confirm, dialog} = useConfirm(); await confirm({title, message?, confirmLabel?})` (`confirm-dialog`, `confirm-button`) |
@@ -194,12 +218,30 @@ Order: `Router → ToastProvider → AuthProvider → SongsProvider → AudioPro
 | `CommentsSection` | `{ target: {type:'song'|'show', id}, title?, onCountChange? }` — full Backstage Chatter (`comments-section`, `comment`, `comment-input`, `comment-tag-<tag>`, `comment-submit`, `comment-edit`, `comment-delete`, `comment-save`, `comment-login-prompt`) |
 | `AddedBy` / `OwnerControls` | `{ item }` / `{ item, editTo? | onEdit?, onDelete?, noun?, confirmTitle?, confirmBody?, size? }` (`edit-button`, `delete-button`) |
 | `RehearsalPlaceholder` | `{ title, emoji?, children? }` |
-| Layout pieces | `Layout`, `Header` (`NAV_ITEMS`), `Footer`, `MiniPlayer`, `AccountMenu`, `ThemeToggle`, `RouteError` |
+| Layout pieces | `Layout`, `Header` (`NAV_ITEMS`; festival chip `header-festival` in the bar from 640px — a 📍-only button at 1100–1279px where the desktop nav needs the room — and a festival `<select>` `mobile-festival` in the mobile menu), `Footer`, `MiniPlayer`, `AccountMenu`, `ThemeToggle`, `RouteError` |
 
 ## Pure helpers (`src/lib/`, all unit-tested)
 
 - **normalize**: `fold`, `foldWithMap`, `normalizeText`, `tokenize`, `equalsLoose`, `includesLoose`, `slugify`, `compareText`, `stripLeadingArticle`.
-- **vocab**: `VOCAL_RANGES`, `RANGE_SHORT`, `RANGE_SLUG`, `RANGE_COLORS`, `RANGE_TEXT_COLOR`, `RANGE_INFO` (blurb+example per range), `normalizeVocalRange`, `isVocalRange`, `rangeIndex`, `rangeShort`, `rangeSlug`, `rangeColorVar`, `compareRanges`; `GENRES`, `GENRE_EMOJI`, `SUB_GENRE_EMOJI`, `genreEmoji`, `subGenreEmoji`; `KIND_LABEL`, `KIND_PLURAL`, `KIND_EMOJI`; `COMMENT_TAGS`, `COMMENT_TAG_LABEL`, `COMMENT_TAG_EMOJI`, `COMMENT_MAX_LENGTH`, `isCommentTag`; `TIME_LIMIT_SECONDS` (360), `WARN_SECONDS` (330), `TAEA_URL`, `DEFAULT_FESTIVAL`, `RUBRIC_CATEGORIES`, `RUBRIC_LEVELS`.
+- **festivals** (SPEC §7b; every 'YYYY-MM-DD' is a LOCAL calendar day, tested across time zones + DST):
+  `FESTIVAL_STORAGE_KEY` ('star.festival'), `FESTIVAL_PARAM` ('festival'), `FestivalSource`, `FestivalPhase`
+  ('upcoming'|'today'|'ongoing'|'over'|'tbd'), `FESTIVAL_KIND_LABEL/EMOJI`; dates: `isValidDateString`, `formatDay`,
+  `formatDateRange` ('May 20–23, 2027', 'April 30 – May 2, 2027', cross-year), `formatFestivalDate(f, {month, weekday})`
+  (deadline → dateLabel / 'Submissions close …' / short 'Closes Feb 28, 2027'; TBD → dateLabel / 'Date to be
+  announced'), `festivalChipDate`, `calendarParts`, `festivalTileDate`, `festivalDateNote`, `hasFestivalDate`,
+  `isDeadlineFestival` (an ONLINE festival's end date is its deadline even when it has an "Opens" day; any festival
+  with only an end date too), `entriesOpenOn(f, now)`, `isOpeningOnly` (online, opening day but no deadline yet),
+  `isMultiDay`, `festivalPhaseOf(f, now)`, `countdownTarget(f)` (end of the deadline day, else the start day),
+  `festivalStatus(f, now)` ('In 12 days', 'Today!', 'On now!', 'Closes in 3 days', 'Opens in 5 days', 'Wrapped',
+  'Date TBA'), `upcomingNationals(list, now)` (nationals not over yet, for "Next stop");
+  lists: `festivalShortName` ('Surrey'), `isChoosable`, `compareFestivals`, `groupFestivals`, `regionalChoices`,
+  `nationalFestivals`, `pickerGroups`, `festivalSeason` ('2026–27'); selection: `normalizeFestivalSlug`,
+  `findChoosable`, `resolveFestivalSelection({festivals, url, account, local, fallback})`, `readStoredFestival` /
+  `writeStoredFestival` (never throw), `festivalShareUrl(slug, origin?)`, `festivalParam`, `withoutFestivalParam`;
+  admin form: `FESTIVAL_LIMITS` (incl. sort order ±1,000,000), `FestivalDraft`, `emptyFestivalDraft`,
+  `draftFromFestival`, `validateFestivalDraft(draft, { incompleteDates })` (mirrors the server; a date input whose
+  `validity.badInput` is set is an error, never "no date"), `festivalInputFromDraft`.
+- **vocab**: `VOCAL_RANGES`, `RANGE_SHORT`, `RANGE_SLUG`, `RANGE_COLORS`, `RANGE_TEXT_COLOR`, `RANGE_INFO` (blurb+example per range), `normalizeVocalRange`, `isVocalRange`, `rangeIndex`, `rangeShort`, `rangeSlug`, `rangeColorVar`, `compareRanges`; `GENRES`, `GENRE_EMOJI`, `SUB_GENRE_EMOJI`, `genreEmoji`, `subGenreEmoji`; `KIND_LABEL`, `KIND_PLURAL`, `KIND_EMOJI`; `COMMENT_TAGS`, `COMMENT_TAG_LABEL`, `COMMENT_TAG_EMOJI`, `COMMENT_MAX_LENGTH`, `isCommentTag`; `TIME_LIMIT_SECONDS` (360), `WARN_SECONDS` (330), `TAEA_URL`, `RUBRIC_CATEGORIES`, `RUBRIC_LEVELS`. (No festival is hardcoded — see **festivals**.)
 - **format**: `formatLength(s, fallback='—')`, `formatLengthLong`, `parseLength('m:ss') → s|null`, `timeStatus(s) → 'ok'|'close'|'over'|null`, `TIME_STATUS_LABEL/SHORT`, `formatDate`, `formatLongDate`, `relativeTime(iso, now?)`, `countdownParts`, `daysUntil`, `parseLocalDate`, `plural`, `formatBytes`, `percent`.
 - **filters**: `FilterState`, `DEFAULT_FILTERS`, `defaultFilters(o)`, `SORT_OPTIONS`, `LENGTH_SLIDER`, `hasPlayableAudio`, `hasAnyAudio`, `searchFields`, `songMatchesQuery`, `songMatchesFilters`, `songsIgnoring`, `applyFilters`, `sortSongs(songs, SongSort)`, `sortSongsBy(songs, column, dir)`, `filtersFromSearchParams`, `filtersToSearchParams(state, base?)`, `FILTER_PARAM_KEYS`, `browseHref(partial)` (e.g. quick links), `toggleInList`, `countActiveFilters`, `isUnfiltered`, `clearFilters`, `activeFilterPills`, `highlightRanges`, `highlightSegments`, `rangeCounts`, `facetCounts`.
 - **setlist**: `useSetlist`, `getSetlist`, `setSetlist`, `addToSetlist`, `removeFromSetlist`, `toggleSetlist`, `moveInSetlist`, `clearSetlist`, `importSetlist`, `parseSetlistParam`, `setlistShareUrl`, `sanitizeIds`, `SETLIST_STORAGE_KEY`.

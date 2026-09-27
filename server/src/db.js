@@ -12,7 +12,7 @@ const SCHEMA_SQL = fs.readFileSync(path.join(here, 'schema.sql'), 'utf8');
 
 /**
  * Tiny migration list. schema.sql is the baseline (user_version 1). To add a column later, append
- * `{ version: 3, up(db) { addColumnIfMissing(db, 'songs', 'foo', 'TEXT'); } }` — never edit
+ * `{ version: 5, up(db) { addColumnIfMissing(db, 'songs', 'foo', 'TEXT'); } }` — never edit
  * existing entries. Each migration runs in a transaction and bumps PRAGMA user_version.
  * @type {{ version: number, up: (db: import('better-sqlite3').Database) => void }[]}
  */
@@ -59,6 +59,47 @@ export const MIGRATIONS = [
           return Boolean(hit) && hit.id !== row.id;
         }), row.id);
       }
+    },
+  },
+  {
+    version: 3,
+    up(db) {
+      // Selectable festivals (SPEC §7b). Filled from seed/festivals.json at app startup when empty
+      // (lib/festivals.js seedFestivalsIfEmpty) and by `npm run import`.
+      db.exec(`CREATE TABLE IF NOT EXISTS festivals (
+        id          INTEGER PRIMARY KEY,
+        slug        TEXT NOT NULL UNIQUE,
+        name        TEXT NOT NULL,
+        kind        TEXT NOT NULL CHECK (kind IN ('regional','online','national')),
+        province    TEXT,
+        city        TEXT,
+        start_date  TEXT,
+        end_date    TEXT,
+        date_label  TEXT,
+        venue       TEXT,
+        info_url    TEXT,
+        sort_order  INTEGER NOT NULL DEFAULT 0,
+        active      INTEGER NOT NULL DEFAULT 1 CHECK (active IN (0,1)),
+        created_at  TEXT NOT NULL DEFAULT (strftime('%Y-%m-%dT%H:%M:%fZ','now')),
+        updated_at  TEXT NOT NULL DEFAULT (strftime('%Y-%m-%dT%H:%M:%fZ','now')),
+        edited_at   TEXT
+      )`);
+      // edited_at: set when an admin creates or changes a festival on the website, like
+      // songs/shows.edited_at — the import then leaves the row alone (unless --overwrite-edits).
+      addColumnIfMissing(db, 'users', 'festival_id', 'INTEGER REFERENCES festivals(id) ON DELETE SET NULL');
+      db.exec('CREATE INDEX IF NOT EXISTS idx_users_festival ON users(festival_id)');
+    },
+  },
+  {
+    version: 4,
+    up(db) {
+      // Festivals an admin deleted on the website, by slug (import_tombstones only takes songs and
+      // shows): `npm run import` and startup seeding don't bring them back unless --overwrite-edits.
+      // Re-creating the slug on the website (or restoring it with --overwrite-edits) clears the row.
+      db.exec(`CREATE TABLE IF NOT EXISTS festival_tombstones (
+        slug        TEXT PRIMARY KEY,
+        deleted_at  TEXT NOT NULL
+      )`);
     },
   },
 ];

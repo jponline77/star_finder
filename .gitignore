@@ -1,6 +1,10 @@
 node_modules/
 server/data/
 server/uploads/
+# third-party images (show posters from Wikipedia, album art from Apple): not redistributed —
+# `npm run fetch-media` downloads them from their sources (server/seed/shows.json, media.json)
+server/media/shows/
+server/media/art/
 client/dist/
 test-results/
 playwright-report/

@@ -112,6 +112,50 @@ export async function apiCreateSolo(api: APIRequestContext, overrides: Record<st
   });
 }
 
+export interface ApiFestival {
+  id: number;
+  slug: string;
+  name: string;
+  kind: 'regional' | 'online' | 'national';
+  province: string | null;
+  city: string | null;
+  startDate: string | null;
+  endDate: string | null;
+  dateLabel: string | null;
+  venue: string | null;
+  infoUrl: string | null;
+  sortOrder: number;
+  active: boolean;
+}
+
+/** GET /api/festivals (active only; `all` = hidden ones too, admins only). */
+export async function apiFestivals(api: APIRequestContext, all = false): Promise<ApiFestival[]> {
+  return (await ok<{ festivals: ApiFestival[] }>(await api.get(`/api/festivals${all ? '?all=1' : ''}`), 'list festivals')).festivals;
+}
+
+/**
+ * What the pickers offer, in picker order (SPEC §7b): active regionals by date with "to be
+ * announced" last, then online ones.
+ */
+export function pickerOrder(festivals: ApiFestival[]): ApiFestival[] {
+  const key = (f: ApiFestival) => f.startDate ?? f.endDate;
+  const byDate = (a: ApiFestival, b: ApiFestival) => {
+    const ka = key(a);
+    const kb = key(b);
+    if (ka && !kb) return -1;
+    if (!ka && kb) return 1;
+    if (ka && kb && ka !== kb) return ka < kb ? -1 : 1;
+    return a.sortOrder - b.sortOrder || a.name.localeCompare(b.name);
+  };
+  const active = festivals.filter((f) => f.active);
+  return [...active.filter((f) => f.kind === 'regional').sort(byDate), ...active.filter((f) => f.kind === 'online').sort(byDate)];
+}
+
+/** The visitor's festival on this device (localStorage `star.festival`). */
+export async function storedFestival(page: Page): Promise<string | null> {
+  return page.evaluate(() => window.localStorage.getItem('star.festival'));
+}
+
 /**
  * Replace HTMLMediaElement playback with a stub: play() resolves immediately and fires the
  * "playing" event, pause() fires "pause". Keeps the suite off the network (Apple previews) and

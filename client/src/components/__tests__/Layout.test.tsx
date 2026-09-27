@@ -1,10 +1,12 @@
 import { afterAll, beforeAll, describe, expect, it } from 'vitest';
 import { act, fireEvent, render, screen, waitFor } from '@testing-library/react';
 import { createMemoryRouter, Link, Outlet, RouterProvider } from 'react-router';
-import { makeSong } from '../../test/fixtures';
+import { makeMeta, makeSong } from '../../test/fixtures';
+import type { Meta } from '../../types';
 import { useDocumentTitle } from '../../hooks/useDocumentTitle';
 import { AudioProvider } from '../../state/AudioProvider';
 import { AuthProvider } from '../../state/AuthProvider';
+import { FestivalProvider } from '../../state/FestivalProvider';
 import { SongsProvider } from '../../state/SongsProvider';
 import { ToastProvider } from '../../state/ToastProvider';
 import { Layout } from '../Layout';
@@ -49,7 +51,7 @@ function Detail() {
   return <h1>Popular</h1>;
 }
 
-function renderApp(route = '/') {
+function renderApp(route = '/', meta: Meta | null = null) {
   const router = createMemoryRouter(
     [
       {
@@ -57,10 +59,12 @@ function renderApp(route = '/') {
         element: (
           <ToastProvider>
             <AuthProvider initialUser={null}>
-              <SongsProvider initialSongs={[song]} initialMeta={null}>
-                <AudioProvider>
-                  <Outlet />
-                </AudioProvider>
+              <SongsProvider initialSongs={[song]} initialMeta={meta}>
+                <FestivalProvider>
+                  <AudioProvider>
+                    <Outlet />
+                  </AudioProvider>
+                </FestivalProvider>
               </SongsProvider>
             </AuthProvider>
           </ToastProvider>
@@ -131,6 +135,20 @@ describe('Header mobile menu', () => {
     fireEvent.click(screen.getByTestId('menu-toggle'));
     fireEvent.blur(screen.getByTestId('mobile-nav-shows'), { relatedTarget: screen.getByTestId('card-link') });
     expect(document.getElementById('mobile-nav')).toBeNull();
+  });
+});
+
+describe('Header festival picker (SPEC §7b)', () => {
+  it('is in the header bar and in the mobile menu, and both stay in sync', async () => {
+    renderApp('/', makeMeta());
+    const chip = screen.getByTestId('header-festival');
+    expect(chip).toHaveAccessibleName('Choose your festival');
+    fireEvent.click(screen.getByTestId('menu-toggle'));
+    const select = screen.getByTestId('mobile-festival');
+    expect(select).toHaveAccessibleName('Your festival');
+    fireEvent.change(select, { target: { value: 'victoria' } });
+    await waitFor(() => expect(chip).toHaveAccessibleName('Your festival: Victoria'));
+    expect(await screen.findByText('Victoria it is! Your countdown is set.')).toBeInTheDocument();
   });
 });
 

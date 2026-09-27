@@ -3,9 +3,10 @@ import { Router } from 'express';
 import ExcelJS from 'exceljs';
 import { fold, formatLength } from '../lib/text.js';
 import {
-  VOCAL_RANGES, GENRES, TIME_LIMIT_SECONDS, WARN_SECONDS, FESTIVAL, matchExisting,
+  VOCAL_RANGES, GENRES, TIME_LIMIT_SECONDS, WARN_SECONDS, matchExisting,
 } from '../lib/vocab.js';
 import { listSongs, subGenreSummary, distinctGenres } from '../repo.js';
+import { listFestivals } from '../lib/festivals.js';
 
 export const LENGTH_BUCKETS = [
   { label: 'Under 2:00', min: 0, max: 119 },
@@ -48,7 +49,9 @@ export function metaRouter(ctx) {
       counts: { songs: counts.songs ?? 0, solos: counts.solos ?? 0, duets: counts.duets ?? 0, shows: counts.shows ?? 0 },
       timeLimitSeconds: TIME_LIMIT_SECONDS,
       warnSeconds: WARN_SECONDS,
-      festival: { ...FESTIVAL },
+      // SPEC §7b: every active festival (regional, online and national) + the site's default choice.
+      festivals: listFestivals(db),
+      defaultFestivalSlug: ctx.defaultFestivalSlug(),
     });
   });
 

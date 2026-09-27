@@ -7,6 +7,7 @@ import { requireUser, requireAdmin } from '../middleware.js';
 import {
   listSongs, listShows, listComments, listAdminUsers, getAdminUser, getUserRow, listRecentComments,
 } from '../repo.js';
+import { adminFestivalsRouter } from './festivals.js';
 
 /** @param {import('../app.js').AppContext} ctx */
 export function meRouter(ctx) {
@@ -89,6 +90,8 @@ export function adminRouter(ctx) {
     }
     res.json({ comments: listRecentComments(db, limit) });
   });
+
+  r.use('/festivals', adminFestivalsRouter(ctx));
 
   return r;
 }

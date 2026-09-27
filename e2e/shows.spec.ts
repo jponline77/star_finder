@@ -20,6 +20,7 @@ test.describe('Shows', () => {
   test('show detail has credits, licensing, cast and songs split into solos and duets', async ({ page }) => {
     const show = (await (await page.request.get('/api/shows/hadestown')).json()) as {
       name: string;
+      imageUrl: string | null;
       soloCount: number;
       duetCount: number;
       characters: { name: string }[];
@@ -30,8 +31,16 @@ test.describe('Shows', () => {
     await expect(page.getByTestId('show-credits')).toContainText('Anaïs Mitchell');
     await expect(page.locator('.show-description')).toBeVisible();
     await expect(page.locator('.show-description')).not.toHaveClass(/is-empty/);
-    const poster = page.getByTestId('show-hero').locator('img').first();
-    await expect.poll(() => poster.evaluate((img: HTMLImageElement) => (img.complete ? img.naturalWidth : 0))).toBeGreaterThan(0);
+    // Posters aren't in the repository (`npm run fetch-media` downloads them): when the file is there it
+    // must render; without it the gradient placeholder stands in.
+    expect(show.imageUrl).toBe('/media/shows/hadestown.png');
+    if ((await page.request.get(show.imageUrl!)).ok()) {
+      const poster = page.getByTestId('show-hero').locator('img').first();
+      await expect.poll(() => poster.evaluate((img: HTMLImageElement) => (img.complete ? img.naturalWidth : 0))).toBeGreaterThan(0);
+    } else {
+      await expect(page.getByTestId('show-hero').locator('.show-poster-fallback')).toBeVisible();
+      await expect(page.getByTestId('show-hero').locator('img')).toHaveCount(0);
+    }
     await expect(page.getByTestId('licensing-panel')).toContainText(/Music Theatre International|MTI/);
     await expect(page.getByTestId('solos-section').getByTestId('song-card')).toHaveCount(show.soloCount);
     await expect(page.getByTestId('duets-section').getByTestId('song-card')).toHaveCount(show.duetCount);

@@ -14,13 +14,6 @@ export const COMMENT_TAGS = Object.freeze(['general', 'tip', 'question', 'perfor
 export const TIME_LIMIT_SECONDS = 360;
 export const WARN_SECONDS = 330;
 
-export const FESTIVAL = Object.freeze({
-  name: 'Vancouver Regional STAR Fest',
-  date: '2026-12-11',
-  venue: 'SFU School for the Contemporary Arts (SFU SCA)',
-  url: 'https://taeacanada.ca/regional-star-fest/',
-});
-
 // Aliases are compared after folding and collapsing spaces/hyphens/dots.
 const RANGE_ALIASES = new Map([
   ['soprano', 'Soprano'], ['sop', 'Soprano'], ['s', 'Soprano'],

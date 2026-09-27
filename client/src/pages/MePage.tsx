@@ -1,6 +1,6 @@
 /**
  * "/me" My Stuff (SPEC §7.14): backstage-pass header (avatar, name, role, member since),
- * "choose a new password" banner after an admin reset, profile + password forms, and tabs for
+ * "choose a new password" banner after an admin reset, My festival (§7b), profile + password forms, and tabs for
  * my songs / my shows / my comments (GET /api/me/contributions) with edit/delete.
  * Mounted inside <RequireAuth>.
  */
@@ -19,6 +19,7 @@ import { useAuth } from '../state/AuthProvider';
 import type { Comment, Contributions, User } from '../types';
 import { CURRENT_PASSWORD_ID, PasswordForm, ProfileForm } from './me/AccountForms';
 import { MyComments, MyShows, MySongs } from './me/Contributions';
+import { FestivalSetting } from './me/FestivalSetting';
 import './MePage.css';
 
 type TabId = 'songs' | 'shows' | 'comments';
@@ -146,10 +147,12 @@ function PasswordFormSlot({ mustChange }: { mustChange: boolean }) {
   return mustChange ? (
     <>
       <PasswordForm highlight />
+      <FestivalSetting mustChange />
       <ProfileForm />
     </>
   ) : (
     <>
+      <FestivalSetting />
       <ProfileForm />
       <PasswordForm />
     </>

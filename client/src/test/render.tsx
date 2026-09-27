@@ -10,6 +10,7 @@ import type { ReactElement } from 'react';
 import { createMemoryRouter, Outlet, RouterProvider } from 'react-router';
 import { AudioProvider } from '../state/AudioProvider';
 import { AuthProvider } from '../state/AuthProvider';
+import { FestivalProvider } from '../state/FestivalProvider';
 import { SongsProvider } from '../state/SongsProvider';
 import { ToastProvider } from '../state/ToastProvider';
 import type { Meta, Song, User } from '../types';
@@ -22,10 +23,12 @@ export interface ProviderOptions {
   user?: User | null;
   songs?: Song[];
   meta?: Meta | null;
+  /** Load songs + meta from the (mocked) API like the real app, instead of passing them in. */
+  live?: boolean;
 }
 
 export function renderWithProviders(ui: ReactElement, options: ProviderOptions = {}): RenderResult & { router: ReturnType<typeof createMemoryRouter> } {
-  const { route = '/', path = '*', user = null, songs = [], meta = null } = options;
+  const { route = '/', path = '*', user = null, songs = [], meta = null, live = false } = options;
   const router = createMemoryRouter(
     [
       {
@@ -33,10 +36,12 @@ export function renderWithProviders(ui: ReactElement, options: ProviderOptions =
         element: (
           <ToastProvider>
             <AuthProvider initialUser={user}>
-              <SongsProvider initialSongs={songs} initialMeta={meta}>
-                <AudioProvider>
-                  <RoutesOutlet />
-                </AudioProvider>
+              <SongsProvider initialSongs={live ? undefined : songs} initialMeta={live ? undefined : meta}>
+                <FestivalProvider>
+                  <AudioProvider>
+                    <RoutesOutlet />
+                  </AudioProvider>
+                </FestivalProvider>
               </SongsProvider>
             </AuthProvider>
           </ToastProvider>

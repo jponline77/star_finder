@@ -41,6 +41,9 @@ const server = app.listen(PORT, HOST, (err) => {
   log(`🌟 STAR Song Finder API listening on http://localhost:${PORT} (${isProd ? 'production' : 'development'})`);
   log(`   database: ${dbPath} (${songCount} songs)`);
   if (songCount === 0) log('   ⚠️  The database is empty — run `npm run import` (in server/) to load the spreadsheet.');
+  const festivalCount = db.prepare('SELECT count(*) AS n FROM festivals WHERE active = 1').get().n;
+  const defaultFestival = app.locals.ctx.defaultFestivalSlug();
+  log(`   festivals: ${festivalCount} shown${defaultFestival ? `, default "${defaultFestival}" (STAR_DEFAULT_FESTIVAL)` : ''}`);
   if (isProd) {
     if (fs.existsSync(path.join(clientDistDir, 'index.html'))) log(`   serving client from ${clientDistDir}`);
     else log(`   ⚠️  ${clientDistDir} not found — run \`npm run build\` at the repo root to serve the website`);

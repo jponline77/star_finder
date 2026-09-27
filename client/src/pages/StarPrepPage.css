@@ -13,6 +13,8 @@
 
 .prep-marquee {
   width: min(100%, 900px);
+  /* above the jump chips and cards below, so the festival picker's popover isn't covered */
+  z-index: 3;
 }
 
 .prep-marquee-inner {
@@ -62,6 +64,27 @@
 
 .prep-countdown-label strong {
   color: var(--marquee-gold);
+}
+
+.prep-countdown-pending {
+  min-height: 4.5rem;
+}
+
+.prep-countdown-note {
+  font-weight: 800;
+  color: var(--marquee-text);
+}
+
+.prep-countdown .festival-picker {
+  margin-top: var(--space-2xs);
+}
+
+.prep-hero-link {
+  font-family: var(--font-body);
+  font-size: var(--step--1);
+  font-weight: 800;
+  color: var(--marquee-gold);
+  text-shadow: none;
 }
 
 .prep-jump {
@@ -1004,9 +1027,145 @@
   color: var(--accent-pink);
 }
 
+.prep-date.is-tbd .prep-date-month {
+  background: var(--surface-3);
+  color: var(--text-muted);
+}
+
+.prep-date.is-tbd .prep-date-day {
+  color: var(--text-subtle);
+}
+
+.prep-date.kind-online .prep-date-month {
+  background: var(--accent-teal);
+  color: var(--on-teal);
+}
+
+.prep-date.kind-national .prep-date-month {
+  background: var(--primary);
+  color: var(--on-primary);
+}
+
+.prep-date-note {
+  font-style: italic;
+}
+
+.prep-date-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-2xs) var(--space-xs);
+  margin-top: var(--space-2xs);
+}
+
+.prep-date-mine.is-mine,
+.prep-date-mine.is-mine:hover {
+  --btn-bg: var(--primary);
+  --btn-bg-hover: var(--primary);
+  --btn-fg: var(--on-primary);
+  --btn-border: transparent;
+  opacity: 1;
+  cursor: default;
+}
+
+/* teachers' share link for the chosen festival */
+.prep-share {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  gap: var(--space-sm) var(--space-md);
+  align-items: center;
+  margin-top: var(--space-lg);
+  padding: var(--space-md) var(--space-lg);
+  border: 2px dashed color-mix(in srgb, var(--primary) 55%, transparent);
+  border-radius: var(--radius-lg);
+  background:
+    radial-gradient(80% 140% at 0% 0%, var(--primary-soft), transparent 70%),
+    var(--surface);
+}
+
+.prep-share-icon {
+  display: grid;
+  place-items: center;
+  width: 48px;
+  height: 48px;
+  border-radius: 14px;
+  background: var(--primary-soft);
+  color: var(--primary-text);
+}
+
+.prep-share-text {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+  min-width: 0;
+}
+
+.prep-share-title {
+  font-weight: 900;
+  color: var(--heading);
+}
+
+.prep-share-hint {
+  font-size: var(--step--1);
+  color: var(--text-muted);
+}
+
+.prep-share-url {
+  align-self: flex-start;
+  max-width: 100%;
+  margin-top: 0.2rem;
+  padding: 0.15em 0.5em;
+  border-radius: var(--radius-xs);
+  background: var(--surface-2);
+  font-family: var(--font-mono);
+  font-size: var(--step--1);
+  overflow-wrap: anywhere;
+}
+
+.prep-share-copy {
+  grid-column: 1 / -1;
+  justify-self: start;
+}
+
+@media (min-width: 760px) {
+  .prep-share {
+    grid-template-columns: auto minmax(0, 1fr) auto;
+  }
+  .prep-share-copy {
+    grid-column: auto;
+  }
+}
+
+/* national festivals */
+.prep-nationals {
+  margin-top: var(--space-xl);
+  scroll-margin-top: calc(var(--header-h) + 16px);
+}
+
+.prep-nationals-title {
+  font-family: var(--font-display);
+  font-weight: 400;
+  font-size: var(--step-2);
+  color: var(--heading);
+}
+
+.prep-nationals-lede {
+  margin: var(--space-2xs) 0 var(--space-md);
+  color: var(--text-muted);
+}
+
 .prep-caveat {
   margin-top: var(--space-lg);
   align-items: flex-start;
+}
+
+/* the festival list couldn't be loaded */
+.prep-dates-error {
+  align-items: center;
+  flex-wrap: wrap;
+}
+.prep-dates-error p {
+  flex: 1 1 16rem;
+  margin: 0;
 }
 
 .prep-official {

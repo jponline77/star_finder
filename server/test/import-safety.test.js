@@ -363,3 +363,14 @@ describe('corrections that collide with website songs', () => {
     }
   });
 });
+
+describe('the seed spreadsheet is published with the repository', () => {
+  test('its document properties name no person (Excel records who saved it)', async () => {
+    const wb = new ExcelJS.Workbook();
+    await wb.xlsx.readFile(XLSX);
+    const props = { creator: wb.creator, lastModifiedBy: wb.lastModifiedBy, company: wb.company, manager: wb.manager };
+    const named = Object.entries(props).filter(([, v]) => typeof v === 'string' && v.trim());
+    assert.deepEqual(named, [], 'server/seed/star_spreadsheet.xlsx names someone in its properties. Clear them before committing '
+      + '(Excel: File → Info → Check for Issues → Inspect Document → Document Properties and Personal Information → Remove All).');
+  });
+});

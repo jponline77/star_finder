@@ -25,12 +25,15 @@ export interface AuthContextValue {
   isAdmin: boolean;
   /** Throws ApiError (401 wrong credentials, 403 disabled, 429 rate limited). */
   login: (email: string, password: string) => Promise<User>;
-  /** Throws ApiError (409 duplicate email, 400 with details per field). */
+  /** Throws ApiError (409 duplicate email, 400 with details per field). `festivalSlug` is optional. */
   signup: (input: SignupInput) => Promise<User>;
   logout: () => Promise<void>;
   /** Re-fetch /api/auth/me. */
   refresh: () => Promise<User | null>;
-  /** PUT /api/auth/me — display name and/or password (needs currentPassword). */
+  /**
+   * PUT /api/auth/me — display name, festival and/or password (needs currentPassword). The answer
+   * only updates `user` if the same account is still logged in when it arrives.
+   */
   updateProfile: (input: ProfileUpdateInput) => Promise<User>;
   /** Low-level: prefer `useKeepDraftOnSessionEnd`. Returns an unregister function. */
   registerDraftSaver: (save: DraftSaver) => () => void;
@@ -138,13 +141,26 @@ export function AuthProvider({ children, initialUser }: { children: ReactNode; i
   }, [setUser]);
 
   const signup = useCallback(async (input: SignupInput) => {
-    const { user: me } = await api.signup({
+    const body: SignupInput = {
       email: input.email.trim(),
       password: input.password,
       displayName: input.displayName.trim(),
-    });
-    setUser(me);
-    return me;
+    };
+    if (input.festivalSlug) body.festivalSlug = input.festivalSlug;
+    let res: { user: User };
+    try {
+      res = await api.signup(body);
+    } catch (e) {
+      // A festival hidden since the page loaded mustn't block the signup: join without it
+      // (FestivalProvider then keeps the choice on this device).
+      const onlyFestival = api.isApiError(e) && e.status === 400 && Boolean(e.field('festivalSlug')) && Object.keys(e.details).length === 1;
+      if (!body.festivalSlug || !onlyFestival) throw e;
+      const { festivalSlug: _dropped, ...rest } = body;
+      void _dropped;
+      res = await api.signup(rest);
+    }
+    setUser(res.user);
+    return res.user;
   }, [setUser]);
 
   const logout = useCallback(async () => {
@@ -159,8 +175,12 @@ export function AuthProvider({ children, initialUser }: { children: ReactNode; i
   }, [setUser]);
 
   const updateProfile = useCallback(async (input: ProfileUpdateInput) => {
+    const before = userRef.current?.id ?? null;
     const { user: me } = await api.updateMe(input);
-    setUser(me);
+    // Background saves (e.g. the festival) can answer after a logout, or after someone else logged
+    // in on this computer: don't bring that account back into the page.
+    const now = userRef.current;
+    if (now && now.id === before && me.id === before) setUser(me);
     return me;
   }, [setUser]);
 

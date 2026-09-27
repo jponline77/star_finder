@@ -7,12 +7,27 @@ import {
 } from '../lib/auth.js';
 import { requireUser } from '../middleware.js';
 import { toUser, getUserRow, getUserRowByEmail } from '../repo.js';
+import { validateFestivalChoice } from '../lib/festivals.js';
 import { nowIso } from '../db.js';
 
 const LOGIN_FAILED = 'Email or password is incorrect';
 const ACCOUNT_DISABLED = 'This account has been disabled — talk to your teacher';
 const TEMP_PASSWORD_EXPIRED = 'Your temporary password has expired — ask your teacher for a new one';
 const WRONG_CURRENT = 'Your current password is incorrect';
+
+const FESTIVAL_GONE = "That festival isn't available any more — choose one from the list";
+const festivalGone = () => badRequest(FESTIVAL_GONE, { festivalSlug: FESTIVAL_GONE });
+
+/**
+ * Validate a festivalSlug again just before writing it (after an await): the festival id, or a
+ * 400 with details.festivalSlug when it was hidden or deleted in the meantime.
+ */
+function recheckFestivalChoice(db, slug) {
+  const v = new Validator();
+  const id = validateFestivalChoice(v, db, slug);
+  if (!v.ok) throw badRequest(v.details.festivalSlug ?? FESTIVAL_GONE, v.details);
+  return id ?? null;
+}
 
 const wantsPasswordChange = (body) => body && body.newPassword !== undefined && body.newPassword !== null && body.newPassword !== '';
 
@@ -28,18 +43,27 @@ export function authRouter(ctx) {
     const email = normalizeEmail(v, body.email);
     const password = validatePassword(v, body.password);
     const displayName = validateDisplayName(v, body.displayName);
+    // Optional: the festival the visitor already picked in this browser (SPEC §7b).
+    const festivalId = body.festivalSlug === undefined ? null : validateFestivalChoice(v, db, body.festivalSlug);
     v.check();
     if (getUserRowByEmail(db, email)) throw new HttpError(409, 'An account with that email already exists', { email: 'An account with that email already exists' });
     const hash = await hashPassword(password);
+    // The festival may have been hidden or deleted while the password was hashed: check it again
+    // right before the write (no await in between, so nothing can change it now).
+    const festivalAtWrite = festivalId ? recheckFestivalChoice(db, body.festivalSlug) : null;
     // Always a regular user: nobody has proven they own this email address, so being listed in
     // STAR_ADMIN_EMAILS must not make the account an admin (see applyAdminEmails / make-admin).
     let id;
     try {
       id = db
-        .prepare("INSERT INTO users (email, display_name, password_hash, role, last_login_at) VALUES (?, ?, ?, 'user', ?)")
-        .run(email, displayName, hash, nowIso()).lastInsertRowid;
+        .prepare("INSERT INTO users (email, display_name, password_hash, role, last_login_at, festival_id) VALUES (?, ?, ?, 'user', ?, ?)")
+        .run(email, displayName, hash, nowIso(), festivalAtWrite).lastInsertRowid;
     } catch (err) {
-      if (String(err?.code).startsWith('SQLITE_CONSTRAINT')) throw new HttpError(409, 'An account with that email already exists', { email: 'An account with that email already exists' });
+      // Only a clash on the email means "already exists" (a missing festival is not the email's fault).
+      if (err?.code === 'SQLITE_CONSTRAINT_UNIQUE' || err?.code === 'SQLITE_CONSTRAINT_PRIMARYKEY') {
+        throw new HttpError(409, 'An account with that email already exists', { email: 'An account with that email already exists' });
+      }
+      if (err?.code === 'SQLITE_CONSTRAINT_FOREIGNKEY') throw festivalGone();
       throw err;
     }
     const token = createSession(db, Number(id));
@@ -91,6 +115,8 @@ export function authRouter(ctx) {
     const v = new Validator();
     const updates = {};
     if (body.displayName !== undefined) updates.displayName = validateDisplayName(v, body.displayName);
+    // festivalSlug: a slug to choose (active regional/online festival) or null to clear (SPEC §7b).
+    if (body.festivalSlug !== undefined) updates.festivalId = validateFestivalChoice(v, db, body.festivalSlug);
     let newHash = null;
     if (wantsPasswordChange(body)) {
       const newPassword = validatePassword(v, body.newPassword, 'newPassword');
@@ -107,15 +133,24 @@ export function authRouter(ctx) {
         throw badRequest(WRONG_CURRENT, { currentPassword: WRONG_CURRENT });
       }
       newHash = await hashPassword(newPassword);
+      // The festival may have been hidden or deleted during the password checks: look again right
+      // before the write (no await in between), so it can't fail on the foreign key.
+      if (typeof updates.festivalId === 'number') updates.festivalId = recheckFestivalChoice(db, body.festivalSlug);
     }
     v.check();
-    db.transaction(() => {
-      if (updates.displayName) db.prepare('UPDATE users SET display_name = ? WHERE id = ?').run(updates.displayName, req.user.id);
-      if (newHash) {
-        db.prepare('UPDATE users SET password_hash = ?, must_change_password = 0, temp_password_expires_at = NULL WHERE id = ?').run(newHash, req.user.id);
-        db.prepare('DELETE FROM sessions WHERE user_id = ? AND token_hash != ?').run(req.user.id, req.sessionHash);
-      }
-    })();
+    try {
+      db.transaction(() => {
+        if (updates.displayName) db.prepare('UPDATE users SET display_name = ? WHERE id = ?').run(updates.displayName, req.user.id);
+        if (updates.festivalId !== undefined) db.prepare('UPDATE users SET festival_id = ? WHERE id = ?').run(updates.festivalId, req.user.id);
+        if (newHash) {
+          db.prepare('UPDATE users SET password_hash = ?, must_change_password = 0, temp_password_expires_at = NULL WHERE id = ?').run(newHash, req.user.id);
+          db.prepare('DELETE FROM sessions WHERE user_id = ? AND token_hash != ?').run(req.user.id, req.sessionHash);
+        }
+      })();
+    } catch (err) {
+      if (err?.code === 'SQLITE_CONSTRAINT_FOREIGNKEY') throw festivalGone();
+      throw err;
+    }
     res.json({ user: toUser(getUserRow(db, req.user.id)) });
   });
 

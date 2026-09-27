@@ -1,12 +1,13 @@
 /**
  * "/admin" (SPEC §7.15) — admins only (others see a polite "Admins only 👑" page).
- * Overview counters, then tabs: Users (roles, disable, reset password) and Comments (moderation
- * feed). Also offers the spreadsheet export. Mounted inside <RequireAuth>.
+ * Overview counters, then tabs: Users (roles, disable, reset password), Comments (moderation
+ * feed) and Festivals (SPEC §7b: add / edit / hide / delete). Also offers the spreadsheet export.
+ * Mounted inside <RequireAuth>.
  */
 import { Download, RefreshCw } from 'lucide-react';
 import { useCallback, useMemo, useState } from 'react';
 import { Link, useSearchParams } from 'react-router';
-import { adminListComments, adminListUsers, EXPORT_XLSX_URL, errorMessage } from '../api';
+import { adminListComments, adminListFestivals, adminListUsers, EXPORT_XLSX_URL, errorMessage } from '../api';
 import { TabPanel, Tabs } from '../components/Controls';
 import { ErrorState } from '../components/EmptyState';
 import { Skeleton } from '../components/Skeletons';
@@ -14,12 +15,13 @@ import { useApiData } from '../hooks/useApiData';
 import { useDocumentTitle } from '../hooks/useDocumentTitle';
 import { useAuth } from '../state/AuthProvider';
 import { useSongs } from '../state/SongsProvider';
-import type { AdminUser, Comment } from '../types';
+import type { AdminUser, Comment, Festival } from '../types';
 import { CommentsPanel } from './admin/CommentsPanel';
+import { FestivalsPanel } from './admin/FestivalsPanel';
 import { UsersPanel } from './admin/UsersPanel';
 import './AdminPage.css';
 
-type TabId = 'users' | 'comments';
+type TabId = 'users' | 'comments' | 'festivals';
 const PAGE = 100;
 const WEEK_MS = 7 * 24 * 60 * 60 * 1000;
 
@@ -59,7 +61,8 @@ function AdminsOnly() {
 
 function AdminBooth() {
   const [params, setParams] = useSearchParams();
-  const tab: TabId = params.get('tab') === 'comments' ? 'comments' : 'users';
+  const tabParam = params.get('tab');
+  const tab: TabId = tabParam === 'comments' || tabParam === 'festivals' ? tabParam : 'users';
   const setTab = useCallback(
     (t: TabId) => {
       const next = new URLSearchParams(params);
@@ -74,6 +77,10 @@ function AdminBooth() {
   const [limit, setLimit] = useState(PAGE);
   const comments = useApiData<{ comments: Comment[] }>((signal) => adminListComments(limit, signal), [limit]);
   const { songs } = useSongs();
+  // Festivals load the first time their tab is opened (then stay loaded).
+  const [festivalsWanted, setFestivalsWanted] = useState(tab === 'festivals');
+  if (tab === 'festivals' && !festivalsWanted) setFestivalsWanted(true);
+  const festivals = useApiData<{ festivals: Festival[] }>((signal) => adminListFestivals(signal), [], { enabled: festivalsWanted });
 
   const userList = useMemo(() => users.data?.users ?? [], [users.data]);
   // Removed comments are hidden locally so "has more" still reflects the size of the server page.
@@ -98,7 +105,9 @@ function AdminBooth() {
   const refreshAll = () => {
     users.reload();
     comments.reload();
+    if (festivalsWanted) festivals.reload();
   };
+  const busy = users.loading || comments.loading || (festivalsWanted && festivals.loading);
 
   return (
     <div className="container admin-page">
@@ -110,11 +119,11 @@ function AdminBooth() {
           <h1 className="page-title">
             Admin <span className="admin-title-crown" aria-hidden="true">👑</span>
           </h1>
-          <p className="page-subtitle">Look after accounts, keep Backstage Chatter kind, and grab the whole song list as a spreadsheet.</p>
+          <p className="page-subtitle">Look after accounts, keep Backstage Chatter kind, keep festival dates current, and grab the whole song list as a spreadsheet.</p>
         </div>
         <div className="cluster admin-header-actions">
-          <button type="button" className="btn btn-ghost btn-sm" onClick={refreshAll} disabled={users.loading || comments.loading} data-testid="admin-refresh">
-            <RefreshCw size={16} aria-hidden="true" className={users.loading || comments.loading ? 'admin-spin' : undefined} /> Refresh
+          <button type="button" className="btn btn-ghost btn-sm" onClick={refreshAll} disabled={busy} data-testid="admin-refresh">
+            <RefreshCw size={16} aria-hidden="true" className={busy ? 'admin-spin' : undefined} /> Refresh
           </button>
           <a href={EXPORT_XLSX_URL} download className="btn btn-primary" data-testid="admin-download-xlsx">
             <Download size={18} aria-hidden="true" /> Download spreadsheet (.xlsx)
@@ -144,6 +153,7 @@ function AdminBooth() {
         tabs={[
           { id: 'users', label: 'Users', badge: users.data ? userList.length : undefined, testId: 'admin-tab-users' },
           { id: 'comments', label: 'Comments', badge: comments.data ? `${commentList.length}${pageFull ? '+' : ''}` : undefined, testId: 'admin-tab-comments' },
+          { id: 'festivals', label: 'Festivals', badge: festivals.data ? festivals.data.festivals.length : undefined, testId: 'admin-tab-festivals' },
         ]}
       />
 
@@ -170,6 +180,16 @@ function AdminBooth() {
             onLoadMore={() => setLimit((l) => Math.min(1000, l + PAGE))}
             onRemoved={(id) => setRemovedIds((prev) => new Set(prev).add(id))}
           />
+        )}
+      </TabPanel>
+
+      <TabPanel id="festivals" idPrefix="admin-tab" active={tab === 'festivals'}>
+        {festivals.error && !festivals.data ? (
+          <ErrorState title="Couldn’t load the festivals" message={errorMessage(festivals.error)} onRetry={festivals.reload} />
+        ) : !festivals.data ? (
+          <PanelSkeleton label="Loading festivals…" />
+        ) : (
+          <FestivalsPanel festivals={festivals.data.festivals} onChange={(next) => festivals.setData({ festivals: next })} />
         )}
       </TabPanel>
     </div>

@@ -12,6 +12,7 @@ import './styles/components.css';
 import './styles/song.css';
 import './styles/comments.css';
 import './styles/layout.css';
+import './styles/festival.css';
 
 import { installChunkReload } from './lib/chunkReload';
 import { initTheme } from './lib/theme';

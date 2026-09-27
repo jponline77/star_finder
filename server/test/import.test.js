@@ -174,8 +174,10 @@ describe('import with seed files', () => {
     assert.equal(h.image_credit, 'Poster via Wikipedia (fair use)');
     const lm = e.db.prepare("SELECT * FROM shows WHERE name = 'Les Misérables'").get();
     assert.equal(lm.year, 1985);
-    assert.equal(lm.image_path, null, 'missing image file → no poster');
-    assert.ok(summary.warnings.some((w) => w.includes('missing.jpg')));
+    assert.equal(lm.image_path, '/media/shows/missing.jpg', 'a missing image file keeps its path (fetch-media downloads it later)');
+    assert.deepEqual(summary.missingImages, ['shows/missing.jpg']);
+    assert.equal(summary.warnings.filter((w) => /missing/.test(w)).length, 1);
+    assert.ok(summary.warnings.some((w) => /^1 image missing from .*run `npm run fetch-media`/.test(w)));
     assert.ok(summary.warnings.some((w) => w.includes('Not In Spreadsheet')));
     assert.equal(e.db.prepare("SELECT count(*) AS n FROM shows WHERE name = 'Not In Spreadsheet'").get().n, 0);
   });
@@ -206,6 +208,73 @@ describe('import with seed files', () => {
       assert.equal(flowers.media.artworkUrl, '/media/art/abc123.jpg');
     } finally {
       app.locals.close();
+    }
+  });
+});
+
+describe('import before the seed images are downloaded (fresh checkout / offline setup)', () => {
+  test('image paths are stored anyway, ONE warning names the count, and fetch-media later needs no re-import', async () => {
+    const e = tmpEnv();
+    try {
+      fs.rmSync(e.mediaDir, { recursive: true, force: true }); // not even the folder exists yet
+      fs.copyFileSync(path.join(here, '..', 'seed', 'corrections.json'), path.join(e.seedDir, 'corrections.json')); // canonical names
+      fs.writeFileSync(path.join(e.seedDir, 'shows.json'), JSON.stringify([
+        { name: 'Hadestown', imageFile: 'hadestown.png', imageSourceUrl: 'https://upload.wikimedia.org/h.png', imageCredit: 'Image via Wikipedia' },
+        { name: 'Les Misérables', imageFile: '../../etc/passwd' },
+        { name: 'Into the Woods', imageFile: 'into-the-woods.jpg', imageSourceUrl: 'https://upload.wikimedia.org/w.jpg' },
+      ]));
+      const art = (file) => ({ previewUrl: 'https://audio-ssl.itunes.apple.com/p.m4a', artworkFile: file, artworkUrl: 'https://is1-ssl.mzstatic.com/a/600x600bb.jpg' });
+      fs.writeFileSync(path.join(e.seedDir, 'media.json'), JSON.stringify({
+        'solo|Hadestown|Flowers': art('abc123.jpg'),
+        'duet|Hadestown|Wedding Song': art('abc123.jpg'), // shared album art counts once
+        'solo|Into the Woods|Lament': art('.hidden.jpg'),
+      }));
+      const lines = [];
+      const summary = await importSpreadsheet({ db: e.db, xlsxPath: XLSX, seedDir: e.seedDir, mediaDir: e.mediaDir, log: (m) => lines.push(m) });
+
+      const show = (name) => e.db.prepare('SELECT image_path, image_source_url FROM shows WHERE name = ?').get(name);
+      assert.deepEqual(show('Hadestown'), { image_path: '/media/shows/hadestown.png', image_source_url: 'https://upload.wikimedia.org/h.png' });
+      assert.equal(show('Into the Woods').image_path, '/media/shows/into-the-woods.jpg');
+      assert.equal(show('Les Misérables').image_path, null, 'a path-like file name is ignored');
+      assert.equal(songRow(e.db, 'Flowers').artwork_path, '/media/art/abc123.jpg');
+      assert.equal(songRow(e.db, 'Wedding Song').artwork_path, '/media/art/abc123.jpg');
+      assert.equal(songRow(e.db, 'Lament').artwork_path, null, 'a dot file name is ignored');
+      assert.equal(songRow(e.db, 'Lament').preview_url, 'https://audio-ssl.itunes.apple.com/p.m4a', 'the rest of the entry still applies');
+
+      assert.deepEqual(summary.missingImages, ['art/abc123.jpg', 'shows/hadestown.png', 'shows/into-the-woods.jpg']);
+      const missing = summary.warnings.filter((w) => /missing/i.test(w));
+      assert.equal(missing.length, 1, missing.join('\n'));
+      assert.match(missing[0], /^3 images missing from .*run `npm run fetch-media`/);
+      assert.equal(lines.filter((l) => /fetch-media/.test(l)).length, 1, 'printed once');
+      assert.equal(summary.warnings.filter((w) => /not a plain image file name/.test(w)).length, 2);
+
+      // The website starts with no media folder, a missing image is a plain 404 (the client shows its
+      // gradient), and once fetch-media has put the files in place they are served — no re-import.
+      const app = createApp({ db: e.db, uploadsDir: path.join(e.dir, 'uploads'), mediaDir: e.mediaDir, env: {}, logger: { info() {}, warn() {}, error() {} } });
+      try {
+        const api = await request(app).get('/api/shows/hadestown');
+        assert.equal(api.body.imageUrl, '/media/shows/hadestown.png');
+        assert.equal((await request(app).get('/media/shows/hadestown.png')).status, 404);
+        assert.equal((await request(app).get('/media/art/abc123.jpg')).status, 404);
+        fs.mkdirSync(path.join(e.mediaDir, 'shows'), { recursive: true });
+        fs.writeFileSync(path.join(e.mediaDir, 'shows', 'hadestown.png'), PNG);
+        const img = await request(app).get('/media/shows/hadestown.png');
+        assert.equal(img.status, 200);
+        assert.equal(img.headers['content-type'], 'image/png');
+      } finally {
+        app.locals.close();
+      }
+
+      // re-import with the files present: no warning
+      fs.mkdirSync(path.join(e.mediaDir, 'art'), { recursive: true });
+      fs.writeFileSync(path.join(e.mediaDir, 'art', 'abc123.jpg'), PNG);
+      fs.writeFileSync(path.join(e.mediaDir, 'shows', 'into-the-woods.jpg'), PNG);
+      const again = await importSpreadsheet({ db: e.db, xlsxPath: XLSX, seedDir: e.seedDir, mediaDir: e.mediaDir });
+      assert.deepEqual(again.missingImages, []);
+      assert.equal(again.warnings.filter((w) => /fetch-media/.test(w)).length, 0);
+      assert.equal(songRow(e.db, 'Flowers').artwork_path, '/media/art/abc123.jpg');
+    } finally {
+      e.cleanup();
     }
   });
 });

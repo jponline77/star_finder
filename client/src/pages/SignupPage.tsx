@@ -12,6 +12,7 @@ import { useDocumentTitle } from '../hooks/useDocumentTitle';
 import { loginHref, safeNextPath } from '../lib/links';
 import { DISPLAY_NAME_MAX, passwordStrength, validateDisplayName, validateEmail, validatePassword } from '../lib/validation';
 import { useAuth } from '../state/AuthProvider';
+import { useFestival } from '../state/FestivalProvider';
 import { useToast } from '../state/ToastProvider';
 import { BackstagePass } from './BackstagePass';
 
@@ -20,6 +21,8 @@ type Errors = Partial<Record<'displayName' | 'email' | 'password', string>>;
 export default function SignupPage() {
   useDocumentTitle('Get a backstage pass');
   const { user, loading, signup } = useAuth();
+  // The festival this visitor already picked (not a site-wide default) goes onto the new account.
+  const { selected: festival, source: festivalSource } = useFestival();
   const toast = useToast();
   const [params] = useSearchParams();
   const next = safeNextPath(params.get('next'), '/');
@@ -60,7 +63,8 @@ export default function SignupPage() {
     }
     setBusy(true);
     try {
-      const me = await signup({ displayName, email, password });
+      const festivalSlug = festival && (festivalSource === 'local' || festivalSource === 'url') ? festival.slug : undefined;
+      const me = await signup({ displayName, email, password, festivalSlug });
       toast.success(`You're in the cast, ${me.displayName}!`, { emoji: '🎉', title: 'Backstage pass issued' });
     } catch (err) {
       setBusy(false);

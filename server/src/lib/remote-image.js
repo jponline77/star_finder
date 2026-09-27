@@ -8,11 +8,53 @@ import { sniffImage } from './media-types.js';
 import { IMAGE_MAX_BYTES, saveBuffer } from './uploads.js';
 import { stripImageMetadata } from './image-meta.js';
 
-export class RemoteImageError extends Error {}
+export const IMAGE_USER_AGENT = 'STARSongFinder/1.0 (school musical theatre song finder)';
+
+export class RemoteImageError extends Error {
+  /** @param {string} message @param {{ status?: number|null, retryable?: boolean, retryAfterMs?: number|null, code?: string|null }} [info] */
+  constructor(message, { status = null, retryable = false, retryAfterMs = null, code = null } = {}) {
+    super(message);
+    this.status = status;
+    /** true for network errors, timeouts, HTTP 408/429/5xx — worth trying again later */
+    this.retryable = retryable;
+    /** the server's Retry-After, in ms, when it sent one */
+    this.retryAfterMs = retryAfterMs;
+    /**
+     * For a network error (no HTTP answer): the system error code behind it — 'EAI_AGAIN' / 'ENOTFOUND'
+     * (DNS: usually offline), 'ECONNREFUSED', 'ECONNRESET', … — or 'TIMEOUT'. null otherwise.
+     */
+    this.code = code;
+  }
+}
+
+/** The code behind a failed fetch: undici puts the system error in `cause` (sometimes an AggregateError). */
+function networkErrorCode(err) {
+  if (err?.name === 'TimeoutError') return 'TIMEOUT';
+  for (const e of [err?.cause, err?.cause?.errors?.[0], err]) {
+    if (typeof e?.code === 'string' && /^[A-Z][A-Z0-9_]+$/.test(e.code)) return e.code;
+  }
+  return null;
+}
+
+/** A RemoteImageError for a request that got no (complete) HTTP answer. */
+function networkError(err) {
+  return new RemoteImageError(`Couldn't download image: ${err?.name === 'TimeoutError' ? 'timed out' : 'network error'}`, { retryable: true, code: networkErrorCode(err) });
+}
+
+/** Retry-After (seconds or an HTTP date) → ms, or null. */
+function retryAfterMs(res) {
+  const v = res.headers.get('retry-after');
+  if (!v) return null;
+  const secs = Number(v);
+  if (Number.isFinite(secs)) return Math.max(0, secs * 1000);
+  const at = Date.parse(v);
+  return Number.isFinite(at) ? Math.max(0, at - Date.now()) : null;
+}
 
 /**
  * @param {string} rawUrl
- * @param {{ fetchImpl?: typeof fetch, maxBytes?: number, timeoutMs?: number, isAllowedHost?: (host: string) => boolean, maxRedirects?: number }} [opts]
+ * @param {{ fetchImpl?: typeof fetch, maxBytes?: number, timeoutMs?: number, isAllowedHost?: (host: string) => boolean, maxRedirects?: number,
+ *   userAgent?: string }} [opts]
  * @returns {Promise<{ buffer: Buffer, ext: string, mime: string, url: string }>}
  */
 export async function fetchRemoteImage(rawUrl, opts = {}) {
@@ -22,6 +64,7 @@ export async function fetchRemoteImage(rawUrl, opts = {}) {
     timeoutMs = 10_000,
     isAllowedHost = isAllowedImageHost,
     maxRedirects = 3,
+    userAgent = IMAGE_USER_AGENT,
   } = opts;
   let url;
   try {
@@ -41,10 +84,10 @@ export async function fetchRemoteImage(rawUrl, opts = {}) {
       res = await fetchImpl(url.toString(), {
         redirect: 'manual',
         signal,
-        headers: { 'User-Agent': 'STARSongFinder/1.0 (school musical theatre song finder)', Accept: 'image/*' },
+        headers: { 'User-Agent': userAgent, Accept: 'image/*' },
       });
     } catch (err) {
-      throw new RemoteImageError(`Couldn't download image: ${err?.name === 'TimeoutError' ? 'timed out' : 'network error'}`);
+      throw networkError(err);
     }
     if (res.status >= 300 && res.status < 400) {
       const loc = res.headers.get('location');
@@ -58,7 +101,10 @@ export async function fetchRemoteImage(rawUrl, opts = {}) {
     }
     break;
   }
-  if (!res.ok) throw new RemoteImageError(`Image download failed (HTTP ${res.status})`);
+  if (!res.ok) {
+    const retryable = res.status === 408 || res.status === 429 || res.status >= 500;
+    throw new RemoteImageError(`Image download failed (HTTP ${res.status})`, { status: res.status, retryable, retryAfterMs: retryable ? retryAfterMs(res) : null });
+  }
   const type = (res.headers.get('content-type') || '').toLowerCase();
   if (!type.startsWith('image/') || type.includes('svg')) throw new RemoteImageError('That link is not an image');
   const declared = Number(res.headers.get('content-length'));
@@ -67,10 +113,16 @@ export async function fetchRemoteImage(rawUrl, opts = {}) {
   const chunks = [];
   let total = 0;
   if (res.body) {
-    for await (const chunk of res.body) {
-      total += chunk.length;
-      if (total > maxBytes) throw new RemoteImageError('Image is too large');
-      chunks.push(Buffer.from(chunk));
+    try {
+      for await (const chunk of res.body) {
+        total += chunk.length;
+        if (total > maxBytes) throw new RemoteImageError('Image is too large');
+        chunks.push(Buffer.from(chunk));
+      }
+    } catch (err) {
+      if (err instanceof RemoteImageError) throw err;
+      // the connection dropped or the timeout fired while the body was arriving
+      throw networkError(err);
     }
   }
   const buffer = Buffer.concat(chunks);
@@ -84,7 +136,7 @@ export async function fetchRemoteImage(rawUrl, opts = {}) {
  * `<uploadsDir>/<subdir>/<prefix><uuid>.<ext>`, metadata stripped, and return its public path
  * ('/uploads/art/….jpg'). Every download gets its own file, owned by the one row that points at
  * it, so it can be deleted when that row's image is replaced or the row is deleted. (Files under
- * server/media are the committed seed images and are never written by the API.)
+ * server/media are the seed images downloaded by `npm run fetch-media`; the API never writes them.)
  * @param {string} rawUrl
  * @param {{ uploadsDir: string, subdir: 'art'|'shows', prefix?: string, fetchImpl?: typeof fetch }} opts
  */
@@ -98,7 +150,7 @@ export async function downloadRemoteImage(rawUrl, { uploadsDir, subdir, prefix =
 /**
  * Download and cache a remote image under `<mediaDir>/<subdir>/<prefix><sha256(url)[:16]>.<ext>`.
  * Content-addressed by URL, so re-using the same art is free and files are never overwritten.
- * Used by `npm run enrich` for the committed seed media only (the API uses downloadRemoteImage).
+ * Used by `npm run enrich` for the seed media only (the API uses downloadRemoteImage).
  * Returns the public path, e.g. '/media/art/3f2a….jpg'.
  * @param {string} rawUrl
  * @param {{ mediaDir: string, subdir: 'art'|'shows', prefix?: string, fetchImpl?: typeof fetch }} opts

@@ -1,8 +1,8 @@
 import { afterEach, describe, expect, it, vi } from 'vitest';
 import { fireEvent, screen, waitFor, within } from '@testing-library/react';
 import { renderWithProviders } from '../../test/render';
-import { makeComment, makeUser } from '../../test/fixtures';
-import type { AdminUser } from '../../types';
+import { makeComment, makeFestivals, makeMeta, makeUser } from '../../test/fixtures';
+import type { AdminUser, Festival } from '../../types';
 import AdminPage from '../AdminPage';
 
 afterEach(() => vi.unstubAllGlobals());
@@ -185,5 +185,170 @@ describe('AdminPage', () => {
     fireEvent.click(screen.getByTestId('admin-tag-performed'));
     expect(screen.getAllByTestId('admin-comment')).toHaveLength(1);
     expect(screen.getByTestId('admin-comment')).toHaveTextContent('Loved it');
+  });
+});
+
+describe('AdminPage → Festivals (SPEC §7b)', () => {
+  const hidden: Festival = { ...makeFestivals()[0]!, id: 20, slug: 'kamloops', name: 'Kamloops Regional STAR Fest', city: 'Kamloops', startDate: null, dateLabel: 'Date to be announced', venue: null, active: false, sortOrder: 90 };
+  const ALL = [...makeFestivals(), hidden];
+  const festivalRoutes = (extra: Record<string, Handler> = {}) =>
+    baseRoutes({
+      'GET /api/festivals': () => ({ body: { festivals: ALL } }),
+      ...extra,
+    });
+  const frow = (slug: string) => screen.getAllByTestId('festival-row').find((r) => r.getAttribute('data-slug') === slug) as HTMLElement;
+  const open = async (fn = stubApi(festivalRoutes())) => {
+    const view = renderWithProviders(<AdminPage />, { route: '/admin?tab=festivals', path: '/admin', user: adminUser, meta: makeMeta() });
+    await screen.findByTestId('festivals-panel');
+    return { ...view, fn };
+  };
+  const body = (fn: ReturnType<typeof stubApi>, method: string, path: string) => {
+    const call = fn.mock.calls.filter(([u, i]) => String(u) === path && (i as RequestInit).method === method).at(-1);
+    return call ? JSON.parse(String((call[1] as RequestInit).body ?? 'null')) : undefined;
+  };
+
+  it('lists every festival (hidden ones too) grouped by kind, fetched with ?all=1 only when the tab opens', async () => {
+    const { fn } = await open();
+    expect(fn.mock.calls.some(([u]) => String(u) === '/api/festivals?all=1')).toBe(true);
+    expect(screen.getByRole('heading', { name: /Regional festivals/ })).toBeInTheDocument();
+    expect(screen.getByRole('heading', { name: /National festivals/ })).toBeInTheDocument();
+    expect(screen.getAllByTestId('festival-row')).toHaveLength(10);
+    expect(frow('kamloops')).toHaveTextContent('Hidden');
+    expect(within(frow('kamloops')).getByTestId('festival-active-switch')).not.toBeChecked();
+    expect(frow('star-fest-west')).toHaveTextContent('May 20–23, 2027');
+    // nationals are never in the pickers — their switch says whether they're listed at all
+    expect(within(frow('star-fest-west')).getByRole('switch', { name: /^Listed/ })).toBeChecked();
+    expect(within(frow('surrey')).getByRole('switch', { name: /^In pickers/ })).toBeChecked();
+    expect(frow('surrey')).toHaveTextContent('/?festival=surrey');
+    expect(frow('star-fest-west')).not.toHaveTextContent('/?festival=');
+    expect(screen.getByTestId('festivals-panel')).toHaveTextContent('10 festivals · 1 hidden');
+  });
+
+  it('does not load festivals until their tab is opened', async () => {
+    const fn = stubApi(festivalRoutes());
+    renderWithProviders(<AdminPage />, { route: '/admin', path: '/admin', user: adminUser });
+    await screen.findByTestId('users-table');
+    expect(fn.mock.calls.some(([u]) => String(u).startsWith('/api/festivals'))).toBe(false);
+    fireEvent.click(screen.getByTestId('admin-tab-festivals'));
+    await screen.findByTestId('festivals-panel');
+  });
+
+  it('adds a festival (validated first, then POSTed and listed)', async () => {
+    const created: Festival = { ...hidden, id: 30, slug: 'kelowna', name: 'Kelowna Regional STAR Fest', city: 'Kelowna', startDate: '2027-02-05', dateLabel: null, active: true, sortOrder: 75 };
+    const fn = stubApi(festivalRoutes({ 'POST /api/admin/festivals': () => ({ status: 201, body: created }) }));
+    await open(fn);
+    fireEvent.click(screen.getByTestId('festival-add'));
+    const form = await screen.findByTestId('festival-form');
+    // client-side validation mirrors the server
+    fireEvent.change(within(form).getByTestId('festival-input-name'), { target: { value: 'Ke' } });
+    fireEvent.change(within(form).getByTestId('festival-input-startDate'), { target: { value: '2027-02-05' } });
+    fireEvent.change(within(form).getByTestId('festival-input-endDate'), { target: { value: '2027-02-01' } });
+    fireEvent.change(within(form).getByTestId('festival-input-infoUrl'), { target: { value: 'http://example.com' } });
+    fireEvent.click(within(form).getByTestId('festival-save'));
+    expect(await within(form).findByText('Use at least 3 characters')).toBeInTheDocument();
+    expect(within(form).getByText('The end date can’t be before the start date')).toBeInTheDocument();
+    expect(within(form).getByText('Use a full https:// link')).toBeInTheDocument();
+    expect(within(form).getByTestId('festival-input-name')).toHaveFocus();
+    expect(fn.mock.calls.some(([u, i]) => String(u) === '/api/admin/festivals' && (i as RequestInit).method === 'POST')).toBe(false);
+
+    fireEvent.change(within(form).getByTestId('festival-input-name'), { target: { value: 'Kelowna Regional STAR Fest' } });
+    fireEvent.change(within(form).getByTestId('festival-input-endDate'), { target: { value: '' } });
+    fireEvent.change(within(form).getByTestId('festival-input-infoUrl'), { target: { value: '' } });
+    fireEvent.change(within(form).getByTestId('festival-input-city'), { target: { value: 'Kelowna' } });
+    fireEvent.change(within(form).getByTestId('festival-input-sortOrder'), { target: { value: '75' } });
+    fireEvent.click(within(form).getByTestId('festival-save'));
+    await waitFor(() => expect(screen.queryByTestId('festival-form')).toBeNull());
+    expect(body(fn, 'POST', '/api/admin/festivals')).toEqual({
+      name: 'Kelowna Regional STAR Fest',
+      kind: 'regional',
+      province: 'BC',
+      city: 'Kelowna',
+      startDate: '2027-02-05',
+      endDate: null,
+      dateLabel: null,
+      venue: null,
+      infoUrl: null,
+      sortOrder: 75,
+      active: true,
+    });
+    expect(frow('kelowna')).toHaveTextContent('Kelowna Regional STAR Fest');
+    expect(screen.getByText('Kelowna Regional STAR Fest added 🎉')).toBeInTheDocument();
+    // the site-wide list is refreshed too
+    await waitFor(() => expect(fn.mock.calls.some(([u]) => String(u) === '/api/festivals')).toBe(true));
+  });
+
+  it('shows the server’s field errors (400) and name clashes (409)', async () => {
+    let calls = 0;
+    const fn = stubApi(
+      festivalRoutes({
+        'POST /api/admin/festivals': () =>
+          ++calls === 1
+            ? { status: 400, body: { error: 'Please check the form', details: { venue: 'Venue is too long' } } }
+            : { status: 409, body: { error: 'A festival with that name already exists' } },
+      }),
+    );
+    await open(fn);
+    fireEvent.click(screen.getByTestId('festival-add'));
+    const form = await screen.findByTestId('festival-form');
+    fireEvent.change(within(form).getByTestId('festival-input-name'), { target: { value: 'Surrey Regional STAR Fest' } });
+    fireEvent.click(within(form).getByTestId('festival-save'));
+    expect(await within(form).findByText('Venue is too long')).toBeInTheDocument();
+    fireEvent.click(within(form).getByTestId('festival-save'));
+    expect(await within(form).findByText('A festival with that name already exists')).toBeInTheDocument();
+    expect(within(form).getByTestId('festival-input-name')).toHaveAttribute('aria-invalid', 'true');
+  });
+
+  it('edits a festival (PUT with the changed fields)', async () => {
+    const fn = stubApi(festivalRoutes({ 'PUT /api/admin/festivals/7': (init) => ({ body: { ...makeFestivals()[6], ...JSON.parse(String(init.body)) } }) }));
+    await open(fn);
+    fireEvent.click(within(frow('nanaimo')).getByTestId('festival-edit'));
+    const form = await screen.findByTestId('festival-form');
+    expect(screen.getByRole('heading', { name: 'Edit Nanaimo Regional STAR Fest' })).toBeInTheDocument();
+    expect(within(form).getByTestId('festival-input-dateLabel')).toHaveValue('Date to be announced');
+    fireEvent.change(within(form).getByTestId('festival-input-startDate'), { target: { value: '2027-02-12' } });
+    fireEvent.change(within(form).getByTestId('festival-input-dateLabel'), { target: { value: '' } });
+    fireEvent.change(within(form).getByTestId('festival-input-venue'), { target: { value: 'Port Theatre' } });
+    fireEvent.click(within(form).getByTestId('festival-save'));
+    await waitFor(() => expect(frow('nanaimo')).toHaveTextContent('Friday, February 12, 2027'));
+    expect(body(fn, 'PUT', '/api/admin/festivals/7')).toMatchObject({ startDate: '2027-02-12', dateLabel: null, venue: 'Port Theatre', name: 'Nanaimo Regional STAR Fest' });
+  });
+
+  it('a half-typed date is an error — it is never saved as “no date”', async () => {
+    const fn = stubApi(festivalRoutes({ 'PUT /api/admin/festivals/3': (init) => ({ body: { ...makeFestivals()[2], ...JSON.parse(String(init.body)) } }) }));
+    await open(fn);
+    fireEvent.click(within(frow('victoria')).getByTestId('festival-edit'));
+    const form = await screen.findByTestId('festival-form');
+    const start = within(form).getByTestId('festival-input-startDate') as HTMLInputElement;
+    expect(start).toHaveValue('2026-12-10');
+    // Chrome after Backspace in one segment: value '' but validity.badInput
+    Object.defineProperty(start, 'validity', { configurable: true, value: { ...start.validity, badInput: true, valid: false } });
+    fireEvent.change(start, { target: { value: '' } });
+    fireEvent.click(within(form).getByTestId('festival-save'));
+    expect(await within(form).findByText('Use a real date (YYYY-MM-DD)')).toBeInTheDocument();
+    expect(start).toHaveFocus();
+    expect(body(fn, 'PUT', '/api/admin/festivals/3')).toBeUndefined();
+    // really cleared (empty, no bad input) → saved as no date
+    Object.defineProperty(start, 'validity', { configurable: true, value: { ...start.validity, badInput: false, valid: true } });
+    fireEvent.click(within(form).getByTestId('festival-save'));
+    await waitFor(() => expect(screen.queryByTestId('festival-form')).toBeNull());
+    expect(body(fn, 'PUT', '/api/admin/festivals/3')).toMatchObject({ startDate: null });
+  });
+
+  it('hides / shows a festival with the switch', async () => {
+    const fn = stubApi(festivalRoutes({ 'PUT /api/admin/festivals/6': (init) => ({ body: { ...makeFestivals()[5], ...JSON.parse(String(init.body)) } }) }));
+    await open(fn);
+    fireEvent.click(within(frow('surrey')).getByTestId('festival-active-switch'));
+    await waitFor(() => expect(frow('surrey')).toHaveTextContent('Hidden'));
+    expect(body(fn, 'PUT', '/api/admin/festivals/6')).toEqual({ active: false });
+  });
+
+  it('deletes after confirming', async () => {
+    const fn = stubApi(festivalRoutes({ 'DELETE /api/admin/festivals/20': () => ({ status: 204 }) }));
+    await open(fn);
+    fireEvent.click(within(frow('kamloops')).getByTestId('festival-delete'));
+    expect(await screen.findByText('Delete Kamloops Regional STAR Fest?')).toBeInTheDocument();
+    fireEvent.click(screen.getByTestId('confirm-button'));
+    await waitFor(() => expect(screen.getAllByTestId('festival-row')).toHaveLength(9));
+    expect(fn.mock.calls.some(([u, i]) => String(u) === '/api/admin/festivals/20' && (i as RequestInit).method === 'DELETE')).toBe(true);
   });
 });

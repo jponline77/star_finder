@@ -87,7 +87,7 @@ function isDefaultListing(f) {
 
 const SEED_ARTWORK_RE = /^\/media\/art\/[A-Za-z0-9_-][A-Za-z0-9._-]*\.(jpe?g|png|webp|gif)$/;
 
-/** A committed album-art file under server/media/art (shared seed art, never deleted by the API). */
+/** A seed album-art file on disk under server/media/art (shared seed art, never deleted by the API). */
 function isSeedArtwork(mediaDir, publicPath) {
   if (!SEED_ARTWORK_RE.test(publicPath)) return false;
   try {
@@ -100,7 +100,7 @@ function isSeedArtwork(mediaDir, publicPath) {
 /**
  * Validate a POST/PUT song body. Returns normalized values; `preview` is undefined when the key is
  * absent (PUT keeps existing media), null to clear, or an object.
- * A local `preview.artworkUrl` is accepted only if it is the song's current artwork or a committed
+ * A local `preview.artworkUrl` is accepted only if it is the song's current artwork or a
  * seed image — never another song's downloaded file (which that song may delete).
  * @param {import('../app.js').AppContext} ctx
  * @param {{ currentArtwork?: string|null }} [opts]

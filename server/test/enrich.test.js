@@ -2,6 +2,7 @@
 // offline end-to-end run (fake iTunes + fake image CDN) against a temp DB.
 import { test, describe, after } from 'node:test';
 import assert from 'node:assert/strict';
+import crypto from 'node:crypto';
 import fs from 'node:fs';
 import os from 'node:os';
 import path from 'node:path';
@@ -174,6 +175,10 @@ describe('enrich main (offline)', () => {
     assert.match(flowers.verifiedBy, /album-scan: exact title/);
     assert.match(flowers.verifiedBy, /length 3:31 matches the spreadsheet/);
     assert.ok(fs.existsSync(path.join(t.dir, 'media', 'art', flowers.artworkFile)));
+    // the art's source is recorded so `npm run fetch-media` can download it on a fresh checkout;
+    // the file name is the cache key sha256(artworkUrl)[:16]
+    assert.equal(flowers.artworkUrl, 'https://is1-ssl.mzstatic.com/image/thumb/Music/hadestown/600x600bb.jpg');
+    assert.equal(flowers.artworkFile, `${crypto.createHash('sha256').update(flowers.artworkUrl).digest('hex').slice(0, 16)}.jpg`);
     assert.equal(media['duet|Hadestown|Wedding Song'].itunesTrackId, 102, 'not the reprise');
     assert.equal(media['solo|Hadestown|Not On Any Album'], null);
     assert.ok(media._unmatched['solo|Hadestown|Not On Any Album']);
@@ -198,6 +203,25 @@ describe('enrich main (offline)', () => {
     const all = await main([...t.args, '--all'], t.deps);
     assert.equal(all.summary.matchedHigh, 2);
     assert.equal(t.calls.length, before);
+  });
+
+  test('a media.json entry whose art is not downloaded yet is restored without searching iTunes again', async () => {
+    const t = setup();
+    await main(t.args, t.deps);
+    const media = JSON.parse(fs.readFileSync(path.join(t.dir, 'seed', 'media.json'), 'utf8'));
+    const { artworkFile } = media['solo|Hadestown|Flowers'];
+    fs.rmSync(path.join(t.dir, 'media'), { recursive: true }); // e.g. a fresh checkout before fetch-media
+    const db = openDb(t.dbPath);
+    db.prepare('UPDATE songs SET preview_url = NULL, artwork_path = NULL WHERE id = ?').run(t.ids.flowers);
+    db.close();
+    const before = t.calls.length;
+    const report = await main(t.args, t.deps);
+    assert.equal(report.summary.fromMediaJson, 1);
+    assert.equal(t.calls.length, before, 'no iTunes requests');
+    assert.equal(t.imageCalls(), 1, 'no art download either (that is fetch-media\'s job)');
+    const check = openDb(t.dbPath);
+    assert.equal(check.prepare('SELECT artwork_path FROM songs WHERE id = ?').get(t.ids.flowers).artwork_path, `/media/art/${artworkFile}`);
+    check.close();
   });
 
   test('--dry-run writes nothing; edited spreadsheet rows are skipped', async () => {

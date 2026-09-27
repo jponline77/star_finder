@@ -1,7 +1,7 @@
 import { afterEach, describe, expect, it, vi } from 'vitest';
 import { fireEvent, screen, waitFor, within } from '@testing-library/react';
 import { renderWithProviders } from '../../test/render';
-import { makeComment, makeShow, makeSong, makeUser } from '../../test/fixtures';
+import { makeComment, makeMeta, makeShow, makeSong, makeUser } from '../../test/fixtures';
 import type { Contributions } from '../../types';
 import MePage from '../MePage';
 import { MiniPlayer } from '../../components/MiniPlayer';
@@ -209,5 +209,28 @@ describe('MePage', () => {
     stubApi({ 'GET /api/me/contributions': () => ({ status: 500, body: { error: 'Boom' } }) });
     renderWithProviders(<MePage />, { route: '/me', path: '/me', user: me });
     expect(await screen.findByText('Your stuff missed its cue')).toBeInTheDocument();
+  });
+
+  it('“My festival”: picks, saves to the account and can clear it', async () => {
+    const fn = stubApi({
+      'GET /api/me/contributions': contributions(empty),
+      'PUT /api/auth/me': (init) => ({ body: { user: { ...me, festivalSlug: JSON.parse(String(init.body)).festivalSlug } } }),
+    });
+    renderWithProviders(<MePage />, { route: '/me', path: '/me', user: me, meta: makeMeta() });
+    const card = screen.getByTestId('me-festival');
+    expect(within(card).getByRole('heading', { name: 'My festival' })).toBeInTheDocument();
+    const select = within(card).getByLabelText('Where are you performing?');
+    expect(select).toHaveValue('');
+    fireEvent.change(select, { target: { value: 'prince-george' } });
+    await waitFor(() => expect(within(card).getByTestId('me-festival-status')).toHaveTextContent('Saved to your account'));
+    expect(within(card).getByTestId('festival-summary')).toHaveTextContent('Prince George Regional STAR Fest');
+    const put = fn.mock.calls.filter(([u, i]) => String(u) === '/api/auth/me' && (i as RequestInit).method === 'PUT');
+    expect(put).toHaveLength(1);
+    expect(JSON.parse(String((put[0]?.[1] as RequestInit).body))).toEqual({ festivalSlug: 'prince-george' });
+
+    fireEvent.change(select, { target: { value: '' } });
+    await waitFor(() => expect(within(card).queryByTestId('festival-summary')).toBeNull());
+    const last = fn.mock.calls.filter(([u, i]) => String(u) === '/api/auth/me' && (i as RequestInit).method === 'PUT').at(-1);
+    expect(JSON.parse(String((last?.[1] as RequestInit).body))).toEqual({ festivalSlug: null });
   });
 });

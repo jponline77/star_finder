@@ -1,0 +1,14 @@
+{
+  "_about": "Test fixture for test/festivals.test.js — a frozen copy of the 2026-27 seed/festivals.json, so the tests do not change when the real seed list is updated.",
+  "festivals": [
+    { "slug": "prince-george", "name": "Prince George Regional STAR Fest", "kind": "regional", "province": "BC", "city": "Prince George", "startDate": "2026-11-20", "endDate": null, "dateLabel": null, "venue": "Prince George Secondary School", "infoUrl": "https://taeacanada.ca/regional-star-fest/", "sortOrder": 10 },
+    { "slug": "fraser-valley", "name": "Fraser Valley Regional STAR Fest", "kind": "regional", "province": "BC", "city": "Mission", "startDate": "2026-12-04", "endDate": null, "dateLabel": null, "venue": "Clarke Theatre", "infoUrl": "https://taeacanada.ca/regional-star-fest/", "sortOrder": 20 },
+    { "slug": "victoria", "name": "Victoria Regional STAR Fest", "kind": "regional", "province": "BC", "city": "Victoria", "startDate": "2026-12-10", "endDate": null, "dateLabel": null, "venue": "University of Victoria (UVic)", "infoUrl": "https://taeacanada.ca/regional-star-fest/", "sortOrder": 30 },
+    { "slug": "vancouver", "name": "Vancouver Regional STAR Fest", "kind": "regional", "province": "BC", "city": "Vancouver", "startDate": "2026-12-11", "endDate": null, "dateLabel": null, "venue": "SFU School for the Contemporary Arts (SFU SCA)", "infoUrl": "https://taeacanada.ca/regional-star-fest/", "sortOrder": 40 },
+    { "slug": "burnaby", "name": "Burnaby Regional STAR Fest", "kind": "regional", "province": "BC", "city": "Burnaby", "startDate": "2027-01-22", "endDate": null, "dateLabel": null, "venue": "Burnaby Mountain Secondary School", "infoUrl": "https://taeacanada.ca/regional-star-fest/", "sortOrder": 50 },
+    { "slug": "surrey", "name": "Surrey Regional STAR Fest", "kind": "regional", "province": "BC", "city": "Surrey", "startDate": "2027-01-29", "endDate": null, "dateLabel": null, "venue": "North Surrey Secondary School", "infoUrl": "https://taeacanada.ca/regional-star-fest/", "sortOrder": 60 },
+    { "slug": "nanaimo", "name": "Nanaimo Regional STAR Fest", "kind": "regional", "province": "BC", "city": "Nanaimo", "startDate": null, "endDate": null, "dateLabel": "Date and venue to be announced", "venue": null, "infoUrl": "https://taeacanada.ca/regional-star-fest/", "sortOrder": 70 },
+    { "slug": "online", "name": "Online Regional STAR Fest", "kind": "online", "province": null, "city": null, "startDate": null, "endDate": "2027-02-28", "dateLabel": "Online entries close February 28, 2027", "venue": "Online", "infoUrl": "https://taeacanada.ca/regional-star-fest/", "sortOrder": 80 },
+    { "slug": "star-fest-west", "name": "STAR Fest West (National)", "kind": "national", "province": "BC", "city": "Vancouver", "startDate": "2027-05-20", "endDate": "2027-05-23", "dateLabel": null, "venue": "University of British Columbia (UBC Vancouver)", "infoUrl": "https://taeacanada.ca/national-star-fest/", "sortOrder": 100 }
+  ]
+}

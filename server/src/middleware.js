@@ -14,7 +14,8 @@ const SAFE_METHODS = new Set(['GET', 'HEAD', 'OPTIONS']);
  */
 export function loadSession(db) {
   const stmt = db.prepare(`
-    SELECT u.* FROM sessions s JOIN users u ON u.id = s.user_id
+    SELECT u.*, f.slug AS festival_slug FROM sessions s JOIN users u ON u.id = s.user_id
+    LEFT JOIN festivals f ON f.id = u.festival_id
     WHERE s.token_hash = ? AND s.expires_at > ? AND u.disabled = 0
       AND NOT (u.must_change_password = 1 AND u.temp_password_expires_at IS NOT NULL AND u.temp_password_expires_at <= ?)`);
   return (req, _res, next) => {

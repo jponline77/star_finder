@@ -4,6 +4,12 @@
   "version": "1.0.0",
   "type": "module",
   "description": "STAR Song Finder — React front end",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jponline77/star_finder.git"
+  },
+  "homepage": "https://github.com/jponline77/star_finder#readme",
   "engines": {
     "node": ">=22.12.0 <27"
   },

@@ -222,7 +222,7 @@ export function useSongs(): SongsContextValue {
   return ctx;
 }
 
-/** `/api/meta` (vocal ranges, genres, sub-genres, shows, counts, festival). */
+/** `/api/meta` (vocal ranges, genres, sub-genres, shows, counts, festivals). */
 export function useMeta(): { meta: Meta | null; loading: boolean; error: ApiError | null } {
   const { meta, loading, error } = useSongs();
   return { meta, loading, error };

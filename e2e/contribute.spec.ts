@@ -25,8 +25,8 @@ async function mockLookups(page: Page, showName: string) {
           collectionName: `${showName} (Original Cast Recording)`,
           artistName: 'Original Cast',
           previewUrl: `https://audio-ssl.itunes.apple.com/itunes-assets/e2e/preview-${n}.m4a`,
-          // a local cached image so the server doesn't need to download anything
-          artworkUrl: '/media/art/02acdc839d7821ca.jpg',
+          // a local "cached" cover (written by e2e/prepare-db.mjs) so the server doesn't download anything
+          artworkUrl: '/media/art/e2e-cover.png',
           appleMusicUrl: `https://music.apple.com/ca/album/e2e/${n}`,
           durationSeconds: 165 + n,
           score: 95 - n * 10,

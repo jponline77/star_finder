@@ -40,25 +40,6 @@ export const RUBRIC_LEVEL_BLURB: Record<number, string> = {
   1: 'Just starting out, so keep building',
 };
 
-export interface Regional {
-  city: string;
-  /** 'YYYY-MM-DD' */
-  date: string;
-  venue: string | null;
-  /** Our festival (Vancouver) — highlighted. */
-  home?: boolean;
-}
-
-/** 2026–27 BC Regional STAR Fests (SPEC §1), in date order. */
-export const BC_REGIONALS: readonly Regional[] = [
-  { city: 'Prince George', date: '2026-11-20', venue: null },
-  { city: 'Fraser Valley', date: '2026-12-04', venue: null },
-  { city: 'Victoria', date: '2026-12-10', venue: 'University of Victoria (UVic)' },
-  { city: 'Vancouver', date: '2026-12-11', venue: 'SFU School for the Contemporary Arts (SFU SCA)', home: true },
-  { city: 'Burnaby', date: '2027-01-22', venue: null },
-  { city: 'Surrey', date: '2027-01-29', venue: null },
-];
-
 /** Approved publishers / licensors named in the program guide. */
 export const APPROVED_LICENSORS: readonly string[] = [
   'Music Theatre International (MTI)',
@@ -85,11 +66,3 @@ export const SLATE_EXAMPLES = {
   solo: 'I am Heather Black from Canada Junior High School, Troupe #1000, and I’ll be performing “Popular” from Wicked by Stephen Schwartz.',
   duet: 'Our names are Lee Jones and Sam Becker from True North High School, Troupe #999, and we’ll be performing “Anything You Can Do (I Can Do Better)” from Annie Get Your Gun by Irving Berlin and Dorothy and Herbert Fields.',
 } as const;
-
-/** "in 12 days" / "tomorrow" / "today!" / "wrapped" for a regional date. */
-export function regionalStatus(daysAway: number): { label: string; state: 'past' | 'today' | 'soon' | 'later' } {
-  if (daysAway < 0) return { label: 'Wrapped', state: 'past' };
-  if (daysAway === 0) return { label: 'Today!', state: 'today' };
-  if (daysAway === 1) return { label: 'Tomorrow', state: 'soon' };
-  return { label: `In ${daysAway} days`, state: daysAway <= 30 ? 'soon' : 'later' };
-}

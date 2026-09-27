@@ -11,10 +11,13 @@
 // Relative paths are resolved from the directory you run the command in.
 //
 // Seed files (all optional, in --seed-dir, default server/seed/): corrections.json, shows.json, media.json
-// (formats in SPEC §6). Community rows (source='community') are never modified or deleted (unless
-// --adopt-community). Spreadsheet rows are matched by a stable key made from their RAW spreadsheet
-// values (songs.import_key / shows.import_key), so an admin renaming or moving a row on the website
-// doesn't make the next import create a duplicate; rows an admin deleted stay deleted.
+// (formats in SPEC §6) and festivals.json (SPEC §7b: upserted by slug; festivals added, changed or
+// deleted on the website are kept that way unless --overwrite-edits; festivals missing from the file
+// are never deleted).
+// Community rows (source='community') are never modified or deleted (unless --adopt-community).
+// Spreadsheet rows are matched by a stable key made from their RAW spreadsheet values
+// (songs.import_key / shows.import_key), so an admin renaming or moving a row on the website doesn't
+// make the next import create a duplicate; rows an admin deleted stay deleted.
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -28,6 +31,8 @@ import { isItunesPreviewHost, isAppleHost } from '../src/lib/validate.js';
 import { songImportKey, showImportKey, songNameKey, showNameKey } from '../src/lib/import-keys.js';
 import { deleteIfUnreferenced } from '../src/lib/uploads.js';
 import { resolveUserPath } from '../src/lib/paths.js';
+import { readFestivalSeed, upsertFestivals } from '../src/lib/festivals.js';
+import { isSeedImageName, MISSING_IMAGES_HINT } from '../src/lib/seed-media.js';
 
 export const DEFAULT_XLSX = path.join(SERVER_ROOT, 'seed', 'star_spreadsheet.xlsx');
 export const DEFAULT_SEED_DIR = path.join(SERVER_ROOT, 'seed');
@@ -189,13 +194,15 @@ function readJsonIfExists(file) {
 }
 
 /**
- * Load corrections.json / shows.json / media.json from `seedDir` (each optional).
+ * Load corrections.json / shows.json / media.json / festivals.json from `seedDir` (each optional).
+ * `festivals` is null when festivals.json is missing (the festivals table is then left alone).
  * @param {string} seedDir
  */
 export function loadSeedFiles(seedDir) {
   const corrections = readJsonIfExists(path.join(seedDir, 'corrections.json')) ?? {};
   const shows = readJsonIfExists(path.join(seedDir, 'shows.json')) ?? [];
   const media = readJsonIfExists(path.join(seedDir, 'media.json')) ?? {};
+  const festivals = readFestivalSeed(path.join(seedDir, 'festivals.json'));
   if (typeof corrections !== 'object' || Array.isArray(corrections)) throw new Error('corrections.json must be an object');
   if (!Array.isArray(shows)) throw new Error('shows.json must be an array');
   if (typeof media !== 'object' || Array.isArray(media)) throw new Error('media.json must be an object');
@@ -203,10 +210,12 @@ export function loadSeedFiles(seedDir) {
     corrections,
     shows,
     media,
+    festivals,
     present: {
       corrections: fs.existsSync(path.join(seedDir, 'corrections.json')),
       shows: fs.existsSync(path.join(seedDir, 'shows.json')),
       media: fs.existsSync(path.join(seedDir, 'media.json')),
+      festivals: festivals !== null,
     },
   };
 }
@@ -371,7 +380,6 @@ export function normalizeRows(rawRows, corrections = {}) {
 // "Edited on the website": set by PUT /api/songs|shows only when a field really changed (uploads
 // and no-op saves don't count), so corrections keep reaching rows that just got practice audio.
 const edited = (row) => row.edited_at !== null && row.edited_at !== undefined;
-const safeBase = (f) => (typeof f === 'string' && f.trim() ? path.basename(f.trim()) : null);
 const isUpload = (p) => typeof p === 'string' && p.startsWith('/uploads/');
 
 function httpsOk(url, hostOk) {
@@ -402,7 +410,7 @@ export async function importSpreadsheet({
   const { rows, warnings: readWarnings } = await readSpreadsheet(xlsxPath);
   const seed = loadSeedFiles(seedDir);
   const { songs, warnings: normWarnings, applied, unused } = normalizeRows(rows, seed.corrections);
-  const warnings = [...readWarnings, ...normWarnings];
+  const warnings = [...readWarnings, ...normWarnings, ...(seed.festivals?.warnings ?? [])];
   for (const [name, keys] of Object.entries(unused)) {
     for (const k of keys) warnings.push(`corrections.${name}: key "${k}" matched nothing in the spreadsheet`);
   }
@@ -431,6 +439,8 @@ export async function importSpreadsheet({
     notesApplied: applied.notes,
     mediaApplied: 0,
     mediaCleared: 0,
+    // null when there is no festivals.json
+    festivals: null,
     seedFiles: seed.present,
     warnings,
   };
@@ -465,6 +475,24 @@ export async function importSpreadsheet({
   /** Website files an import replaced or whose row it deleted — removed after the commit. */
   const replacedUploads = new Set();
 
+  /** Seed images (shows/<file>, art/<file>) named in the seed but not downloaded yet. */
+  const missingImages = new Set();
+  /**
+   * A shows.json imageFile / media.json artworkFile → its file name, or null. The path is stored even
+   * when the file isn't in mediaDir yet (third-party images aren't in the repository; `npm run
+   * fetch-media` downloads them, and the website shows a gradient until then).
+   */
+  const seedImage = (file, subdir, label) => {
+    if (file === null || file === undefined || (typeof file === 'string' && !file.trim())) return null;
+    const name = typeof file === 'string' ? file.trim() : file;
+    if (!isSeedImageName(name)) {
+      warnings.push(`${label} ${JSON.stringify(file)} is not a plain image file name — ignored`);
+      return null;
+    }
+    if (!fs.existsSync(path.join(mediaDir, subdir, name))) missingImages.add(`${subdir}/${name}`);
+    return name;
+  };
+
   const mediaValue = (value, key) => {
     if (value === null) return null;
     if (!value || typeof value !== 'object') {
@@ -476,12 +504,8 @@ export async function importSpreadsheet({
       warnings.push(`media.json["${key}"]: previewUrl must be https on itunes.apple.com/mzstatic.com — ignored`);
       previewUrl = null;
     }
-    let artworkPath = null;
-    const artFile = safeBase(value.artworkFile);
-    if (artFile) {
-      if (fs.existsSync(path.join(mediaDir, 'art', artFile))) artworkPath = `/media/art/${artFile}`;
-      else warnings.push(`media.json["${key}"]: artwork file media/art/${artFile} not found — artwork left empty`);
-    }
+    const artFile = seedImage(value.artworkFile, 'art', `media.json["${key}"]: artworkFile`);
+    const artworkPath = artFile ? `/media/art/${artFile}` : null;
     const appleMusicUrl = typeof value.appleMusicUrl === 'string' && httpsOk(value.appleMusicUrl, isAppleHost) ? value.appleMusicUrl : null;
     const trackId = Number.isInteger(value.itunesTrackId) ? value.itunesTrackId : Number.isInteger(Number(value.itunesTrackId)) && value.itunesTrackId !== null ? Number(value.itunesTrackId) : null;
     return {
@@ -597,11 +621,8 @@ export async function importSpreadsheet({
         // A poster uploaded (or fetched) on the website wins over the seed poster.
         image = [row.image_path, row.image_credit ?? null, row.image_source_url ?? null];
       } else {
-        const imageFile = safeBase(meta.imageFile);
-        if (imageFile) {
-          if (fs.existsSync(path.join(mediaDir, 'shows', imageFile))) image = [`/media/shows/${imageFile}`, str(meta.imageCredit), str(meta.imageSourceUrl)];
-          else warnings.push(`shows.json "${meta.name}": image media/shows/${imageFile} not found — no poster`);
-        }
+        const imageFile = seedImage(meta.imageFile, 'shows', `shows.json "${meta.name}": imageFile`);
+        if (imageFile) image = [`/media/shows/${imageFile}`, str(meta.imageCredit), str(meta.imageSourceUrl)];
       }
       const year = Number.isInteger(meta.year) ? meta.year : Number.isInteger(Number(meta.year)) && meta.year !== null && meta.year !== '' ? Number(meta.year) : null;
       q.showMetaUpdate.run(
@@ -742,9 +763,27 @@ export async function importSpreadsheet({
       if (isUpload(r.image_path)) replacedUploads.add(r.image_path);
       summary.shows.deleted++;
     }
+
+    // ---- festivals (SPEC §7b) ----
+    if (seed.festivals) {
+      summary.festivals = upsertFestivals(db, seed.festivals.entries, { overwriteEdits, now });
+      if (summary.festivals.skippedEdited) {
+        warnings.push(`${summary.festivals.skippedEdited} festival(s) were added or changed on the website and were kept as they are (use --overwrite-edits to replace them from festivals.json)`);
+      }
+      if (summary.festivals.skippedDeleted) {
+        warnings.push(`${summary.festivals.skippedDeleted} festival(s) were deleted on the website and were not re-created (use --overwrite-edits to restore them from festivals.json)`);
+      }
+    }
   })();
 
   for (const p of replacedUploads) await deleteIfUnreferenced(db, uploadsDir, p);
+
+  // One line for all of them: on a fresh checkout every poster/cover is missing until fetch-media runs.
+  summary.missingImages = [...missingImages].sort();
+  if (missingImages.size) {
+    const n = missingImages.size;
+    warnings.push(`${n} image${n === 1 ? '' : 's'} missing from ${mediaDir} — ${MISSING_IMAGES_HINT}`);
+  }
 
   const counts = db.prepare(`SELECT sum(kind = 'solo') AS solos, sum(kind = 'duet') AS duets, count(*) AS songs,
     sum(source = 'community') AS community, (SELECT count(*) FROM shows) AS shows FROM songs`).get();
@@ -773,6 +812,13 @@ function printSummary(s, log) {
   const c = s.correctionsApplied;
   log(`✏️  Corrections applied: titles ${c.titles}, shows ${c.shows}, characters ${c.characters}, vocalRanges ${c.vocalRanges}, subGenres ${c.subGenres}, parts ${c.parts}, notes ${c.notes}`);
   log(`🎧 Media: ${s.mediaApplied} applied, ${s.mediaCleared} cleared`);
+  if (s.festivals) {
+    const f = s.festivals;
+    log(`📍 Festivals: ${f.created} created, ${f.updated} updated, ${f.unchanged} unchanged` +
+      (f.skippedEdited ? `, ${f.skippedEdited} kept (changed on the website — use --overwrite-edits to replace)` : '') +
+      (f.skippedDeleted ? `, ${f.skippedDeleted} not re-created (deleted on the website)` : '') +
+      (f.notInSeed ? `, ${f.notInSeed} not in festivals.json (kept)` : ''));
+  }
   log(`📊 Database now has ${s.totals.songs} songs (${s.totals.solos} solos, ${s.totals.duets} duets; ${s.totals.community} community) in ${s.totals.shows} shows`);
   if (s.warnings.length) {
     log(`⚠️  ${s.warnings.length} warning(s):`);

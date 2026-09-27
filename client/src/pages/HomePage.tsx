@@ -1,12 +1,12 @@
 /**
- * Home "/" (SPEC §7.1): marquee hero + festival countdown, big search, quick-pick chips,
- * Spotlight Song of the Day, feature cards, community picks and a stats teaser.
+ * Home "/" (SPEC §7.1, §7b): marquee hero + a countdown for the visitor's festival (or "Where are
+ * you performing?" chips), big search, quick-pick chips, Spotlight Song of the Day, feature cards,
+ * community picks and a stats teaser.
  */
 import { ArrowRight, Headphones, Sparkles } from 'lucide-react';
 import { useMemo, useState } from 'react';
 import { Link, useNavigate } from 'react-router';
 import { ArtworkTile, ShowPoster } from '../components/ArtworkTile';
-import { Countdown } from '../components/Countdown';
 import { GenreTag, KindTag, SubGenreTag } from '../components/GenreTag';
 import { LengthBadge } from '../components/LengthBadge';
 import { Marquee } from '../components/Marquee';
@@ -20,12 +20,12 @@ import { SongCard } from '../components/SongCard';
 import { VoiceLadder } from '../components/VoiceLadder';
 import { useDocumentTitle } from '../hooks/useDocumentTitle';
 import { browseHref, hasAnyAudio, hasPlayableAudio, sortSongs } from '../lib/filters';
-import { festivalPhase, formatLongDate } from '../lib/format';
 import { pickDaily } from '../lib/hash';
 import { songPath, showPath } from '../lib/links';
 import { useSetlist } from '../lib/setlist';
-import { DEFAULT_FESTIVAL } from '../lib/vocab';
+import { useFestival } from '../state/FestivalProvider';
 import { useShows, useSongs } from '../state/SongsProvider';
+import { FestivalHero, heroEyebrow } from './home/FestivalHero';
 import { spotlightPool } from './home/spotlight';
 import type { Song } from '../types';
 import './HomePage.css';
@@ -56,8 +56,7 @@ export default function HomePage() {
   const { songs, meta, loading } = useSongs();
   const setlist = useSetlist();
   const [q, setQ] = useState('');
-  const festival = meta?.festival ?? DEFAULT_FESTIVAL;
-  const phase = festivalPhase(festival.date);
+  const { selected: festival } = useFestival();
 
   // Licensing lives on /api/shows — wait for it (briefly) so the pick doesn't switch after loading.
   const { shows, loading: showsLoading, error: showsError } = useShows();
@@ -89,9 +88,9 @@ export default function HomePage() {
         <div className="valance" aria-hidden="true" />
         <div className="container home-hero-inner">
           <Marquee size="lg" className="home-marquee" innerClassName="home-marquee-inner">
-            <p className="home-eyebrow">
+            <p className="home-eyebrow" data-testid="home-eyebrow">
               <span aria-hidden="true">🎭 </span>
-              {festival.name} · {formatLongDate(festival.date)}
+              {heroEyebrow(festival)}
             </p>
             <h1 id="home-title" className="home-title marquee-text">
               Find your <span className="home-title-accent">spotlight</span> song
@@ -99,22 +98,7 @@ export default function HomePage() {
             <p className="home-lede">
               {loading && !meta ? 'Musical theatre' : `${counts.songs} musical theatre`} solos &amp; duets for the STAR Festival — search, listen, and build your setlist.
             </p>
-            <div className="home-countdown">
-              {phase !== 'over' && (
-                <p className="home-countdown-label">
-                  {phase === 'today' ? (
-                    <>
-                      Curtain up today at <strong>{festival.venue}</strong>!
-                    </>
-                  ) : (
-                    <>
-                      Curtain up at <strong>{festival.venue}</strong> in…
-                    </>
-                  )}
-                </p>
-              )}
-              <Countdown date={festival.date} label={festival.name} />
-            </div>
+            <FestivalHero />
           </Marquee>
 
           <div className="home-search">

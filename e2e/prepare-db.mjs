@@ -5,7 +5,12 @@
 //                                                  the developer's own database is never read, so
 //                                                  local edits, imports or community songs can't
 //                                                  change what the specs see)
-//   server/media/  →  test-results/e2e-media/    (lookups can't write into committed media)
+//   server/media/  →  test-results/e2e-media/    (the posters/album art `npm run fetch-media` downloaded;
+//                                                  whatever is there — the specs pass without them too,
+//                                                  with the gradient placeholders. E2E_MEDIA_SRC=<dir>
+//                                                  copies another folder, e.g. an empty one)
+//   test/fixtures/plain.png → e2e-media/art/e2e-cover.png  (a tiny synthetic "cached cover" the
+//                                                  contribute spec's mocked iTunes lookup points at)
 //   (empty)        →  test-results/e2e-uploads/
 // The real database, media and uploads are never written by the e2e suite.
 import fs from 'node:fs';
@@ -27,7 +32,10 @@ fs.mkdirSync(path.join(uploads, 'images'), { recursive: true });
 
 const media = path.join(out, 'e2e-media');
 fs.rmSync(media, { recursive: true, force: true });
-fs.cpSync(path.join(root, 'server', 'media'), media, { recursive: true });
+const mediaSrc = process.env.E2E_MEDIA_SRC ? path.resolve(process.env.E2E_MEDIA_SRC) : path.join(root, 'server', 'media');
+if (fs.existsSync(mediaSrc)) fs.cpSync(mediaSrc, media, { recursive: true });
+fs.mkdirSync(path.join(media, 'art'), { recursive: true });
+fs.copyFileSync(path.join(root, 'server', 'test', 'fixtures', 'plain.png'), path.join(media, 'art', 'e2e-cover.png'));
 
 const db = openDb(destDb);
 try {

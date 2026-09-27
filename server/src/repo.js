@@ -18,6 +18,9 @@ export function toUser(row) {
     role: row.role,
     mustChangePassword: Boolean(row.must_change_password),
     createdAt: row.created_at,
+    // Their chosen festival (SPEC §7b), even if an admin has since hidden it (the client ignores
+    // slugs that aren't in its active list; showing the festival again restores the choice).
+    festivalSlug: row.festival_slug ?? null,
   };
 }
 
@@ -33,12 +36,15 @@ export function toAdminUser(row) {
   };
 }
 
+/** Users rows for toUser(): the festival's slug comes along as festival_slug. */
+const USER_SELECT = 'SELECT u.*, f.slug AS festival_slug FROM users u LEFT JOIN festivals f ON f.id = u.festival_id';
+
 const ADMIN_USER_SELECT = `
-  SELECT u.*,
+  SELECT u.*, f.slug AS festival_slug,
     (SELECT count(*) FROM songs s WHERE s.created_by = u.id) AS song_count,
     (SELECT count(*) FROM shows sh WHERE sh.created_by = u.id) AS show_count,
     (SELECT count(*) FROM comments c WHERE c.user_id = u.id) AS comment_count
-  FROM users u`;
+  FROM users u LEFT JOIN festivals f ON f.id = u.festival_id`;
 
 export function listAdminUsers(db) {
   return db.prepare(`${ADMIN_USER_SELECT} ORDER BY u.created_at, u.id`).all().map(toAdminUser);
@@ -50,11 +56,11 @@ export function getAdminUser(db, id) {
 }
 
 export function getUserRow(db, id) {
-  return db.prepare('SELECT * FROM users WHERE id = ?').get(id) ?? null;
+  return db.prepare(`${USER_SELECT} WHERE u.id = ?`).get(id) ?? null;
 }
 
 export function getUserRowByEmail(db, email) {
-  return db.prepare('SELECT * FROM users WHERE email = ?').get(String(email).trim().toLowerCase()) ?? null;
+  return db.prepare(`${USER_SELECT} WHERE u.email = ?`).get(String(email).trim().toLowerCase()) ?? null;
 }
 
 const creatorRef = (row) => (row.creator_id ? { id: row.creator_id, displayName: row.creator_name } : null);
