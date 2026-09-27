@@ -1,0 +1,15 @@
+{
+  "//": "Type-checking for the Playwright suite: `npx --prefix client tsc -p e2e/tsconfig.json` (Playwright itself only strips types).",
+  "compilerOptions": {
+    "target": "ES2022",
+    "lib": ["ES2023", "DOM", "DOM.Iterable"],
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+    "strict": true,
+    "noEmit": true,
+    "skipLibCheck": true,
+    "typeRoots": ["../client/node_modules/@types"],
+    "types": ["node"]
+  },
+  "include": ["./**/*.ts", "../playwright.config.ts"]
+}

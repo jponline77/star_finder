@@ -1,0 +1,363 @@
+/* Shows "/shows" — the lobby poster wall: gold-framed posters with brass name plaques. */
+
+.shows-hero {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: var(--space-lg);
+  margin-bottom: var(--space-lg);
+}
+
+.shows-hero-text {
+  flex: 1 1 22rem;
+}
+
+.shows-stats {
+  display: flex;
+  gap: var(--space-xs);
+  margin: 0;
+}
+
+.shows-stats > div {
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: center;
+  min-width: 5rem;
+  padding: 0.5rem 0.75rem 0.45rem;
+  border-radius: var(--radius-md);
+  background: var(--marquee-panel);
+  border: 1px solid rgba(255, 201, 74, 0.35);
+  box-shadow:
+    inset 0 0 0 1px rgba(255, 255, 255, 0.04),
+    0 6px 18px rgba(0, 0, 0, 0.25);
+}
+
+.shows-stats dt {
+  font-size: var(--step--2);
+  font-weight: 900;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: rgba(255, 243, 207, 0.75);
+}
+
+.shows-stats dd {
+  margin: 0;
+  font-family: var(--font-display);
+  font-size: var(--step-3);
+  line-height: 1;
+  color: var(--marquee-gold);
+  text-shadow: 0 0 14px rgba(255, 201, 74, 0.45);
+}
+
+/* ------------------------------------------------------------ toolbar */
+.shows-toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--space-sm);
+  margin-bottom: var(--space-sm);
+}
+
+.shows-search {
+  flex: 1 1 18rem;
+  min-width: 0;
+}
+
+.shows-sort {
+  display: flex;
+  align-items: center;
+  gap: var(--space-xs);
+  flex: 0 1 auto;
+}
+
+.shows-sort .select {
+  min-width: 11rem;
+}
+
+.shows-sort-label {
+  font-size: var(--step--1);
+  font-weight: 800;
+  color: var(--text-muted);
+}
+
+.shows-count {
+  margin: var(--space-sm) 0 var(--space-md);
+  font-weight: 800;
+  color: var(--text-muted);
+}
+
+/* ------------------------------------------------------------ poster wall */
+.poster-wall {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 142px), 1fr));
+  gap: var(--space-lg) var(--space-md);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+@media (min-width: 700px) {
+  .poster-wall {
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: var(--space-xl) var(--space-lg);
+  }
+}
+
+.poster-wall > li {
+  display: flex;
+  min-width: 0;
+}
+
+.poster-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  gap: var(--space-sm);
+  animation: poster-hang var(--dur-slow) var(--ease-out) both;
+  animation-delay: calc(var(--i, 0) * 35ms);
+}
+
+@keyframes poster-hang {
+  from {
+    opacity: 0;
+    transform: translateY(10px) rotate(-1deg);
+  }
+}
+
+.poster-card.is-skeleton {
+  animation: none;
+}
+
+/* gilded frame */
+.poster-frame {
+  position: relative;
+  padding: 6px;
+  border-radius: 12px;
+  background:
+    linear-gradient(145deg, #fff0c2 0%, #d9a52c 22%, #8a5a00 48%, #ffd76a 70%, #a8700a 100%);
+  box-shadow:
+    0 1px 0 rgba(255, 255, 255, 0.25) inset,
+    0 14px 30px rgba(0, 0, 0, 0.45),
+    0 2px 6px rgba(0, 0, 0, 0.3);
+  transition:
+    transform var(--dur-slow) var(--ease-bounce),
+    box-shadow var(--dur-slow) var(--ease-out);
+}
+
+[data-theme='light'] .poster-frame {
+  box-shadow:
+    0 1px 0 rgba(255, 255, 255, 0.4) inset,
+    0 14px 26px rgba(90, 50, 0, 0.22),
+    0 2px 6px rgba(90, 50, 0, 0.18);
+}
+
+.poster-frame::after {
+  /* spotlight sheen that sweeps in on hover */
+  content: '';
+  position: absolute;
+  inset: 6px;
+  z-index: 3;
+  border-radius: 8px;
+  background: radial-gradient(120% 60% at 50% -10%, rgba(255, 245, 210, 0.45), transparent 60%);
+  opacity: 0;
+  transition: opacity var(--dur-slow) var(--ease-out);
+  pointer-events: none;
+}
+
+.poster-frame .show-poster {
+  border-radius: 8px;
+  box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.35);
+}
+
+.poster-card:hover .poster-frame,
+.poster-card:focus-within .poster-frame {
+  transform: translateY(-6px) rotate(-0.6deg);
+  box-shadow:
+    0 0 0 2px rgba(255, 201, 74, 0.35),
+    0 22px 44px rgba(0, 0, 0, 0.5),
+    0 0 46px rgba(255, 201, 74, 0.28);
+}
+
+.poster-wall > li:nth-child(even) .poster-card:hover .poster-frame {
+  transform: translateY(-6px) rotate(0.6deg);
+}
+
+.poster-card:hover .poster-frame::after,
+.poster-card:focus-within .poster-frame::after {
+  opacity: 1;
+}
+
+.poster-badge,
+.poster-year {
+  position: absolute;
+  z-index: 4;
+  padding: 0.15rem 0.5rem;
+  border-radius: var(--radius-pill);
+  font-size: 0.68rem;
+  font-weight: 900;
+  letter-spacing: 0.06em;
+  line-height: 1.5;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.35);
+}
+
+.poster-badge {
+  top: 14px;
+  left: 14px;
+  background: linear-gradient(90deg, var(--pink-500), var(--pink-400));
+  color: #fff;
+  text-transform: uppercase;
+}
+
+.poster-year {
+  right: 14px;
+  bottom: 14px;
+  background: rgba(20, 12, 36, 0.82);
+  color: var(--gold-300);
+  border: 1px solid rgba(255, 201, 74, 0.45);
+  font-variant-numeric: tabular-nums;
+  backdrop-filter: blur(4px);
+}
+
+/* brass name plaque */
+.poster-plaque {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.3rem;
+  padding: 0 0.25rem;
+  text-align: center;
+}
+
+.poster-title {
+  font-family: var(--font-body);
+  font-size: var(--step-0);
+  font-weight: 900;
+  line-height: 1.2;
+  color: var(--heading);
+  overflow-wrap: anywhere;
+}
+
+.poster-title a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.poster-title a:hover {
+  color: var(--primary-text);
+}
+
+.poster-title a:focus-visible {
+  outline: none;
+}
+
+.poster-title a:focus-visible::after {
+  outline: 3px solid var(--focus);
+  outline-offset: 4px;
+  border-radius: 14px;
+}
+
+.poster-credit {
+  max-width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-size: var(--step--1);
+  font-weight: 700;
+  color: var(--text-muted);
+}
+
+.poster-counts {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.3rem;
+  margin: 0.1rem 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.poster-counts li {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.2rem;
+  padding: 0.1rem 0.5rem;
+  border-radius: var(--radius-pill);
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  font-size: var(--step--2);
+  font-weight: 900;
+  font-variant-numeric: tabular-nums;
+  color: var(--text);
+}
+
+/* ------------------------------------------------------------ CTA ticket */
+.shows-cta {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--space-md);
+  margin-top: var(--space-2xl);
+  padding: var(--space-lg) var(--space-xl);
+  border-radius: var(--radius-lg);
+  border: 2px dashed color-mix(in srgb, var(--primary) 55%, transparent);
+  background:
+    radial-gradient(80% 140% at 0% 50%, var(--primary-soft), transparent 60%),
+    var(--surface);
+}
+
+.shows-cta::before,
+.shows-cta::after {
+  /* ticket-stub notches */
+  content: '';
+  position: absolute;
+  top: 50%;
+  width: 26px;
+  height: 26px;
+  margin-top: -13px;
+  border-radius: 50%;
+  background: var(--bg);
+  border: 2px dashed color-mix(in srgb, var(--primary) 55%, transparent);
+}
+
+.shows-cta::before {
+  left: -14px;
+  clip-path: inset(0 0 0 50%);
+}
+
+.shows-cta::after {
+  right: -14px;
+  clip-path: inset(0 50% 0 0);
+}
+
+.shows-cta-emoji {
+  font-size: 2.2rem;
+  line-height: 1;
+}
+
+.shows-cta-text {
+  flex: 1 1 14rem;
+}
+
+.shows-cta-title {
+  font-family: var(--font-display);
+  font-weight: 400;
+  font-size: var(--step-2);
+  color: var(--heading);
+}
+
+@media (max-width: 479px) {
+  .poster-counts {
+    gap: 0.2rem;
+  }
+
+  .poster-counts li {
+    padding: 0.08rem 0.4rem;
+  }
+
+  .poster-counts .emoji {
+    display: none;
+  }
+}

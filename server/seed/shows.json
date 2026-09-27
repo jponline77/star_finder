@@ -1,0 +1,380 @@
+[
+  {
+    "name": "Monty Python's Spamalot",
+    "aliases": [
+      "SPAMalot"
+    ],
+    "composer": "John Du Prez and Eric Idle",
+    "lyricist": "Eric Idle",
+    "bookWriter": "Eric Idle",
+    "year": 2005,
+    "licensor": "Theatrical Rights Worldwide (TRW)",
+    "licensingNote": "TRW shows need a free festival licence request for STAR, so ask your teacher to send it in. TRW also offers a School Edition.",
+    "description": "King Arthur and his not-so-brave Knights of the Round Table go looking for the Holy Grail in this very silly musical. It's based on the film Monty Python and the Holy Grail, and it makes fun of old legends, knights and Broadway musicals themselves.",
+    "wikiTitle": "Spamalot",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Spamalot",
+    "imageFile": "monty-pythons-spamalot.jpg",
+    "imageCredit": "Image via Wikipedia (fair use / see source)",
+    "imageSourceUrl": "https://upload.wikimedia.org/wikipedia/en/d/d3/Spamalot_poster.jpg"
+  },
+  {
+    "name": "Shrek The Musical",
+    "aliases": [
+      "Shrek"
+    ],
+    "composer": "Jeanine Tesori",
+    "lyricist": "David Lindsay-Abaire",
+    "bookWriter": "David Lindsay-Abaire",
+    "year": 2008,
+    "licensor": "Music Theatre International (MTI)",
+    "licensingNote": null,
+    "description": "Shrek is a grumpy ogre who just wants his swamp back. To get it, he and a very chatty Donkey set out to rescue Princess Fiona for the tiny, pompous Lord Farquaad. Based on the DreamWorks film, it's a funny, big-hearted story about being proud of who you are.",
+    "wikiTitle": "Shrek the Musical",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Shrek_the_Musical",
+    "imageFile": "shrek-the-musical.jpg",
+    "imageCredit": "Image via Wikipedia (fair use / see source)",
+    "imageSourceUrl": "https://upload.wikimedia.org/wikipedia/en/4/46/Shrekcovernew.jpg"
+  },
+  {
+    "name": "Little Shop of Horrors",
+    "aliases": [
+      "Little Shop of Horrors"
+    ],
+    "composer": "Alan Menken",
+    "lyricist": "Howard Ashman",
+    "bookWriter": "Howard Ashman",
+    "year": 1982,
+    "licensor": "Music Theatre International (MTI)",
+    "licensingNote": null,
+    "description": "Seymour is a shy flower-shop worker who finds a strange plant that brings him fame, fortune and a chance with his co-worker Audrey. The catch is that the plant has a very unusual appetite. It's a darkly funny sci-fi comedy with a 1960s rock, doo-wop and Motown sound.",
+    "wikiTitle": "Little Shop of Horrors (musical)",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Little_Shop_of_Horrors_(musical)",
+    "imageFile": "little-shop-of-horrors.jpg",
+    "imageCredit": "Image via Wikipedia (fair use / see source)",
+    "imageSourceUrl": "https://upload.wikimedia.org/wikipedia/en/7/79/LittleShopAlbum.jpg"
+  },
+  {
+    "name": "Hadestown",
+    "aliases": [
+      "Hadestown"
+    ],
+    "composer": "Anaïs Mitchell",
+    "lyricist": "Anaïs Mitchell",
+    "bookWriter": "Anaïs Mitchell",
+    "year": 2019,
+    "licensor": "Concord Theatricals",
+    "licensingNote": "Right now only Hadestown: Teen Edition can be licensed, and only by K–12 schools and youth groups in North America. The full version isn't released for amateur productions yet. Some keys and lyrics in the Teen Edition differ from the Broadway recording.",
+    "description": "This musical retells two Greek myths with folk and New Orleans jazz music. One is about the young lovers Orpheus and Eurydice, and the other is about the gods Hades and Persephone. Orpheus, a poor songwriter, makes a daring trip down to the underworld for the one he loves.",
+    "wikiTitle": "Hadestown",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Hadestown",
+    "imageFile": "hadestown.png",
+    "imageCredit": "Image via Wikipedia (fair use / see source)",
+    "imageSourceUrl": "https://upload.wikimedia.org/wikipedia/en/7/75/Hadestown_musical_poster.png"
+  },
+  {
+    "name": "Into the Woods",
+    "aliases": [
+      "Into The Woods"
+    ],
+    "composer": "Stephen Sondheim",
+    "lyricist": "Stephen Sondheim",
+    "bookWriter": "James Lapine",
+    "year": 1987,
+    "licensor": "Music Theatre International (MTI)",
+    "licensingNote": null,
+    "description": "A Baker and his Wife head into the woods to break a witch's curse. Along the way they run into Cinderella, Jack (of beanstalk fame), Little Red Ridinghood and Rapunzel. Stephen Sondheim and James Lapine tangle the classic fairy tales together in a clever musical about wishes and what happens after 'happily ever after'.",
+    "wikiTitle": "Into the Woods",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Into_the_Woods",
+    "imageFile": "into-the-woods.jpg",
+    "imageCredit": "Image via Wikipedia (fair use / see source)",
+    "imageSourceUrl": "https://upload.wikimedia.org/wikipedia/en/6/6a/Into_the_Woods_poster.jpg"
+  },
+  {
+    "name": "A Gentleman's Guide to Love and Murder",
+    "aliases": [
+      "A Gentlemans Guide to Love and Murder"
+    ],
+    "composer": "Steven Lutvak",
+    "lyricist": "Robert L. Freedman and Steven Lutvak",
+    "bookWriter": "Robert L. Freedman",
+    "year": 2013,
+    "licensor": "Music Theatre International (MTI)",
+    "licensingNote": null,
+    "description": "Penniless Monty Navarro discovers he is a distant heir to an earldom, with a whole line of snooty relatives standing in his way. He hatches a wicked plan to move up the family tree one relative at a time. In this witty Edwardian comedy, one actor plays every one of those unlucky relatives.",
+    "wikiTitle": "A Gentleman's Guide to Love and Murder",
+    "wikiUrl": "https://en.wikipedia.org/wiki/A_Gentleman's_Guide_to_Love_and_Murder",
+    "imageFile": "a-gentlemans-guide-to-love-and-murder.jpg",
+    "imageCredit": "Image via Wikipedia (fair use / see source)",
+    "imageSourceUrl": "https://upload.wikimedia.org/wikipedia/en/9/97/A_Gentleman%27s_Guide_to_Love_and_Murder.jpg"
+  },
+  {
+    "name": "The Hunchback of Notre Dame",
+    "aliases": [
+      "The Hunchback of Notre Dame"
+    ],
+    "composer": "Alan Menken",
+    "lyricist": "Stephen Schwartz",
+    "bookWriter": "Peter Parnell",
+    "year": 2014,
+    "licensor": "Music Theatre International (MTI)",
+    "licensingNote": null,
+    "description": "Quasimodo, the kind-hearted bell-ringer of Notre Dame cathedral in 1400s Paris, dreams of spending just one day outside his tower. Built from Victor Hugo's novel and the songs of the Disney film (plus new ones), it's a sweeping story about acceptance and courage, sung with a huge choir.",
+    "wikiTitle": "The Hunchback of Notre Dame (musical)",
+    "wikiUrl": "https://en.wikipedia.org/wiki/The_Hunchback_of_Notre_Dame_(musical)",
+    "imageFile": "the-hunchback-of-notre-dame.jpg",
+    "imageCredit": "Image via Wikipedia (fair use / see source)",
+    "imageSourceUrl": "https://upload.wikimedia.org/wikipedia/en/6/62/The_Hunchback_of_Notre_Dame_cover.jpg"
+  },
+  {
+    "name": "The Count of Monte Cristo",
+    "aliases": [
+      "The Count of Monte Cristo"
+    ],
+    "composer": "Frank Wildhorn",
+    "lyricist": "Jack Murphy",
+    "bookWriter": "Jack Murphy",
+    "year": 2009,
+    "licensor": null,
+    "licensingNote": "We couldn't find a licensing company that offers this show in North America (it isn't listed by MTI, Concord Theatricals or TRW), so it doesn't come from one of STAR's approved publishers. Check with your teacher that you can get a published score before you choose a song from it.",
+    "description": "Young sailor Edmond Dantès is thrown into prison by jealous rivals. Years later he escapes, finds a hidden treasure and comes back as the mysterious Count of Monte Cristo. Based on Alexandre Dumas's novel, it's a sweeping adventure about revenge, forgiveness and love.",
+    "wikiTitle": "The Count of Monte Cristo (Wildhorn musical)",
+    "wikiUrl": "https://en.wikipedia.org/wiki/The_Count_of_Monte_Cristo_(Wildhorn_musical)",
+    "imageFile": "the-count-of-monte-cristo.png",
+    "imageCredit": "Image via Wikipedia (fair use / see source)",
+    "imageSourceUrl": "https://upload.wikimedia.org/wikipedia/en/f/f9/The_Count_of_Monte_Cristo_-_Highlights_from_the_Musical.png"
+  },
+  {
+    "name": "The Scarlet Pimpernel",
+    "aliases": [
+      "The Scarlet Pimpernel"
+    ],
+    "composer": "Frank Wildhorn",
+    "lyricist": "Nan Knighton",
+    "bookWriter": "Nan Knighton",
+    "year": 1997,
+    "licensor": "Concord Theatricals (Tams-Witmark collection)",
+    "licensingNote": "The licensed script is the third Broadway version (1999), so a few songs from the original cast album, like 'Only Love', aren't in it.",
+    "description": "During the French Revolution, the English nobleman Sir Percy Blakeney acts like a silly fop. In secret he is the daring Scarlet Pimpernel, rescuing innocent people from the guillotine. The show is a swashbuckling adventure full of disguises, sword fights and romance.",
+    "wikiTitle": "The Scarlet Pimpernel (musical)",
+    "wikiUrl": "https://en.wikipedia.org/wiki/The_Scarlet_Pimpernel_(musical)",
+    "imageFile": "the-scarlet-pimpernel.jpg",
+    "imageCredit": "Image via Wikipedia (fair use / see source)",
+    "imageSourceUrl": "https://upload.wikimedia.org/wikipedia/en/f/fb/Spalbum.jpg"
+  },
+  {
+    "name": "Something's Afoot",
+    "aliases": [
+      "Something's Afoot"
+    ],
+    "composer": "James McDonald, David Vos and Robert Gerlach (additional music by Ed Linderman)",
+    "lyricist": "James McDonald, David Vos and Robert Gerlach",
+    "bookWriter": "James McDonald, David Vos and Robert Gerlach",
+    "year": 1976,
+    "licensor": "Concord Theatricals (Samuel French)",
+    "licensingNote": null,
+    "description": "A group of weekend guests and servants get stranded at an English country house during a wild thunderstorm, and one by one they're bumped off in silly, over-the-top ways. It's a musical spoof of Agatha Christie mysteries with a 1930s English music-hall flavour.",
+    "wikiTitle": "Something's Afoot",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Something's_Afoot",
+    "imageFile": "somethings-afoot.jpg",
+    "imageCredit": "Album art via Apple Music (see source)",
+    "imageSourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/7b/15/697b15fd-bcf9-9150-71d4-8a75050e1be2/605288145827.png/600x600bb.jpg"
+  },
+  {
+    "name": "The Robber Bridegroom",
+    "aliases": [
+      "The Robber Bridegroom"
+    ],
+    "composer": "Robert Waldman",
+    "lyricist": "Alfred Uhry",
+    "bookWriter": "Alfred Uhry",
+    "year": 1975,
+    "licensor": "Music Theatre International (MTI)",
+    "licensingNote": null,
+    "description": "In 1700s Mississippi, Jamie Lockhart is a charming gentleman in town and a sly robber in the woods. He falls for Rosamund, a rich planter's daughter, while her jealous stepmother Salome schemes against her. Based on Eudora Welty's novella, it's a rowdy, foot-stomping folk tale told with bluegrass music, disguises and plenty of mix-ups.",
+    "wikiTitle": "The Robber Bridegroom (musical)",
+    "wikiUrl": "https://en.wikipedia.org/wiki/The_Robber_Bridegroom_(musical)",
+    "imageFile": "the-robber-bridegroom.jpg",
+    "imageCredit": "Image via Wikipedia (fair use / see source)",
+    "imageSourceUrl": "https://upload.wikimedia.org/wikipedia/en/3/32/Robber_Bridegroom_original_poster_art.jpg"
+  },
+  {
+    "name": "Curtains",
+    "aliases": [
+      "Curtains"
+    ],
+    "composer": "John Kander",
+    "lyricist": "Fred Ebb (additional lyrics by John Kander and Rupert Holmes)",
+    "bookWriter": "Rupert Holmes (original book and concept by Peter Stone)",
+    "year": 2006,
+    "licensor": "Theatrical Rights Worldwide (TRW)",
+    "licensingNote": "Licensed by TRW. STAR asks you to send TRW a free festival licence request. A School Edition and a 60-minute Young@Part version also exist.",
+    "description": "It's 1959 in Boston, and the leading lady of a new Broadway-bound musical collapses on opening night. A police detective who loves musicals locks the whole company inside the theatre to solve the case, and he can't resist helping them fix their show too. It's a comic whodunit full of backstage jokes and big song-and-dance numbers.",
+    "wikiTitle": "Curtains (musical)",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Curtains_(musical)",
+    "imageFile": "curtains.jpg",
+    "imageCredit": "Image via Wikipedia (fair use / see source)",
+    "imageSourceUrl": "https://upload.wikimedia.org/wikipedia/en/5/5c/Curtains_david_a.JPG"
+  },
+  {
+    "name": "Oh What a Lovely War",
+    "aliases": [
+      "Oh What a Lovely War"
+    ],
+    "composer": "Various (First World War-era songs)",
+    "lyricist": "Various",
+    "bookWriter": "Joan Littlewood & Theatre Workshop (with Charles Chilton, Gerry Raffles & Ted Allan)",
+    "year": 1963,
+    "licensor": "Concord Theatricals (Samuel French)",
+    "licensingNote": "Listed in Concord Theatricals' UK catalogue (as a full-length musical) but not its North American one, so ask Concord about rights in Canada. The show is built from real WWI-era popular songs, not songs written for it, so check with your teacher that your song counts for STAR.",
+    "description": "A troupe of seaside entertainers in clown-like pierrot costumes tells the story of World War I through real songs that soldiers and music-hall stars sang at the time. Cheerful tunes and silly jokes play in front of projected headlines and grim war statistics, which makes it a sharp, moving satire about the cost of war.",
+    "wikiTitle": "Oh, What a Lovely War!",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Oh,_What_a_Lovely_War!",
+    "imageFile": "oh-what-a-lovely-war.jpg",
+    "imageCredit": "Image via Wikipedia (fair use / see source)",
+    "imageSourceUrl": "https://upload.wikimedia.org/wikipedia/en/7/7a/Oh_What_A_Lovely_War_London_Cast_Recording.jpg"
+  },
+  {
+    "name": "Smash",
+    "aliases": [
+      "Smash!"
+    ],
+    "composer": "Marc Shaiman",
+    "lyricist": "Scott Wittman & Marc Shaiman",
+    "bookWriter": "Rick Elice & Bob Martin",
+    "year": 2025,
+    "licensor": null,
+    "licensingNote": "Concord Theatricals got the worldwide licensing rights in June 2026, but its page still says 'Notify Me When Available', so the stage show isn't released for licensing yet. Most of the songs were first written for the NBC TV series and then used in the 2025 Broadway musical (that's why the Broadway score couldn't compete for the Tony for Best Score). STAR asks for songs written for a stage musical, so check with your teacher.",
+    "description": "Opening night is coming for Bombshell, a splashy new Broadway musical about Marilyn Monroe, and its star Ivy Lynn keeps causing chaos. Her director, writers, an eager understudy and the whole company scramble to hold the show together in this backstage musical comedy inspired by the TV series Smash.",
+    "wikiTitle": "Smash (musical)",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Smash_(musical)",
+    "imageFile": "smash.jpg",
+    "imageCredit": "Image via Wikipedia (fair use / see source)",
+    "imageSourceUrl": "https://upload.wikimedia.org/wikipedia/en/c/ca/2025smashmusicalpromotionalposter.jpg"
+  },
+  {
+    "name": "Operation Mincemeat",
+    "aliases": [
+      "Operation Mincemeat"
+    ],
+    "composer": "David Cumming, Felix Hagan, Natasha Hodgson & Zoë Roberts (SpitLip)",
+    "lyricist": "David Cumming, Felix Hagan, Natasha Hodgson & Zoë Roberts (SpitLip)",
+    "bookWriter": "David Cumming, Felix Hagan, Natasha Hodgson & Zoë Roberts (SpitLip)",
+    "year": 2019,
+    "licensor": "Concord Theatricals",
+    "licensingNote": "Schools can license 'Operation Mincemeat: The Expanded Cast', which is at first only for performers aged 19 and under. The original five-actor version isn't released for amateur licensing yet.",
+    "description": "In 1943, a team of misfit British spies comes up with a wild plan to fool the Nazis: a dead body carrying fake secret papers. Based on a real World War II mission, this fast, funny musical has a tiny cast playing dozens of roles, with some surprisingly touching moments along the way.",
+    "wikiTitle": "Operation Mincemeat (musical)",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Operation_Mincemeat_(musical)",
+    "imageFile": "operation-mincemeat.jpg",
+    "imageCredit": "Image via Wikipedia (fair use / see source)",
+    "imageSourceUrl": "https://upload.wikimedia.org/wikipedia/en/2/23/Operation_Mincemeat_Musical_Poster.jpeg"
+  },
+  {
+    "name": "Les Misérables",
+    "aliases": [
+      "Les Miserables"
+    ],
+    "composer": "Claude-Michel Schönberg",
+    "lyricist": "Herbert Kretzmer",
+    "bookWriter": "Alain Boublil & Claude-Michel Schönberg",
+    "year": 1985,
+    "licensor": "Music Theatre International (MTI)",
+    "licensingNote": "MTI says it is currently only available in the US and Canada. A School Edition also exists. In the licensed materials some songs are grouped into longer sequences, for example 'Who Am I?' is inside 'Cart Crash'.",
+    "description": "In 19th-century France, ex-prisoner Jean Valjean tries to start an honest new life while the relentless police inspector Javert hunts him for breaking parole. Sung almost all the way through, this huge musical follows love, sacrifice and revolution on the streets of Paris.",
+    "wikiTitle": "Les Misérables (musical)",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Les_Mis%C3%A9rables_(musical)",
+    "imageFile": "les-miserables.png",
+    "imageCredit": "Image via Wikipedia (fair use / see source)",
+    "imageSourceUrl": "https://upload.wikimedia.org/wikipedia/en/6/67/LesMisLogo.png"
+  },
+  {
+    "name": "Cabaret",
+    "aliases": [
+      "Cabaret"
+    ],
+    "composer": "John Kander",
+    "lyricist": "Fred Ebb",
+    "bookWriter": "Joe Masteroff",
+    "year": 1966,
+    "licensor": "Concord Theatricals",
+    "licensingNote": "Concord licenses three versions: Original 1966, Revised 1987 and the 1998 Version. 'Mein Herr' and 'Maybe This Time' were added from the 1972 film and are only in the 1998 Version. 'I Don't Care Much' is in the 1987 and 1998 versions. Make sure your song is in the version you're using. The show deals with mature themes.",
+    "description": "In Berlin around 1930, a young American writer meets Sally Bowles, the star singer at the wild Kit Kat Klub, while a mysterious Emcee comments on everything from the stage. As the Nazi party gains power, their carefree world starts to crack, which makes this a powerful show about what happens when people ignore what's going on around them.",
+    "wikiTitle": "Cabaret (musical)",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Cabaret_(musical)",
+    "imageFile": "cabaret.jpg",
+    "imageCredit": "Image via Wikipedia (fair use / see source)",
+    "imageSourceUrl": "https://upload.wikimedia.org/wikipedia/en/7/7f/Cabaret_1966_Musical_Poster.jpg"
+  },
+  {
+    "name": "Shucked",
+    "aliases": [
+      "Shucked"
+    ],
+    "composer": "Brandy Clark & Shane McAnally",
+    "lyricist": "Brandy Clark & Shane McAnally",
+    "bookWriter": "Robert Horn",
+    "year": 2022,
+    "licensor": null,
+    "licensingNote": "MTI got the licensing rights in 2025, but its page says the show is 'currently unavailable for licensing' until it is released. Check with your teacher.",
+    "description": "When the corn in a tiny, cut-off farm town starts dying, Maizy leaves home for the first time to find help in the big city, and comes back with a smooth-talking con man. It's a corny, pun-packed country-music comedy about love, family and tearing down the walls between people.",
+    "wikiTitle": "Shucked",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Shucked",
+    "imageFile": "shucked.jpg",
+    "imageCredit": "Image via Wikipedia (fair use / see source)",
+    "imageSourceUrl": "https://upload.wikimedia.org/wikipedia/en/3/3e/Shucked_poster.jpg"
+  },
+  {
+    "name": "Merrily We Roll Along",
+    "aliases": [
+      "Merrily We Roll Along"
+    ],
+    "composer": "Stephen Sondheim",
+    "lyricist": "Stephen Sondheim",
+    "bookWriter": "George Furth",
+    "year": 1981,
+    "licensor": "Music Theatre International (MTI)",
+    "licensingNote": "MTI licenses the revised 1994 (York Theatre) version. Its song list matches what you hear on the 2023 Broadway revival recording (for example, Beth sings 'Not a Day Goes By'; in the original 1981 version Frank sang it).",
+    "description": "This Sondheim musical tells its story backwards. It starts with Franklin Shepard, a successful but unhappy composer, then rewinds twenty years to show how he and his two best friends went from hopeful young dreamers to strangers. It's funny, bittersweet and full of great songs about friendship and the price of success.",
+    "wikiTitle": "Merrily We Roll Along (musical)",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Merrily_We_Roll_Along_(musical)",
+    "imageFile": "merrily-we-roll-along.jpg",
+    "imageCredit": "Image via Wikipedia (fair use / see source)",
+    "imageSourceUrl": "https://upload.wikimedia.org/wikipedia/en/6/6e/MerrilyWeRollAlong.jpg"
+  },
+  {
+    "name": "Mr. Burns, a Post-Electric Play",
+    "aliases": [
+      "Mr. Burns"
+    ],
+    "composer": "Michael Friedman",
+    "lyricist": "Anne Washburn",
+    "bookWriter": "Anne Washburn",
+    "year": 2012,
+    "licensor": "Concord Theatricals (Samuel French)",
+    "licensingNote": "This is a play with music (Concord lists it as a full-length play), not a musical. STAR's musical theatre categories ask for a song from a stage musical's published score, and Concord's page lists only the script, not a vocal score, so check with your teacher before choosing a song from it.",
+    "description": "After a disaster knocks out the power grid, a group of survivors passes the time around a campfire by retelling an episode of The Simpsons from memory. The play then jumps years and decades into the future to show how that story turns into a strange musical legend, and that final act is where most of the songs are.",
+    "wikiTitle": "Mr. Burns, a Post-Electric Play",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Mr._Burns,_a_Post-Electric_Play",
+    "imageFile": "mr-burns-a-post-electric-play.jpg",
+    "imageCredit": "Image via Wikipedia (fair use / see source)",
+    "imageSourceUrl": "https://upload.wikimedia.org/wikipedia/en/1/18/Mr._Burns%2C_a_Post-Electric_Play_poster.jpg"
+  },
+  {
+    "name": "The Book of Mormon",
+    "aliases": [
+      "The Book of Mormon"
+    ],
+    "composer": "Trey Parker, Robert Lopez & Matt Stone",
+    "lyricist": "Trey Parker, Robert Lopez & Matt Stone",
+    "bookWriter": "Trey Parker, Robert Lopez & Matt Stone",
+    "year": 2011,
+    "licensor": null,
+    "licensingNote": "Not available for amateur or school licensing yet (it's still running on Broadway), and STAR asks for material from its list of approved publishers, like MTI or Concord. It's also famous for very edgy humour and strong language, so check with your teacher before choosing a song.",
+    "description": "Two very different young missionaries, a by-the-book star student and his fib-prone new partner, are sent to a remote village in Uganda where nobody wants to hear their message. It's a wildly irreverent musical comedy from the creators of South Park and Robert Lopez (Avenue Q, Frozen).",
+    "wikiTitle": "The Book of Mormon (musical)",
+    "wikiUrl": "https://en.wikipedia.org/wiki/The_Book_of_Mormon_(musical)",
+    "imageFile": "the-book-of-mormon.jpg",
+    "imageCredit": "Image via Wikipedia (fair use / see source)",
+    "imageSourceUrl": "https://upload.wikimedia.org/wikipedia/en/8/8c/The_Book_of_Mormon_poster.jpg"
+  }
+]

@@ -1,0 +1,501 @@
+/* ==========================================================================
+   /setlist — My Setlist (+ print styles)
+   ========================================================================== */
+
+.setlist-header {
+  align-items: flex-end;
+}
+
+.setlist-print-title,
+.setlist-print-meta,
+.setlist-print-line {
+  display: none;
+}
+
+.setlist-toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-xs);
+}
+
+/* ---------------------------------------------------------------- shared banner */
+.setlist-shared {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-md);
+  margin-bottom: var(--space-xl);
+  padding: var(--space-lg);
+  border: 2px dashed color-mix(in srgb, var(--accent-pink) 60%, var(--border-strong));
+  border-radius: var(--radius-xl);
+  background:
+    radial-gradient(80% 120% at 100% 0%, var(--accent-pink-soft), transparent 65%),
+    radial-gradient(60% 100% at 0% 100%, var(--accent-teal-soft), transparent 65%),
+    var(--surface);
+  box-shadow: var(--shadow-md);
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .setlist-shared {
+    animation: setlist-drop 520ms var(--ease-bounce) both;
+  }
+}
+
+@keyframes setlist-drop {
+  from {
+    opacity: 0;
+    transform: translateY(-14px) rotate(-0.6deg);
+  }
+}
+
+.setlist-shared-head {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--space-md);
+}
+
+.setlist-shared-emoji {
+  display: grid;
+  place-items: center;
+  flex: none;
+  width: 56px;
+  height: 56px;
+  border-radius: 16px;
+  background: var(--accent-pink-soft);
+  font-size: 2rem;
+}
+
+.setlist-shared-title {
+  font-size: var(--step-2);
+  line-height: 1.1;
+}
+
+@media (max-width: 559px) {
+  .setlist-shared {
+    padding: var(--space-md);
+  }
+  .setlist-shared-head {
+    gap: var(--space-sm);
+  }
+  .setlist-shared-emoji {
+    width: 40px;
+    height: 40px;
+    border-radius: 12px;
+    font-size: 1.4rem;
+  }
+}
+
+.setlist-shared-close {
+  margin-left: auto;
+  flex: none;
+}
+
+.setlist-shared-list {
+  display: grid;
+  gap: 0.3rem var(--space-lg);
+  max-height: 260px;
+  margin: 0;
+  padding: var(--space-sm) var(--space-md) var(--space-sm) 2.2rem;
+  overflow: auto;
+  border-radius: var(--radius-md);
+  background: color-mix(in srgb, var(--surface-2) 80%, transparent);
+  font-weight: 700;
+}
+
+@media (min-width: 760px) {
+  .setlist-shared-list {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+.setlist-shared-list li::marker {
+  color: var(--primary-text);
+  font-weight: 900;
+}
+
+.setlist-shared-list a {
+  color: var(--heading);
+}
+
+.setlist-shared-mine {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.2rem;
+  margin-left: 0.35rem;
+  padding: 0 0.45em;
+  border-radius: var(--radius-pill);
+  background: var(--accent-pink-soft);
+  color: var(--accent-pink);
+  font-size: var(--step--2);
+  font-weight: 900;
+  vertical-align: 1px;
+}
+
+.setlist-shared-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--space-xs);
+}
+
+.setlist-shared-done {
+  font-weight: 800;
+  color: var(--success-text);
+}
+
+/* ---------------------------------------------------------------- stats */
+.setlist-stats,
+.setlist-stats[role='list'] {
+  display: grid;
+  gap: var(--space-sm);
+  /* wide enough for "1:34:05" or "15 / 15" on one line — phones get two tiles per row */
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 140px), 1fr));
+  margin: 0 0 var(--space-lg);
+  padding: 0;
+  list-style: none;
+}
+
+.setlist-stat {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+  min-width: 0;
+  padding: var(--space-sm) var(--space-md);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  background: var(--surface);
+  box-shadow: var(--shadow-sm);
+}
+
+@media (min-width: 720px) {
+  .setlist-stat {
+    padding: var(--space-md) var(--space-lg);
+  }
+}
+
+.setlist-stat-value {
+  font-family: var(--font-display);
+  font-size: clamp(1.4rem, 0.9rem + 2.2vw, 3.4rem);
+  line-height: 1;
+  white-space: nowrap; /* never break a time like "11:26" across lines */
+  color: var(--primary-text);
+  font-variant-numeric: tabular-nums;
+}
+
+.setlist-stat.is-time .setlist-stat-value {
+  color: var(--accent-teal);
+}
+
+.setlist-stat.is-over {
+  border-color: color-mix(in srgb, var(--danger) 50%, var(--border));
+  background: var(--danger-bg);
+}
+
+.setlist-stat.is-over .setlist-stat-value {
+  color: var(--danger-text);
+}
+
+.setlist-stat-sep {
+  margin-inline: 0.2em;
+  color: var(--text-subtle);
+  font-size: 0.7em;
+}
+
+.setlist-stat-label {
+  font-weight: 800;
+  font-size: var(--step--1);
+  color: var(--text-muted);
+}
+
+/* ---------------------------------------------------------------- rows */
+.setlist-list {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-sm);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  counter-reset: none;
+}
+
+.setlist-row {
+  display: grid;
+  grid-template-columns: auto 60px minmax(0, 1fr);
+  align-items: start;
+  gap: var(--space-sm) var(--space-md);
+  padding: var(--space-md);
+  background:
+    linear-gradient(110deg, color-mix(in srgb, var(--surface-2) 70%, transparent), var(--surface) 55%);
+  transition:
+    border-color var(--dur) var(--ease-out),
+    box-shadow var(--dur) var(--ease-out);
+}
+
+.setlist-row:hover,
+.setlist-row:focus-within {
+  border-color: color-mix(in srgb, var(--primary) 40%, var(--border));
+  box-shadow: var(--shadow-md);
+}
+
+@media (min-width: 720px) {
+  .setlist-row {
+    grid-template-columns: 2.6rem 72px minmax(0, 1fr) auto;
+    align-items: center;
+    padding: var(--space-md) var(--space-lg) var(--space-md) var(--space-md);
+  }
+}
+
+.setlist-pos {
+  display: grid;
+  place-items: center;
+  min-width: 1.8rem;
+  font-family: var(--font-display);
+  font-size: var(--step-3);
+  line-height: 1;
+  color: var(--primary-text);
+  font-variant-numeric: tabular-nums;
+}
+
+.setlist-art {
+  position: relative;
+  width: 60px;
+}
+
+@media (min-width: 720px) {
+  .setlist-art {
+    width: 72px;
+  }
+}
+
+.setlist-art .art-tile {
+  width: 100%;
+  border-radius: var(--radius-sm);
+}
+
+.setlist-art .play-button {
+  position: absolute;
+  right: -8px;
+  bottom: -8px;
+}
+
+.setlist-main {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+  min-width: 0;
+}
+
+.setlist-title {
+  font-family: var(--font-body);
+  font-size: var(--step-1);
+  font-weight: 900;
+  line-height: 1.2;
+}
+
+.setlist-title a {
+  color: var(--heading);
+  text-decoration: none;
+}
+
+.setlist-title a:hover {
+  color: var(--primary-text);
+  text-decoration: underline;
+}
+
+.setlist-show {
+  font-size: var(--step--1);
+  font-weight: 700;
+  color: var(--text-muted);
+}
+
+.setlist-show a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 24px; /* WCAG 2.5.8 minimum target size */
+  color: inherit;
+  text-decoration: none;
+}
+
+@media (pointer: coarse) {
+  .setlist-show a {
+    min-height: var(--tap);
+  }
+}
+
+.setlist-show a:hover {
+  color: var(--primary-text);
+  text-decoration: underline;
+}
+
+.setlist-parts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.2rem var(--space-md);
+  margin: 0.2rem 0 0;
+  padding: 0;
+  list-style: none;
+  font-size: var(--step--1);
+  font-weight: 700;
+}
+
+.setlist-parts li {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.setlist-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  margin-top: 0.35rem;
+}
+
+.setlist-side {
+  grid-column: 1 / -1;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-sm);
+  padding-top: var(--space-xs);
+  border-top: 1px dashed var(--border);
+}
+
+@media (min-width: 720px) {
+  .setlist-side {
+    grid-column: auto;
+    flex-direction: column;
+    align-items: flex-end;
+    padding-top: 0;
+    border-top: 0;
+  }
+}
+
+.setlist-controls {
+  display: flex;
+  gap: 0.35rem;
+}
+
+.setlist-controls .btn-icon-sm {
+  width: 38px;
+  height: 38px;
+}
+
+.setlist-remove {
+  color: var(--danger-text);
+  border-color: color-mix(in srgb, var(--danger) 35%, transparent);
+}
+
+.setlist-remove:hover {
+  background: var(--danger-bg);
+}
+
+.setlist-missing {
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: var(--space-md);
+  font-weight: 700;
+}
+
+.setlist-tip {
+  display: flex;
+  gap: var(--space-sm);
+  align-items: flex-start;
+  margin-top: var(--space-xl);
+  padding: var(--space-md) var(--space-lg);
+  border: 1px dashed var(--border-strong);
+  border-radius: var(--radius-lg);
+  color: var(--text-muted);
+  font-size: var(--step--1);
+}
+
+.setlist-tip svg {
+  flex: none;
+  color: var(--accent-teal);
+  margin-top: 2px;
+}
+
+.setlist-empty .btn {
+  white-space: normal;
+}
+
+/* ---------------------------------------------------------------- print */
+@media print {
+  .setlist-page {
+    max-width: none;
+    padding: 0;
+    color: #000;
+  }
+  .setlist-page .page-header {
+    margin-bottom: 12pt;
+  }
+  .setlist-screen-title,
+  .setlist-shared,
+  .setlist-stats,
+  .setlist-toolbar,
+  .setlist-tip,
+  .setlist-missing,
+  .setlist-parts,
+  .setlist-tags,
+  .setlist-art,
+  .setlist-controls {
+    display: none !important;
+  }
+  .setlist-print-title {
+    display: inline;
+  }
+  .setlist-page .page-title {
+    color: #000;
+    font-size: 24pt;
+  }
+  .setlist-print-meta {
+    display: block;
+    margin-top: 4pt;
+    color: #333;
+    font-size: 10pt;
+  }
+  .setlist-list {
+    gap: 0;
+  }
+  .setlist-row {
+    grid-template-columns: 2rem minmax(0, 1fr) auto;
+    align-items: baseline;
+    padding: 7pt 0;
+    border: 0;
+    border-bottom: 1px solid #bbb;
+    border-radius: 0;
+    background: none !important;
+    box-shadow: none !important;
+    break-inside: avoid;
+  }
+  .setlist-pos,
+  .setlist-title a,
+  .setlist-show,
+  .setlist-show a {
+    color: #000 !important;
+    text-decoration: none;
+  }
+  .setlist-pos {
+    font-size: 16pt;
+  }
+  .setlist-title {
+    font-size: 13pt;
+  }
+  .setlist-print-line {
+    display: block;
+    margin-top: 2pt;
+    color: #222;
+    font-size: 10pt;
+  }
+  .setlist-side {
+    grid-column: auto;
+    padding: 0;
+    border: 0;
+  }
+  .setlist-side .length-badge {
+    background: none !important;
+    border: 1px solid #888 !important;
+    color: #000 !important;
+  }
+}

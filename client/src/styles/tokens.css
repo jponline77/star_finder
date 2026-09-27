@@ -1,0 +1,260 @@
+/* ==========================================================================
+   STAR Song Finder — design tokens
+   Dark "stage" theme is the default; light "matinee" theme via [data-theme='light'].
+   Use tokens (var(--…)) in page CSS — never hard-code theme colours.
+   ========================================================================== */
+
+:root {
+  /* ---- type ---- */
+  --font-display: 'Limelight', 'Georgia', 'Times New Roman', serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Noto Color Emoji';
+  --font-body: 'Nunito Variable', 'Nunito', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Noto Color Emoji';
+  --font-mono: ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace;
+
+  /* fluid type scale (min at 360px → max at ~1280px) */
+  --step--2: clamp(0.72rem, 0.7rem + 0.08vw, 0.78rem);
+  --step--1: clamp(0.84rem, 0.82rem + 0.1vw, 0.9rem);
+  --step-0: clamp(1rem, 0.97rem + 0.15vw, 1.0625rem);
+  --step-1: clamp(1.15rem, 1.08rem + 0.35vw, 1.3rem);
+  --step-2: clamp(1.35rem, 1.2rem + 0.7vw, 1.75rem);
+  --step-3: clamp(1.65rem, 1.35rem + 1.4vw, 2.4rem);
+  --step-4: clamp(2rem, 1.45rem + 2.5vw, 3.4rem);
+  --step-5: clamp(2.35rem, 1.5rem + 3.9vw, 4.6rem);
+
+  --leading-tight: 1.15;
+  --leading: 1.55;
+
+  /* ---- spacing ---- */
+  --space-3xs: 0.125rem;
+  --space-2xs: 0.25rem;
+  --space-xs: 0.5rem;
+  --space-sm: 0.75rem;
+  --space-md: 1rem;
+  --space-lg: 1.5rem;
+  --space-xl: 2rem;
+  --space-2xl: 3rem;
+  --space-3xl: 4.5rem;
+  --gutter: clamp(1rem, 3vw, 2rem);
+
+  /* ---- radii ---- */
+  --radius-xs: 4px;
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 18px;
+  --radius-xl: 28px;
+  --radius-pill: 999px;
+
+  /* ---- layout ---- */
+  --container: 1240px;
+  --container-narrow: 760px;
+  --header-h: 68px;
+  --mini-player-h: 76px;
+  --tap: 44px; /* minimum touch target */
+
+  /* ---- motion ---- */
+  --ease-out: cubic-bezier(0.2, 0.8, 0.2, 1);
+  --ease-bounce: cubic-bezier(0.34, 1.56, 0.64, 1);
+  --dur-fast: 120ms;
+  --dur: 200ms;
+  --dur-slow: 420ms;
+
+  /* ---- z-index ---- */
+  --z-raised: 2;
+  --z-header: 50;
+  --z-player: 60;
+  --z-drawer: 80;
+  --z-toast: 100;
+
+  /* ---- brand palette (theme-independent) ---- */
+  --gold-200: #fff0c2;
+  --gold-300: #ffe08a;
+  --gold-400: #ffc94a;
+  --gold-500: #f5b301;
+  --gold-600: #c98a00;
+  --gold-700: #8a5300;
+  --pink-300: #ff8cc2;
+  --pink-400: #ff5fa8;
+  --pink-500: #ff3d8f;
+  --pink-700: #b8105a;
+  --teal-300: #7ff0dd;
+  --teal-400: #34e0c8;
+  --teal-500: #16c2aa;
+  --teal-700: #0b7a6b;
+  --plum-950: #0c0716;
+  --plum-900: #140d24;
+  --plum-850: #1a1030;
+  --plum-800: #21163b;
+  --plum-700: #2c1f4d;
+  --plum-600: #3a2a63;
+  --plum-500: #4d3a80;
+  --velvet-700: #6d1537;
+  --velvet-800: #4a0e27;
+  --velvet-900: #2e0818;
+
+  /* ---- vocal ranges (AA contrast with --range-text; see lib/vocab.ts RANGE_COLORS) ---- */
+  --range-soprano: #ff7ab8;
+  --range-mezzo: #c792ff;
+  --range-alto: #82a8ff;
+  --range-tenor: #3ed6c2;
+  --range-baritone: #ffb454;
+  --range-bass: #ff8a65;
+  --range-unknown: #b9aecb;
+  --range-text: #1a1026;
+
+  /* ---- marquee sign (dark in both themes — it's a lit sign) ---- */
+  --marquee-frame: linear-gradient(180deg, #6a1a45 0%, #3d0e2b 100%);
+  --marquee-panel: radial-gradient(120% 140% at 50% 0%, #2d1d52 0%, #170e2b 70%);
+  --marquee-text: #fff3cf;
+  --marquee-gold: #ffc94a;
+  --bulb-core: #fffbe8;
+  --bulb-glow: rgba(255, 201, 74, 0.95);
+  --bulb-halo: rgba(255, 170, 40, 0.35);
+}
+
+/* ==========================================================================
+   Dark "stage" (default)
+   ========================================================================== */
+:root,
+[data-theme='dark'] {
+  color-scheme: dark;
+
+  --bg: var(--plum-900);
+  --bg-deep: var(--plum-950);
+  --surface: #1c1332;
+  --surface-2: #251a40;
+  --surface-3: #30224f;
+  --surface-glass: rgba(26, 17, 46, 0.78);
+  --surface-inverse: #fff8ec;
+  --border: rgba(255, 232, 196, 0.12);
+  --border-strong: rgba(255, 232, 196, 0.26);
+
+  --text: #f7f1ff;
+  --text-muted: #cbbfe0;
+  --text-subtle: #a898c2;
+  --heading: #fff4dc;
+  --text-inverse: #2a1838;
+
+  --primary: var(--gold-400);
+  --primary-hover: var(--gold-300);
+  --primary-press: var(--gold-500);
+  --on-primary: #2a1a00;
+  --primary-text: var(--gold-400);
+  --primary-soft: rgba(255, 201, 74, 0.14);
+
+  --accent-pink: var(--pink-400);
+  --accent-pink-soft: rgba(255, 95, 168, 0.16);
+  --on-pink: #2a0716;
+  --accent-teal: var(--teal-400);
+  --accent-teal-soft: rgba(52, 224, 200, 0.14);
+  --on-teal: #06231f;
+
+  --link: #ffd36b;
+  --link-hover: #ffe7a8;
+
+  --success: #45e08f;
+  --success-bg: rgba(69, 224, 143, 0.14);
+  --success-text: #86f2b8;
+  --warning: #ffb547;
+  --warning-bg: rgba(255, 181, 71, 0.16);
+  --warning-text: #ffcf85;
+  --danger: #ff5d73;
+  --danger-hover: #ff7a8c;
+  --danger-bg: rgba(255, 93, 115, 0.15);
+  --danger-text: #ff9dab;
+  --on-danger: #2a0008;
+  --info-bg: rgba(130, 168, 255, 0.15);
+  --info-text: #b2c8ff;
+
+  --focus: #7df9ff;
+
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.45);
+  --shadow-md: 0 8px 22px rgba(0, 0, 0, 0.38), 0 1px 3px rgba(0, 0, 0, 0.45);
+  --shadow-lg: 0 22px 60px rgba(0, 0, 0, 0.55);
+  --shadow-glow: 0 0 0 1px rgba(255, 201, 74, 0.35), 0 10px 34px rgba(255, 201, 74, 0.2);
+
+  --spotlight-1: rgba(255, 214, 140, 0.17);
+  --spotlight-2: rgba(255, 95, 168, 0.11);
+  --spotlight-3: rgba(52, 224, 200, 0.08);
+  --curtain: rgba(120, 18, 58, 0.55);
+  --curtain-fold: rgba(0, 0, 0, 0.35);
+
+  --skeleton: rgba(255, 255, 255, 0.06);
+  --skeleton-shine: rgba(255, 255, 255, 0.13);
+  --overlay: rgba(8, 4, 16, 0.7);
+  --mark-bg: rgba(255, 201, 74, 0.32);
+  --mark-text: inherit;
+  --scrollbar: rgba(255, 232, 196, 0.2);
+}
+
+/* ==========================================================================
+   Light "matinee"
+   ========================================================================== */
+[data-theme='light'] {
+  color-scheme: light;
+
+  --bg: #fff8ec;
+  --bg-deep: #f6ead3;
+  --surface: #ffffff;
+  --surface-2: #fdf3e2;
+  --surface-3: #f7e7ca;
+  --surface-glass: rgba(255, 250, 240, 0.85);
+  --surface-inverse: #1c1332;
+  --border: rgba(74, 44, 20, 0.14);
+  --border-strong: rgba(74, 44, 20, 0.3);
+
+  --text: #2a1838;
+  --text-muted: #5b4a6b;
+  --text-subtle: #75648a;
+  --heading: #2a1234;
+  --text-inverse: #f7f1ff;
+
+  --primary: var(--gold-400);
+  --primary-hover: #ffd466;
+  --primary-press: var(--gold-500);
+  --on-primary: #2a1a00;
+  --primary-text: #8a5300;
+  --primary-soft: rgba(245, 179, 1, 0.16);
+
+  --accent-pink: #c8175f;
+  --accent-pink-soft: rgba(200, 23, 95, 0.1);
+  --on-pink: #ffffff;
+  --accent-teal: #0b7f70;
+  --accent-teal-soft: rgba(11, 127, 112, 0.1);
+  --on-teal: #ffffff;
+
+  --link: #9b2c6b;
+  --link-hover: #6f1a4b;
+
+  --success: #148a4c;
+  --success-bg: #e2f6e9;
+  --success-text: #0f6b3a;
+  --warning: #b86e00;
+  --warning-bg: #fff0d4;
+  --warning-text: #7d4a00;
+  --danger: #c8233c;
+  --danger-hover: #a51c31;
+  --danger-bg: #fde6ea;
+  --danger-text: #a01a2f;
+  --on-danger: #ffffff;
+  --info-bg: #e7eeff;
+  --info-text: #2b4aa8;
+
+  --focus: #1b5cff;
+
+  --shadow-sm: 0 1px 2px rgba(60, 30, 10, 0.1);
+  --shadow-md: 0 8px 22px rgba(60, 30, 10, 0.1), 0 1px 3px rgba(60, 30, 10, 0.12);
+  --shadow-lg: 0 22px 60px rgba(60, 30, 10, 0.18);
+  --shadow-glow: 0 0 0 1px rgba(201, 138, 0, 0.35), 0 10px 30px rgba(245, 179, 1, 0.22);
+
+  --spotlight-1: rgba(255, 196, 80, 0.28);
+  --spotlight-2: rgba(255, 95, 168, 0.1);
+  --spotlight-3: rgba(52, 200, 180, 0.09);
+  --curtain: rgba(176, 30, 70, 0.16);
+  --curtain-fold: rgba(90, 10, 40, 0.1);
+
+  --skeleton: rgba(60, 30, 10, 0.07);
+  --skeleton-shine: rgba(255, 255, 255, 0.65);
+  --overlay: rgba(40, 20, 50, 0.45);
+  --mark-bg: rgba(255, 201, 74, 0.55);
+  --mark-text: inherit;
+  --scrollbar: rgba(74, 44, 20, 0.25);
+}

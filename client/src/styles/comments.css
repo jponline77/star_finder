@@ -1,0 +1,185 @@
+/* ==========================================================================
+   Comments ("Backstage Chatter")
+   ========================================================================== */
+.comments-section {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-md);
+}
+
+.comments-header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-sm);
+}
+
+.comments-header .section-title {
+  margin-bottom: 0;
+}
+
+.comment-list {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-sm);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.comment,
+.comment-new {
+  display: flex;
+  gap: var(--space-sm);
+  padding: var(--space-md);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  background: var(--surface);
+}
+
+.comment.is-mine {
+  border-color: color-mix(in srgb, var(--primary) 35%, var(--border));
+}
+
+.comment-new {
+  background: var(--surface-2);
+  border-style: dashed;
+}
+
+.comment-main {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.comment-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.35rem 0.5rem;
+  font-size: var(--step--1);
+}
+
+.comment-author {
+  color: var(--heading);
+}
+
+.comment-time {
+  color: var(--text-subtle);
+  font-size: var(--step--2);
+  font-weight: 700;
+}
+
+.comment-edited {
+  font-style: italic;
+}
+
+.comment-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25em;
+  padding: 0.1em 0.55em;
+  border-radius: var(--radius-pill);
+  font-size: var(--step--2);
+  font-weight: 800;
+  background: var(--surface-3);
+}
+
+.comment-tag-tip {
+  background: var(--primary-soft);
+  color: var(--primary-text);
+}
+
+.comment-tag-question {
+  background: var(--info-bg);
+  color: var(--info-text);
+}
+
+.comment-tag-performed {
+  background: var(--accent-pink-soft);
+  color: var(--accent-pink);
+}
+
+.comment-body {
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+  color: var(--text);
+}
+
+.comment-actions {
+  display: flex;
+  gap: var(--space-2xs);
+  margin-left: -0.6rem;
+}
+
+.comment-actions .comment-delete {
+  --btn-fg: var(--danger-text);
+}
+
+.comment-composer {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-xs);
+}
+
+.comment-composer .textarea {
+  min-height: 5.5rem;
+}
+
+.comment-composer-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-xs);
+}
+
+.comment-tag-picker {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+}
+
+.chip-radio {
+  min-height: 32px;
+  padding: 0.2em 0.7em;
+  position: relative;
+}
+
+.chip-radio:has(input:checked) {
+  background: var(--primary);
+  border-color: var(--primary);
+  color: var(--on-primary);
+}
+
+.chip-radio:has(input:focus-visible) {
+  outline: 3px solid var(--focus);
+  outline-offset: 2px;
+}
+
+.comment-composer-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: var(--space-xs);
+}
+
+.comment-login {
+  align-items: flex-start;
+}
+
+.comment-login > svg {
+  flex: none;
+  color: var(--primary-text);
+  margin-top: 2px;
+}
+
+.comment-as {
+  margin-bottom: 0.1rem;
+}
+
+.comments-empty {
+  padding: var(--space-xl) var(--space-md);
+}

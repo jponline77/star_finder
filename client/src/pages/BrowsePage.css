@@ -1,0 +1,139 @@
+/* Browse page ("/songs") */
+
+.browse-header {
+  margin-bottom: var(--space-md);
+}
+
+@media (max-width: 599px) {
+  .browse-header-add {
+    display: none;
+  }
+}
+
+.browse-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: var(--space-lg);
+  align-items: start;
+}
+
+@media (min-width: 900px) {
+  .browse-layout {
+    grid-template-columns: 290px minmax(0, 1fr);
+  }
+}
+
+@media (min-width: 1200px) {
+  .browse-layout {
+    grid-template-columns: 310px minmax(0, 1fr);
+  }
+}
+
+.browse-sidebar {
+  position: sticky;
+  top: calc(var(--header-h) + var(--space-md));
+}
+
+.browse-sidebar-inner {
+  max-height: calc(100vh - var(--header-h) - var(--space-xl));
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  padding: var(--space-lg) var(--space-md);
+  scrollbar-width: thin;
+}
+
+body.has-mini-player .browse-sidebar-inner {
+  max-height: calc(100vh - var(--header-h) - var(--mini-player-h) - var(--space-xl));
+}
+
+.browse-main {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-md);
+  min-width: 0;
+}
+
+.browse-toolbar {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-sm);
+}
+
+.browse-controls {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--space-xs);
+}
+
+.browse-view .segmented-option {
+  padding-inline: 0.65em;
+}
+
+.browse-sort {
+  flex: 1 1 110px;
+  min-width: 0;
+  max-width: 240px;
+}
+
+.browse-sort .select {
+  min-height: 44px;
+  border-radius: var(--radius-pill);
+}
+
+.browse-filter-button {
+  order: -1;
+}
+
+@media (max-width: 520px) {
+  .browse-controls > .segmented:first-child {
+    order: -2;
+    width: 100%;
+  }
+  .browse-controls > .segmented:first-child .segmented-option {
+    flex: 1;
+  }
+  .browse-sort {
+    max-width: none;
+  }
+}
+
+/* Narrow phones: the sort select gets its own full-width row so "Newest additions" isn't clipped. */
+@media (max-width: 440px) {
+  .browse-sort {
+    order: 1;
+    flex: 1 1 100%;
+  }
+  .browse-filter-button {
+    flex: 1 1 auto;
+  }
+}
+
+@media (min-width: 1440px) {
+  .browse-toolbar {
+    flex-direction: row;
+    align-items: center;
+  }
+  .browse-search {
+    flex: 1;
+    min-width: 0;
+  }
+}
+
+.browse-status {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--space-xs) var(--space-md);
+  min-height: 36px;
+}
+
+.result-count {
+  font-weight: 900;
+  color: var(--text-muted);
+}
+
+.browse-grid > .song-card {
+  content-visibility: auto;
+  contain-intrinsic-size: auto 250px;
+}

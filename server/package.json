@@ -1,0 +1,31 @@
+{
+  "name": "star-song-finder-server",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "STAR Song Finder API (Express 5 + SQLite)",
+  "engines": {
+    "node": ">=22.12.0 <27"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "import": "node scripts/import-xlsx.js",
+    "make-admin": "node scripts/make-admin.js",
+    "enrich": "node scripts/enrich.js",
+    "test": "node --test \"test/**/*.test.js\"",
+    "backup": "node scripts/backup.js",
+    "clean-uploads": "node scripts/clean-uploads.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^12.11.1",
+    "exceljs": "^4.4.0",
+    "express": "^5.2.1",
+    "express-rate-limit": "^8.7.0",
+    "helmet": "^8.3.0",
+    "multer": "^2.4.0"
+  },
+  "devDependencies": {
+    "supertest": "^7.3.0"
+  }
+}

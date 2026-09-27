@@ -1,0 +1,285 @@
+/* Login + Signup — "Backstage Pass" ticket stub */
+
+.auth-page {
+  display: grid;
+  place-items: center;
+  padding-block: var(--space-lg) var(--space-2xl);
+}
+
+.ticket {
+  --notch: 18px;
+  --stub-w: 110px;
+  --paper: #fff7e6;
+  --paper-2: #fdebc8;
+  --ink: #2a1838;
+  --ink-muted: #5b4a6b;
+  position: relative;
+  display: grid;
+  grid-template-columns: 1fr;
+  width: min(100%, 620px);
+  color: var(--ink);
+  filter: drop-shadow(0 22px 40px rgba(0, 0, 0, 0.45)) drop-shadow(0 0 30px rgba(255, 190, 60, 0.12));
+}
+
+.ticket-main,
+.ticket-stub {
+  position: relative;
+  background:
+    radial-gradient(120% 90% at 0% 0%, rgba(255, 255, 255, 0.7), transparent 60%),
+    repeating-linear-gradient(135deg, transparent 0 18px, rgba(201, 138, 0, 0.05) 18px 20px),
+    linear-gradient(160deg, var(--paper), var(--paper-2));
+}
+
+.ticket-main {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-md);
+  padding: var(--space-xl) var(--space-lg) var(--space-lg);
+  border-radius: 22px 22px 0 0;
+  /* notches where the perforation meets the edge (mobile: bottom corners) */
+  -webkit-mask:
+    radial-gradient(circle var(--notch) at 0 100%, transparent 98%, #000) top left / 51% 100% no-repeat,
+    radial-gradient(circle var(--notch) at 100% 100%, transparent 98%, #000) top right / 51% 100% no-repeat;
+  mask:
+    radial-gradient(circle var(--notch) at 0 100%, transparent 98%, #000) top left / 51% 100% no-repeat,
+    radial-gradient(circle var(--notch) at 100% 100%, transparent 98%, #000) top right / 51% 100% no-repeat;
+}
+
+.ticket-main::after {
+  /* gold inner frame */
+  content: '';
+  position: absolute;
+  inset: 10px 10px 0;
+  border: 2px solid rgba(201, 138, 0, 0.45);
+  border-bottom: 0;
+  border-radius: 14px 14px 0 0;
+  pointer-events: none;
+}
+
+.ticket-stub {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-md);
+  padding: var(--space-md) var(--space-lg);
+  border-radius: 0 0 22px 22px;
+  border-top: 3px dashed rgba(42, 24, 56, 0.35);
+  -webkit-mask:
+    radial-gradient(circle var(--notch) at 0 0, transparent 98%, #000) bottom left / 51% 100% no-repeat,
+    radial-gradient(circle var(--notch) at 100% 0, transparent 98%, #000) bottom right / 51% 100% no-repeat;
+  mask:
+    radial-gradient(circle var(--notch) at 0 0, transparent 98%, #000) bottom left / 51% 100% no-repeat,
+    radial-gradient(circle var(--notch) at 100% 0, transparent 98%, #000) bottom right / 51% 100% no-repeat;
+}
+
+.ticket-stub-star {
+  font-size: 1.6rem;
+  color: #c98a00;
+}
+
+.ticket-stub-text {
+  font-family: var(--font-display);
+  font-size: var(--step-1);
+  letter-spacing: 0.18em;
+  color: #9b2c6b;
+}
+
+.ticket-barcode {
+  width: 90px;
+  height: 34px;
+  background: repeating-linear-gradient(90deg, var(--ink) 0 2px, transparent 2px 4px, var(--ink) 4px 5px, transparent 5px 8px, var(--ink) 8px 11px, transparent 11px 12px);
+  opacity: 0.8;
+}
+
+.ticket-stub-no {
+  display: none;
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  color: var(--ink-muted);
+}
+
+@media (min-width: 640px) {
+  .ticket {
+    grid-template-columns: 1fr var(--stub-w);
+    transform: rotate(-0.6deg);
+  }
+  .ticket-main {
+    padding: var(--space-2xl) var(--space-xl) var(--space-xl);
+    border-radius: 22px 0 0 22px;
+    -webkit-mask:
+      radial-gradient(circle var(--notch) at 100% 0, transparent 98%, #000) top right / 100% 51% no-repeat,
+      radial-gradient(circle var(--notch) at 100% 100%, transparent 98%, #000) bottom right / 100% 51% no-repeat;
+    mask:
+      radial-gradient(circle var(--notch) at 100% 0, transparent 98%, #000) top right / 100% 51% no-repeat,
+      radial-gradient(circle var(--notch) at 100% 100%, transparent 98%, #000) bottom right / 100% 51% no-repeat;
+  }
+  .ticket-main::after {
+    inset: 10px 0 10px 10px;
+    border: 2px solid rgba(201, 138, 0, 0.45);
+    border-right: 0;
+    border-radius: 14px 0 0 14px;
+  }
+  .ticket-stub {
+    flex-direction: column;
+    justify-content: center;
+    padding: var(--space-lg) var(--space-sm);
+    border-radius: 0 22px 22px 0;
+    border-top: 0;
+    border-left: 3px dashed rgba(42, 24, 56, 0.35);
+    -webkit-mask:
+      radial-gradient(circle var(--notch) at 0 0, transparent 98%, #000) top left / 100% 51% no-repeat,
+      radial-gradient(circle var(--notch) at 0 100%, transparent 98%, #000) bottom left / 100% 51% no-repeat;
+    mask:
+      radial-gradient(circle var(--notch) at 0 0, transparent 98%, #000) top left / 100% 51% no-repeat,
+      radial-gradient(circle var(--notch) at 0 100%, transparent 98%, #000) bottom left / 100% 51% no-repeat;
+  }
+  .ticket-stub-text {
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+    font-size: var(--step-2);
+  }
+  .ticket-barcode {
+    width: 40px;
+    height: 90px;
+    background: repeating-linear-gradient(0deg, var(--ink) 0 2px, transparent 2px 4px, var(--ink) 4px 5px, transparent 5px 8px, var(--ink) 8px 11px, transparent 11px 12px);
+  }
+  .ticket-stub-no {
+    display: block;
+    writing-mode: vertical-rl;
+  }
+}
+
+.ticket-kicker {
+  display: inline-flex;
+  align-self: flex-start;
+  align-items: center;
+  gap: 0.35em;
+  padding: 0.25em 0.8em;
+  border-radius: var(--radius-pill);
+  background: #2a1838;
+  color: #ffc94a;
+  font-size: var(--step--1);
+  font-weight: 900;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.ticket-title {
+  font-family: var(--font-display);
+  font-weight: 400;
+  font-size: clamp(2rem, 1.5rem + 1.8vw, 2.8rem);
+  line-height: 1.05;
+  color: #2a1234;
+}
+
+.ticket-lede {
+  color: var(--ink-muted);
+}
+
+.ticket-form {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-md);
+}
+
+/* force the light "paper" palette for controls inside the ticket regardless of theme */
+.ticket .label {
+  color: var(--ink);
+}
+
+.ticket .hint {
+  color: var(--ink-muted);
+}
+
+.ticket .input {
+  background: #fffdf8;
+  color: var(--ink);
+  border-color: rgba(74, 44, 20, 0.3);
+}
+
+.ticket .input::placeholder {
+  color: #8a7a98;
+}
+
+.ticket .input:focus-visible {
+  border-color: #1b5cff;
+  box-shadow: 0 0 0 3px rgba(27, 92, 255, 0.3);
+}
+
+.ticket .btn-icon {
+  color: var(--ink);
+}
+
+.ticket .btn-icon:hover {
+  background: rgba(42, 24, 56, 0.08);
+}
+
+.ticket .field-error {
+  color: #a01a2f;
+}
+
+.ticket .callout-danger {
+  background: #fde6ea;
+  color: #a01a2f;
+}
+
+.ticket a:not(.btn) {
+  color: #9b2c6b;
+  font-weight: 800;
+}
+
+.ticket :focus-visible {
+  outline-color: #1b5cff;
+}
+
+.ticket-switch {
+  font-weight: 700;
+  text-align: center;
+}
+
+.ticket-fineprint {
+  font-size: var(--step--2);
+  color: var(--ink-muted);
+  text-align: center;
+}
+
+/* password strength meter */
+.strength {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--space-2xs) var(--space-xs);
+}
+
+.strength .hint {
+  flex: 1 1 14rem;
+}
+
+.strength-bar {
+  display: inline-flex;
+  gap: 3px;
+}
+
+.strength-bar span {
+  width: 26px;
+  height: 6px;
+  border-radius: 3px;
+  background: rgba(42, 24, 56, 0.15);
+  transition: background-color var(--dur) var(--ease-out);
+}
+
+.strength[data-score='1'] .strength-bar .is-on {
+  background: #d9534f;
+}
+
+.strength[data-score='2'] .strength-bar .is-on {
+  background: #e0a800;
+}
+
+.strength[data-score='3'] .strength-bar .is-on {
+  background: #20a37a;
+}
+
+.strength[data-score='4'] .strength-bar .is-on {
+  background: linear-gradient(90deg, #c98a00, #ff3d8f);
+}

@@ -1,0 +1,14 @@
+node_modules/
+server/data/
+server/uploads/
+client/dist/
+test-results/
+playwright-report/
+blob-report/
+.env
+.env.*
+*.log
+.DS_Store
+*.db-wal
+*.db-shm
+backups/
