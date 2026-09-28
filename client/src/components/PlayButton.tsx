@@ -14,14 +14,19 @@ export interface PlayButtonProps {
   label?: string;
   /** When nothing is playable: render a disabled button (true) or nothing (false, default). */
   showUnavailable?: boolean;
+  /**
+   * What the button plays, for its accessible name ("Play preview of <name>"). Default: the track's title. Pass
+   * more when several buttons play the same title (e.g. "Stars — Les Misérables (OLC), Philip Quast").
+   */
+  name?: string;
   className?: string;
 }
 
 /** Round gold ▶/❚❚ button wired to the shared audio player. data-testid="play-preview". */
-export function PlayButton({ song, track, source = 'auto', size = 'md', label, showUnavailable = false, className = '' }: PlayButtonProps) {
+export function PlayButton({ song, track, source = 'auto', size = 'md', label, showUnavailable = false, name: nameProp, className = '' }: PlayButtonProps) {
   const audio = useAudio();
   const resolved: AudioTrack | null = track ?? (song ? songTrack(song, source) : null);
-  const name = resolved?.title ?? song?.title ?? 'this song';
+  const name = nameProp?.trim() || resolved?.title || song?.title || 'this song';
   if (!resolved) {
     if (!showUnavailable) return null;
     return (

@@ -1,0 +1,202 @@
+{{Infobox Musical
+|name        = You're a Good Man, Charlie Brown
+|image       = Charlie-brown-off-b'way.JPG
+|caption     = 1971 Broadway windowcard for the [[John Golden Theatre]]
+|music       = [[Clark Gesner]]
+|lyrics      = Clark Gesner
+|book        = John Gordon
+|basis       = {{Based on|Comic strip ''[[Peanuts]]''|[[Charles M. Schulz]]}}
+|productions = {{Plainlist|
+* 1967 [[Off-Broadway]]
+* 1968 [[West End theatre|West End]]
+* 1968 U.S. Tour
+* 1969 U.S. Tour
+* 1970 U.S. Tour
+* 1971 [[Broadway theatre|Broadway]]
+* 1998 U.S. Tour
+* 1999 Broadway [[revival (theatre)|revival]]
+* 2016 Off-Broadway revival
+}}
+
+|awards      = {{Plainlist|
+* 1967 [[Outer Critics Circle Award|Outer Critics Circle Award for Best Production]]
+* 1999 [[Drama Desk Award|Drama Desk Award for Outstanding Revival of a Musical]]
+}}
+}}
+== Background ==
+== History ==
+==Productions==
+===Original New York productions and U.S. tours===
+===1968 West End premiere===
+===1985 television special===
+===1998 U.S. tour and 1999 Broadway revival===
+===2008 Manhattan benefit concert===
+===2016 Off-Broadway revival===
+=== 2023 Off-West End revival ===
+=== 2024 Chinese premiere ===
+=== 2027 New York City Center Encores! ===
+==Synopsis==
+===Original===
+===Revised===
+==Musical numbers==
+;Original
+{{col-begin}}
+{{col-2}}
+;Act I
+* "Opening" – Company
+* "You're a Good Man, Charlie Brown" – Company
+* "Schroeder" – Lucy (sung over [[Ludwig van Beethoven|Beethoven]]'s "[[Piano Sonata No. 14 (Beethoven)|Moonlight Sonata]]")
+* "Snoopy" – Snoopy
+* "My Blanket and Me" – Linus
+* "The Kite" – Charlie Brown
+* "The Doctor is In" (Dr. Lucy) – Lucy and Charlie Brown
+* "The Book Report" – Company
+{{col-break}}
+;Act II
+* "Opening, Pt. 2" - Company
+* "T-E-A-M (The Baseball Game)" – Charlie Brown and Company
+* "The Red Baron" – Snoopy
+* "Queen Lucy" – Lucy and Linus
+* "Glee Club Rehearsal" – Company (sung over "[[Home on the Range (song)|Home on the Range]]")
+* "[[Little Known Facts]]" – Lucy with Linus and Charlie Brown
+* "Peanuts Potpourri" – Snoopy, Schroeder, and Linus
+* "Suppertime" – Snoopy
+* "Happiness" – Company
+*  Bows – Company (includes a [[reprise]] of "You're a Good Man, Charlie Brown")
+{{col-end}}
+;Revised
+{{col-begin}}
+{{col-2}}
+;Act I
+* "Opening" – Company
+* "You're a Good Man, Charlie Brown" – Company
+* "You're a Good Man, Charlie Brown" (reprise) – Charlie Brown, Linus, and Sally
+* "Schroeder" – Lucy (sung over [[Ludwig van Beethoven|Beethoven]]'s "[[Piano Sonata No. 14 (Beethoven)|Moonlight Sonata]]")
+* "Snoopy" – Snoopy
+* "My Blanket and Me" – Linus and Company
+* "Queen Lucy" – Lucy and Linus
+* "The Kite" – Charlie Brown (optional company background)
+* "The Doctor is In" (Dr. Lucy) – Lucy and Charlie Brown
+* "Peanuts Potpourri" – Sally, Linus, Snoopy, Lucy, and Schroeder
+* "Beethoven Day" – Schroeder and Company
+* "Rabbit Chasing" - Sally and Snoopy
+* "The Book Report" – Company
+{{col-break}}
+;Act II
+* "The Red Baron" – Snoopy
+* "My New Philosophy" – Sally and Schroeder
+* "T-E-A-M (The Baseball Game)" – Charlie Brown and Company
+* "Glee Club Rehearsal" – Company (sung over "[[Home on the Range (song)|Home on the Range]]")
+* "[[Little Known Facts]]" – Lucy with Linus and Charlie Brown
+* "Suppertime" – Snoopy
+* "Happiness" – Company
+* Bows – Company (includes a partial [[reprise]] of "Happiness," and "You're a Good Man, Charlie Brown")
+{{col-end}}
+
+==Instrumentation==
+==Casts==
+{|class="wikitable"
+|-
+! width="10%" scope="col"| Character
+! width="10%" scope="col"| [[Concept Album]]<br>(1966)
+! width="10%" scope="col"| [[Off-Broadway]]<br>(1967)
+! width="10%" scope="col"| [[Toronto]] and [[West End theatre|West End]]<br>(1967/1968)
+! width="10%" scope="col"| First US tour<br>(1968)
+! width="10%" scope="col"| Second US tour<br>(1969)
+! width="10%" scope="col"| Third US tour<br>(1970)
+! width="10%" scope="col"| [[Broadway theatre|Broadway]]<br>(1971)
+! width="10%" scope="col"| [[List of Hallmark Hall of Fame episodes#Season 22 (1972–73)|TV special]]<br>(1973)
+! width="10%" scope="col"| Fourth US tour and Broadway revival<br>(1998/1999)
+! width="10%" scope="col"| Off-Broadway revival<br>(2016)
+|-
+! style="text-align:center;" | [[Charlie Brown]]
+| style="text-align:center;" | [[Orson Bean]]
+| style="text-align:center;" | [[Gary Burghoff]]
+| style="text-align:center;" | David Rhys-Anderson
+| style="text-align:center;" | Ken Kube
+| style="text-align:center;" | Alan Lofft
+| style="text-align:center;" | Richard Whelan
+| style="text-align:center;" | Dean Stolber
+| style="text-align:center;" | [[Wendell Burton]]
+| style="text-align:center;" | [[Anthony Rapp]]
+| style="text-align:center;" | [[Joshua Colley]]
+|-
+!  style="text-align:center;" | [[Lucy van Pelt]]
+|  style="text-align:center;" | Barbara Minkus
+|  style="text-align:center;" | [[Reva Rose]]
+|  style="text-align:center;" | Boni Enten
+|  style="text-align:center;" | Ann Gibbs
+|  style="text-align:center;" | Minnie Gaster
+|  style="text-align:center;" | Cathy Wallace
+|  style="text-align:center;" | Liz O'Neal
+|  style="text-align:center;" | Ruby Persson
+|  style="text-align:center;" | [[Ilana Levine]]
+|  style="text-align:center;" | Mavis Simpson-Ernst
+|-
+!  style="text-align:center;" | [[Linus van Pelt]]
+|  style="text-align:center;" | [[Clark Gesner]]
+|  style="text-align:center;" | [[Bob Balaban]]
+|  style="text-align:center;" | Gene Kidwell
+|  style="text-align:center;" | Joel Kimmel
+|  style="text-align:center;" | [[Derek McGrath]]
+|  style="text-align:center;" | Vic Vail
+|  style="text-align:center;" | Stephen Fenning
+|  style="text-align:center;" | [[Barry Livingston]]
+|  style="text-align:center;" | [[BD Wong]]
+|  style="text-align:center;" | Jeremy T. Villas
+|-
+! [[Patty (Peanuts)|Patty]]
+| style="text-align:center;" | N/A
+| style="text-align:center;" | Karen Johnson
+| style="text-align:center;" | Courtney Lane
+| style="text-align:center;" | Linda Sherwood
+| colspan="2" style="text-align:center;" | Marylu Moyer
+| style="text-align:center;" | Lee Wilson
+| style="text-align:center;" | Noelle Matlovsky
+| colspan="2" {{n/a}}
+|-
+! [[Sally Brown]]
+| colspan="8" {{n/a}}
+| style="text-align:center;" | [[Kristin Chenoweth]]
+| style="text-align:center;" | [[Milly Shapiro]]
+|-
+! [[Schroeder (Peanuts)|Schroeder]]
+| style="text-align:center;" | N/A
+| style="text-align:center;" | [[Skip Hinnant]]
+| style="text-align:center;" | Gene Scandur
+| style="text-align:center;" | [[Jonathan Hadary]]
+| colspan="2" style="text-align:center;" | Dennis Phillips
+| style="text-align:center;" | Carter Cole
+| style="text-align:center;" | Mark Montgomery
+| style="text-align:center;" | [[Stanley Wayne Mathis]]
+| style="text-align:center;" | [[Gregory Diaz IV|Gregory Diaz]]
+|-
+! [[Snoopy]]
+| colspan="2" style="text-align:center;" | [[Bill Hinnant]]
+| style="text-align:center;" | Don Potter
+| style="text-align:center;" | T. D. Johnston
+| colspan="3" style="text-align:center;" | Grant Cowan
+| style="text-align:center;" | Bill Hinnant
+| style="text-align:center;" | [[Roger Bart]]
+| style="text-align:center;" | Aidan Gemme
+|}
+
+==Response==
+==Awards and nominations==
+===Original Off-Broadway Production===
+{|
+|-
+| links || [[Drama Desk Award]] [[Drama Desk Award|Best Performer]] [[Bill Hinnant]] [[Drama Desk Award for Outstanding Director of a Musical|Outstanding Director of a Musical]] [[Joseph Hardy (director)|Joseph Hardy]] [[Outer Critics Circle Award]] [[Theatre World Award]] [[Reva Rose]] [[Clarence Derwent Award]] [[Grammy Award]] [[Grammy Award for Best Musical Show Album|Best Musical Show Album]]
+|}
+===1999 Broadway Revival===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Revival of a Musical|Best Revival of a Musical]] [[Tony Award for Best Featured Actor in a Musical|Best Featured Actor in a Musical]] [[Roger Bart]] [[Tony Award for Best Featured Actress in a Musical|Best Featured Actress in a Musical]] [[Kristin Chenoweth]] [[Tony Award for Best Direction of a Musical|Best Direction of a Musical]] [[Michael Mayer (director)|Michael Mayer]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Revival of a Musical|Outstanding Revival of a Musical]] [[Drama Desk Award for Outstanding Featured Actor in a Musical|Outstanding Featured Actor in a Musical]] [[Drama Desk Award for Outstanding Featured Actress in a Musical|Outstanding Featured Actress in a Musical]] [[Drama Desk Award for Outstanding Director of a Musical|Outstanding Director of a Musical]] [[Drama Desk Award for Outstanding Set Design|Outstanding Set Design]] [[David Gallo]] [[Grammy Award]] [[Grammy Award for Best Musical Show Album|Best Musical Show Album]]
+|}
+== Adaptations ==
+==See also==
+==References==
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+cast included [[Bob Balaban]].

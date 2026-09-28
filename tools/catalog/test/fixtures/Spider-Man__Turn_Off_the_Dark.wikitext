@@ -1,0 +1,201 @@
+{{Infobox Musical
+| name         = Spider-Man: Turn Off the Dark
+| subtitle     =
+| image        = Spider-Man musical.jpg
+| imagesize    = 220px
+| caption      = Promotional poster
+| music        = {{Plainlist|
+* [[Bono]]
+* [[The Edge]]
+}}
+| lyrics       = {{Plainlist|
+* Bono
+* The Edge
+}}
+| book         = {{Plainlist|
+* [[Julie Taymor]]
+* [[Glen Berger]]
+* [[Roberto Aguirre-Sacasa]]
+}}
+| basis        = {{Based on|[[Spider-Man]]|[[Stan Lee]]|[[Steve Ditko]]}}
+| premiere_date     = June 14, 2011
+| premiere_location = [[Foxwoods Theatre]], [[New York City]]
+| productions  = 2011 [[Broadway theatre|Broadway]]
+| awards       = 
+}}
+==Description==
+===Broadway production===
+===Canceled Las Vegas, national tour, and future productions===
+==Plot==
+=== Act I ===
+=== Act II ===
+==Musical numbers==
+{{col-begin}}
+{{col-2}}
+'''Act I:'''
+* "Overture" – Orchestra
+* "The Myth of Arachne" – Peter
+* "Behold and Wonder" – Arachne, Weavers
+* "Bullying by Numbers" – Peter, Bullies, High School Students
+* "No More" – Peter, Mary Jane
+* "D.I.Y. World" – Norman, Emily, Peter, High School Students, Lab Assistants
+* "Venom" – Bullies
+* "Bouncing Off the Walls" – Peter, High School Students
+* "[[Rise Above 1|Rise Above]]" – Peter, Arachne, Citizens of New York
+* "NY Debut" – Orchestra
+* "Pull the Trigger" – Norman, Emily, Viper Executives, Soldiers
+* "Picture This" – Peter, Mary Jane, Norman, Emily
+
+{{col-break}}
+'''Act II:'''
+* "A Freak Like Me Needs Company" – Green Goblin, Sinister Six, Ensemble
+* "If the World Should End" – Mary Jane, Peter
+* "Sinistereo" – Reporters, Green Goblin, Sinister Six
+* "Spider-Man!" – Citizens of New York, Spider-Man/Peter Parker, Jamerson, Aunt May, Mary Jane, Flash Thompson, Sinister Six.
+* "Turn Off the Dark" – Arachne, Peter
+* "I Just Can't Walk Away (Say It Now)" – Mary Jane, Peter
+* "If the World Should End (Reprise) " -Mary Jane
+* "The Boy Falls From the Sky" – Peter
+* "I'll Take Manhattan" – Green Goblin
+* "Finale: A New Dawn" (aka “Rise Above” (Reprise)) – Citizens of New York
+{{col-end}}
+
+==Casts and characters==
+{| class="wikitable"
+! rowspan="2" | Character(s)
+! Broadway
+|-
+!<small>2011</small>
+|-
+! [[Spider-Man|Peter Parker/Spider-Man]]
+| align="center" | [[Reeve Carney]]
+|-
+! [[Mary Jane Watson]]
+| align="center" | [[Jennifer Damiano]]
+|-
+! [[Arachne]]
+| align="center" |[[T. V. Carpio]]
+|-
+! [[Green Goblin|Norman Osborn/Green Goblin]]
+| align="center" | [[Patrick Page]]
+|-
+![[J. Jonah Jameson]]
+| align="center" | [[Michael Mulheren]]
+|-
+! [[Uncle Ben]] / Buttons / Others
+| align="center" | Ken Marks
+|-
+! [[Aunt May]] / Mrs. Gribrock / Maxie
+| align="center" | [[Isabel Keating]]
+|-
+! [[Flash Thompson]] / Bud / Others<br />Peter Parker/Spider-Man u/s
+| align="center" | [[Matt Caplan]]
+|-
+! Peter Parker/Spider-Man Alternate
+| align="center" | [[Matthew James Thomas]]
+|-
+! [[Emily Osborn]] / Marbles / Others
+| align="center" | Laura Beth Wells
+|-
+! [[Philip Watson (comics)|MJ's Father]] / Stokes / Others<br />Norman Osborn/Green Goblin u/s
+| align="center" | [[Jeb Brown]]
+|-
+! Boyle / [[Robbie Robertson (character)|Robertson]] / Others
+| align="center" | Dwayne Clark
+|-
+! [[Kenny McFarlane|Kong]] / Travis / Others
+| align="center" | [[Luther Creek]]
+|}
+
+=== Broadway cast replacements ===
+
+* '''Mary Jane Watson''': [[Rebecca Faulkenberry]]
+* '''Arachne''': [[Katrina Lenk]]
+* '''Norman Osborn/Green Goblin''': [[Robert Cuccioli]]
+* '''Flash''': [[Matthew Wilkas]]
+* '''Alternate for Peter Parker/Spider-Man''': [[Jake Epstein]]
+* '''Peter Parker/Spider-Man understudies''': [[Matthew Wilkas]]
+* '''Arachne understudies''': [[America Olivo]]
+* '''Child Needing Saved''': Jacob Belçher
+
+==History==
+===Early development===
+===Delays and budget overruns===
+===Cast and creative team replacements===
+===Cast injuries and additional replacements===
+===Promotion===
+====Performances====
+====Television====
+==Reception==
+===Press coverage and critical response===
+===Box office===
+===In popular culture===
+==Recordings==
+===Cast album===
+{{Infobox album
+| name       = Spider-Man: Turn Off the Dark
+| type       = soundtrack
+| longtype   = cast recording
+| artist     = Various
+| cover      =
+| alt        =
+| released   = {{Start date|2011|06|14}}
+| recorded   =
+| venue      =
+| studio     =
+| genre      =
+| length     = {{duration|m=51|s=35}}
+| label      = [[Interscope Records|Interscope]]
+| producer   =
+| prev_title =
+| prev_year  =
+| next_title =
+| next_year  =
+}}
+{{Track listing
+| extra_column = 
+| title1 = NY Debut (Instrumental) 
+| length1 = 3:10
+| title2 = The Boy Falls from the Sky
+| length2 = 4:27
+| title3 = [[Rise Above 1]]
+| length3 = 3:53
+| title4 = Picture This 
+| length4 = 3:38
+| title5 = I Just Can't Walk Away (Say It Now)
+| length5 = 3:26
+| title6 = Bouncing Off the Walls 
+| length6 = 2:59
+| title7 = Pull the Trigger
+| length7 = 4:01
+| title8 = No More 
+| length8 = 3:45
+| title9 = D.I.Y. World 
+| length9 = 2:56
+| title10 = If the World Should End
+| length10 = 3:46
+| title11 = Sinistereo
+| length11 = 3:17
+| title12 = A Freak Like Me (Needs Company)
+| length12 = 3:41
+| title13 = Rise Above 2 
+| length13 = 4:22
+| title14 = Turn Off the Dark
+| length14 = 4:06
+}}
+{{clear}}
+
+==Awards and nominations==
+===Original Broadway production===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Costume Design|Best Costume Design]] [[Eiko Ishioka]] [[Tony Award for Best Scenic Design|Best Scenic Design]] [[George Tsypin]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Featured Actor in a Musical|Outstanding Featured Actor in a Musical]] [[Patrick Page]] [[Outer Critics Circle Award]] [[Donald Holder]]
+|}
+==See also==
+==References==
+=== Citations ===
+===Further reading===
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+cast featured [[Reeve Carney]], [[Jennifer Damiano]], as [[Mary Jane Watson]], [[Patrick Page]], as [[Green Goblin|Norman Osborn/Green Goblin]], [[T.V. Carpio]], as [[Arachne]], [[Michael Mulheren]], as [[J. Jonah Jameson]], as [[Uncle Ben]], [[Isabel Keating]], as [[Aunt May]], [[Jeb Brown]], [[Flash Thompson]].

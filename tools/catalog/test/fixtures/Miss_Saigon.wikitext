@@ -1,0 +1,290 @@
+{{Infobox musical
+| name        = Miss Saigon
+| image       = MissSaigonPoster.jpg
+| caption     = Original poster
+| music       = [[Claude-Michel Schönberg]]
+| lyrics      = {{unbulleted list| [[Alain Boublil]]<br />[[Richard Maltby Jr.]] }}
+| book        = {{unbulleted list| Alain Boublil<br /> Claude-Michel Schönberg }}
+| basis       = ''[[Madama Butterfly]]''<br />by [[Giacomo Puccini]]|
+| premiere_date     = September 20, 1989
+| premiere_location = [[Theatre Royal, Drury Lane]], [[London]]
+| productions = {{unbulleted list| 1989 [[West End theatre|West End]] | 1991 [[Broadway theatre|Broadway]] | 2014 West End revival | 2017 Broadway revival}}
+
+| awards      = 
+}}
+==Background==
+== Principal characters ==
+{| class="wikitable"
+|+
+| style="width:5%; background:lightblue;"| '''Character'''
+| style="width:10%; background:lightblue;"| '''[[Voice type|Voice&nbsp;Type]]'''
+| style="width:35%; background:lightblue;"| '''Description'''
+|-
+|Kim
+|[[Mezzo-soprano]] 
+E<sub>3</sub>–E<sub>5</sub>
+|A seventeen-year-old Vietnamese girl, recently orphaned and forced to work at "Dreamland." She corresponds to Butterfly in the original opera.
+|-
+|Chris Scott
+|[[Baritenor]] 
+A<sub>2</sub>–A<sub>4</sub> ([[falsetto]] B<sub>4</sub>)
+|An American [[United States Marine Corps|Marine]] [[sergeant]] about to leave Saigon to return to America. He corresponds to Pinkerton.
+|-
+|Engineer
+|[[Baritone]] 
+A<sub>2</sub>–A{{flat}}<sub>4</sub>
+|The sleazy hustler and owner of "Dreamland." He is half-Vietnamese and half-French. He corresponds to Goro.
+|-
+|Ellen
+|[[Mezzo-soprano]] 
+F{{sharp}}<sub>3</sub>–E<sub>5</sub>
+|Chris's American wife. She corresponds to Kate.
+|-
+|John Thomas
+|[[Tenor]] 
+A{{flat}}<sub>2</sub>–B{{flat}}<sub>4</sub>
+|Chris's friend, also a Marine. He corresponds to Sharpless.
+|-
+|Thuy
+|[[Tenor]] 
+C<sub>3</sub>–B{{flat}}<sub>4</sub>
+|Kim's cousin and betrothed, to whom Kim's parents promised her when the two were thirteen. Has since become an officer in the Communist Vietnamese government. He is a [[composite character]], corresponding in part to both The Bonze and Prince Yamadori.
+|-
+|Gigi Van Tranh 
+|[[Mezzo-soprano]] 
+G<sub>3</sub>–E{{flat}}<sub>5</sub>
+|A hardened Saigon stripper; initially voted as "Miss Saigon".
+|-
+|Tam
+|Silent
+|Kim and Chris's three-year-old son. He corresponds to Dolore, or "Sorrow".
+|}
+
+==Synopsis==
+===Act 1===
+===Act 2===
+==Musical numbers==
+{{col-begin}}
+{{col-2}}
+; Act I
+* "Overture" / "Backstage Dreamland" – Gigi, Kim, The Engineer and Bar Girls
+* "The Heat is On in Saigon" – Soldiers, Bar Girls, The Engineer, Kim, John, Chris and Gigi
+* "The Movie in My Mind" – Gigi, Kim and Bar Girls
+* "The Transaction" – The Engineer, John, Soldiers, Chris, and Kim
+* "The Dance" – Kim, Chris and The Engineer
+* "Why, God, Why?" – Chris
+* "This Money's Yours" – Chris and Kim
+* "Sun and Moon" – Chris and Kim
+* "The Telephone Song" / "Asking For Leave" – Chris and John
+* "The Deal" – The Engineer and Chris
+* "The Wedding Ceremony" – Gigi, Kim, Bar Girls and Chris
+* "Thuy's Arrival" / "Thuy's Intervention" – Thuy, Chris, and Kim
+* "Last Night of the World" – Chris and Kim
+* "The Morning of the Dragon" – Soldiers, The Engineer, Two Guards and Thuy
+* "I Still Believe" – Kim and Ellen
+* "Back in Town" / "Coo-Coo Princess" – The Engineer, Kim, Thuy and Soldiers
+* "Thuy's Death" / "You Will Not Touch Him" – Thuy and Kim
+* "This is the Hour" – Chorus
+* "If You Want to Die in Bed" – The Engineer
+* "Let Me See His Western Nose" / "Kim & Engineer"– Kim and The Engineer
+* "I'd Give My Life for You" – Kim
+* "Exodus" – Chorus
+{{col-2}}
+; Act II
+* "Entr'acte"
+* "Bui Doi" – John and Chorus
+* "The Revelation" – Chris and John
+* "What a Waste" – The Engineer, Hustlers, Tourists, John and Kim
+* "Please" (Original Production) / "Too Much For One Heart" – John and Kim (2014 London / 2017 Broadway productions)
+* "Chris is Here" – The Engineer, Kim, Club Owner and John
+* "Kim's Nightmare (The Fall of Saigon)" – Thuy
+* "Fall of Saigon" – Soldiers, Chris, Kim, John and Citizens
+* "Sun and Moon" (Reprise) – Kim
+* "Room 317" – Kim and Ellen
+* "Now That I've Seen Her" (Original production "Who Says I'm Hurt" "Her or Me") / "Maybe" – Ellen (2011 Holland / 2012-2026 Japan / 2014 London / 2017 Broadway productions)
+* "The Confrontation" – Chris, Ellen, John and Kim
+* "Paper Dragons" – The Engineer and Kim
+* "The American Dream" – The Engineer
+* "This is the Hour" (Reprise) – Kim
+* "Finale" – Chris and Kim
+{{col-end}}
+
+==Production history==
+===West End (1989–1999)===
+===Broadway (1991–2001)===
+===West End revival (2014–2016)===
+===Broadway revival (2017–2018)===
+===Other productions===
+===Touring productions===
+==Casts==
+{| class="wikitable"
+|-
+! rowspan=2 scope="col"| Character
+! scope="col"| Original West End 
+! scope="col"| Original Broadway 
+! scope="col"| Original U.S. Tour
+! scope="col"| Original U.K. Tour 
+! scope="col"| 2nd U.K Tour 
+! scope="col"| West End Revival 
+! scope="col"| Broadway Revival
+! scope="col"| International Tour
+! scope="col"| 4th U.K Tour
+|-
+!1989
+!1991
+!1992
+!2001
+!2006
+!2014
+!2017
+!2023
+!2025
+|-
+! scope="row"| Kim
+| colspan=2 align="center"| [[Lea Salonga]]
+| align="center"| [[Jennie Kwan]]
+| align="center"| [[Joanna Ampil]]
+| align="center"| Miriam Valmores
+| colspan="2" align="center"| [[Eva Noblezada]]
+| align= "center"| Abigail Adriano
+| align= "center"| Julianne Pundan
+|-
+! scope="row"| Chris Scott
+| align="center"| [[Simon Bowman]]
+| align="center"| Willy Falk
+| align="center"| [[Jarrod Emick]]
+| align="center"| Niklas Andersson
+| align="center"| [[Ramin Karimloo]]
+| colspan=2 align="center"| [[Alistair Brammer]]
+| align="center"| Nigel Huckle
+| align= "center"| Jack Kane
+|-
+! scope="row"| The Engineer
+| colspan=2 align="center"| [[Jonathan Pryce]]
+| align="center"| Raul Aranas
+| align="center"| Leo Valdez
+| colspan=3 align="center"|[[Jon Jon Briones]]
+| colspan=2 align="center"| [[Seann Miley Moore]]
+|-
+! scope="row"| John Thomas
+| align="center"| [[Peter Polycarpou]]
+| align="center"| [[Hinton Battle]]
+| align="center"| [[Keith Byron Kirk]]
+| align="center"| Kingsley Leggs
+| align="center"| [[John Partridge (actor)|John Partridge]]
+| align="center"|[[Hugh Maynard]]
+| align="center"| [[Nicholas Christopher (actor)|Nicholas Christopher]]
+| align="center"| Lewis Francis
+| align= "center"| Dom Hartley-Harris
+|-
+! scope="row"| Ellen
+| align="center"| [[Claire Moore (singer)|Claire Moore]]
+| align="center"| [[Liz Callaway]]
+| align="center"| [[Christiane Noll]]
+| align="center"| Nicky Adams
+| align="center"| [[Lara Pulver]]
+| align="center"| [[Tamsin Carroll]]
+| align="center"| [[Katie Rose Clarke]]
+| align="center"| Sarah Morrison
+| align= "center"| Emily Langham
+|-
+! scope="row"| Thuy
+| align="center"| Keith Burns
+| align="center"| Barry Bernal
+| align="center"| Allen Hong
+| align="center"| Robert Vicencio
+| align="center"| Christian Rey Marbella
+| align="center"| [[Hong Kwang-ho|Kwang-Ho Hong]]
+| align="center"| Devin Ilaw
+| align="center"| Laurence Mossman
+| align= "center"| Mikko Juan
+|-
+! scope="row"| Gigi Van Tranh
+| align="center"| Isay Alvarez
+| align="center"| Marina Chapa
+| align="center"| Moon Hi Hanson
+| align="center"| Emma Jay Thomas 
+| align="center"| Christine Sambeli-Maquez
+| colspan=2 align="center"| [[Rachelle Ann Go]]
+| align="center"| Kiara Dario
+| align= "center"| Ace
+|}
+
+===Notable replacements ===
+
+==== West End (1989–1999) ====
+*Kim: [[Joanna Ampil]], [[Ma-Anne Dionisio]], [[Naoko Mori]], [[Jamie Rivera]], [[Monique Wilson]], [[Carla Guevara Laforteza]]
+*Chris: [[John Barrowman]], [[Graham Bickley]], [[David Campbell (singer)|David Campbell]], [[Peter Jöback]], [[Jérôme Pradon]], [[Glyn Kerslake]] 
+*The Engineer: [[Hilton McRae]], [[Jon Jon Briones]]
+*Ellen: [[Gunilla Backman]], [[Ruthie Henshall]]
+*Gigi: [[Lorraine Vélez]]
+
+==== Broadway (1991–2001) ====
+*Kim: [[Rona Figueroa]], [[Joan Almedilla]], [[Deedee Magno Hall]], [[Jennie Kwan]], [[Jennifer Paz]], [[Annette Calud]] (a/t)
+*Chris: [[Jarrod Emick]], [[Eric Kunze]], [[Peter Lockyer]], [[Will Chase]], [[Tyley Ross]]
+*The Engineer: [[Raul Aranas]], [[Wang Luoyong]], [[Alan Muraoka]]
+*John: [[Keith Byron Kirk]], [[Norm Lewis]], [[Matthew Dickens]], [[Billy Porter (actor)|Billy Porter]], [[Curtiss Cook]] (u/s)
+*Ellen: [[Tami Tappan]], [[Anastasia Barzee]], [[Jacquelyn Piro Donovan]], [[Ruthie Henshall]], [[Christiane Noll]], [[Andrea Rivette]] (u/s)
+*Thuy: [[Jason Ma]], [[Yancey Arias]], [[Michael K. Lee]], [[Welly Yang]]
+
+==== U.S. Tour (1992–2000) ====
+*Kim: [[Deedee Magno Hall]], [[Jennifer Paz]]
+*The Engineer: [[Kevin Gray (actor)|Kevin Gray]]
+*Chris: [[Will Chase]], [[Eric Kunze]], [[Peter Lockyer]], [[Steven Pasquale]], [[Greg Stone]], [[Will Swenson (actor)|Will Swenson]]
+*John: [[Norm Lewis]]
+*Ellen: [[Anastasia Barzee]], [[Jacquelyn Piro Donovan]], [[Andrea Rivette]]
+
+==== UK Tours (2001–2006) ====
+*Chris: [[Luke Evans]]
+*Ellen: [[Kerry Ellis]]
+
+==== West End revival (2014–2016) ====
+*Ellen: [[Siobhan Dillon]]
+*Gigi: [[Natalie Mendoza]]
+
+==Controversies==
+===Casting===
+===Orientalism, racism, and misogyny===
+==Recordings==
+{|
+|-
+| links || [[Lea Salonga]] [[Joanna Ampil]] [[Eva Noblezada]] [[Jonathan Pryce]] [[Kevin Gray (actor)|Kevin Gray]] [[Jon Jon Briones]] [[Simon Bowman]] [[Peter Cousens]] [[Alistair Brammer]] [[Peter Polycarpou]] [[Hinton Battle]] [[Hugh Maynard]] [[Claire Moore (singer)|Claire Moore]] [[Ruthie Henshall]] [[Tamsin Carroll]] [[Hong Kwang-ho|Kwang-Ho Hong]] [[Rachelle Ann Go]]
+|}
+==Critical response==
+==Awards and nominations==
+===Original West End production===
+{|
+|-
+| links || [[Laurence Olivier Award]] [[Laurence Olivier Award for Best New Musical|Best New Musical]] [[Laurence Olivier Award for Best Actor in a Musical|Best Actor in a Leading Role in a Musical]] [[Jonathan Pryce]] [[Laurence Olivier Award for Best Actress in a Musical|Best Actress in a Leading Role in a Musical]] [[Lea Salonga]] [[Laurence Olivier Award for Best Director|Best Director]] [[Nicholas Hytner]]
+|}
+===Original Broadway production===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Musical|Best Musical]] [[Tony Award for Best Book of a Musical|Best Book of a Musical]] [[Claude-Michel Schönberg]] [[Alain Boublil]] [[Tony Award for Best Original Score|Best Original Score]] [[Richard Maltby Jr.]] [[Tony Award for Best Actor in a Musical|Best Performance by a Leading Actor in a Musical]] [[Jonathan Pryce]] [[Tony Award for Best Actress in a Musical|Best Performance by a Leading Actress in a Musical]] [[Lea Salonga]] [[Tony Award for Best Performance by a Featured Actor in a Musical|Best Performance by a Featured Actor in a Musical]] [[Hinton Battle]] [[Tony Award for Best Choreography|Best Choreography]] [[Bob Avian]] [[Tony Award for Best Direction of a Musical|Best Direction of a Musical]] [[Nicholas Hytner]] [[Tony Award for Best Scenic Design|Best Scenic Design]] [[John Napier (designer)|John Napier]] [[Tony Award for Best Lighting Design|Best Lighting Design]] [[David Hersey]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Actor in a Musical|Outstanding Actor in a Musical]] [[Drama Desk Award for Outstanding Actress in a Musical|Outstanding Actress in a Musical]] [[Drama Desk Award for Outstanding Orchestrations|Outstanding Orchestrations]] [[William David Brohn]] [[Drama Desk Award for Outstanding Lighting Design|Outstanding Lighting Design]] [[Theatre World Award]]
+|}
+===2014 West End revival===
+{|
+|-
+| links || [[Laurence Olivier Award]] [[Laurence Olivier Award for Best Musical Revival|Best Musical Revival]] [[Laurence Olivier Award for Best Actor in a Musical|Best Actor in a Leading Role in a Musical]] [[Jon Jon Briones]]
+|}
+=== 2017 Broadway revival ===
+{|
+|-
+| links || [[Drama League Awards]] [[Eva Noblezada]] [[Drama Desk Awards]] [[Drama Desk Award for Outstanding Actor in a Musical|Outstanding Actor in a Musical]] [[Jon Jon Briones]] [[Outer Critics Circle Awards]] [[Tony Awards]]
+|}
+==Film adaptation==
+==See also==
+== Notes ==
+==References==
+=== Bibliography ===
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+portrayed by [[Jonathan Pryce]].
+played by [[Simon Bowman]].
+starred [[Eva Noblezada]].
+starring [[Ma-Anne Dionisio]].
+cast included [[Norm Lewis]].
+starring [[Joanna Ampil]].
+starred [[Joanna Ampil]].
+starred [[Deedee Magno Hall]].

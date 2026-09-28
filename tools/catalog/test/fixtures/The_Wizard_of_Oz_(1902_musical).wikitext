@@ -1,0 +1,1322 @@
+{{Infobox Musical
+|name         = The Wizard of Oz
+|subtitle     = Fred R. Hamlin's Musical Extravaganza
+|image        = Fred R. Hamlin's musical extravaganza, The wizard of Oz LCCN2014636750.jpg
+|image_size   = 200px
+|caption      = One of many promotional posters for the show, this one showing the Dance of All Nations Scene.
+|music        = [[Paul Tietjens]]<br>[[A. Baldwin Sloane]]<br>[[Charles A. Zimmerman]]<br>[[Gus Edwards (vaudeville)|Gus Edwards]]<br>[[Leo Edwards (composer)|Leo Edwards]]<br>and others
+|lyrics       = [[L. Frank Baum]]<br>[[Vincent Bryan]]<br>[[Will D. Cobb]]<br>[[William Jerome]]<br>and others
+|book         = [[L. Frank Baum]]<br>[[Glen MacDonough]]<br> Finnegan
+|basis        = ''[[The Wonderful Wizard of Oz]]'' by [[L. Frank Baum]]
+|productions  = 1902 Chicago<br>1903 Broadway
+
+|awards       =
+}}
+== Characters and original cast ==
+In order of appearance, the 1902 Chicago cast consisted of: 
+{| class="wikitable"
+!Role and comments from program
+!Cast member
+|-
+|[[Dorothy Gale]], a Kansas girl
+|[[Anna Laughlin]]
+|-
+|Imogene, Dorothy's Cow                                                         
+|Edwin J. Stone
+|-
+|Cynthia Cynch, the Lady Lunatic
+|Helen Byron
+|-
+|The [[Good Witch of the North (Baum)|Witch of the North]], a friend in need
+|Aileen May
+|-
+|Sir Dashemoff Daily, Poet Laureate
+|Bessie Wynn[e]
+|-
+|The Army of Pastoria
+|Joseph Schrode
+|-
+|[[Pastoria]] II, Ex-King of the Emerald City
+|Neil McNeil
+|-
+|Tryxie Tryfle, prospective Queen of the Emerald City
+|[[Mabel Barrison]]
+|-
+|Brigadier General Riskitt, commanding Pastoria's Army
+|Harold Morey
+|-
+|The [[Scarecrow (Oz)|Scarecrow]], looking for brains
+|[[Fred Stone]]
+|-
+|The [[Cowardly Lion]]
+|[[Arthur Hill (English actor)|Arthur Hill]]
+|-
+|Nick Chopper, the [[Tin Woodman]], in search of a heart
+|[[David C. Montgomery]]
+|-
+|The Poppy Queen
+|Georgia Baron
+|-
+|Private Gruph, the [[Guardian of the Gates|Guardian of the Gate]]
+|Harold Morey
+|-
+|Leo, Captain of the Relief Guards
+|Sidney Ainsworth
+|-
+|The [[Soldier with the Green Whiskers]]
+|Joseph Schrode
+|-
+|Sir Wiley Gyle, an Inventor who scorns all magical arts
+|Stephen Maley
+|-
+|Bardo, the Wizard's Factotum
+|Genevra Gibson
+|-
+|[[Wizard of Oz (character)|Oz]], the Wonderful Wizard, Ruler of the Emerald City
+|John Slavin
+|}
+
+There were several major character changes from the original book:
+* Dorothy Gale's surname was introduced in the show. She had no surname in the original book, but the surname is mentioned in ''[[Ozma of Oz]]'' (1907).
+* Imogene the Cow replaces Dorothy's dog [[Toto (Oz)|Toto]].
+* The Good Witch of the North causes a snowfall which defeats the spell of the poppies that had put Dorothy and the Cowardly Lion to sleep – this idea was later used in the classic 1939 movie.
+* The role of the Cowardly Lion was reduced to a bit part, mostly to add humor.
+* The Tin Woodman is called Niccolo Chopper. In the book he had no name, but would be called Nick Chopper in the sequels.
+* The [[Wicked Witch of the West]] is mentioned but does not appear in this version.
+* New characters in the piece are Ex-King Pastoria II and his girlfriend Tryxie Tryfle (a waitress); Cynthia Cynch (a lady lunatic), Niccolo's love interest; Sir Dashemoff Daily (the [[poet laureate]]), Dorothy's love interest; Sir Wiley Gyle, and General Riskitt.
+
+==Plot==
+===Act One: The Storm===
+===Act Two: The Emerald City===
+===Act Three: The Borderland===
+==Conception and script==
+==Original production==
+==Preparing for Broadway - The 1902 Midwest tour==
+==Success on Broadway, 1903 to 1904==
+{|
+|-
+| links || [[Fred Stone]] [[Bert Swor]] [[David C. Montgomery]] [[Anna Laughlin]] [[Lotta Faust]] [[Allene Crater]] [[Arthur Hill (English actor)|Arthur Hill]]
+|}
+==National touring companies, 1904 to 1906==
+{|
+|-
+| links || [[Fred Stone]] [[Bert Swor]] [[David C. Montgomery]] [[Anna Laughlin]] [[Arthur Hill (English actor)|Arthur Hill]]
+|}
+==The final years, 1906 to 1909==
+==Reception==
+==Sequel==
+==Post-World War II revivals==
+==Music==
+
+{| class="wikitable sortable"
+|+
+!Index
+!Act
+!Title
+!Lyricist
+!Composer
+!Character
+!Dates
+!Notes
+!Sheet music
+publisher/date
+!References
+Swartz
+
+1902 program
+
+1903 script
+
+Recording
+|-
+|01.1
+|1
+|Instrumental Introduction:
+Prelude
+|N/A
+|[[Paul Tietjens]]
+|N/A
+|1902 - 1909
+|
+|
+|1902 program
+|-
+|01.2
+|1
+|Overture [Selection]
+|N/A
+|[[Paul Tietjens]]
+|N/A
+|1909 -
+|Tietjens Instrumentals: Opening Prayer (Transformation); Phantom Patrol; Just a Simple Girl From the Prairie; Poppy Song; Love is Love; When We Get What's A'Coming to Us; The Traveler and the Pie; When You Love, Love, Love; Rejoice, The Wizard is No Longer King.
+|[[M. Witmark & Sons]] (1902)
+|Swartz
+|-
+|02
+|1
+|Instrumental Introduction:
+[Farm] Life in Kansas
+|N/A
+|[[Paul Tietjens]]
+|Dorothy
+Chorus
+|1902 - 1909
+|
+|
+|1902 Program, Swartz
+|-
+|03
+|1
+|Instrumental Introduction:
+Cyclone
+|N/A
+|[[Paul Tietjens]]
+|Chorus
+|1902 - 1909
+|
+|
+|1902 Program, Swartz
+|-
+|04
+|1
+|Instrumental Introduction:
+Transformation
+|N/A
+|[[Paul Tietjens]]
+|N/A
+|1902 - 1909
+|
+|
+|1902 Program; Recording
+|-
+|05
+|1
+|Instrumental Introduction:
+Maypole Dance
+|N/A
+|[[Paul Tietjens]]
+|Chorus
+|1902 - 1909
+|Cut for the Jan 1903 New York opening
+|
+|1902 Program, 1903 Script, Swartz
+|-
+|06
+|1
+|Instrumental Introduction:
+Death of the Wicked Witch
+|N/A
+|[[Paul Tietjens]]
+|Chorus
+|1902 - 1909
+|
+|
+|1902 Program
+|-
+|07
+|1
+|Instrumental Introduction:
+Locusta's Entrance
+|N/A
+|[[Paul Tietjens]]
+|Locusta
+Chorus
+|1902 - 1909
+|
+|
+|1902 Program
+|-
+|08
+|1
+|Niccolo's Piccolo
+|[[L. Frank Baum]]
+[[Glen MacDonough]]
+|[[Paul Tietjens]]
+[[A. Baldwin Sloane]]
+|Cynthia
+|1902 - 1906+
+|
+|Publisher? (1902)
+|1902 Program, 1903 Script, Swartz
+|-
+|09.1
+|1
+|In Michigan
+|[[Glen MacDonough]]
+|[[A. Baldwin Sloane]]
+|Pastoria
+Chorus
+|1902 - 1904
+|Replaced for the Mar 1904 Edition De Luxe
+|
+|1902 Program, 1903 Script, Swartz
+|-
+|09.2
+|1
+|The Tale of a Cassowary
+|Will D. Cobb
+|[[Gus Edwards (vaudeville)|Gus Edwards]]
+|Cynthia
+|1904 - 1905
+|Added for the Mar 1904 Edition De Luxe
+Replaced for the 1905 touring season
+|[[Shapiro, Remick, and Co.]] (1904)
+|Swartz
+|-
+|09.3
+|1
+|The Tale of a Monkey
+|[[Vincent P. Bryan]]
+|[[Leo Edwards (composer)|Leo Edwards]]
+|Cynthia
+|1905 - 1906
+|Added for the 1905 touring season
+|
+|Swartz
+|-
+|09.4
+|1
+|The Bullfrog and the Coon
+|[[Felix F. Feist]]
+|Joseph S. Nathan
+|Cynthia
+|1905 - 1906
+|
+|[[Leo Feist]] (1906)
+|Recording
+|-
+|09.5
+|1
+|Pocahontas
+|[[Vincent P. Bryan]]
+|[[Gus Edwards (vaudeville)|Gus Edwards]]
+|Cynthia
+|1907 - 1908
+|
+|
+|Recording
+|-
+|10.1
+|1
+|The Man Who Stays in Town
+|[[Glen MacDonough]]
+|[[A. Baldwin Sloane]]
+|Pastoria
+Tryxie
+|1902
+|Cut in the show's third week to reduce length of show
+(Attribution to MacDonough is unconfirmed and uncredited)
+|
+|Swartz
+|-
+|10.2
+|1
+|When the Circus Comes to Town
+|Robert J. Adams
+|James O'Dea
+|Pastoria
+Tryxie
+|1903 - 1904
+|Added for the Jan 1903 New York opening
+|[[Sol Bloom]] (1902)
+|1903 Script, Swartz
+|-
+|10.3
+|1
+|Daisy Donahue
+|Robert J. Adams
+|James O'Dea
+|Pastoria
+Tryxie
+|1903 - 1904
+|Replaced for the Mar 1904 Edition De Luxe
+|
+|Recording
+|-
+|10.4
+|1
+|Down on the Brandywine
+|[[Vincent P. Bryan]]
+|J. B. Mullen
+|Pastoria
+Tryxie
+|1904 - 1906
+|Added for the Mar 1904 Edition De Luxe
+|[[Shapiro, Remick, and Co.]] (1904)
+|Swartz; Recording
+|-
+|11.1
+|1
+|Carrie Barry [Won't You Marry Me?]
+|[[L. Frank Baum]]
+|[[Paul Tietjens]]
+[[A. Baldwin Sloane]]
+|Dorothy
+Chorus
+|1902 - 1906
+|
+|
+|1902 Program, 1903 Script, Swartz
+|-
+|11.2
+|1
+|Come Take a Skate With Me
+|R. A. Browne
+|[[Gus Edwards (vaudeville)|Gus Edwards]]
+|Dorothy
+|1907 - 1908
+|Originally sung in [[His Honor, the Mayor]] (1906)
+|
+|Recording
+|-
+|12
+|1
+|Alas for the Man Without Brains
+[The Scarecrow]
+|[[L. Frank Baum]]
+|[[Paul Tietjens]]
+|Scarecrow
+|1902 - 1906
+|
+|[[M. Witmark & Sons]] (1902)
+|1902 Program, 1903 Script, Swartz
+|-
+|13.1
+|1
+|Love is Love
+[Ballad Romanza]
+|[[L. Frank Baum]]
+|[[Paul Tietjens]]
+|Sir Daily
+|1902
+|Replaced in Aug 1902
+|[[M. Witmark & Sons]] (1902)
+|1902 Program, Swartz; Recording
+|-
+|13.2
+|1
+|As Long as There's Love in the World
+|[[Vincent P. Bryan]]?
+James O'Dea?
+|[[Leo Edwards (composer)|Leo Edwards]]?
+Edward Hutchinson?
+|Sir Daily
+|1902
+|Starting Aug 1902, replaced for the Jan 1903 New York opening
+|
+|
+|-
+|13.3
+|1
+|That is Love
+[That Must Be Love]
+|Maurice Steinberg
+|Maurice Steinberg
+|Sir Daily
+|1903 - 1906
+|Added for the Jan 1903 New York opening.
+Except May - Jul 1904
+|"Songs Sung in Hamlin and Mitchell's Musical Extravaganza The Wizard of Oz" [[M. Witmark & Sons]] (1903)
+|1903 Script, Swartz
+|-
+|13.4
+|1
+|Only You
+|Frank Keesee
+|[[Charles A. Zimmermann]]
+|Sir Daily
+|1904
+|May - Jul 1904
+|[[Leo Feist]] (1906)
+|Swartz
+|-
+|13.5
+|1
+|I Love You All the Time
+|Will R. Anderson
+|Will R. Anderson
+|Sir Daily
+|1903 - 1904?
+|By Dec 1904
+|
+|Swartz; Recording
+|-
+|14.1
+|1
+|Mary Canary
+|Edward P. Moran
+|[[Seymour Furth]]
+|Sir Daily
+|1904
+|Added for the Mar 1904 Edition De Luxe
+Replaced May 1904
+|
+|Swartz
+|-
+|14.2
+|1
+|When the Heart is Sad
+|Hollister
+|[[Charles A. Zimmermann]]
+|Sir Daily
+|1904 - 1905
+|May - Sep 1904
+|
+|Swartz
+|-
+|14.3
+|1
+|The Moon Has His Eyes on You
+|Billy Johnson
+|[[Albert Von Tilzer]]
+|Sir Daily
+|1904 - 1906
+|Starting Sep 1904
+|
+|Recording
+|-
+|15.1
+|1
+|When You Love, Love, Love
+|[[L. Frank Baum]]
+|[[Paul Tietjens]]
+|Scarecrow
+Tin Man
+Dorothy
+|1902 - 1906
+|
+|[[M. Witmark & Sons]] (1902)
+"Songs Sung in Hamlin and Mitchell's Musical Extravaganza The Wizard of Oz" M. Witmark & Sons (1903)
+|1902 Program; 1903 Script; Swartz; Recording
+|-
+|15.2
+|1
+|When You Love, Love Love
+[Schottische]
+|N/A
+|[[Paul Tietjens]]
+|Scarecrow
+Tin Man
+Dorothy
+|1902 - 1904?
+|
+|[[M. Witmark & Sons]] (1902)
+|1902 Program
+|-
+|16
+|1
+|Poppy Song
+[Poppy Chorus]
+|[[L. Frank Baum]]
+|[[Paul Tietjens]]
+|Chorus
+|1902 - 1906
+|
+|[[M. Witmark & Sons]] (1902)
+"Songs Sung in Hamlin and Mitchell's Musical Extravaganza The Wizard of Oz" [[M. Witmark & Sons]] (1903)
+|1902 Program; 1903 Script; Swartz; Recording
+|-
+|17
+|1
+|Act 1 Finale:
+Invocation and Death of Poppies
+|N/A
+|[[Paul Tietjens]]
+|Ensamble
+|1902
+|
+|
+|1902 Program
+|-
+|18
+|1
+|Act 1 Finale:
+Transformation
+|N/A
+|[[Paul Tietjens]]
+|Ensamble
+|1902
+|
+|
+|1902 Program
+|-
+|19
+|1
+|Act 1 Finale:
+Winter Jubilation
+|N/A
+|[[Paul Tietjens]]
+|Ensamble
+|1902 - 1906?
+|
+|
+|1902 Program
+|-
+|20
+|2
+|The Guardian of the Gate
+|[[L. Frank Baum]]
+|[[Paul Tietjens]]
+|Private Gruph
+|1902
+|Cut in the show's first week to reduce length of show
+|[[M. Witmark & Sons]] (1902)
+|Swartz
+|-
+|21
+|2
+|Hayfoot, Strawfoot
+|N/A
+|[[Paul Tietjens]]
+|Chorus
+|1902
+|
+|
+|1902 Program, Swartz
+|-
+|22
+|2
+|When We Get What's A'Coming to Us
+|[[L. Frank Baum]]
+|[[Paul Tietjens]]
+|Scarecrow
+Tin Man
+Dorothy
+|1902
+|
+|[[M. Witmark & Sons]] (1902)
+|1902 Program; Swartz; Recording
+|-
+|23
+|2
+|The Phantom Patrol
+|N/A
+|[[Paul Tietjens]]
+|Chorus
+|1902 - 1906
+|
+|[[M. Witmark & Sons]] (1902)
+|Swartz; Recording
+|-
+|24.1
+|2
+|Mr Dooley
+|[[William Jerome]]
+|[[Jean Schwartz]]
+|Wizard
+|1902
+|Originally sung in [[A Chinese Honeymoon]] (1902)
+|Shapiro, Bernstein & Von Tilzer (1902)
+|1902 Program; Swartz; Recording
+|-
+|24.2
+|2
+|On a Pay Night Evening
+|John W. West
+|Bruno Schilinski
+|Wizard
+Chorus
+|1903, 1904
+|Replaced in Jan 1904, but reinstated Jun 1904
+|
+|1903 Script; Swartz
+|-
+|24.3
+|2
+|The Tale of a Shirt [The Tale of the Red Shirt]
+|W. W. Brackett
+|Lottie L. Meda
+|Wizard
+|1904
+|Added Jan 1904, Replaced Jun 1904
+|M. Witmark & Sons (1904)
+|Swartz
+|-
+|24.4
+|2
+|Mrs. O'Harahan
+|[[Harold Atteridge]]
+|[[Bert Peters (composer)|Bert Peters]]
+|Wizard
+|1905 - 1906
+|
+|[[Victor Kremer Co]] (1905)
+|
+|-
+|24.5
+|2
+|Julie Dooley
+|[[Frank R. Adams]]
+Will M. Hough
+|[[Joseph E. Howard]]
+|Wizard
+|1905 - 1906
+|Originally sung in His Highness the Bey (1904)
+Added for the 1905 touring season
+|
+|Swartz; Recording
+|-
+|24.6
+|2
+|Meet Me Down At the Corner
+|[[Will D. Cobb]]
+|Harry Hoyt
+|Wizard
+|1907?
+|
+|
+|Recording
+|-
+|24.7
+|2
+|Budweiser's a Friend of Mine
+|Vincent P. Bryan
+|Seymour Furth
+|Wizard
+|c. 1908
+|Originally sung in [[Ziegfeld Follies]] of 1907
+|
+|Recording
+|-
+|25.1
+|2
+|The Witch Behind the Moon
+|Charles Albert
+|Louis Weslyn
+|Cynthia
+Chorus
+|1902 - 1903
+|
+|[[M. Witmark & Sons]] (1902)
+|1902 Program; Swartz; Recording (noted)
+|-
+|25.2
+|2
+|There's a Lot of Things You Never Learn in School
+|Ed Gardenier
+|Edwin S. Brill
+|Cynthia
+|1903 - 1904
+|
+|Doty & Brill (1902)
+|Recording
+|-
+|25.3
+|2
+|Twas Enough to Make a Perfect Lady Mad
+|[[Vincent P. Bryan]]
+|J. B. Mullen
+|Cynthia
+|1904 - 1906
+|
+|[[Shapiro, Remick, and Co.]] (1904)
+|
+|-
+|26
+|2
+|The Different Ways of Making Love
+|[[L. Frank Baum]]
+|[[Nathaniel D. Mann]]
+|Dorothy
+Cynthia
+|1902
+|Cut in June 1902
+|[[M. Witmark & Sons]] (1902)
+|Swartz
+|-
+|27.1
+|2
+|Sammy
+|James O'Dea
+|Edward Hutchinson
+|Tryxie
+|1902 - 1905
+|
+|[[Sol Bloom]] (1902)
+"Songs Sung in Hamlin and Mitchell's Musical Extravaganza The Wizard of Oz" [[M. Witmark & Sons]] (1903)
+|1902 Program; 1903 Script; Swartz; Recording
+|-
+|27.2
+|2
+|Johnnie, I'll Take You
+|[[Will D. Cobb]]
+|[[Gus Edwards (vaudeville)|Gus Edwards]]
+|Tryxie
+|1904 - 1905
+|
+|[[Shapiro, Remick, and Co.]] (1904)
+|
+|-
+|27.3
+|2
+|The Tale of a Stroll
+|George Totten Smith
+|Byrd Dougherty
+[[Ben Jerome|Benjamin M. Jerome]]
+|Tryxie
+|1905 - 1906
+|Added for the 1905 touring season
+|[[Charles K. Harris]] (1905)
+|Swartz; Recording
+|-
+|27.4
+|
+|Johnnie Morgan
+|[[Harry Williams (songwriter)|Harry Williams]]
+|[[Egbert Van Alstyne]]
+|Tryxie
+|1904?
+|
+|[[Shapiro, Remick, and Co.]] (1904)
+|
+|-
+|27.5
+|2
+|Can't You See I'm Lonely
+|[[Felix F. Feist]]
+|Harry Armstrong
+|Tryxie
+|1905 - 1906
+|
+|[[Leo Feist]] (1905)
+|Recording
+|-
+|27.6
+|2
+|Are You Sincere?
+|[[Alfred Bryan (lyricist)|Alfred Bryan]]
+|Albert Gumble
+|Tryxie
+|1908 - 1909 ?
+| Later parodied by [[Nat M. Wills]] as "Are Youse in Here?" on [[Victor Talking Machine Company|Victor]] 5613.
+|
+|Recording
+|-
+|28
+|2
+|The Dance of All Nations:
+Connemara Christening
+|[[Edgar Smith (librettist)|Edgar Smith]]
+|[[A. Baldwin Sloane]]
+|Tin Man
+|1902 - 1906
+|
+|
+|1902 Program; 1903 Script; Swartz
+|-
+|29.1
+|2
+|The Dance of All Nations:
+Spanish Bolero
+|[[Edgar Smith (librettist)|Edgar Smith]]
+|[[A. Baldwin Sloane]]
+|Scarecrow
+|1902 - 1904
+|
+|
+|1902 Program; 1903 Script; Swartz
+|-
+|29.2
+|2
+|Good Bye, Fedora
+|Harry H. Williams
+|Robert J. Adams
+|Scarecrow
+|1904 - 1905
+|
+|[[Shapiro, Remick, and Co.]] (1904)
+|Recording
+|-
+|29.3
+|2
+|Sitting Bull
+|[[Vincent P. Bryan]]
+|[[Charles A. Zimmermann]]
+|Scarecrow
+Chorus
+|1905 - 1906
+|Added for the 1905 touring season
+|
+|Swartz; Recording
+|-
+|29.4
+|2
+|Green Corn Dance
+|[[Vincent P. Bryan]]
+|[[Charles A. Zimmermann]]?
+|Scarecrow
+Chorus
+|1905 - 1906
+|Added for the 1905 touring season
+|
+|Swartz
+|-
+|30
+|2
+|The Dance of All Nations:
+Wee Highland Mon
+|[[Edgar Smith (librettist)|Edgar Smith]]
+|[[A. Baldwin Sloane]]
+|Wizard
+|1902 - ?
+|
+|
+|1902 Program; 1903 Script; Swartz
+|-
+|31.1
+|2
+|The Dance of All Nations:
+Rosalie [My Royal Rosie]
+|[[Will D. Cobb]]
+|[[Gus Edwards (vaudeville)|Gus Edwards]]
+|Dorothy
+Cynthia
+|1902 - 1904
+|Replaced in Jan 1904, but reinstated Jun 1904. Originally a duet, later became a solo for Dorothy
+|[[F. A. Mills]] (date?)
+|1902 Program; 1903 Script; Swartz; Recording (noted)
+|-
+|31.2
+|2
+|Under a Panama
+|[[Vincent P. Bryan]]
+|J. B. Mullen
+|Dorothy
+|1904
+|Added Jan 1904, Replaced Jun 1904
+Also featured in Sergeant Brue (1904) and mentioned in [[Sally Benson]]'s novel ''[[Meet Me in St. Louis (novel)|Meet Me in St. Louis]]''
+|[[Shapiro, Remick, and Co.]] (1903)
+|Swartz; Recording
+|-
+|31.3
+|2
+|An Afternoon Tea
+|[[Edgar Smith (librettist)|Edgar Smith]]
+|[[A. Baldwin Sloane]]
+|Dorothy
+Scarecrow Tin Man
+|1904
+|
+|
+|Recording (noted)
+|-
+|32.1
+|2
+|I Love Only One Girl in the
+Wide, Wide World
+|[[Will D. Cobb]]
+|[[Gus Edwards (vaudeville)|Gus Edwards]]
+|Sir Daily
+|1903 - 1904
+|
+|[[F. A. Mills]] (1903)
+|Recording
+|-
+|32.2
+|2
+|I Never Loved a Love as I Love You
+[I'll Never Love Another Love Like I Love You]
+|[[Will D. Cobb]]
+|[[Gus Edwards (vaudeville)|Gus Edwards]]
+|Sir Daily
+|1904 - 1905
+|
+|[[Shapiro, Remick, and Co.]] (1904)
+|
+|-
+|32.3
+|2
+|Only You
+|Frank Keesee
+|[[Charles A. Zimmermann]]
+|Sir Daily
+|1905 - 1905
+|Moved later in the show (see 13.4)
+|[[Leo Feist]] (1906)
+|
+|-
+|32.4
+|2
+|My Own Girl
+|[[Vincent P. Bryan]]
+|[[Leo Edwards (composer)|Leo Edwards]]
+|Sir Daily
+|1905 - 1906
+|Added for the 1905 touring season
+|
+|Swartz
+|-
+|33.1
+|2
+|The Lobster Song
+[I Was Walking Round the Ocean]
+|Hugh Morton
+|Gustave Kerker
+|Scarecrow
+Tin Man
+|1902
+|
+|
+|1902 Program; Swartz
+|-
+|33.2
+|2
+|Nautical Nonsense (Hurrah for Baffin's Bay!)
+|[[Vincent P. Bryan]]
+|Theodore F. Morse
+|Scarecrow
+Tin Man
+Chorus
+|1903 - 1904
+|Possibly originally sung in The Girl From Up There (1901)
+|[[Howley, Haviland, & Dresser]] (date?)
+|Swartz; 1903 Script ("Specialty"); Recording
+|-
+|33.3
+|2
+|The Nightmare
+|[[Vincent P. Bryan]]
+|J. B. Mullen
+|Scarecrow
+Tin Man
+|1904 - 1906
+|By Dec 1904
+|
+|Swartz
+|-
+|33.4
+|2
+|Football
+|[[Vincent P. Bryan]]
+|[[Charles A. Zimmermann]]
+|Scarecrow
+Tin Man
+|1905 - ?
+|Added for the 1905 touring season
+|[[Vincent Bryan Music Company]] (1905)
+|Swartz; Recording
+|-
+|34.1
+|2
+|I'd Like to Go Halves on That
+|[[David C. Montgomery]]
+|Harry Castling
+Frank Leo
+|Tin Man
+|1904 - 1906
+|By Dec 1904
+|
+|Swartz; Recording
+|-
+|34.2
+|2
+|Marching Thro Georgia
+|[[Vincent P. Bryan]]
+|[[Charles A. Zimmermann]]
+|Scarecrow
+Tin Man
+|1904 - 1905
+|
+|
+|Swartz
+|-
+|34.3
+|2
+|Marching Through Port Arthur
+|[[Vincent P. Bryan]]
+|[[Charles A. Zimmermann]]
+|Scarecrow
+Tin Man
+|1905
+|Added for the 1905 touring season
+|
+|Swartz
+|-
+|35.1
+|2
+|Act 2 Finale: Waltz and Grand March
+|N/A
+|[[Paul Tietjens]]
+|Chorus
+|
+|
+|
+|
+|-
+|35.1
+|2
+|Act 2 Finale: Rejoice, The Wizard is No Longer King
+|[[L. Frank Baum]]
+|[[Paul Tietjens]]
+|Ensemble
+|1902
+|Section from the Finale published as "Just a Simple Girl from the Prairie"
+|[[M. Witmark & Sons]] (1902)
+|1902 Program; Swartz; Recording
+|-
+|35.1
+|2
+|Act 2 Finale: Star of My Native Land
+|[[Glen MacDonough]]
+|[[A. Baldwin Sloane]]
+|Pastoria
+Chorus
+|1903
+|
+|
+|1903 Script
+|-
+|36
+|3
+|Cooks and Waitresses Number
+[March]
+|N/A
+|[[Charles A. Zimmermann]]
+|Chorus
+|1903
+|
+|
+|1903 Script
+|-
+|37
+|3
+|Opening Chorus
+|[[Glen MacDonough]]
+|[[A. Baldwin Sloane]]
+|Chorus
+|1903
+|Cut in Mar 1903
+|
+|
+|-
+|38
+|3
+|I'll Be Your Honey in The Springtime
+|Harry Freeman
+|Harry Freeman
+|Dorothy Chorus
+|1902
+|
+|[[M. Witmark & Sons]] (1902)
+|1902 Program; Swartz
+|-
+|39
+|3
+|She Really Didn't Mind the Thing At All
+|John Slavin
+|[[Nathaniel D. Mann]]
+|Wizard
+|1902
+|Cut Jun 1902
+|[[M. Witmark & Sons]] (1902)
+|Swartz
+|-
+|40.1
+|3
+|That's Where She Sits All Day
+[Cockney Coon Song]
+|Frank Leo
+|Frank Leo
+|Scarecrow
+Tin Man
+|1902 - 1908
+|
+|T. B. Harms & Co
+|1902 Program; 1903 Script; Swartz; Recording
+|-
+|40.2
+|3
+|Blooming Lize
+|Matt C. Woodward
+|Benjamin M. Jerome
+|Scarecrow
+Tin Man
+|1902
+|August 1902
+Originally sung in The Chaperons (1902)
+|
+|
+|-
+|40.3
+|3
+|Pimlico Malinda
+|James O'Dea
+|Robert J. Adams
+|Scarecrow
+Tin Man
+|1903
+|Replaced in Jan 1903
+|
+|
+|-
+|40.4
+|3
+|Must You?
+|Harry Boden
+[[David C. Montgomery]]
+|Bert Brantford
+|Scarecrow
+Tin Man
+|1903
+|Jan 1903 (several weeks after opening)
+|[[M. Witmark & Sons]] (1903)
+"Songs Sung in Hamlin and Mitchell's Musical Extravaganza The Wizard of Oz" [[M. Witmark & Sons]] (1903)
+|1903 Script
+|-
+|41
+|3
+|The Traveller and the Pie
+|[[L. Frank Baum]]
+|[[Paul Tietjens]]
+|Scarecrow
+Chorus
+|1902 - 1906
+|Intermittently used
+|M. Witmark & Sons (1902)
+"Songs Sung in Hamlin and Mitchell's Musical Extravaganza The Wizard of Oz" [[M. Witmark & Sons]] (1903)
+|1902 Program; 1903 Script; Swartz; Recording
+|-
+|42.1
+|3
+|Honey, My Sweet
+|[[Henry M. Blossom]] Jr.
+|George A. Spink
+|Dorothy
+Chorus
+|1903
+|
+|
+|1903 Script
+|-
+|42.2
+|3
+|The Sweetest Girl in Dixie
+|Robert J. Adams
+|James O'Dea
+|Dorothy
+|1904 - 1905
+|Originally sung in Sergeant Brue (1904)
+|[[Jerome H. Remick & Co]] (1903)
+|Recording
+|-
+|42.3
+|3
+|Fraidy Cat
+|James A. Brennan
+|James A. Brennan
+|Dorothy
+|1911
+|
+|O'Neill & Story (1912)
+|
+|-
+|43
+|3
+|Finale [All Aboard for Sunny Kansas]
+|[[L. Frank Baum]]?
+[[Glen MacDonough]]?
+|[[Paul Tietjens]]?
+[[A. Baldwin Sloane]]?
+|Ensemble
+|1902
+|
+|
+|1902 Program; 1903 Script; Swartz
+|-
+|??
+|
+|March
+|N/A
+|[[Paul Tietjens]]
+|
+|1902?
+|
+|[[M. Witmark & Sons]] (1902)
+|
+|-
+|??
+|
+|Waltzes
+|N/A
+|[[Paul Tietjens]]
+|
+|1902?
+|
+|[[M. Witmark & Sons]] (1902)
+|
+|-
+|??
+|
+|Waltz and Grand March
+|NA
+|[[Paul Tietjens]]
+|
+|1902?
+|
+|
+|
+|-
+|??
+|
+|Lanciers
+|N/A
+|[[Paul Tietjens]]
+|
+|1902?
+|
+|[[M. Witmark & Sons]] (1902)
+|
+|-
+|??
+|
+|It Happens Ev'ry Day
+|[[L. Frank Baum]]
+|[[Nathaniel D. Mann]]
+| Cynthia
+Pastoria
+Wizard
+|1902
+|Cut to reduce length of show. Possibly performed between "The Different Ways of Making Love" and "Sammy"
+|[[M. Witmark & Sons]] (1902)
+|
+|-
+|??
+|
+|How'd You Like to Like a Girl Like Me
+|Felix F. Feist
+|Jos S. Nathan
+|Dorothy?
+|1906
+|
+|[[Leo Feist]] (1906)
+|
+|-
+|??
+|
+|It's Lovely to Love a Lovely Girl
+|Edward P. Moran
+|Seymour Furth
+|Dorothy?
+|1903 - 1904??
+|
+|"Songs Sung in Hamlin and Mitchell's Musical Extravaganza The Wizard of Oz" [[M. Witmark & Sons]] (1903)
+[[M. Witmark & Sons]] (1904)
+|
+|-
+|??
+|
+|Nemo and his Bear
+|Al. Gumble
+|Dave J. Clark
+|Dorothy
+Chorus
+|1907
+|Mentioned in contemporary article in Omaha Daily Bee, Sep 8, 1907.
+|Jerome H. Remick & Co
+|
+|}
+
+== See also ==
+==Notes==
+==References==
+==External links==

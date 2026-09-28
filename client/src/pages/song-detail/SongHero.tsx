@@ -2,7 +2,7 @@
  * Song page hero: album art + show poster (links to the show), kind, title, show, credits,
  * characters, tags, play / setlist / comments, ownership + Edit/Delete.
  */
-import { ChevronRight, MessageCircle } from 'lucide-react';
+import { ChevronRight, ImagePlus, MessageCircle } from 'lucide-react';
 import { Link } from 'react-router';
 import { ArtworkTile, ShowPoster } from '../../components/ArtworkTile';
 import { CharacterAvatar } from '../../components/CharacterAvatar';
@@ -17,6 +17,7 @@ import { Skeleton } from '../../components/Skeletons';
 import { showPath, songEditPath } from '../../lib/links';
 import type { Show, Song } from '../../types';
 import { creditLines } from './helpers';
+import { jumpToTool } from './ListenSection';
 
 export interface SongHeroProps {
   song: Song;
@@ -24,9 +25,11 @@ export interface SongHeroProps {
   showLoading: boolean;
   commentCount: number;
   onDelete: () => Promise<void>;
+  /** Owner/admin: show "Add album art" when the song has none. */
+  canManage?: boolean;
 }
 
-export function SongHero({ song, show, showLoading, commentCount, onDelete }: SongHeroProps) {
+export function SongHero({ song, show, showLoading, commentCount, onDelete, canManage = false }: SongHeroProps) {
   const community = song.source === 'community';
   const credits = creditLines(show);
   const hasArt = Boolean(song.media.artworkUrl);
@@ -78,6 +81,19 @@ export function SongHero({ song, show, showLoading, commentCount, onDelete }: So
               </Link>
             )}
             <div className="sd-floor" aria-hidden="true" />
+            {canManage && !hasArt && (
+              <a
+                href="#media-art"
+                className="sd-add-art"
+                onClick={(e) => {
+                  e.preventDefault();
+                  jumpToTool('media-art', 'media-art-choose');
+                }}
+                data-testid="hero-add-art"
+              >
+                <ImagePlus size={16} aria-hidden="true" /> Add album art
+              </a>
+            )}
           </div>
 
           <div className="sd-hero-body">

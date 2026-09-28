@@ -1,0 +1,10 @@
+# STAR catalog - query D: English (or multilingual "mul") label, aliases and description (CC0) for selected items.
+# Chunks of <= 500 QIDs; the placeholder below is filled with "wd:Qx wd:Qy ...".
+SELECT ?item ?kind ?text ?lang WHERE {
+  VALUES ?item { %QIDS% }
+  { ?item rdfs:label ?text . BIND("label" AS ?kind) }
+  UNION { ?item skos:altLabel ?text . BIND("alias" AS ?kind) }
+  UNION { ?item schema:description ?text . BIND("description" AS ?kind) }
+  FILTER(LANG(?text) IN ("en", "mul"))
+  BIND(LANG(?text) AS ?lang)
+}

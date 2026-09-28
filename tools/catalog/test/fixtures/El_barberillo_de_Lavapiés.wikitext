@@ -1,0 +1,93 @@
+{{Infobox opera 
+| name              = El barberillo de Lavapiés
+| italic title      = yes
+| genre             = [[Zarzuela]]
+| composer          = [[Francisco Asenjo Barbieri]]
+| image             = Broadside with 48 scenes relating to the zarzuela barberillo of Lavapiés MET DP875798.jpg
+| alt               = 
+| caption           = Broadside with 48 scenes {{circa|1860–70}}
+| description       = 
+| other_name        =
+| librettist        = [[Luis Mariano de Larra]]
+| language          = Spanish
+| based_on          =
+| premiere_date     = {{Start date|1874|12|18|df=y}}
+| premiere_location = [[Teatro de la Zarzuela]], Madrid
+| other             =
+| website           =
+}}
+==Background==
+==Performance history==
+== Roles ==
+{| class="wikitable"
+|+{{sronly|Roles, voice types, premiere cast}}
+!Role
+![[Voice type]]
+!Premiere cast, 18 December 1874<br>Conductor: Francisco Barbieri
+|-
+|Lamparilla
+|[[tenor]]
+|Miguel Tormo
+|-
+|Paloma
+|[[mezzo-soprano]]
+|Dolores Franco de Salas 
+|-
+|Estrella, La Marquesita de Bierzo, ''the Infanta's lady-in-waiting''
+|[[soprano]]
+|Cecilia Delgado
+|-
+|Don Luis de Haro
+|tenor
+|Rosendo Dalmau 
+|-
+|Don Juan de Peralta
+|[[baritone]]
+|Loitia
+|-
+|Don Pedro, ''captain''
+|[[Bass (voice type)|bass]]
+|Edo
+|-
+|Lope, ''Lamparilla's assistant''
+|spoken
+|González
+|-
+|A sergeant
+|spoken
+|Jordá
+|-
+| colspan="3"|''Chorus: Students, young women, tradespeople, seamstresses, apprentice barbers, guards''
+|}
+
+==Synopsis==
+===Act 1===
+===Act 2===
+===Act 3===
+==Musical numbers==
+'''Act 1'''
+*Preludio, Chorus: "Dicen que en el Pardo, madre"
+*Entrance of Lamparilla: "Salud, dinero y bellotas"
+*Entrance of Paloma: "Como nací en la calle de la Paloma"
+*Trio (La Marquesita, Don Luis and Don Juan): "¡Este es el sitio!"
+*Trio (La Marquesita, Paloma and Lamparilla): "¡Lamparilla! ¡Servidor!"
+*Jota de Los Estudiantes and Final: "Ya los estudiantes madre"
+
+'''Act 2'''
+*Escena: "Aquí está la ronda"
+*Relato de Lamparilla: "Mil gracias vecinos"
+*Duo (La Marquesita and Don Luis): "En una casa solariega"
+*Duo (Paloma and Lamparilla): "Una mujer que quiere"
+*Seguidillas Manchegas: "En el templo de marte"
+*Final: "¡La puerta de esta casa!"
+
+'''Act 3'''
+*Introducción and Coplas de las costureras: "El noble gremio"
+*Intermedio
+*Duo (Paloma and La Marquesita): "Aquí estoy vestida"
+*Quartet (La Marquesita, Paloma, Don Luis and Lamparilla): "El sombrero hasta las cejas"
+*Caleseras de Lavapiés: "En entrando una maja"
+*Chorus: "¡Aquí están los que buscamos!"
+*Final: "En entrando una maja"
+
+==References==

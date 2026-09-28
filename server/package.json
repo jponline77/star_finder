@@ -22,7 +22,9 @@
     "enrich": "node scripts/enrich.js",
     "test": "node --test \"test/**/*.test.js\"",
     "backup": "node scripts/backup.js",
-    "clean-uploads": "node scripts/clean-uploads.js"
+    "clean-uploads": "node scripts/clean-uploads.js",
+    "catalog:load": "node scripts/catalog-load.js",
+    "catalog:clear-recording": "node scripts/catalog-clear-recording.js"
   },
   "dependencies": {
     "better-sqlite3": "^12.11.1",

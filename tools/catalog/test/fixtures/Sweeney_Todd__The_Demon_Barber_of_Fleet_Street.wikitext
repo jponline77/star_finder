@@ -1,0 +1,312 @@
+{{Infobox musical
+| name = Sweeney Todd
+| subtitle = The Demon Barber of Fleet Street
+| image = SweeneyToddLogo.jpg
+| image_size = 250px
+| caption = Artwork from the original Broadway production
+| music = [[Stephen Sondheim]]
+| lyrics = [[Stephen Sondheim]]
+| book = [[Hugh Wheeler]]
+| basis = {{Based on|''Sweeney Todd''|[[Christopher Bond]]}}
+| premiere_date = March 1, 1979
+| premiere_location = [[Gershwin Theatre|Uris Theatre]], [[New York City]]
+| productions = {{Plain list|
+*1979 [[Broadway theatre|Broadway]]
+*1980 US tour
+*1980 [[West End theatre|West End]]
+*1989 Broadway [[Revival (theatre)|revival]]
+*2004 West End revival
+*2005 Broadway revival
+*2009 UK & Ireland tour
+*2012 West End revival
+*2023 Broadway revival}}
+| awards = {{Plain list|
+*[[Tony Award for Best Musical]]
+*[[Tony Award for Best Book of a Musical|Tony Award for Best Book]]
+*[[Tony Award for Best Original Score|Tony Award for Best Score]]
+*[[Olivier Award for Best New Musical|Olivier Award Best New Musical]]
+*1994 [[Laurence Olivier Award for Best Musical Revival]]
+*2012 [[Laurence Olivier Award for Best Musical Revival]]}}
+}}
+==Background==
+==Synopsis==
+===Act I===
+===Act II===
+===Epilogue===
+==Musical numbers==
+{{col-begin}}
+{{Col-2}}
+; Prologue:
+* "Prelude: The Ballad of Sweeney Todd: '...La la la'" – Full Cast*
+; Act I:
+* "No Place Like London" – Anthony, Todd, Beggar Woman
+* "The Barber and His Wife" – Todd
+* "The Worst Pies in London" – Mrs. Lovett
+* "Poor Thing" – Mrs. Lovett
+* "My Friends" – Todd and Mrs. Lovett
+* "The Ballad of Sweeney Todd: '...La la la'" (reprise 1) – Company, Judge, Beadle*
+* "Green Finch and Linnet Bird" – Johanna
+* "Ah, Miss" – Anthony, Johanna, Beggar Woman
+* "Johanna" – Anthony
+* "Pirelli's Miracle Elixir" – Tobias, Todd, Mrs. Lovett, Crowd
+* "The Contest (Part 1): Shaving Scene" – Pirelli
+* "The Contest (Part 2): Tooth-Pulling Scene" <sup>†&</sup> – Pirelli, Tobias
+* "The Ballad of Sweeney Todd: '...La la la'" (reprise 2) – Company, Beggar Woman*
+* "Wait" – Lovett
+* "The Ballad of Sweeney Todd: '...La la la'" (reprise 3) – Tenor Trio*
+* "Johanna (Mea Culpa)" <sup>†‡&</sup> – Judge Turpin
+* "Kiss Me (Part 1)" – Johanna, Anthony
+* "Ladies in Their Sensitivities" – Beadle
+* "Kiss Me (Part 2)" – Beadle, Johanna, Anthony, Judge Turpin
+* "Pretty Women" – Judge, Todd, Anthony
+* "Epiphany" – Todd, Lovett
+* "A Little Priest" – Todd, Lovett
+{{col-break}}
+
+; Act II:
+* "God, That's Good!" – Tobias, Mrs. Lovett, Todd, Customers
+* "Johanna (Act 2 Sequence)" – Anthony, Todd, Beggar Woman, Johanna
+* "By the Sea" – Mrs. Lovett and Todd
+* "Wigmaker Sequence"/"The Ballad of Sweeney Todd: '...La la la' (reprise 4)"/"The Letter" – Todd, Anthony, Quintet*
+* "[[Not While I'm Around (song)|Not While I'm Around]]" – Tobias, Mrs. Lovett
+* "Parlor Sequence":
+** "Parlor Song (Part 1): Sweet Polly Plunkett" – Beadle
+** "Parlor Song (Part 2): The 12 Bells in Tower of Bray" – Beadle, Lovett, Tobias <sup>†</sup>
+** "Parlor Song (Part 3): Sweet Polly Plunkett" (reprise) – Lovett
+* "Final Sequence":
+** "The Ballad of Sweeney Todd: '...La la la'" (reprise 5) – Chorus*
+**"Fogg's Asylum" / "Fogg's Passacaglia" – Anthony, Mr. Fogg, Johanna, Lunatics
+**"City on Fire!" – Lunatics, Anthony, Johanna, Beggar Woman, Lovett, Todd
+**"Searching" / "Ah, Miss" (reprise) – Anthony, Johanna
+**"Beggar Woman's Lullaby" <sup>§</sup> – Beggar Woman, Todd
+**"The Judge's Return" – Judge Turpin, Todd
+**"The Ballad of Sweeney Todd: '...La la la'" (reprise 6) – Chorus*
+**"Final Scene" –  Lovett, Todd
+**"The Barber and His Wife" (reprise) – Todd, Tobias
+
+; Epilogue:
+* "The Ballad of Sweeney Todd: '...La la la'" (reprise 7) – Company, Todd, Lovett (Full Cast)
+{{col-end}}
+
+Notes on the songs:
+* * "The Ballad of Sweeney Todd" and its multiple reprises are titled in some productions by their first lyrics to differentiate them from one another.
+* † Despite being cut in previews ("Mea Culpa") and on the tour ("Tooth Pulling Scene") for reasons of length, these numbers were included on the Original Cast Recording. They have been restored in subsequent productions.
+* ‡ This song was moved to after "The Ballad of Sweeney Todd" <small>(reprise 3)</small> in the 2000 and 2014 [[New York Philharmonic]] concert performances, and on the Original Broadway Cast Album.
+* § This number was written for the original London production and first recorded for the 2000 New York Philharmonic concert performance.
+* & These songs were cut from the 2023 Broadway revival.
+
+* Sources: SondheimGuide.com & InternetBroadwayDatabase
+
+==Casts==
+=== Original casts ===
+{| class="wikitable" style="text-align:center"
+|-
+! rowspan=2 style="width:8.3%;" | Character
+! style="width:8.3%;" | Broadway
+! style="width:8.3%;" | West End
+! style="width:8.3%;" | US National Tour
+! style="width:8.3%;" | Broadway Revival
+! style="width:8.3%;" | Broadway Revival
+! style="width:8.3%;" | West End Revival
+! style="width:8.3%;" | Broadway Revival
+|-
+!<small>1979</small>
+!colspan=2|<small>1980</small>
+!<small>1989</small>
+!<small>2005</small>
+!<small>2012</small>
+!<small>2023</small>
+|-
+! [[Sweeney Todd]]
+| style="text-align:center;" | [[Len Cariou]]
+| style="text-align:center;" | [[Denis Quilley]]
+| style="text-align:center;" | [[George Hearn]]
+| style="text-align:center;" | [[Bob Gunton]]
+| style="text-align:center;" | [[Michael Cerveris]]
+| style="text-align:center;" | [[Michael Ball]]
+| style="text-align:center;" | [[Josh Groban]]
+|-
+! [[Mrs. Lovett]]
+| style="text-align:center;" | [[Angela Lansbury]]
+| style="text-align:center;" | [[Sheila Hancock]]
+| style="text-align:center;" | [[Angela Lansbury]]
+| style="text-align:center;" | [[Beth Fowler]]
+| style="text-align:center;" | [[Patti LuPone]]
+| style="text-align:center;" | [[Imelda Staunton]]
+| style="text-align:center;" | [[Annaleigh Ashford]]
+|-
+! Anthony Hope
+| style="text-align:center;" | [[Victor Garber]]
+| style="text-align:center;" | Andrew C. Wadsworth
+| style="text-align:center;" | [[Cris Groenendaal]]
+| style="text-align:center;" | [[Jim Walton (actor)|Jim Walton]]
+| style="text-align:center;" | Benjamin Magnuson
+| style="text-align:center;" | Luke Brady
+| style="text-align:center;" | [[Jordan Fisher]]
+|-
+! [[Johanna (character)|Johanna Barker]]
+| style="text-align:center;" | [[Sarah Rice]]
+| style="text-align:center;" | Mandy More
+| style="text-align:center;" | [[Betsy Joslyn]]
+| style="text-align:center;" | Gretchen Kingsley
+| style="text-align:center;" | [[Lauren Molina]]
+| style="text-align:center;" | [[Lucy May Barker]]
+| style="text-align:center;" | Maria Bilbao
+|-
+! [[Tobias Ragg]]
+| style="text-align:center;" | [[Ken Jennings (actor)|Ken Jennings]]
+| style="text-align:center;" | [[Michael Staniforth]]
+| style="text-align:center;" | [[Ken Jennings (actor)|Ken Jennings]]
+| style="text-align:center;" | [[Eddie Korbich]]
+| style="text-align:center;" | [[Manoel Felciano]]
+| style="text-align:center;" | James McConville
+| style="text-align:center;" | [[Gaten Matarazzo]]
+|-
+! [[Judge Turpin]]
+| style="text-align:center;" | [[Edmund Lyndeck]]
+| style="text-align:center;" | Austin Kent
+| style="text-align:center;" | [[Edmund Lyndeck]]
+| style="text-align:center;" | David Barron
+| style="text-align:center;" | [[Mark Jacoby]]
+| style="text-align:center;" | [[John Bowe (actor)|John Bowe]]
+| style="text-align:center;" | [[Jamie Jackson (actor)|Jamie Jackson]]
+|-
+! Beadle Bamford
+| style="text-align:center;" | [[Jack Eric Williams]]
+| style="text-align:center;" | David Wheldon-Williams
+| style="text-align:center;" | Calvin Remsberg
+| style="text-align:center;" | [[Michael McCarty]]
+| style="text-align:center;" | [[Alexander Gemignani]]
+| style="text-align:center;" | [[Peter Polycarpou]]
+| style="text-align:center;" | John Rapson
+|-
+! [[Lucy Barker|The Beggar Woman]]
+| style="text-align:center;" | [[Merle Louise]]
+| style="text-align:center;" | [[Dilys Watling]]
+| style="text-align:center;" | Angelina Réaux
+| style="text-align:center;" | SuEllen Estey
+| style="text-align:center;" | Diana DiMarzio
+| style="text-align:center;" | Gillian Kirkpatrick
+| style="text-align:center;" | [[Ruthie Ann Miles]]
+|-
+! [[Adolfo Pirelli]]
+| style="text-align:center;" | [[Joaquin Romaguera]]
+| style="text-align:center;" | John Aron
+| style="text-align:center;" | Sal Mistretta
+| style="text-align:center;" | Bill Nabel
+| style="text-align:center;" | [[Donna Lynne Champlin]]
+| style="text-align:center;" | Robert Burt
+| style="text-align:center;" | [[Nicholas Christopher (actor)|Nicholas Christopher]]
+|-
+|}
+
+==== Notable replacements ====
+'''Broadway (1979–80)'''
+*'''Sweeney Todd:''' [[George Hearn]]
+*'''Mrs. Lovett:''' [[Dorothy Loudon]]
+*'''Anthony Hope:''' [[Cris Groenendaal]]
+*'''Johanna Barker:''' [[Betsy Joslyn]]
+
+'''Broadway (2005–06)'''
+*'''Mrs. Lovett:''' [[Judy Kaye]]
+
+'''West End (2012)'''
+*'''Adolfo Pirelli:''' [[Jason Manford]]
+
+'''Broadway (2023–2024)'''
+*'''Sweeney Todd:''' [[Nicholas Christopher (actor)|Nicholas Christopher]], [[Aaron Tveit]]
+*'''Mrs. Lovett:''' [[Jeanna de Waal]], [[Sutton Foster]]
+*'''Tobias Ragg:''' [[Joe Locke]]
+
+==Productions==
+===Original Broadway production===
+==== Early tours and filming ====
+===Original West End production===
+===1989 Broadway===
+=== 1993 London ===
+===2004 London and 2005 Broadway===
+===2012 West End===
+===2023 Broadway===
+===Other productions===
+==== 1987–1997 ====
+====2002–2010====
+====2011–2015====
+====2015–2017====
+====2018–present====
+===Opera house productions===
+===Concert productions===
+==Film adaptation==
+==Themes==
+==Musical analysis==
+==Awards and nominations==
+===Original Broadway production===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Musical|Best Musical]] [[Tony Award for Best Book of a Musical|Best Book of a Musical]] [[Hugh Wheeler]] [[Tony Award for Best Original Score|Best Original Score]] [[Stephen Sondheim]] [[Tony Award for Best Actor in a Musical|Best Actor in a Musical]] [[Len Cariou]] [[Tony Award for Best Actress in a Musical|Best Actress in a Musical]] [[Angela Lansbury]] [[Tony Award for Best Direction of a Musical|Best Direction of a Musical]] [[Harold Prince]] [[Tony Award for Best Scenic Design|Best Scenic Design]] [[Eugene Lee (designer)|Eugene Lee]] [[Tony Award for Best Costume Design|Best Costume Design]] [[Franne Lee]] [[Tony Award for Best Lighting Design|Best Lighting Design]] [[Ken Billington]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Musical|Outstanding Musical]] [[Drama Desk Award for Outstanding Book of a Musical|Outstanding Book of a Musical]] [[Drama Desk Award for Outstanding Lyrics|Outstanding Lyrics]] [[Drama Desk Award for Outstanding Music|Outstanding Music]] [[Drama Desk Award for Outstanding Actor in a Musical|Outstanding Actor in a Musical]] [[Drama Desk Award for Outstanding Actress in a Musical|Outstanding Actress in a Musical]] [[Drama Desk Award for Outstanding Featured Actor in a Musical|Outstanding Featured Actor in a Musical]] [[Ken Jennings (actor)|Ken Jennings]] [[Drama Desk Award for Outstanding Featured Actress in a Musical|Outstanding Featured Actress in a Musical]] [[Merle Louise]] [[Drama Desk Award for Outstanding Choreography|Outstanding Choreography]] [[Larry Fuller (choreographer)|Larry Fuller]] [[Drama Desk Award for Outstanding Director of a Musical|Outstanding Director of a Musical]] [[Drama Desk Award for Outstanding Set Design|Outstanding Set Design]] [[Drama Desk Award for Outstanding Costume Design|Outstanding Costume Design]] [[Drama Desk Award for Outstanding Lighting Design|Outstanding Lighting Design]]
+|}
+===Original London production===
+{|
+|-
+| links || [[Laurence Olivier Award]] [[Laurence Olivier Award for Best New Musical|Best New Musical]] [[Laurence Olivier Award for Best Actor in a Musical|Best Actor in a Musical]] [[Denis Quilley]] [[Laurence Olivier Award for Best Actress in a Musical|Best Actress in a Musical]] [[Sheila Hancock]]
+|}
+===1989 Broadway revival===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Revival of a Musical|Best Revival of a Musical]] [[Tony Award for Best Actor in a Musical|Best Actor in a Musical]] [[Bob Gunton]] [[Tony Award for Best Actress in a Musical|Best Actress in a Musical]] [[Beth Fowler]] [[Tony Award for Best Direction of a Musical|Best Direction of a Musical]] [[Susan H. Schulman]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Revival of a Musical|Outstanding Revival of a Musical]] [[Drama Desk Award for Outstanding Actor in a Musical|Outstanding Actor in a Musical]] [[Drama Desk Award for Outstanding Actress in a Musical|Outstanding Actress in a Musical]] [[Drama Desk Award for Outstanding Set Design|Outstanding Set Design]] [[Drama Desk Award for Outstanding Lighting Design|Outstanding Lighting Design]]
+|}
+===1993 London revival===
+{|
+|-
+| links || [[Laurence Olivier Award]] [[Laurence Olivier Award for Best Musical Revival|Best Musical Revival]] [[Laurence Olivier Award for Best Actor in a Musical|Best Actor in a Musical]] [[Alun Armstrong]] [[Laurence Olivier Award for Best Actress in a Musical|Best Actress in a Musical]] [[Julia McKenzie]] [[Laurence Olivier Award for Best Performance in a Supporting Role in a Musical|Best Performance in a Supporting Role in a Musical]] [[Adrian Lester]] [[Barry James]] [[Laurence Olivier Award for Best Director of a Musical|Best Director of a Musical]] [[Declan Donnellan]]
+|}
+=== 2005 London revival ===
+{|
+|-
+| links || [[Laurence Olivier Award]] [[Laurence Olivier Award for Best Musical Revival|Outstanding Musical Production]] [[Laurence Olivier Award for Best Actor in a Musical|Best Actor in a Musical]]
+|}
+===2005 Broadway revival===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Revival of a Musical|Best Revival of a Musical]] [[Tony Award for Best Direction of a Musical|Best Direction of a Musical]] [[John Doyle (director)|John Doyle]] [[Tony Award for Best Actor in a Musical|Best Actor in a Musical]] [[Michael Cerveris]] [[Tony Award for Best Actress in a Musical|Best Actress in a Musical]] [[Patti LuPone]] [[Tony Award for Best Featured Actor in a Musical|Best Featured Actor in a Musical]] [[Manoel Felciano]] [[Tony Award for Best Orchestrations|Best Orchestrations]] [[Sarah Travis]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Revival of a Musical|Outstanding Revival of a Musical]] [[Drama Desk Award for Outstanding Actor in a Musical|Outstanding Actor in a Musical]] [[Drama Desk Award for Outstanding Actress in a Musical|Outstanding Actress in a Musical]] [[Drama Desk Award for Outstanding Featured Actor in a Musical|Outstanding Featured Actor in a Musical]] [[Alexander Gemignani]] [[Drama Desk Award for Outstanding Orchestrations|Outstanding Orchestrations]] [[Drama Desk Award for Outstanding Director of a Musical|Outstanding Director of a Musical]] [[Drama Desk Award for Outstanding Set Design|Outstanding Set Design]] [[Drama Desk Award for Outstanding Lighting Design|Outstanding Lighting Design]] [[Drama Desk Award for Outstanding Sound Design|Outstanding Sound Design]] [[Dan Moses Schreier]]
+|}
+===2012 London revival===
+{|
+|-
+| links || [[Evening Standard Award]] [[Evening Standard Award#The Ned Sherrin Award for Best Musical|Best Musical]] [[Laurence Olivier Award]] [[Laurence Olivier Award for Best Musical Revival|Best Musical Revival]] [[Laurence Olivier Award for Best Actor in a Musical|Best Actor in a Musical]] [[Michael Ball]] [[Laurence Olivier Award for Best Actress in a Musical|Best Actress in a Musical]] [[Imelda Staunton]] [[Laurence Olivier Award for Best Costume Design|Best Costume Design]] [[Anthony Ward]] [[Laurence Olivier Award for Best Lighting Design|Best Lighting Design]] [[Laurence Olivier Award for Best Sound Design|Best Sound Design]] [[Paul Groothuis]]
+|}
+===2023 Broadway revival===
+{|
+|-
+| links || [[76th Tony Awards|Tony Awards]] [[Tony Award for Best Revival of a Musical|Best Revival of a Musical]] [[Tony Award for Best Actor in a Musical|Best Actor in a Musical]] [[Josh Groban]] [[Tony Award for Best Actress in a Musical|Best Actress in a Musical]] [[Annaleigh Ashford]] [[Tony Award for Best Featured Actress in a Musical|Best Featured Actress in a Musical]] [[Ruthie Ann Miles]] [[Tony Award for Best Scenic Design in a Musical|Best Scenic Design of a Musical]] [[Mimi Lien]] [[Tony Award for Best Lighting Design in a Musical|Best Lighting Design of a Musical]] [[Natasha Katz]] [[Tony Award for Best Sound Design of a Musical|Best Sound Design of a Musical]] [[Tony Award for Best Choreography|Best Choreography]] [[Steven Hoggett]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Revival of a Musical|Outstanding Revival of a Musical]] [[Drama Desk Award for Outstanding Director of a Musical|Outstanding Direction of a Musical]] [[Thomas Kail]] [[Drama Desk Award for Outstanding Lead Performance in a Musical|Outstanding Lead Performance in a Musical]] [[Drama Desk Award for Outstanding Lighting Design for a Musical|Outstanding Lighting Design of a Musical]] [[Drama League Award]] [[Outer Critics Circle Award]] [[Grammy Awards|Grammy Award]] [[Best Musical Theater Album]]
+|}
+==Recordings and broadcasts==
+==References==
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+cast included [[Angela Lansbury]].
+starring [[Denis Quilley]].
+cast featured [[Bob Gunton]], [[Beth Fowler]].
+starred [[Alun Armstrong]].
+cast consisted of [[Patti LuPone]].
+starring [[Josh Groban]].
+cast consisted of [[Constantino Romero]], [[Vicky Peña]].
+starring [[Brian Stokes Mitchell]].
+cast featured [[Michael McCarthy (singer)|Michael McCarthy]], [[Rosemary Ashe]].
+cast featured [[Rod Gilfry]], [[Caroline O'Connor (actress)|Caroline O'Connor]].
+cast featured metal band front singers [[Nina Osegueda]], [[A Sound of Thunder (band)|A Sound of Thunder]].
+cast included David Arnsperger as Todd, [[Janis Kelly (soprano)|Janis Kelly]].
+starred [[Jonathan Roxmouth]].
+starred [[Teddy Tahu Rhodes]].
+cast included [[Jeremy Secomb]].
+cast included [[Jeremy Secomb]], [[Siobhán McCarthy]].
+starred [[Anthony Warlow]].
+starred [[Jett Pangan]].
+starring [[Ramin Karimloo]].
+cast included [[Timothy Nolen]].
+cast included [[Timothy Nolen]], [[Joyce Castle]].
+starred [[Mark Delavan]].
+starring [[Len Cariou]].
+cast included [[George Hearn]].
+cast included [[George Hearn]], [[Bryn Terfel]], [[Patti LuPone]].
+cast included Terfel, Thompson and Quast reprising their roles from the New York concert alongside [[John Owen-Jones]], [[Katie Hall (actress)|Katie Hall]], [[Alex Gaumond]], [[Rosalie Craig]].

@@ -1,0 +1,276 @@
+{{Infobox musical
+|name        = Spring Awakening
+|subtitle    =
+|image       = Spring Awakening 2006 album cover.jpg
+|caption     = Original Broadway recording
+|music       = [[Duncan Sheik]]
+|lyrics      = [[Steven Sater]]
+|book        = Steven Sater
+|basis       = ''[[Spring Awakening (play)|Spring Awakening]]''<br>by [[Frank Wedekind]]
+
+|productions = 2006 [[Off-Broadway]] <br> 2006 [[Broadway theatre|Broadway]] <br> 2008 First US Tour <br> 2009 [[West End theatre|West End]] <br> 2010 Second US Tour <br> 2015 Broadway [[Revival (theatre)|revival]] <br> 2021 [[The Offies|Offie]]
+
+|awards      = [[Tony Award for Best Musical]] <br> [[Tony Award for Best Book of a Musical]] <br> [[Tony Award for Best Original Score]] <br> [[Laurence Olivier Award for Best New Musical]] <br> [[Grammy Award for Best Musical Theater Album]]
+|ibdb        = 
+}}
+==Synopsis==
+===Act I===
+===Act II===
+==Characters==
+
+=== The children ===
+*Melchior Gabor – An intelligent schoolboy with radical ideals who falls in love with Wendla.
+*Wendla Bergmann – An innocent, curious girl who has a relationship with Melchior.
+*Moritz Stiefel – Melchior's best friend. He is tormented by growing up and feelings of failure.
+*Ilse Neumann – A friend of the other children who was kicked out of an abusive home and now lives in an artists' colony.
+*Hänschen Rilow – An intelligent and bisexual schoolboy. Ernst's love interest.
+*Martha Bessell – A friend of Wendla's who is abused by her father. She has a crush on Moritz.
+*Ernst Röbel – A [[closeted]] classmate who is ashamed of his sexuality. He is Hänschen's love interest.
+*Georg Zirschnitz – A classmate who lusts after his older piano teacher.
+*Otto Lämmermeier – A classmate who has a disturbing dream about his mother.
+*Thea – Wendla's best friend. She has a crush on Melchior.
+*Anna – Martha's best friend.
+*Greta Brandenburg (2015 Broadway revival)
+*Bobby Maler (2015 Broadway revival)
+*Melitta – Thea's twin sister. (2015 Broadway revival)
+
+=== Boys in the reformatory ===
+*Dieter – Usually played by the same actor as Georg
+*Rupert – Usually played by the same actor as Hänschen
+*Reinhold – Usually played by the same actor as Ernst
+*Ulbrecht – Usually played by the same actor as Otto
+
+=== Adults ===
+*Frau Bergmann – Wendla's mother
+*Fanny Gabor – Melchior's mother
+*Frau Bessell – Martha's mother
+*Fräulein Großebüstenhalter – Georg's piano teacher
+*Fräulein Knuppeldick – an associate of Headmaster Knochenbruch
+*Headmaster Knochenbruch – the boys' school headmaster
+*Herr Sonnenstich – a schoolteacher
+*Herr Gabor – Melchior's father
+*Herr Stiefel – Moritz's father
+*Herr Rilow – Hanschen's father
+*Herr Neumann – Ilse's Father
+*Father Kaulbach – a priest
+*Doctor von Brausepulver – Visits Wendla during her pregnancy
+*Schmidt – the abortionist
+
+==Musical numbers==
+{{col-begin}}
+{{col-2}}
+; Act I
+* "Mama Who Bore Me" – Wendla
+* "Mama Who Bore Me" (Reprise) – Girls
+* "All That's Known" – Melchior
+* "The Bitch of Living" – Boys
+* "My Junk" – Boys and Girls (except Ilse)
+* "Touch Me" – Boys and Girls
+* "The Word of Your Body" – Wendla and Melchior
+* "The Dark I Know Well" – Martha, Ilse, Boys
+* "And Then There Were None" – Moritz and Boys
+* "The Mirror-Blue Night" – Melchior and Boys
+* "I Believe" – Boys and Girls
+
+{{col-2}}
+; Act II
+* "The Guilty Ones" – Wendla, Melchior, Boys, and Girls
+* "Don't Do Sadness/Blue Wind" – Moritz and Ilse
+* "Left Behind" – Melchior, Boys, and Girls
+* "Totally Fucked" – Melchior and Full Company (except Moritz)
+* "The Word of Your Body" (Reprise) – Hänschen, Ernst, Boys (except Moritz), and Girls
+* "Whispering" – Wendla
+* "Those You've Known" – Moritz, Wendla, and Melchior
+* "The Song of Purple Summer" – Ilse and Full Company
+{{col-end}}
+
+The 2021/22 London run re-introduced "There Once Was a Pirate", in place of "The Guilty Ones".
+
+'''Orchestration'''
+
+The original Broadway pit consisted of a 7-piece orchestra:
+
+* [[String section|Strings]]: 1 [[guitar]]/[[violin]], 1 [[viola]], 1 [[cello]], 1 [[Double bass|bass]], 1 guitar
+* [[Keyboard instrument|Keyboard]]: 1 player
+* [[Percussion]]: 1 player
+
+==Major production casts==
+{| class="wikitable" style="width:70%; text-align:center;"
+|-
+! rowspan="2" | Character
+!Off-Broadway
+! Broadway
+! North American Tour
+! London
+! Broadway Revival
+!London Revival
+|-
+! colspan="2" |<small>2006</small>
+!<small>2008</small>
+!<small>2009</small>
+!<small>2015</small>
+!<small>2021</small>
+|-
+! Melchior
+| colspan="2" |[[Jonathan Groff]]
+| [[Kyle Riabko]]
+| [[Aneurin Barnard]]
+| [[Austin P. McKenzie]]
+| [[Laurie Kynaston]]
+|-
+! Wendla
+| colspan="2" |[[Lea Michele]]
+| [[Christy Altomare]]
+| [[Charlotte Wakefield]]
+| [[Sandra Mae Frank]]<br>Katie Boeck (voice/guitar){{ref|1|a}}
+|[[Amara Okereke]]
+|-
+! Moritz
+| colspan="2" |[[John Gallagher Jr.]]
+| [[Blake Bashoff]]
+| [[Iwan Rheon]]
+| [[Daniel Durant|Daniel N. Durant]]<br>[[Alex Boniello]] (voice/guitar){{ref|1|a}}
+|Stuart Thompson
+|-
+! Ilse
+| colspan="2" |[[Lauren Pritchard (singer)|Lauren Pritchard]]
+| [[Steffi DiDomenicantonio]]
+| [[Lucy May Barker]]
+| [[Krysta Rodriguez]]
+|Carly-Sophia Davies
+|-
+! Hänschen
+| colspan="2" |[[Jonathan B. Wright]]
+| [[Andy Mientus]]
+| [[Jamie Blackley]]
+| [[Andy Mientus]]
+|Nathan Armarkwei-Laryea
+|-
+! Martha
+| colspan="2" |[[Lilli Cooper]]
+| Sarah Hunt
+| Hayley Gallivan
+| Treshelle Edmond<br>[[Kathryn Gallagher]] (voice/guitar){{ref|1|a}}
+|Bella Maclean
+|-
+! Ernst
+| colspan="2" |[[Gideon Glick]]
+| Ben Moss
+| [[Harry McEntire]]
+| Joshua Castille<br>[[Daniel David Stewart]] (voice/piano){{ref|1|a}}
+|[[Zheng Xi Yong]]
+|-
+! Adult men
+|[[Frank Wood (actor)|Frank Wood]]
+| [[Stephen Spinella]]
+| [[Henry Stram]]
+| [[Richard Cordery]]
+| [[Russell Harvard]] <br> [[Patrick Page]]
+|Mark Lockyer
+|-
+! Adult women
+|Mary McCann
+| [[Christine Estabrook]]
+| Angela Reed
+| [[Sian Thomas]]
+| [[Marlee Matlin]] <br> [[Camryn Manheim]]
+|Catherine Cusack
+|-
+! Georg
+| colspan="2" |[[Skylar Astin]]
+| Matt Shingledecker
+| Jos Slovick
+| [[Alex Wyse]]
+|Joe Pitts
+|-
+! Otto
+| colspan="2" |Brian Charles Johnson
+| Anthony Lee Medina
+| Edd Judge
+| Miles Barbee<br>[[Sean Grandillo]] (voice/bass){{ref|1|a}}
+|Kit Esuruoso
+|-
+! Anna
+| colspan="2" |[[Phoebe Strole]]
+| Gabrielle Garza
+| Natasha Barnes
+| [[Ali Stroker]]
+|Maia Tamrakar
+|-
+! Thea
+| colspan="2" |[[Remy Zaken]]
+| [[Kimiko Glenn]]
+| [[Evelyn Hoskins]]
+| Amelia Hensley<br>Lauren Luiz (voice/Melitta){{ref|1|a}}
+| [[Asha Banks]]
+|-
+!Gretl
+| colspan="4" | N/A
+|Alexandra Winter (voice/harp)
+| N/A
+|}
+{{refbegin}}
+#{{note|1}} This person voiced the lines of a character played by a deaf or hard-of-hearing actor. A new character, Melitta, voiced the character of Thea.
+{{refend}}
+
+; Notable Broadway replacements
+* Melchior – [[Kyle Riabko]], [[Hunter Parrish]] and [[Matt Doyle (actor)|Matt Doyle]]
+* Wendla – [[Alexandra Socha]]
+* Ernst - Blake Daniel
+* Ilse - [[Emma Hunton]]
+* Moritz – [[Blake Bashoff]] and [[Gerard Canonico]]
+* Adult Women – [[Kate Burton (actress)|Kate Burton]]
+* Hanschen – [[Drew Tyler Bell]] and [[Matt Doyle (actor)|Matt Doyle]]
+* Anna – [[Emily Kinney]]
+* Thea – [[Caitlin Kinnunen]]
+* Ensemble – [[Jenna Ushkowitz]]
+
+; Notable Broadway swings
+* [[Jennifer Damiano]] – Anna, Thea, Martha and Ilse 
+* [[Krysta Rodriguez]] – Anna, Thea, Martha, Ilse and Wendla
+* [[Matt Doyle (actor)|Matt Doyle]] – Hanschen, Ernst, Otto, Georg and Melchior
+* [[Robert Ariza]] – Melchoir, Hanschen, Georg, Otto
+
+; Notable tour replacements
+* Melchior – [[Matt Doyle (actor)|Matt Doyle]], [[Jake Epstein]], [[Chris Wood (actor)|Christopher Wood]]
+* Moritz – [[Taylor Trensch]]
+
+==Original concept==
+==Production history==
+===Broadway===
+===United States tours===
+===Original London production===
+=== 2015 Broadway revival ===
+=== 2021 London revival ===
+=== 2024 London reunion Concert  ===
+=== 2026 Off-Broadway revival===
+===International productions===
+==In other media==
+==Major awards and nominations==
+===Original Off-Broadway/Broadway production===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Musical|Best Musical]] [[Tony Award for Best Book of a Musical|Best Book of a Musical]] [[Steven Sater]] [[Tony Award for Best Original Score|Best Original Score]] [[Duncan Sheik]] [[Tony Award for Best Performance by a Leading Actor in a Musical|Best Performance by a Leading Actor in a Musical]] [[Jonathan Groff]] [[Tony Award for Best Performance by a Featured Actor in a Musical|Best Performance by a Featured Actor in a Musical]] [[John Gallagher Jr.]] [[Tony Award for Best Direction of a Musical|Best Direction of a Musical]] [[Michael Mayer (director)|Michael Mayer]] [[Tony Award for Best Choreography|Best Choreography]] [[Bill T. Jones]] [[Tony Award for Best Orchestrations|Best Orchestrations]] [[Tony Award for Best Scenic Design|Best Scenic Design]] [[Christine Jones (scenic designer)|Christine Jones]] [[Tony Award for Best Costume Design|Best Costume Design]] [[Susan Hilferty]] [[Tony Award for Best Lighting Design|Best Lighting Design]] [[Kevin Adams]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Musical|Outstanding Musical]] [[Drama Desk Award for Outstanding Book of a Musical|Outstanding Book of a Musical]] [[Drama Desk Award for Outstanding Actor in a Musical|Outstanding Actor in a Musical]] [[Drama Desk Award for Outstanding Actress in a Musical|Outstanding Actress in a Musical]] [[Lea Michele]] [[Drama Desk Award for Outstanding Director of a Musical|Outstanding Director of a Musical]] [[Drama Desk Award for Outstanding Choreography|Outstanding Choreography]] [[Drama Desk Award for Outstanding Orchestrations|Outstanding Orchestrations]] [[Drama Desk Award for Outstanding Music|Outstanding Music]] [[Drama Desk Award for Outstanding Lyrics|Outstanding Lyrics]] [[Lucille Lortel Awards|Lucille Lortel Award]] [[In the Heights]] [[Drama League Award]] [[Theatre World Award]] [[New York Drama Critics' Circle]] [[Outer Critics Circle Award]] [[Obie Award]] [[Grammy Award]] [[Grammy Award for Best Musical Show Album|Best Musical Theater Album]]
+|}
+===Original London production===
+{|
+|-
+| links || [[Critics' Circle Theatre Award]] [[Critics' Circle Theatre Award#The Peter Hepple Award for Best Musical|Best Musical]] [[Laurence Olivier Award]] [[Laurence Olivier Award for Best New Musical|Best New Musical]] [[Laurence Olivier Award for Best Actor in a Musical|Best Actor in a Musical]] [[Aneurin Barnard]] [[Laurence Olivier Award for Best Actress in a Musical|Best Actress in a Musical]] [[Laurence Olivier Award for Best Performance in a Supporting Role in a Musical|Best Performance in a Supporting Role in a Musical]] [[Iwan Rheon]] [[Laurence Olivier Award for Best Theatre Choreographer|Best Theatre Choreographer]] [[Laurence Olivier Award for Best Lighting Design|Best Lighting Design]] [[Laurence Olivier Award for Best Sound Design|Best Sound Design]]
+|}
+=== 2015 Broadway revival ===
+{|
+|-
+| links || [[Ovation Awards]] [[Deaf West Theatre]] [[Wallis Annenberg Center for the Performing Arts|Wallis Annenberg Center]] [[Michael Arden]] [[Austin P. McKenzie]] [[Andy Mientus]] [[Krysta Rodriguez]] [[Dane Laffrey]] [[Tony Award]] [[Tony Award for Best Revival of a Musical|Best Revival of a Musical]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Revival of a Musical|Outstanding Revival of a Musical]] [[Drama Desk Award for Outstanding Lighting Design|Outstanding Lighting Design]] [[Drama League Award]] [[Theatre World Award]] [[Daniel Durant]] [[Outer Critics Circle Award]] [[Fred and Adele Astaire Awards]]
+|}
+=== 2021 London revival ===
+{|
+|-
+| links || [[2022 Laurence Olivier Awards|Laurence Olivier Award]] [[Laurence Olivier Award for Best Musical Revival|Best Musical Revival]] [[Critics' Circle Theatre Award]] [[Critics' Circle Theatre Award#The Peter Hepple Award for Best Musical|Best Musical]] [[Critics' Circle Theatre Award#The Jack Tinker Award for Most Promising Newcomer (other than a playwright)|Most Promising Newcomer]]
+|}
+==Reunion documentary==
+== Proposed film adaptation ==
+==References==
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+cast included [[Jamie Muscato]].

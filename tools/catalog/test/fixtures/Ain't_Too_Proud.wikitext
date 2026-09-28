@@ -1,0 +1,235 @@
+{{Infobox Musical
+| name = Ain't Too Proud
+| subtitle = The Life and Times of The Temptations
+| image = Ain't Too Proud Playbill.jpg
+| image_size = 
+| caption = Original Broadway Playbill
+| music = [[Motown|The Legendary Motown Catalog]]
+| book = [[Dominique Morisseau]]
+| basis = {{Based on|"The Temptations"|[[Otis Williams]]}}
+| premiere_date = August 31, 2017
+| premiere_location = Berkeley, CA
+| productions = 2019 [[Broadway theatre|Broadway]] <br /> 2021 U.S. Tour <br /> 2023 [[West End Theatre|West End]] <br/> 2024 U.S. 2nd National Tour
+| awards = 
+}}
+==Productions==
+===Berkeley Rep (2017)===
+===Washington, DC (2018)===
+===Los Angeles (2018)===
+===Toronto (2018)===
+===Broadway (2019)===
+===U.S. Equity Tour (2021)===
+=== West End (2023) ===
+=== U.S. 2nd National Tour (2024) ===
+== Characters and original cast ==
+{| class="wikitable" style="width:1000;"
+|-
+! rowspan="2" | Character
+! Berkeley
+! Washington, DC 
+! Los Angeles
+! Toronto
+! Broadway
+!U.S. Equity Tour
+! London
+!U.S. 2nd National Tour
+|-
+!<small>2017</small>
+! colspan="3" |<small>2018</small>
+!<small>2019</small>
+!<small>2021</small>
+!<small>2023</small>
+!<small>2024</small>
+|-
+! [[Otis Williams]]
+| colspan=5 align="center" | [[Derrick Baskin]]
+| colspan=1 align="center" | Marcus Paul James
+| colspan=1 align="center" | Sifiso Mazibuko
+| colspan=1 align="center" | Rudy Foster
+|-
+! [[Melvin Franklin]]
+| colspan=1 align="center" | Jared Joseph
+| colspan=4 align="center" | Jawan M. Jackson
+| colspan=1 align="center" | Harrell Holmes Jr.
+| colspan=1 align="center" | Cameron Bernard Jones
+| colspan=1 align="center" | Jameson Clanton
+|-
+! [[Eddie Kendricks]]
+| colspan=5 align="center" | [[Jeremy Pope (actor)|Jeremy Pope]]
+| colspan=1 align="center" | Jalen Harris
+| colspan=1 align="center" | Mitchell Zhangazha
+| colspan=1 align="center" | Lowes Moore
+|-
+! [[Paul Williams (The Temptations)|Paul Williams]]
+| colspan=5 align="center" | James Harkness
+| colspan=1 align="center" | [[James T. Lane]]
+| colspan=1 align="center" | Kyle Cox
+| colspan=1 align="center" | Bryce Valle
+|-
+! [[David Ruffin]]
+| colspan=5 align="center" | [[Ephraim Sykes]]
+| colspan=1 align="center" | Elijah Ahmad Lewis
+| colspan=1 align="center" | Tosh Wanogho-Maud
+| colspan=1 align="center" | Josiah Travis Kent Rogers
+|-
+! Al Bryant
+| colspan=5 align="center" | Jarvis B. Manning Jr.
+| colspan=1 align="center" | Brett Michael Lockley
+| colspan=1 align="center" | Michael James Stewart
+| colspan=1 align="center" | Robert Crenshaw
+|-
+! [[Tammi Terrell]] 
+| colspan=5 align="center" | Nasia Thomas
+| colspan=1 align="center" | Shayla Brielle G.
+| colspan=1 align="center" | Evonnee Bentley-Holder
+| colspan=1 align="center" |Kaila Symone Crowder
+|-
+! [[Johnnie Mae Matthews]]
+| colspan=5 align="center" | Taylor Symone Jackson
+| colspan=1 align="center" | Traci Elaine Lee
+| colspan=1 align="center" | Sadie-Jean Shirley
+| colspan=1 align="center" | Reyanna Edwards
+|-
+! [[Berry Gordy]] 
+| colspan=5 align="center" | Jahi Kearse
+| colspan=1 align="center" | Michael Andreaus
+| colspan=1 align="center" | Akmed Junior Khemalai
+| colspan=1 align="center" | Kerry D'Jovanni
+|-
+! [[Smokey Robinson]] 
+| colspan=5 align="center" | Christian Thompson
+| colspan=1 align="center" | Lawrence Dandridge
+| colspan=1 align="center" | [[Ryan Carter (Actor)|Ryan Carter]]
+| colspan=1 align="center" | Cedric Jamaal Greene
+|-
+! [[Diana Ross]] 
+| colspan=5 align="center" | Candice Marie Woods
+| colspan=1 align="center" | Deri'Andra Tucker
+| colspan=1 align="center" | Holly Liburd
+| colspan=1 align="center" rowspan="2"| Jasmine Barboa
+|-
+! Josephine Miles 
+| colspan=5 align="center" | Rashidra Scott
+| colspan=1 align="center" | Najah Hetsberger
+| colspan=1 align="center" | Naomi Katiyo
+|-
+! Shelly Berger 
+| colspan=1 align="center" | Jeremy Cohen
+| colspan=4 align="center" | Joshua Morgan
+| colspan=1 align="center" | Reed Campbell
+| colspan=1 align="center" | Dylan Turner
+| colspan=1 align="center" | Max Herskovitz
+|-
+! [[Dennis Edwards]] 
+| colspan=5 align="center" | Caliaf St. Aubyn
+| colspan=1 align="center" | Harris Matthew
+| colspan=1 align="center" | Posi Morakinyo
+| colspan=1 align="center" | Jamal Stone
+|-
+! [[Richard Street]] 
+| colspan=5 align="center" | E. Clayton Cornelious
+| colspan=1 align="center" | Devin Holloway
+| colspan=1 align="center" | Simeon Montague
+| colspan=1 align="center" rowspan=2 | Mikey Corey Hassel
+|-
+! Lamont 
+| colspan=5 align="center" | Shawn Bowers
+| colspan=1 align="center" | Gregory Carl Banks Jr.
+| colspan=1 align="center" | Toyan Thomas-Browne
+|}
+
+=== Notable Cast Replacements ===
+
+* Otis Williams: [[Nik Walker]]
+* Eddie Kendricks: Jelani Remy
+* Paul Williams: E. Clayton Cornelious
+* David Ruffin: Matt Manuel, Corey Mekell
+* Shelly Berger: Colin S. Kane
+
+==Musical numbers==
+
+=== Original Berkeley Rep production ===
+{{col-begin}}
+{{col-2}}
+
+*"[[Ain't Too Proud to Beg]]"
+*"[[All I Need (The Temptations song)|All I Need]]"
+*"[[Baby Love]]"
+*"[[Ball of Confusion (That's What the World Is Today)|Ball of Confusion (That's What the World is Today)]]"
+*"[[Cloud Nine (The Temptations song)|Cloud Nine]]"
+*"[[Come See About Me]]"
+*"[[Don't Look Back (The Temptations song)|Don't Look Back]]"
+*"[[For Once in My Life]]"
+*"[[Get Ready (The Temptations song)|Get Ready]]"
+*"[[Gloria (Leon René song)|Gloria]]"
+*"[[I Can't Get Next to You]]"
+*"[[I Could Never Love Another (After Loving You)]]"
+*"[[(I Know) I'm Losing You]]"
+*"[[I Want a Love I Can See]]"
+*"[[I Wish It Would Rain]]"
+*"[[If You Don't Know Me by Now]]"
+{{col-break}}
+*"[[I'm Gonna Make You Love Me]]"
+*"[[In the Still of the Night (The Five Satins song)|In the Still of the Night]]"
+*"[[Just My Imagination (Running Away with Me)]]"
+*"[[My Girl (The Temptations song)|My Girl]]"
+*"[[Papa Was a Rollin' Stone]]"
+*"[[Runaway Child, Running Wild]]"
+*"[[Shout (The Isley Brothers song)|Shout]]"
+*"[[Since I Lost My Baby]]"
+*"[[Speedoo|Speedo]]"
+*"[[Superstar (Remember How You Got Where You Are)]]"
+*"[[The Way You Do the Things You Do]]"
+*"[[War (The Temptations song)|War]]"
+*"[[What Becomes of the Brokenhearted]]"
+*"[[You Can't Hurry Love]]"
+*"[[You're My Everything (The Temptations song)|You're My Everything]]"
+{{col-end}}
+
+=== Original Broadway production ===
+{{col-begin}}
+{{col-2}}
+; Act I
+* "The Way You Do The Things You Do"
+* "Runaway Child, Running Wild"
+* "Gloria"
+* "In The Still Of The Night"/"Speedo"
+* "Shout"
+* "I Want A Love I Can See"
+* "My Girl"
+* "Get Ready"
+* Supremes Medley: "You Can't Hurry Love"/"Come See About Me"/"Baby Love"
+* "Since I Lost My Baby   "                             
+* "Ain't Too Proud To Beg"
+* "Don't Look Back"/"You're My Everything"
+* "If I Could Build My Whole World Around You"
+* "If You Don't Know Me By Now"
+* "(I Know) I'm Losing You"
+* "I Wish It Would Rain"
+* "I Could Never Love Another (After Loving You)"
+{{col-2}}
+; Act II
+* "I Can't Get Next To You"                            
+* "I'm Gonna Make You Love Me"
+* "War"
+* "Ball Of Confusion (That's What The World Is Today)"
+* "Just My Imagination (Running Away With Me)"
+* "Superstar (Remember How You Got Where You Are)"
+* "For Once In My Life"
+* "Papa Was A Rollin' Stone", Pt. 1
+* "Cloud Nine"
+* "Papa Was A Rollin' Stone", Pt. 2                
+* "What Becomes Of The Brokenhearted"
+* "I Can't Get Next To You"
+{{col-end}}
+
+===Recording===
+
+==Awards and nominations==
+=== Broadway production ===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Musical|Best Musical]] [[Tony Award for Best Actor in a Musical|Best Performance by an Actor in a Leading Role in a Musical]] [[Derrick Baskin]] [[Tony Award for Best Featured Actor in a Musical|Best Performance by an Actor in a Featured Role in a Musical]] [[Jeremy Pope (actor)|Jeremy Pope]] [[Ephraim Sykes]] [[Tony Award for Best Book of a Musical|Best Book of a Musical]] [[Dominique Morisseau]] [[Tony Award for Best Direction of a Musical|Best Direction of a Musical]] [[Des McAnuff]] [[Tony Award for Best Choreography|Best Choreography]] [[Sergio Trujillo]] [[Tony Award for Best Scenic Design in a Musical|Best Scenic Design in a Musical]] [[Peter Nigrini]] [[Tony Award for Best Costume Design in a Musical|Best Costume Design in a Musical]] [[Paul Tazewell]] [[Tony Award for Best Lighting Design in a Musical|Best Lighting Design in a Musical]] [[Howell Binkley]] [[Tony Award for Best Sound Design|Best Sound Design of a Musical]] [[Tony Award for Best Orchestrations|Best Orchestrations]] [[Harold Wheeler (musician)|Harold Wheeler]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Book of a Musical|Outstanding Book of a Musical]] [[Outer Critics Circle Award]] [[Drama League Award]] [[Grammy Award]] [[Grammy Award for Best Musical Theater Album|Best Musical Theater Album]] [[James Harkness (American actor)|James Harkness]]
+|}
+== References ==
+==External links==

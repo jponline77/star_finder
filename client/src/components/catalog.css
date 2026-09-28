@@ -1,0 +1,203 @@
+/* Catalog pieces (SPEC §7c): suggestion chips, confidence meter, the Wikipedia credit. Tokens only. */
+
+/* ------------------------------------------------------------ suggestion chip */
+.suggestion {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  min-width: 0;
+  margin-top: 0.1rem;
+}
+
+.suggestion-line {
+  display: flex;
+  align-items: center;
+  gap: 0.2rem 0.4rem;
+  width: fit-content;
+  max-width: 100%;
+  min-height: 34px;
+  padding: 0.2rem 0.25rem 0.2rem 0.7rem;
+  border-radius: 17px;
+  border: 1px solid color-mix(in srgb, var(--primary) 45%, transparent);
+  background:
+    linear-gradient(90deg, color-mix(in srgb, var(--primary) 16%, transparent), color-mix(in srgb, var(--accent-pink) 8%, transparent)),
+    var(--surface);
+  font-size: var(--step--1);
+  line-height: 1.3;
+}
+
+.suggestion.is-changed .suggestion-line,
+.suggestion.is-cleared .suggestion-line {
+  border-style: dashed;
+  background: var(--surface-2);
+}
+
+.suggestion-text {
+  flex: 0 1 auto;
+  min-width: 0;
+  padding-block: 0.15rem;
+  color: var(--text-muted);
+  font-weight: 700;
+}
+
+.suggestion-spark {
+  margin-right: 0.3em;
+  font-size: 0.95em;
+}
+
+.suggestion-value {
+  color: var(--heading);
+  font-weight: 900;
+  overflow-wrap: anywhere;
+}
+
+.suggestion-source {
+  overflow-wrap: anywhere;
+}
+
+.suggestion.is-applied .suggestion-source {
+  color: var(--text);
+}
+
+.suggestion-dot {
+  margin-inline: 0.3em;
+  color: var(--text-subtle);
+}
+
+.suggestion-action {
+  flex: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25em;
+  min-height: 32px;
+  padding: 0.15rem 0.65rem;
+  border: 0;
+  border-radius: var(--radius-pill);
+  background: transparent;
+  color: var(--text-muted);
+  font: inherit;
+  font-weight: 800;
+  cursor: pointer;
+  transition:
+    background-color var(--dur) var(--ease-out),
+    color var(--dur) var(--ease-out);
+}
+
+.suggestion-action:hover {
+  background: var(--surface-3);
+  color: var(--text);
+}
+
+.suggestion-action.is-apply {
+  background: var(--primary);
+  color: var(--on-primary);
+}
+
+.suggestion-action.is-apply:hover {
+  background: var(--primary-hover);
+  color: var(--on-primary);
+}
+
+.suggestion-alts {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.35rem;
+  padding-left: 0.35rem;
+}
+
+.suggestion-alts-label {
+  font-size: var(--step--2);
+  font-weight: 900;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--text-subtle);
+}
+
+.suggestion-alt-list {
+  display: flex;
+  flex: 1 1 0;
+  min-width: min(12rem, 100%);
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.chip.suggestion-alt {
+  min-height: 34px;
+  padding: 0.2em 0.8em;
+  border-style: dashed;
+}
+
+.chip.suggestion-alt[aria-pressed='true'] {
+  border-style: solid;
+}
+
+.suggestion-note {
+  max-width: 62ch;
+  padding-left: 0.35rem;
+  font-size: var(--step--1);
+  color: var(--text-muted);
+}
+
+/* confidence: ●●● high / ●●○ medium / ●○○ low */
+.confidence {
+  display: inline-flex;
+  vertical-align: -0.05em;
+  align-items: center;
+  gap: 0.3em;
+  font-weight: 800;
+  color: var(--text-muted);
+  white-space: nowrap;
+}
+
+.confidence-dots {
+  display: inline-flex;
+  gap: 2px;
+}
+
+.confidence-dots > span {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--surface-3);
+  box-shadow: inset 0 0 0 1px var(--border-strong);
+}
+
+.confidence.is-high .confidence-dots > .is-on {
+  background: var(--success);
+  box-shadow: none;
+}
+
+.confidence.is-medium .confidence-dots > .is-on {
+  background: var(--primary);
+  box-shadow: none;
+}
+
+.confidence.is-low .confidence-dots > .is-on {
+  background: var(--text-subtle);
+  box-shadow: none;
+}
+
+/* ------------------------------------------------------------ Wikipedia credit */
+.catalog-credit {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: var(--step--2);
+  font-weight: 700;
+  color: var(--text-subtle);
+}
+
+.catalog-credit a {
+  color: inherit;
+  text-decoration: underline;
+  text-decoration-color: color-mix(in srgb, currentColor 45%, transparent);
+  text-underline-offset: 2px;
+}
+
+.catalog-credit a:hover {
+  color: var(--text);
+}

@@ -1,0 +1,127 @@
+{{Infobox musical
+| name = Steel Pier
+| image = Steel pier cover.jpg
+| caption = Original Broadway Cast album
+| music = [[John Kander]]
+| lyrics = [[Fred Ebb]]
+| book = [[David Thompson (writer)|David Thompson]]
+| basis = 
+| productions = 1997 [[Broadway theatre|Broadway]] <br> 1998 U.S. Tour <br> 2011 [[London]] <br> 2012 [[Union Theatre (London)|Union Theatre]]
+| awards = 
+| image_size = 
+}}
+==Productions==
+==Plot summary==
+==Song list==
+
+{{col-begin}}
+{{col-2}}
+; Act I
+* "Prelude" – Orchestra
+* "Willing to Ride" – Rita Racine
+* "Everybody Dance" – Mick Hamilton, Mick's Picks and Company
+* "Second Chance" – Bill Kelly
+* "Montage I" – Company
+* "A Powerful Thing" – Mr. Walker and Mick Hamilton
+* "Dance With Me" / "The Last Girl" – Mick Hamilton, Mick's Picks, Bill Kelly and Company
+* "Montage II" – Company
+* "Everybody's Girl" – Shelby Stevens
+* "Wet" – Rita Racine and Bill Kelly
+* "Lovebird" – Rita Racine
+* "The Sprints" – Mick Hamilton and Company
+{{col-2}}
+; Act II
+* "Entr'acte" – Orchestra
+* "Leave the World Behind" – Bill Kelly, Rita Racine and Company
+* "Montage III" – Company
+* "Somebody Older" – Shelby Stevens
+* "Running in Place" – Rita Racine
+* "Two Little Words" – Precious McGuire, Mick's Picks and Company
+* "First You Dream" – Bill Kelly and Rita Racine
+* "Steel Pier" – Mick Hamilton, Rita Racine and Mick's Picks
+* "Steel Pier" (Reprise) – Company
+* "Final Dance" – Bill Kelly and Rita Racine
+{{col-end}}
+
+==Principal roles and original casts==
+{| class="wikitable" style="text-align:center;"
+|-
+! Character
+! Original Broadway Cast
+!US Tour Cast*
+! Original London Cast
+|-
+! scope="row" | Rita Racine
+| [[Karen Ziemba]]
+|Connie SaLoutos
+| Sarah Galbraith
+|-
+! scope="row" | Bill Kelly
+| [[Daniel McDonald (actor)|Daniel McDonald]]
+|David Engelman
+| Jay Rincon
+|-
+! scope="row" | Mick Hamilton
+| [[Gregory Harrison]]
+|Todd Alan Johnson
+| Ian Knauer
+|-
+! scope="row" | Mr. Walker
+| [[Ronn Carroll]]
+|Tim Bennett
+| Ian Kirton
+|-
+! scope="row" | Shelby Stevens
+| [[Debra Monk]]
+|[[Heidi Blickenstaff]]
+| [[Aimie Atkinson]]
+|-
+! scope="row" | Precious McGuire
+| [[Kristin Chenoweth]]
+|Amy Goldberger
+| Lisa-Anne Wood
+|-
+! scope="row" | Happy McGuire
+| Jim Newman
+|Timothy Ford
+| Rob Lines
+|-
+! scope="row" |  Johnny Adel
+| Timothy Warmen
+|Neal Richard Lee
+| Brett Shiels
+|-
+! scope="row" |  Buddy Becker
+| [[Joel Blum]]
+|Joel Newsome
+| Samuel Parker
+|-
+! scope="row" | Bette Becker
+| Valerie Wright
+|Michelle Aravena
+| Clare Louise Connolly
+|-
+! scope="row" | Dora Foster
+| Alison Bevan
+|Becca Ayers
+| Amy Anzel
+|-
+! scope="row" | Luke Adams
+| John C. Havens
+|Hayes Bergman
+| Ben Beard
+|}
+
+==Recording==
+==Awards and nominations==
+===Original Broadway production===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Musical|Best Musical]] [[Tony Award for Best Book of a Musical|Best Book of a Musical]] [[David Thompson (writer)|David Thompson]] [[Tony Award for Best Original Score|Best Original Score]] [[John Kander]] [[Fred Ebb]] [[Tony Award for Best Performance by a Leading Actor in a Musical|Best Performance by a Leading Actor in a Musical]] [[Daniel McDonald (actor)|Daniel McDonald]] [[Tony Award for Best Performance by a Leading Actress in a Musical|Best Performance by a Leading Actress in a Musical]] [[Karen Ziemba]] [[Tony Award for Best Performance by a Featured Actor in a Musical|Best Performance by a Featured Actor in a Musical]] [[Joel Blum]] [[Tony Award for Best Performance by a Featured Actress in a Musical|Best Performance by a Featured Actress in a Musical]] [[Debra Monk]] [[Tony Award for Best Direction of a Musical|Best Direction of a Musical]] [[Scott Ellis]] [[Tony Award for Best Choreography|Best Choreography]] [[Susan Stroman]] [[Tony Award for Best Orchestrations|Best Orchestrations]] [[Michael Gibson (musician)|Michael Gibson]] [[Tony Award for Best Scenic Design|Best Scenic Design]] [[Tony Walton]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Musical|Outstanding Musical]] [[Drama Desk Award for Outstanding Actor in a Musical|Outstanding Actor in a Musical]] [[Drama Desk Award for Outstanding Actress in a Musical|Outstanding Actress in a Musical]] [[Drama Desk Award for Outstanding Featured Actress in a Musical|Outstanding Featured Actress in a Musical]] [[Drama Desk Award for Outstanding Director of a Musical|Outstanding Director of a Musical]] [[Drama Desk Award for Outstanding Choreography|Outstanding Choreography]] [[Drama Desk Award for Outstanding Music|Outstanding Music]] [[Drama Desk Award for Outstanding Orchestrations|Outstanding Orchestrations]] [[Drama Desk Award for Outstanding Set Design|Outstanding Set Design]] [[Outer Critics Circle Award]] [[Outer Critics Circle Award for Outstanding New Broadway Musical|Outstanding New Broadway Musical]] [[Outer Critics Circle Award for Outstanding Direction of a Musical|Outstanding Direction of a Musical]] [[Outer Critics Circle Award for Outstanding Actor in a Musical|Outstanding Actor in a Musical]] [[Gregory Harrison]] [[Outer Critics Circle Award for Outstanding Actress in a Musical|Outstanding Actress in a Musical]] [[Outer Critics Circle Award for Outstanding Featured Actress in a Musical|Outstanding Featured Actress in a Musical]] [[Outer Critics Circle Award for Outstanding Choreography|Outstanding Choreography]] [[Outer Critics Circle Award for Outstanding Scenic Design|Outstanding Scenic Design]] [[Outer Critics Circle Award for Outstanding Costume Design|Outstanding Costume Design]] [[Peter Kaczorowski]] [[Outer Critics Circle Award for Outstanding Lighting Design|Outstanding Lighting Design]]
+|}
+==References==
+== External links ==
+
+== Actors mentioned in prose (fixture) ==
+starred [[Karen Ziemba]].
+starring [[Heidi Blickenstaff]].

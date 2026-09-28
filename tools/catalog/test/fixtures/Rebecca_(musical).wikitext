@@ -1,0 +1,126 @@
+{{Infobox musical
+|name=Rebecca
+|image=RebeccaInVienna.jpg
+|caption=Poster of Rebecca
+|music=[[Sylvester Levay]]
+|lyrics=[[Michael Kunze]] <small> (German lyrics and English lyrics) </small> <br> [[Christopher Hampton]] <small> (English lyrics) </small>
+|book=[[Michael Kunze]] <small> (German book and English book) </small> <br> [[Christopher Hampton]] <small> (English book) </small>
+|setting= [[Cornwall]]
+|basis=[[Rebecca (novel)|''Rebecca'']] <br> by [[Daphne du Maurier]]
+|premiere_date=28 September 2006
+|premiere_location=[[Raimund Theater]], [[Vienna]]
+|productions=2006 Vienna<br>2008 [[Tokyo]]<br>2008 [[Finland]]<br>2013 [[Korea]]<br>Other European productions<br>2023 [[London]]
+|awards=5 Annual Musical Awards (2013, Korea)
+}}
+==Background==
+==Synopsis==
+===Act I===
+===Act II===
+==Productions==
+===Vienna===
+===2008 Japan===
+===Europe===
+===UK and US readings and fundraising fraud===
+===2013 Korea===
+===2022 Vienna revival===
+===2023 London===
+==Characters and cast==
+{| class="wikitable" style="width:1000;"
+|-
+! rowspan="1" | Character
+! Vienna <small>(2006)</small>
+|-
+! {{Tt|in German: ich|I}}
+|colspan='1' align=center| Wietske van Tongeren
+|-
+! Maxim de Winter
+|='1' align=center| [[Uwe Kröger]]
+|-
+! Mrs. Danvers
+|colspan='1' align=center| Susan Rigvava-Dumas
+|-
+! Jack Favell
+|colspan='1' align=center| Carsten Lepper
+|-
+! Frank Crawley
+|colspan='1' align=center| André Bauer
+|-
+! Beatrice
+|colspan='1' align=center| Kerstin Ibald
+|-
+! Ben
+|colspan='1' align=center| Norberto Bertassi
+|-
+! Mrs. Van Hopper
+|colspan='1' align=center| Carin Filipčić
+|}
+
+==Songs in the original production==
+This list includes a literal translation of the German song titles into English
+{{col-begin}}
+{{col-2}}
+'''Act I'''
+*Ich hab geträumt von Manderley ("Ich", Shadows) – ''I dreamt of Manderley''
+*Du wirst niemals eine Lady (Mrs. van Hopper, "Ich") – ''You will never be a lady!''
+*Er verlor unerwartet seine Frau Rebecca (Ensemble) – ''He lost his wife Rebecca unexpectedly''
+*Am Abgrund ("Ich", Maxim) – ''At the abyss''
+*Zeit in einer Flasche ("Ich") – ''Time in a bottle''
+*Hochzeit (Instrumental) – ''Wedding''
+*Zauberhaft Natürlich (Maxim)- Naturally Enchanting ¥
+*Die neue Mrs. de Winter (Ensemble, Mrs. Danvers, Crawley) – ''The new Mrs. de Winter''
+*Sie ergibt sich nicht (Mrs. Danvers) – ''She won't surrender''
+*Die lieben Verwandten (Beatrice, "Ich", Giles) – ''The dear relatives''
+*Bist Du glücklich? ("Ich", Maxim) – ''Are you happy?''
+*Bist Du böse? ("Ich", Maxim) – ''Are you angry?''
+*Hilf mir durch die Nacht ("Ich", Maxim) – ''Help me through the night''
+*Was ist nur los mit ihm? (Beatrice) – ''What's wrong with him?''
+*Sie war gewohnt, geliebt zu werden (Mrs. Danvers, Favell) – ''She was used to being loved''
+*Rebecca - Version 1 (Mrs. Danvers, Ensemble)
+*Wir sind britisch (Ensemble) – ''We are British''#
+*Sie's fort (Ben) – ''She's gone''
+*Gott, warum? (Maxim) – ''God, why?''
+*Ehrlichkeit und Vertrauen (Crawley) – ''Honesty and trust''
+*Ball von Manderley (Ensemble) – ''The Ball at Manderley''^
+*I'm an American Woman (Mrs. van Hopper)
+*Heut Nacht verzaubere ich die Welt ("Ich", Clarice) – ''Tonight I'm going to enchant the world''
+*Finale Erster Akt (Mrs. Danvers & Ensemble) – ''Finale: Act One''
+{{col-break}}
+
+'''Act II'''
+*Entr'acte
+*Und Das und Das und Das ("Ich") – ''And this and this and this''
+*Rebecca - Version 2 (Mrs. Danvers, "Ich", Shadows)
+*Nur ein Schritt (Mrs. Danvers) – ''Just one step''
+*Strandgut (Ensemble, "Ich", Crawley, Favell) – ''Flotsam and jetsam''
+*Sie's fort – Reprise (Ben)
+*Du liebst sie zu sehr ("Ich") – ''You love her too much''
+*Kein Lächeln war je so kalt (Maxim) – ''Never was a smile that cold''
+*Die Stärke einer Frau (Beatrice, "Ich") – ''The power of a woman''
+*Die Neue Mrs. de Winter – Reprise (Ensemble)
+*Mrs. de Winter bin Ich! ("Ich", Mrs. Danvers) – ''I am Mrs. de Winter!''
+*Die Voruntersuchung (Ensemble) – ''The Enquiry''
+*Eine Hand wäscht die andre Hand (Favell) – ''One Hand washes the other''^
+*Sie's fort – Reprise (Ben)
+*Sie fuhr'n um Acht (Ensemble) – ''They drove at eight o'clock''
+*Keiner hat Sie durchschaut (Maxim) – ''No one saw through her''
+*Rebecca – Reprise (Mrs. Danvers, Shadows)
+*Jenseits der Nacht ("Ich", Maxim) – ''Beyond the night''^
+*Manderley in Flammen (Maxim, Mrs.Danvers, Ensemble, Crawley) – ''Manderley in Flames''
+*Ich hab geträumt von Manderley ("Ich", Shadows) – ''I dreamt of Manderley''
+{{col-end}}
+
+#-Replaced with the song Merkwürdig, where the servants make fun of "Ich", in the St. Gallen and subsequent productions
+
+¥-Written for the 2010 Japan production and used in all productions afterwards
+
+^-Shortened for the Stuttgart production
+
+==Recordings==
+==References==
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+cast featured Boggess as "I", [[Hugh Panaro]], [[Carolee Carmello]].
+cast included [[Yoo Jun-sang]].
+cast included [[Yoo Jun-sang]], [[Oh Man-seok]], [[Ock Joo-hyun]].
+cast included [[Willemijn Verkaik]].

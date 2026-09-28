@@ -1,0 +1,123 @@
+{{Infobox Musical
+|name= My Favorite Year
+|subtitle=
+|image= MyFavoriteYear1.JPG
+|caption= Original Production Poster
+|music= [[Stephen Flaherty]] 
+|lyrics= [[Lynn Ahrens]]
+|book= [[Joseph Dougherty]]
+|basis= 1982 film ''[[My Favorite Year]]''
+|premiere_date= December 10, 1992
+|premiere_location= [[Vivian Beaumont Theater]], New York City
+|productions= 1992 [[Broadway theatre|Broadway]] 
+
+|awards= 
+}}
+==Production history==
+==Principal casts==
+{| class="wikitable" style="text-align:center;"
+!rowspan="2"|Character
+!Broadway
+!York Theatre concert
+!25th anniversary concert
+|-
+!{{Small|1992}}
+!{{Small|2014}}
+!{{Small|2017}}
+|-
+!Benjy Stone
+|Evan Pappas
+|colspan="2"|[[Adam Chanler-Berat]]
+|-
+!Alan Swann
+|[[Tim Curry]]
+|colspan="2"|[[Douglas Sills]]
+|-
+!King Kaiser
+|[[Tom Mardirosian]]
+|colspan="2"|[[Richard Kind]]
+|-
+!Alice Miller
+|[[Andrea Martin]]
+|[[Leslie Kritzer]]
+|[[Carolee Carmello]]
+|-
+!K.C. Downing
+|Lannyl Stephens
+|colspan="2"|[[Rose Hemingway]]
+|-
+!Belle May Steinberg Carroca
+|[[Lainie Kazan]]
+|[[Christine Pedi]]
+|[[Caroline O'Connor (actress)|Caroline O'Connor]]
+|-
+!Sy Benson
+|[[Josh Mostel]]
+|colspan="2"|Daniel Marcus
+|-
+!Herb Lee
+|[[Ethan Phillips]]
+|colspan="2"|Aaron Galligan-Stierle
+|-
+!Leo Silver
+|Paul Stolarsky
+|colspan="2"|Thom Sesma
+|-
+!Rookie Carroca
+|Thomas Ikeda
+|[[Francis Jue]]
+|Steven Eng
+|-
+!Uncle Morty
+|David Lipman
+|colspan="2"|Daniel Marcus
+|-
+!Aunt Sadie
+|Mary Stout
+|colspan="2"|Barbara Marineau
+|-
+!Tess
+|[[Katie Finneran]]
+|colspan="2"|Bree Banker
+|}
+
+==Plot==
+==Musical numbers==
+{{col-begin}}
+{{col-2}}
+;Act I
+* "Twenty Million People" – Benjy and Company
+* "Larger Than Life" – Benjy
+* "The Musketeer Sketch" – Benjy, Sy, King, Alice, K.C., Leo and Herb
+* "Waldorf Suite" – Benjy, Offstage Chorus
+* "Rookie in the Ring" – Belle
+* "Manhattan" – Alan and Ensemble
+* "Naked in Bethesda Fountain" – Sy, Alice, Leo, Herb and K.C.
+* "The Gospel According to King" – King, Alan and Ensemble
+* "The Musketeer Sketch Rehearsal" – Musketeers, Benjy, and Alan
+* "Funny / The Duck Joke" – K. C. and Alice
+* "The Musketeer Sketch Rehearsal Part II" – King, Alan and Ensemble
+* "Welcome to Brooklyn" – Morty, Rookie, Belle, Sadie, Benjy, Alan and Neighbors
+* "If the World Were Like the Movies" – Alan
+{{col-break}}
+;Act II
+* "Exits" – Alan
+* "Shut Up and Dance" – K.C., Benjy, Offstage Chorus
+* "Professional Showbizness Comedy" – Alice, King and Ensemble
+* "The Lights Come Up" – Alan and Benjy
+* "Maxford House" – Maxford House Girls
+* "The Musketeer Sketch Finale" – King and Ensemble
+* "My Favorite Year" – Benjy and Company
+{{col-end}}
+
+==Awards and nominations==
+===Original Broadway production===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Actor in a Musical|Best Performance by a Leading Actor in a Musical]] [[Tim Curry]] [[Tony Award for Best Featured Actress in a Musical|Best Performance by a Featured Actress in a Musical]] [[Andrea Martin]] [[Lainie Kazan]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Featured Actor in a Musical|Outstanding Featured Actor in a Musical]] [[Josh Mostel]] [[Drama Desk Award for Outstanding Featured Actress in a Musical|Outstanding Featured Actress in a Musical]] [[Drama Desk Award for Outstanding Orchestrations|Outstanding Orchestrations]] [[Michael Starobin]] [[Outer Critics Circle Award]] [[Theatre World Award]]
+|}
+==References==
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+cast included Evan Pappas, [[Tim Curry]], [[Tom Mardirosian]], [[Katie Finneran]], [[Andrea Martin]], [[Josh Mostel]], [[Lainie Kazan]].

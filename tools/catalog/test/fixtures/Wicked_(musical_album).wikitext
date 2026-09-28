@@ -1,0 +1,161 @@
+{{Infobox album
+| name       = Wicked
+| type       = Cast
+| artist     = [[Wicked (musical)#Casts|''Wicked'' Cast]]
+| cover      = WickedCastRecording.jpg
+| alt        =
+| released   = December 16, 2003
+| recorded   = November 10, 2003
+| venue      =
+| studio     =
+| genre      = [[Show tune|Showtunes]]
+| length     = 70:37
+| label      = [[Decca Broadway]]
+| producer   = [[Stephen Schwartz]]
+| misc       = {{Extra chronology
+| artist     = ''Wicked''
+| type       = soundtrack
+| title      = Wicked
+| year       = 2003
+| next_title = [[Wicked: The Soundtrack]]
+| next_year  = 2024}}
+}}
+==Track listing==
+{{redirect-distinguish|One Short Day|One Sweet Day}}
+{{Track listing
+| all_writing = [[Stephen Schwartz]]
+| extra_column = Performer(s)
+| title1 = Overture / No One Mourns the Wicked
+| extra1 = {{hlist|[[Kristin Chenoweth]]|[[Sean McCourt]]|Cristy Candler|Jan Neuberger|Original Broadway Cast of ''Wicked''}}
+| length1 = 6:40
+| title2 = Dear Old Shiz
+| extra2 = {{hlist|Chenoweth|Cast}}
+| length2 = 1:26
+| title3 = [[The Wizard and I]]
+| extra3 = {{hlist|[[Idina Menzel]]|[[Carole Shelley]]}}
+| length3 = 5:09
+| title4 = What Is This Feeling?
+| extra4 = {{hlist|Chenoweth|Menzel|Cast}}
+| length4 = 3:32
+| title5 = Something Bad
+| extra5 = {{hlist|[[William Youmans]]|Menzel}}
+| length5 = 1:39
+| title6 = Dancing Through Life
+| extra6 = {{hlist|[[Norbert Leo Butz]]|Chenoweth|[[Christopher Fitzgerald (actor)|Christopher Fitzgerald]]|[[Michelle Federer]]|Menzel|Cast}}
+| length6 = 7:37
+| title7 = [[Popular (Wicked song)|Popular]]
+| extra7 = Chenoweth
+| length7 = 3:44
+| title8 = I'm Not That Girl
+| extra8= Menzel
+| length8 = 2:58
+| title9 = One Short Day
+| extra9 = {{hlist|Chenoweth|Menzel|Cast}}
+| length9 = 3:03
+| title10 = A Sentimental Man
+| extra10 = [[Joel Grey]]
+| length10 = 1:15
+| title11 = [[Defying Gravity (song)|Defying Gravity]]
+| extra11 = {{hlist|Menzel|Chenoweth|Cast}}
+| length11 = 5:53
+| title12 = No One Mourns the Wicked (Reprise) / Thank Goodness
+| extra12 = {{hlist|Chenoweth|Shelley|Cast}}
+| length12 = 6:22
+| title13 = Wonderful
+| extra13 = {{hlist|Grey|Menzel}}
+| length13 = 4:57
+| title14 = I'm Not That Girl (Reprise)
+| extra14 = Chenoweth
+| length14 = 0:49
+| title15 = [[As Long as You're Mine]]
+| extra15 = {{hlist|Menzel|Butz}}
+| length15 = 3:45
+| title16 = [[No Good Deed (song)|No Good Deed]]
+| extra16 = Menzel
+| length16 = 3:31
+| title17 = March of the Witch Hunters
+| extra17 = {{hlist|Fitzgerald|Cast}}
+| length17 = 1:30
+| title18 = [[For Good]]
+| extra18 = {{hlist|Chenoweth|Menzel}}
+| length18 = 5:06
+| title19 = Finale: For Good (Reprise)
+| extra19 = {{hlist|Chenoweth|Menzel|Cast}}
+| length19 = 1:41
+| total_length = 71:15
+}}
+
+===Notes===
+*The reprise of "No One Mourns the Wicked" is attached to the beginning of "Thank Goodness".
+*"The Wicked Witch of the East", sung by Nessarose, Elphaba, and Boq, is missing from the album. Producers deemed it too difficult to arrange for the album and thought the song would give too much of the plot away to an audience who had never seen ''Wicked'' before.
+*Short reprises of "The Wizard and I" and "A Sentimental Man", that appear in Act I and II respectively, are not included.
+
+==German language recording==
+===Personnel===
+== Fifth anniversary special edition ==
+=== Bonus CD track listing ===
+== Deluxe edition ==
+=== Track listing ===
+{{Track listing
+| extra_column = Performer(s)
+| title1       = For Good
+| extra1       = {{hlist|[[LeAnn Rimes]]|[[Delta Goodrem]]}}
+| length1      = 4:15
+| title2       = I'm Not That Girl
+| extra2       = [[Kerry Ellis]]
+| length2      = 3:49
+| title3       = Making Good
+| extra3       = {{hlist|[[Stephanie J. Block]]|Stephen Schwartz}}
+| length3      = 4:00
+| title4       = Solang Ich Dich Hab
+| note4        = German: "As Long As You're Mine"
+| extra4       = {{hlist|[[Willemijn Verkaik]]|[[Mark Seibert]]}}
+| length4      = 3:47
+| title5       = Gutes Tun
+| note5        = German: "No Good Deed"
+| extra5       = [[Willemijn Verkaik]]
+| length5      = 3:33
+| title6       = Jinnsei Wo Odori-Akase
+| note6        = Japanese: "Dancing Through Life"
+| extra6       = {{hlist|Li Tao|Company}}
+| length6      = 7:37
+| title7       = Popyuraa
+| note7        = Japanese: "Popular"
+| extra7       = Miyuki Numao
+| length7      = 3:45
+| title8       = Defying Gravity
+| note8        = Dance Mix - Tracy Young Flying Monkey Radio Mix
+| extra8       = [[Idina Menzel]]
+| length8      = 3:44
+| title9       = [[Popular Song (Mika song)|Popular Song]]
+| extra9       = [[Mika (singer)|Mika]] featuring [[Ariana Grande]]
+| length9      = 3:19
+}}
+
+== 15th anniversary special edition ==
+=== Track listing ===
+{{Track listing
+| all_writing = [[Stephen Schwartz]]
+| extra_column = Performer(s)
+| title1 = [[For Good]] - Live
+| extra1 = {{hlist|[[Kristin Chenoweth]]|[[Idina Menzel]]}}
+| length1 = 4:22
+| title2 = [[What is this Feeling?|What Is This Feeling?]] - Live
+| extra2 = [[Pentatonix]]
+| length2 = 3:37
+| title3 = [[The Wizard and I]] - Live
+| extra3 = [[Ariana Grande]]
+| length3 = 3:55
+| title4 = As Long As You're Mine - Live
+| extra4 = {{hlist|[[Adam Lambert]]|[[Ledisi]]}}
+| length4 = 3:47
+}}
+
+==Reception==
+==Commercial performance==
+==Singles==
+==Charts==
+===Weekly charts===
+===Year-end charts===
+==Certifications==
+==References==

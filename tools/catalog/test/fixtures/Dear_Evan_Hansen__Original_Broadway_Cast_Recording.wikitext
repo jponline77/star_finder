@@ -1,0 +1,176 @@
+{{Infobox album
+| name         = Dear Evan Hansen: Original Broadway Cast Recording
+| type         = cast
+| artist       = the original [[Broadway theatre|Broadway]] cast of ''[[Dear Evan Hansen]]''
+| cover        = DEH Broadway Cast Recording.jpg
+| alt          = 
+| released     = {{start date|2017|1|27}}
+| recorded     = December 9–15, 2016
+| venue        = 
+| studio       = [[Avatar Recording Studios|Avatar]], New York City
+| genre        = {{hlist|{{nowrap|[[Show tune]]s}}|[[Hip hop music|hip hop]]|[[Contemporary R&B|R&B]]|[[Soul music|soul]]}}
+| length       = 56:35
+| label        = [[Atlantic Records|Atlantic]]
+| producer     = {{hlist|[[Alex Lacamoire]]|[[Benj Pasek]]|[[Justin Paul]]}}
+| prev_title   = 
+| prev_year    = 
+| next_title   = 
+| next_year    = 
+| misc         = {{Extra chronology
+ | artist     = [[Pasek and Paul]]
+ | type       = soundtrack
+ | prev_title = [[La La Land (soundtrack)|La La Land]]
+ | prev_year  = 2016
+ | title      = Dear Evan Hansen: Original Broadway Cast Recording
+ | year       = 2017
+ | next_title = [[The Greatest Showman (soundtrack)|The Greatest Showman]]
+ | next_year  = 2017
+}}
+{{Singles 
+| name = Dear Evan Hansen: Original Broadway Cast Recording
+| type = cast
+| single1 = [[Waving Through a Window]]
+| single1date = November 16, 2016
+| single2 = Requiem
+| single2date = January 19, 2017
+| single3 = [[You Will Be Found]]
+| single3date = January 23, 2017
+}}
+}}
+== Promotion and release ==
+== Commercial response ==
+== Critical reception ==
+== Track listing ==
+All tracks are written by [[Benj Pasek]] and [[Justin Paul]].
+
+{{track listing
+| headline = ''Dear Evan Hansen: Original Broadway Cast Recording''
+| extra_column = Performer(s)
+| title1 = [[Anybody Have a Map?]]
+| length1 = 2:26
+| extra1 = {{hlist|[[Rachel Bay Jones]]|[[Jennifer Laura Thompson]]}}
+| title2 = [[Waving Through a Window]]
+| length2 = 3:56
+| extra2 = [[Ben Platt]]
+| title3 = For Forever
+| length3 = 5:01
+| extra3 = Platt
+| title4 = [[Sincerely, Me (Dear Evan Hansen song)|Sincerely, Me]]
+| length4 = 3:42
+| extra4 = {{hlist|[[Mike Faist]]|Platt|[[Will Roland]]}}
+| title5 = Requiem
+| length5 = 4:19
+| extra5 = {{hlist|[[Laura Dreyfuss]]|[[Michael Park (actor)|Michael Park]]|Thompson}}
+| title6 = If I Could Tell Her
+| length6 = 4:08
+| extra6 = {{hlist|Platt|Dreyfuss}}
+| title7 = Disappear
+| length7 = 4:35
+| extra7 = {{hlist|Platt|Faist|Kristolyn Lloyd|Roland|Thompson}}
+| title8 = [[You Will Be Found]]
+| length8 = 6:00
+| extra8 = {{hlist|Platt|Kristolyn Lloyd|Roland|Dreyfuss}}
+| title9 = To Break In A Glove
+| length9 = 3:50
+| extra9 = {{hlist|Park|Platt}}
+| title10 = [[Only Us (Dear Evan Hansen song)|Only Us]]
+| length10 = 3:47
+| extra10 = {{hlist|Platt|Dreyfuss}}
+| title11 = Good For You
+| length11 = 3:50
+| extra11 = {{hlist|Jones|Lloyd|Roland|Platt}}
+| title12 = Words Fail
+| length12 = 5:51
+| extra12 = Platt
+| title13 = So Big / So Small
+| length13 = 4:12
+| extra13 = Jones
+| title14 = Finale
+| length14 = 1:35
+| extra14 = Platt
+}}
+
+{{track listing
+| headline = ''Dear Evan Hansen: Original Broadway Cast Recording'' (Deluxe edition)
+| extra_column = Performer(s)
+| title1 = [[Anybody Have a Map?]]
+| length1 = 2:26
+| extra1 = {{hlist|[[Rachel Bay Jones]]|[[Jennifer Laura Thompson]]}}
+| title2 = [[Waving Through a Window]]
+| length2 = 3:56
+| extra2 = [[Ben Platt]]
+| title3 = For Forever
+| length3 = 5:01
+| extra3 = Platt
+| title4 = [[Sincerely, Me (Dear Evan Hansen song)|Sincerely, Me]]
+| length4 = 3:42
+| extra4 = {{hlist|[[Mike Faist]]|Platt|[[Will Roland]]}}
+| title5 = Requiem
+| length5 = 4:19
+| extra5 = {{hlist|[[Laura Dreyfuss]]|[[Michael Park (actor)|Michael Park]]|Thompson}}
+| title6 = If I Could Tell Her
+| length6 = 4:08
+| extra6 = {{hlist|Platt|Dreyfuss}}
+| title7 = Disappear
+| length7 = 4:35
+| extra7 = {{hlist|Platt|Faist|Kristolyn Lloyd|Roland|Thompson}}
+| title8 = [[You Will Be Found]]
+| length8 = 6:00
+| extra8 = {{hlist|Platt|Kristolyn Lloyd|Roland|Dreyfuss}}
+| title9 = To Break In A Glove
+| length9 = 3:50
+| extra9 = {{hlist|Park|Platt}}
+| title10 = [[Only Us (Dear Evan Hansen song)|Only Us]]
+| length10 = 3:47
+| extra10 = {{hlist|Platt|Dreyfuss}}
+| title11 = Good For You
+| length11 = 3:50
+| extra11 = {{hlist|Jones|Lloyd|Roland|Platt}}
+| title12 = Words Fail
+| length12 = 5:51
+| extra12 = Platt
+| title13 = So Big / So Small
+| length13 = 4:12
+| extra13 = Jones
+| title14 = Finale
+| length14 = 1:35
+| extra14 = Platt
+| title15 = Obvious
+| note15 = Bonus track
+| length15 = 4:14
+| extra15 = [[Taylor Trensch]]
+| title16 = Hiding In Your Hands
+| note16 = Bonus track
+| length16 = 4:07
+| extra16 = [[Mallory Bechtel]]
+| title17 = Part Of Me
+| note17 = Bonus track
+| length17 = 5:06
+| extra17 = {{hlist|August 2018 Broadway Cast|Original U.S. Tour Cast}}
+| title18 = In The Bedroom Down The Hall
+| note18 = Demo
+| length18 = 5:19
+| extra18 = {{hlist|Jones|Thompson}}
+| title19 = Disappear
+| note19 = Acoustic
+| length19 = 2:32
+| extra19 = {{hlist|Trensch|[[Alex Boniello]]}}
+| title20 = Waving Through A Window
+| note20 = [[Katy Perry]] version
+| length20 = 3:55
+| extra20 = Perry
+| total_length = 81:40
+}}
+
+== Personnel ==
+== Charts ==
+=== Weekly charts ===
+=== Year-end charts ===
+== Certifications ==
+=== Song certifications ===
+{|
+|-
+| links || [[Recording Industry Association of America|RIAA]] [[British Phonographic Industry|BPI]]
+|}
+== References ==
+== External links ==

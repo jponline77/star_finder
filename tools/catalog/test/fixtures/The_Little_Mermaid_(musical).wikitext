@@ -1,0 +1,116 @@
+{{Infobox musical
+|name=The Little Mermaid
+|image= The Little Mermaid Musical Playbill.jpg
+|caption= [[Playbill]] cover at the [[Lunt-Fontanne Theatre]]
+|book=[[Doug Wright]]
+|music=[[Alan Menken]]
+|lyrics=[[Howard Ashman]] <br /> [[Glenn Slater]]
+|basis=''[[The Little Mermaid (1989 film)|The Little Mermaid]]''<br /> by [[John Musker]]<br />[[Ron Clements]]<br />''[[The Little Mermaid]]'' <br />by [[Hans Christian Andersen]]
+|productions= 2007 [[Denver]] (tryout)<br />2008 [[Broadway theatre|Broadway]]
+|awards=
+}}
+== Development ==
+=== Reimagining ===
+== Productions ==
+=== Denver tryout (2007) ===
+=== Broadway (2008–2009) ===
+=== Regional US and Canada productions ===
+=== International productions ===
+==== Israel (2010–2011) ====
+==== Philippines (2011) ====
+==== The Netherlands (2012–2013) ====
+==== Russia (2012–2014) ====
+==== Japan (2013–present) ====
+==== Denmark (2014) ====
+==== Belgium (2017–2018) ====
+==== Brazil (2018–2022) ====
+==== Finland (2019–2024) ====
+==== Argentina (2025) ====
+== Synopsis ==
+=== Act I ===
+=== Act II ===
+== Changes from the 1989 film ==
+== Musical numbers ==
+{{col-begin}}
+{{col-2}}
+;Act I
+* "Overture" – Orchestra
+* "[[Fathoms Below]]" † – Pilot, Prince Eric, Grimsby, Ensemble
+* "Daughters of Triton" * – Mersisters
+* "The World Above" – Ariel
+* "Human Stuff" – Scuttle, Ensemble
+* "I Want the Good Times Back" – Ursula, Flotsam, Jetsam, Ensemble
+* "[[Part of Your World]]" * – Ariel
+* "Storm at Sea" – Orchestra
+* "Part of Your World (Reprise)" * – Ariel
+* "She's in Love" – Mersisters, Flounder
+* "Her Voice" – Prince Eric
+* "The World Above (Reprise)" – King Triton
+* "[[Under the Sea]]" * – Sebastian, Ensemble
+* "Under the Sea (Reprise)" * – Sebastian, Ensemble
+* "Sweet Child" – Flotsam, Jetsam
+* "[[Poor Unfortunate Souls]]" * – Ursula, Ariel
+{{col-break}}
+;Act II
+* "Entr'acte" – Orchestra
+* "Positoovity" – Scuttle, Ensemble
+* "Beyond My Wildest Dreams" – Ariel, Carlotta, Ensemble
+* "[[Les Poissons]]" * – Chef Louis
+* "Les Poissons (Reprise)" – Chef Louis, Ensemble
+* "One Step Closer" – Prince Eric
+* "I Want the Good Times Back (Reprise)" – Ursula, Flotsam, Jetsam
+* "[[Kiss the Girl]]" * – Sebastian, Ensemble
+* "Sweet Child (Reprise)" – Flotsam, Jetsam
+* "If Only" (Quartet) – Ariel, Prince Eric, Sebastian, King Triton
+* "The Contest" – Grimsby, Ensemble
+* "Poor Unfortunate Souls (Reprise)" – Ursula
+* "If Only (Reprise)" – King Triton, Ariel
+* "Finale" – Prince Eric, Ariel, Ensemble
+{{col-end}}
+
+Original Broadway Production. Lyrics are by Glenn Slater, except as noted:
+
+''<nowiki>*</nowiki>'' Lyrics by [[Howard Ashman]]
+
+''†'' Lyrics by Howard Ashman and Glenn Slater
+
+== Roles and casts ==
+{| class="wikitable"
+!width="10%"| Character
+!width="15%"| Original Broadway Cast
+! Character Description
+! Voice type
+! Other notable stage performers in noteworthy productions
+|-
+| '''''[[Ariel (The Little Mermaid)|Ariel]]''''' || [[Sierra Boggess]] || She dreams of life on land instead of "under the sea". She is the youngest daughter of King Triton, and the apparent niece of Ursula.|| [[Mezzo-soprano]] || [[Patti Murin]], [[Rachelle Ann Go]], [[Desi Oakley]], [[Kerry Butler]], [[Emma Degerstedt]], [[Sara Bareilles]]
+|-
+|'''''[[Ursula (The Little Mermaid)|Ursula]]'''''||[[Sherie Rene Scott]]|| She tricks Ariel into trading her voice for a pair of human legs in order to hopefully win Prince Eric's heart, only to attempt to take advantage of Ariel's naivety. She is the apparent sister of King Triton, and aunt of Ariel.|| [[Alto]] || [[Faith Prince]], [[Heidi Blickenstaff]], [[Vicki Lewis]], [[Emily Skinner (actress, born 1970)|Emily Skinner]], [[Rebel Wilson]]
+|-
+| '''''[[Characters of Disney's The Little Mermaid#Prince Eric|Prince Eric]]''''' || [[Sean Palmer]] || He is determined to recover the girl that saved him from drowning, ignorant to the fact that it is Ariel, with whom he eventually falls in love.|| [[Tenor]] || [[Drew Seeley]], [[Gavin Creel]], Michael Maliakel, [[Guy Zu-Aretz]], [[Erik Santos]], [[Eric Kunze]], [[Nick Adams (actor, born 1983)|Nick Adams]], [[Darren Criss]]
+|-
+|'''''[[Characters of Disney's The Little Mermaid#King Triton|King Triton]]'''''||[[Norm Lewis]]|| The strict but caring father of Ariel, and ruler over Atlantica. He originally hates humans, due to the loss of his wife, causing him to commonly reprimand Ariel for her constant human explorations, but eventually realizes it is best to let her follow her dreams. He is the apparent brother of Ursula.|| [[Baritone]] || [[Jerry Dixon (actor)|Jerry Dixon]], [[Jeff McCarthy]], [[Steve Blanchard]], [[Ben Davis (singer)|Ben Davis]], [[Terrence Mann]], [[Peter Gallagher]], [[Ken Page]]
+|-
+| '''''[[Characters of Disney's The Little Mermaid#Sebastian|Sebastian]]''''' || [[Tituss Burgess]] || Ariel's musical and practical guardian, Triton's faithful servant, and court composer. He serves as the musical's primary comic relief, and reluctantly assists Ariel in her efforts to charm Prince Eric.|| [[Tenor]] || [[Alan Mingo Jr.]], [[Francis Jue]], [[James T. Lane]], [[Ken Page]], [[Derrick Baskin]]
+|-
+|'''''[[Characters of Disney's The Little Mermaid#Scuttle|Scuttle]]'''''||[[Eddie Korbich]]|| He believes he is an expert on human artifacts, although he is mainly incorrect, and is often consulted by Ariel for information on her discovered "treasures". He also serves as a comic relief, alongside Sebastian.|| [[Tenor]] || [[Lara Teeter]], [[Tim Federle]]
+|-
+| '''''[[Characters of Disney's The Little Mermaid#Grimsby|Grimsby]]''''' || [[Jonathan Freeman (actor)|Jonathan Freeman]] || Prince Eric's faithful servant and friend. Seemingly a close friend of Eric's late father, Grimsby's main initiative is to ensure that Eric marries a princess to maintain his promise to the deceased king. He realizes Ariel is a princess, and is more than happy to let them wed.|| [[Baritone]] ||
+|-
+| '''''[[Characters of Disney's The Little Mermaid#Flotsam and Jetsam|Flotsam]]''''' || [[Tyler Maynard]] || One of Ursula's sly and slippery henchmen.|| [[Tenor]] ||
+|-
+| '''''[[Characters of Disney's The Little Mermaid#Flotsam and Jetsam|Jetsam]]''''' || [[Derrick Baskin]] || Another one of Ursula's cunning henchmen.|| [[Baritone]] || [[Tim Federle]]
+|-
+| '''''[[Characters of Disney's The Little Mermaid#Flounder|Flounder]]''''' || Trevor Braun,<br />Brian D'Addario,<br />Cody Hanford,<br /> J.J. Singleton <small>†</small> || Ariel's loyal companion. He often accompanies Ariel on her excursions in search of human artifacts.|| [[Boy soprano]]/[[Tenor]] || [[Henry Hodges]], [[Joshua Colley]]
+|-
+| '''''[[Characters of Disney's The Little Mermaid#Chef Louis|Chef Louis]]''''' || [[John Treacy Egan]] || The castle chef, who tries to capture Sebastian and cook him for dinner. He also serves as comic relief.|| [[Tenor]] || [[Jimmy Smagula]], [[Lee Roy Reams]], [[Frank Vlastnik]], [[John Stamos]], [[Cheech Marin]]
+|}
+
+== Original Broadway cast recording ==
+== Response ==
+== Awards and nominations ==
+{|
+|-
+| links || [[Tony Awards]] [[Tony Award for Best Original Score|Best Original Score]] [[Alan Menken]] [[Howard Ashman]] [[Glenn Slater]] [[Tony Award for Best Lighting Design of a Musical|Best Lighting Design of a Musical]] [[Natasha Katz]] [[Drama Desk Awards]] [[Drama Desk Award for Outstanding Actress in a Musical|Outstanding Actress in a Musical]] [[Sierra Boggess]] [[Drama Desk Award for Outstanding Set Design|Outstanding Set Design]] [[George Tsypin]] [[Drama Desk Award for Outstanding Lighting Design|Outstanding Lighting Design]] [[Outer Critics Circle Awards]] [[Sherie Rene Scott]] [[Drama League Award]] [[Grammy Awards]] [[Grammy Award for Best Musical Show Album|Best Musical Show Album]]
+|}
+== References ==
+== External links ==

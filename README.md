@@ -89,7 +89,7 @@ email from `STAR_ADMIN_EMAILS` first, or disable the account.
 |---|---|
 | Anyone (no account) | Browse, search, listen, use the Matchmaker, Spin, Setlist, STAR Prep and Stats, download the spreadsheet |
 | Logged-in user | Everything above, plus add songs and shows, upload practice audio, and comment. They can edit or delete **only the songs, shows and comments they added** |
-| Admin | Everything, including editing the original spreadsheet songs and shows, removing any comment, promoting or disabling accounts, resetting passwords, and editing the festival list (**Admin → Festivals**) |
+| Admin | Everything, including editing the original spreadsheet songs and shows, removing any comment, promoting or disabling accounts, resetting passwords, editing the festival list (**Admin → Festivals**), and removing cast albums saved for catalog shows (see [Catalog data](#catalog-data-shows--songs-to-pick-from)) |
 
 - Songs from the original spreadsheet say "From the STAR spreadsheet" and only admins can change them.
   Songs added by users say "Added by *display name*" and get a Community ribbon.
@@ -132,6 +132,43 @@ email from `STAR_ADMIN_EMAILS` first, or disable the account.
 
 ---
 
+## Adding a song
+
+1. **Find it.** "Add a song" opens **Find your song**: start typing a song or a show. Pick a song and
+   the form is filled in for you; pick a show to see its song list (grouped by act, with who sings
+   each song and a Solo / Duet / Ensemble guess). Songs already on the site say so, with a link. If a
+   show has no song list yet, **Load songs from the cast album** gets the track list from Apple
+   Music. **Enter it manually** is always there for anything that isn't in the catalog.
+2. **Check it.** Every filled-in field has a small note saying where it came from ("from the
+   Wikipedia song list", "from 3 other Les Misérables songs on the site") and how sure we are
+   (*sure*, *pretty sure*, *a guess*). Tap an alternative to use it instead, or just change the
+   field. A song whose list names two singers is guessed as a duet — if one of them only has a line
+   or two, tap **Solo** and pick the character who really sings it.
+3. **Art and audio** (the last step of the form, and later on the song page for the song's owner or
+   an admin) — see below. Then save.
+
+### Adding album art and audio
+
+- **Recording:** for a song picked from the catalog, the form finds recordings on Apple Music by
+  itself. It only picks one when it's clearly this song from this show's cast recording ("Best
+  match — picked for you"); otherwise it shows **Possible matches — listen first**. Press ▶ to hear
+  the 30-second preview, tap a card to choose it, or choose **No recording**. The chosen
+  recording gives the song its preview, its album art and a suggested length (the cast recording's
+  length — your version may differ). On the song page, owners use **Change recording**.
+- **Album art:** by default the song shows the recording's album cover. **Upload my own** (or drag
+  an image onto the box) to use your own picture instead — JPEG, PNG, WebP or GIF, up to 5 MB.
+  Hidden photo data (like GPS location) is removed when it's uploaded. **Use recording art** or
+  **Remove** goes back to the recording's cover.
+- **Backing track:** drag an audio file onto **Add your backing track (no vocals)**, or choose one —
+  MP3, M4A, AAC, WAV, AIFF or OGG, up to 25 MB. You'll see the upload progress, and you can remove
+  it later. You can also paste a link to a backing track (e.g. on YouTube) instead.
+- Only upload images and audio you're allowed to share. Uploads count toward your upload space
+  (200 MB) and are deleted with the song.
+- If Apple Music is busy (lots of people looking up recordings at once), the form says how long to
+  wait and tries again by itself; you can always save the song first and add a recording later.
+
+---
+
 ## Configuration (environment variables)
 
 | Variable | Default | What it does |
@@ -144,11 +181,14 @@ email from `STAR_ADMIN_EMAILS` first, or disable the account.
 | `STAR_DB_PATH` | `server/data/star.db` | SQLite database file |
 | `STAR_UPLOADS_DIR` | `server/uploads` | Everything added on the website: uploaded audio and posters, and album art/posters fetched from Apple/Wikipedia |
 | `STAR_MEDIA_DIR` | `server/media` | Posters and album art of the spreadsheet shows/songs, downloaded by `npm run fetch-media` (the website never writes here) |
+| `STAR_CATALOG_PATH` | `server/seed/catalog/catalog.json.gz` | The show & song catalog the server loads at startup (see [Catalog data](#catalog-data-shows--songs-to-pick-from)) |
 | `STAR_WRITE_LIMIT` | `60` | Changes per minute (per logged-in user, or per IP when logged out) |
 | `STAR_READ_LIMIT` | `1200` | API page loads per minute (per user, or per IP) |
 | `STAR_EXPORT_LIMIT` | `10` | Spreadsheet downloads per minute |
 | `STAR_COMMENT_LIMIT` | `20` | Comments per minute per user |
-| `STAR_LOOKUP_LIMIT` | `30` | Apple Music / Wikipedia lookups per minute per IP |
+| `STAR_LOOKUP_LIMIT` | `30` | Apple Music / Wikipedia lookups per minute (per user, or per IP). Catalog show pages never get a "too many" error: past this they just say they couldn't check for a cast album |
+| `STAR_APPLE_LIMIT` | `20` | Calls to Apple's iTunes API per minute for the **whole site** (Apple allows about 20 per client, and the server is one client — going over gets it blocked for everyone). Past it, lookups answer "busy, try again in a minute" (HTTP 503) |
+| `STAR_SEARCH_LIMIT` | `120` | "Find your song" catalog searches per minute (per user, or per IP) |
 | `STAR_LOGIN_LIMIT` | `10` | Failed logins per 15 minutes per IP + email; also wrong "current password" tries per account |
 | `STAR_SIGNUP_LIMIT` | `100` | Sign-ups per hour per IP (a whole class often shares one school IP) |
 | `STAR_SIGNUP_CONFLICT_LIMIT` | `20` | "That email already has an account" answers per hour per IP (stops guessing classmates' emails) |
@@ -160,10 +200,10 @@ email from `STAR_ADMIN_EMAILS` first, or disable the account.
 | `STAR_ACCESS_LOG` | off | `1` logs every request (time, method, path, user id, status, duration) |
 | `STAR_DEFAULT_FESTIVAL` | — | The festival a first-time visitor starts with, by its link name (e.g. `surrey`, `online`; see [Festivals](#festivals-choosing-a-location)). Must be a shown regional or online festival, otherwise it's ignored and the server log says so. Unset = visitors choose their own |
 
-Relative paths (in `STAR_DB_PATH`, `STAR_UPLOADS_DIR`, `STAR_MEDIA_DIR` and the import/backup
-arguments) are resolved from the directory you run `npm` in — the project folder for the root
-scripts — the same way for `npm start`, `npm run dev`, `npm run import`, `npm run fetch-media`,
-`make-admin` and `backup`.
+Relative paths (in `STAR_DB_PATH`, `STAR_UPLOADS_DIR`, `STAR_MEDIA_DIR`, `STAR_CATALOG_PATH` and
+the import/backup/catalog-load arguments) are resolved from the directory you run `npm` in — the
+project folder for the root scripts — the same way for `npm start`, `npm run dev`, `npm run import`,
+`npm run fetch-media`, `make-admin`, `backup` and `catalog:load`.
 
 In development (`npm run dev`), the Vite dev server runs on port 5173 (`VITE_PORT`) and forwards
 `/api`, `/media` and `/uploads` to the API on the same `PORT` the server uses (so `PORT=4000 npm run
@@ -233,6 +273,99 @@ npm run fetch-media  ────────►  server/media/shows/, server/me
   file with separate **Solos** and **Duets** sheets (headers in row 1, the original column names),
   plus an **Added by** column (Spreadsheet or Community). It's for reading and sharing; it can't be
   imported back (use the original spreadsheet layout for that).
+
+### Catalog data (shows & songs to pick from)
+
+When students add a song they first **pick it from a catalog** of stage musicals and their song
+lists ("Find your song" on the Add page). The form is then filled in for them — title, solo or
+duet, the characters and their voice types, genre, mood and mature flag — and every suggestion says
+where it came from ("from the Wikipedia song list", "from 3 other Les Misérables songs on the site")
+and how sure it is. They can change anything.
+
+- **What's in it:** every stage musical with an English Wikipedia article (not film/TV musicals),
+  with its composer, lyricist, book writer, year and genres, its characters (and voice types where
+  Wikipedia gives them), and its song list with who sings each song, acts, reprises and
+  instrumentals.
+- **Where it lives:** `server/seed/catalog/catalog.json.gz`, with `server/seed/catalog/README.md`
+  (sources, build date, counts) and `stats.json`. Maintainers rebuild it with `npm run catalog:build`
+  (needs the internet; the tool in `tools/catalog/` has its own packages, so the website's aren't
+  affected; see `tools/catalog/README.md`). The build caches every Wikipedia/Wikidata answer, gives
+  identical output for identical sources, and never issues a version number twice for different
+  content (`tools/catalog/versions.json`). Before it replaces the file it writes a **readable diff**
+  of what changed (`tools/catalog/.cache/diff-<version>.txt` — review it before committing, since the
+  `.gz` can't be diffed) and **stops if anything new looks like vandalism** (swearing or slurs added
+  to a song list, links, keyboard mashing, a song list that was blanked …), with a link to the exact
+  Wikipedia revision it read; `-- --accept-review` builds anyway once you've checked.
+- **Sources and licences:**
+  - Song lists, who sings what, characters and voice types come from **English Wikipedia**
+    (<https://en.wikipedia.org>), licensed **CC BY-SA 4.0**
+    (<https://creativecommons.org/licenses/by-sa/4.0/>). The catalog file is a derived database, so
+    it is shared under the same licence: if you reuse it, credit Wikipedia's contributors and keep
+    the licence. Every show in it keeps its article title (`wikiTitle`), which is how each list links
+    back to its source. The site shows "Song list from Wikipedia (CC BY-SA)", linking to the show's
+    article, wherever it shows a catalog song list; lists loaded from a cast album say "Track list
+    from Apple Music" instead.
+  - Show facts (which works are stage musicals, alternative titles, credits when the article has
+    none, years, genres, the short description) come from **Wikidata** (<https://www.wikidata.org>),
+    **CC0** (no conditions).
+  - The code stays MIT. See [Third-party content](#third-party-content).
+- **It loads itself on deploy:** at startup the server compares the file with the one it loaded
+  last (its contents, not just its `version` — a rebuild that reused a version number still counts).
+  If it changed (or nothing is loaded yet) it loads the file in one transaction — about 3 seconds
+  for 100,000 songs — before it starts answering. So updating the catalog on a server is: put the
+  new file there and restart. An unchanged file costs a few milliseconds.
+- **A bad file can't wipe it:** a file with less than half the shows or songs that are loaded (a
+  broken build, a truncated file, the small test catalog pointed at a real database), one where
+  many shows have no key or title, one with no shows, or one that is implausibly big (over 50 MB, or
+  over 256 MB unpacked) is refused with a warning, and the loaded catalog stays.
+  `catalog:load -- --force` accepts a smaller file on purpose.
+- **It never touches the community's data:** songs, shows, accounts and comments are left as they
+  are. Only the site's links to the catalog are refreshed: a site show/song is linked to the catalog
+  entry with the same title (ignoring accents, case, punctuation, a leading "The" and "(Reprise)";
+  "(Reprise 2)" only matches "(Reprise 2)"; "Dog Eats Dog" matches "The Sewers/Dog Eats Dog").
+  When several catalog shows share a name ("Parade" 1960 and 1998, "The Phantom of the Opera"),
+  the year, composer and the site show's own songs decide — if they can't, the show isn't linked
+  automatically. A link someone chose (picking a catalog song on the form as the show's owner, or
+  an admin's pick) is kept, and so is "not from the catalog". Catalog entries keep their ids from
+  one version to the next; a show that leaves the catalog but still has site data (songs saved from
+  its cast album, a chosen link) is kept, hidden from search, instead of deleted.
+- **Cast albums:** a show whose Wikipedia article has no song list can offer "Load songs from the
+  cast album": the server finds the show's cast recording on Apple Music (the same careful album
+  rules as `npm run enrich`; an album that belongs to another show of the same name is refused, and
+  so are explicit albums and tracks) and saves up to 60 of its track names in the catalog for
+  everyone. Saving needs a logged-in user (`POST /api/catalog/shows/:id/recording-tracks`) and is
+  logged with who did it; anyone else only gets a preview. Show pages only check whether an album
+  exists (CA store, answer kept for a week) and never save one.
+  - **What gets stored** (in `star.db`, not in the catalog file): each track name as a catalog song
+    of that show (the title with "(Original Broadway Cast Recording)"-style notes removed, its
+    position, and reprise/instrumental guessed from the name — no singers, since track lists don't
+    say), the album's Apple id and name, and — for admins only, never shown publicly — which account
+    saved it and when. No audio, artwork or other Apple data is stored; previews still stream from
+    Apple. The answer to "does Apple have a cast album?" is kept too (for a week), so show pages
+    don't ask Apple again for every visitor. Separately, when a logged-in student opens the recording
+    picker for a song and Apple clearly has the show's **original** cast album, that album is
+    remembered for the show so later lookups start from it.
+  - The songs and albums saved are kept when a new catalog version is loaded — until the show gets a
+    Wikipedia song list, which replaces them.
+  - **Admins** check them in **Admin → Cast albums** (which album, how many songs, who saved it and
+    when) and can remove a show's saved album and songs there — the removed album is never picked for
+    that show again, unless they tick "let it be found again". The same from the API
+    (`GET /api/admin/catalog/recordings`, `DELETE /api/admin/catalog/shows/:id/recording[?reject=0]`)
+    or the shell: `npm --prefix server run catalog:clear-recording -- <show id or key>`
+    (`-- --list` lists them).
+- **Fixing a wrong link:** the **Edit show** window has a "Song catalog" field: keep the link, match
+  it by name again, mark the show as "not in the catalog" (never linked automatically — e.g. a
+  student's own show that shares a famous show's name), or link it to another catalog show (admins:
+  any show; the show's owner: one with the same name).
+- **Missing or broken file:** the server logs a warning and keeps going (with the catalog it already
+  had, or with an empty "Find your song" search on a brand-new install).
+- **Loading by hand:** `npm --prefix server run catalog:load` reloads the catalog now, even if the
+  file is the same (`-- path/to/catalog.json.gz` for another file, `-- --if-changed` to only load
+  a changed file, `-- --force` to accept a file with far fewer shows or songs). It's safe while the
+  server runs: website changes wait a few seconds meanwhile.
+- **Apple Music:** all the site's calls to Apple share one budget (`STAR_APPLE_LIMIT`, 20 a minute),
+  so busy days can't get the server blocked by Apple; past it, lookups say "busy, try again in a
+  minute".
 
 ### Festivals (choosing a location)
 
@@ -371,10 +504,15 @@ tells students to check with their teacher.
   repository); posters for shows added on the website are kept with the uploads.
 - Show descriptions are written in our own words. The song list comes from the STAR spreadsheet.
   See [Third-party content](#third-party-content) for who owns what.
-- Users may upload practice audio (MP3/M4A/AAC/WAV/AIFF/OGG, up to 25 MB) and show posters (JPEG,
-  PNG, WebP or GIF, up to 5 MB). The server checks that a file really is audio (a video, or
-  something else with an audio-looking start, is refused). The forms ask them to only share files
-  they're allowed to share.
+- Users may upload practice audio (MP3/M4A/AAC/WAV/AIFF/OGG, up to 25 MB), show posters and
+  **album art for their songs** (JPEG, PNG, WebP or GIF, up to 5 MB, at most 8192 pixels on a side
+  and 25 megapixels; animations at most 300 frames). The server checks that a file really is audio
+  or an image (the bytes decide, not the file name; SVG is never accepted) and removes hidden photo
+  data from images: only the parts needed to draw the picture are kept, so GPS position, camera
+  details, comments, "content credentials" (C2PA) and any other embedded data are gone. Uploaded album art
+  is shown instead of the recording's cover; removing it brings the recording's cover back. Uploads
+  count toward the owner's upload space and are deleted with the song. The forms ask them to only
+  share files they're allowed to share.
 
 ---
 
@@ -390,13 +528,42 @@ tells students to check with their teacher.
 - Make the first admin with `npm run make-admin` after the teacher has signed up (see
   [Making the first admin](#making-the-first-admin)).
 - The server must be able to reach `itunes.apple.com` and `en.wikipedia.org` for the "find a
-  preview" and "fetch from Wikipedia" buttons. Visitors' browsers stream previews from Apple.
+  preview", "fetch from Wikipedia" and "load songs from the cast album" buttons. Visitors' browsers
+  stream previews from Apple.
+- Shipping a new `server/seed/catalog/catalog.json.gz` is all it takes to update the song catalog:
+  the next start loads it (see [Catalog data](#catalog-data-shows--songs-to-pick-from)).
 - Process managers: the server exits with a non-zero code if it can't start (e.g. the port is
   taken), so `Restart=on-failure` works. On SIGTERM/SIGINT it lets running requests finish for up
   to `STAR_SHUTDOWN_GRACE_MS` (20 s; give your supervisor a longer stop timeout), then closes the
   database cleanly and exits 0 — or exits 1 if it had to cut requests off.
 - If the database is busy (e.g. an import or a manual SQL session holds a lock), requests get a
   "try again in a few seconds" 503 instead of an error page.
+
+### Upgrading a live site
+
+1. **Back up first:** `npm run backup` (safe while the server runs — see [Backups](#backups)).
+2. **Get the new version:** `git pull`.
+3. **Install packages:** `npm install && npm --prefix server install && npm --prefix client install`.
+   (`npm run setup` does this too, plus `fetch-media` and `import`, which are safe to run on a live
+   database — they never change what students added — but aren't needed just to upgrade.)
+4. **Build the website:** `npm run build`.
+5. **Restart the server** (your process manager, or stop `npm start` and start it again).
+
+The first start after an upgrade does the rest by itself, before it answers any request:
+
+- **Database migrations** run automatically and only add tables and columns — nothing students
+  added is rewritten. This release adds **migration v5** (the song catalog tables, the site's links to
+  the catalog, uploaded album art) and **v6** (where each catalog link came from, cast albums saved
+  from Apple and who saved them, rejected albums).
+- **The song catalog loads** from `server/seed/catalog/catalog.json.gz` (a few seconds; it then
+  links existing site shows and songs to it by title), and again whenever a later release ships a
+  changed file. See [Catalog data](#catalog-data-shows--songs-to-pick-from).
+- Festivals are filled in if the table is empty (see [Festivals](#festivals-choosing-a-location)).
+
+If something goes wrong, stop the server and restore the backup (below) together with the previous
+code (`git checkout <previous tag or commit>`, then install and build again). An older version
+ignores the added tables and columns, but a database that a newer version has migrated can't be
+"un-migrated" — restoring the backup is the clean way back.
 
 ### Backups
 
@@ -405,8 +572,11 @@ downloaded posters and album art, so it doesn't need a backup (`npm run fetch-me
 again). Everything else that matters is created on the website:
 
 - `server/data/star.db`: accounts, community songs and comments.
-- `server/uploads/`: uploaded audio and posters, and the album art and posters fetched from
-  Apple/Wikipedia for songs and shows added on the website.
+- `server/uploads/`: uploaded audio, posters and album art, and the album art and posters fetched
+  from Apple/Wikipedia for songs and shows added on the website.
+
+The song catalog comes from `server/seed/catalog/`, so it doesn't need a backup of its own (the
+cast-album track lists found on the website are in `star.db`).
 
 Back both up regularly, e.g. nightly with **`npm run backup`** (or `npm run backup -- /path/to/dir`).
 It's safe while the server is running: it makes a consistent copy of the database (no `sqlite3`
@@ -439,6 +609,7 @@ Files that no song or show uses any more (left behind by older versions) can be 
 npm test          # server tests (node --test + supertest) and client tests (vitest)
 npm run e2e       # Playwright end-to-end tests (builds the client and runs a production server)
 npm --prefix client run typecheck
+npm --prefix tools/catalog test   # the catalog builder's parser tests (offline, own packages)
 ```
 
 **End-to-end tests** (`playwright.config.ts`, `e2e/*.spec.ts`):
@@ -457,7 +628,10 @@ npm --prefix client run typecheck
   playwright install". The browser build matches the pinned `@playwright/test` version (1.63.0), so
   run the command again after that version changes.
 - Apple Music and Wikipedia lookups are mocked, and audio playback is stubbed, so once the browser
-  is installed the suite runs offline.
+  is installed the suite runs offline. The e2e server loads the small fixture catalog
+  (`server/test/fixtures/catalog.json.gz`, via `STAR_CATALOG_PATH`) instead of the full one.
+- `/add` opens "Find your song" (the catalog search); specs that type a song in by hand start at
+  `/add?manual=1` (e.g. `/add?manual=1&show=hadestown&kind=duet`).
 - Tests that compare the page with live song counts run first (project `read-only`). The tests that
   sign up, add songs and comment run after them (project `accounts-and-writes`).
 - Festivals: `e2e/festivals.spec.ts` (read-only: the "Where are you performing?" chips, header and
@@ -472,7 +646,13 @@ npm --prefix client run typecheck
 
 Useful scripts: `npm run import -- --reset`, `npm run fetch-media -- --dry-run`, `npm run enrich -- --dry-run`,
 `npm run make-admin -- someone@example.com`, `npm run backup`,
-`npm --prefix server run clean-uploads`.
+`npm --prefix server run clean-uploads`, `npm --prefix server run catalog:load`,
+`npm --prefix server run catalog:clear-recording -- --list`.
+
+Server tests use a small catalog in the real format, `server/test/fixtures/catalog.json.gz` (its
+readable source `catalog.json` sits next to it — regenerate the `.gz` with
+`gzip -9 -n -c catalog.json > catalog.json.gz` after editing, a test checks they match). Point a dev
+server at it with `STAR_CATALOG_PATH=server/test/fixtures/catalog.json.gz` to skip the full catalog.
 
 ---
 
@@ -501,5 +681,8 @@ license doesn't cover the third-party content below.
   downloaded from Apple at setup (not stored in this repository).
 - **Show descriptions** are original text written for this project.
 - **The song list** comes from the owner's STAR spreadsheet (`server/seed/star_spreadsheet.xlsx`).
+- **The show & song catalog** (`server/seed/catalog/`) is derived from English Wikipedia (song
+  lists and characters, **CC BY-SA 4.0** — the derived data is shared under the same licence) and
+  Wikidata (show facts, **CC0**). The site credits Wikipedia wherever it shows catalog song lists.
 - **"STAR", "STAR Fest" and TAEA** are the names of TAEA and its festivals. This is an independent
   fan project; it is not affiliated with or endorsed by TAEA.

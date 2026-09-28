@@ -1,0 +1,233 @@
+{{Infobox Musical
+| name = The Sound of Music
+| image = Musical1959-SoundOfMusic-OriginalPoster.png|
+| image_size = 250px
+| caption = Original Broadway poster (1959)
+| music = [[Richard Rodgers]]
+| lyrics = [[Oscar Hammerstein II]]
+| book = {{Plainlist|
+* [[Howard Lindsay]]
+* [[Russel Crouse]]
+}}
+| basis = {{based on|''[[The Story of the Trapp Family Singers]]''|[[Maria von Trapp]]}}
+| productions = {{Plain list|
+* 1959 [[Broadway theatre|Broadway]]
+* 1961 [[West End theatre|West End]]
+* 1981 West End [[revival (theatre)|revival]]
+* 1998 Broadway revival
+* 2006 West End revival
+* 2009 UK tour
+* 2015 North American tour
+* 2015 UK tour
+* 2025 North American tour
+
+}}
+| awards = [[Tony Award for Best Musical]]
+}}
+==History==
+==Synopsis==
+===Act I===
+===Act II===
+==Musical numbers==
+{{col-begin}}
+{{col-2}}
+
+;Act I
+* "Preludium"&nbsp;– Mother Abbess with Nuns
+* "[[The Sound of Music (song)|The Sound of Music]]"&nbsp;– Maria
+* "[[Maria (1959 song)|Maria]]"&nbsp;– Sister Berthe, Sister Sophia, Sister Margaretta, and the Mother Abbess
+* "[[My Favorite Things (song)|My Favorite Things]]"&nbsp;– Maria and the Mother Abbess
+* "My Favorite Things" (reprise 1)&nbsp;– Maria
+* "[[Do-Re-Mi]]"&nbsp;– Maria and the children
+* "[[Sixteen Going on Seventeen]]"&nbsp;– Rolf and Liesl
+* "[[The Lonely Goatherd]]"&nbsp;– Maria and the children
+* "The Lonely Goatherd" (reprise)&nbsp;– Gretl
+* "How Can Love Survive"&nbsp;– Max and Elsa
+* "The Sound of Music" (reprise)&nbsp;– Maria, the Captain and the children
+* "[[Ländler]]" (instrumental)
+* "[[So Long, Farewell]]"&nbsp;– The children
+* "Morning Hymn"&nbsp;– Nuns
+* "[[Climb Ev'ry Mountain]]"&nbsp;– Mother Abbess
+{{col-break}}
+
+;Act II
+* "My Favorite Things" (reprise 2)&nbsp;– Maria and the children
+* "[[No Way to Stop It]]"&nbsp;– Elsa, Max and the Captain
+* "An Ordinary Couple"&nbsp;– Maria and the Captain&nbsp;†
+* "Gaudeamus Domino"&nbsp;– Nuns
+* "Maria" (reprise)&nbsp;– Nuns
+* "Confitemini Domino"&nbsp;– Nuns
+* "Sixteen Going on Seventeen" (reprise)&nbsp;– Maria and Liesl
+* "Do-Re-Mi" (reprise)&nbsp;– Maria, the Captain, and the children&nbsp;‡
+* "[[Edelweiss (song)|Edelweiss]]"&nbsp;– The Captain
+* "So Long, Farewell" (reprise)&nbsp;– Maria, the Captain, and the children
+* "Finale Ultimo" (reprise of "Climb Every Mountain")&nbsp;– Nuns
+{{col-end}}
+
+;Notes
+* ''The musical numbers listed appeared in the original production unless otherwise noted.''
+* † Sometimes replaced by "Something Good", which was written for the [[The Sound of Music (film)|1965 film version]].
+* ‡ Replaced by "The Lonely Goatherd" in the 1998 revival.
+* In some productions, "My Favorite Things" follows "Sixteen Going on Seventeen" in the thunderstorm scene, while "The Lonely Goatherd" is shifted to the concert scene.
+* Many stage revivals have also included "I Have Confidence" and "Something Good", which were written by Richard Rodgers for the film version (since the film was made after original lyricist Oscar Hammerstein's death).
+* "[[Edelweiss (song)|Edelweiss]]" was written for the musical and did not become known in Austria until after the film's success.
+* The [[Ländler]] dance performed by Maria and the Captain during the party is only loosely based on the traditional Austrian dance of the same name.
+
+==Characters and casts==
+
+=== Characters ===
+* [[Maria von Trapp|Maria Rainer]], a [[postulant]] at [[Nonnberg Abbey]]
+* Captain [[Georg von Trapp]]
+* The Children:
+** Liesl von Trapp, age 16
+** Friedrich von Trapp, age 14
+** Louisa von Trapp, age 13
+** Kurt von Trapp, age 11
+** Brigitta von Trapp, age 10
+** Marta von Trapp, age 7
+** Gretl von Trapp, age 5
+* The Mother Abbess, the head of Nonnberg Abbey
+* Baroness Elsa Schraeder, Captain von Trapp's "wealthy and sophisticated" fiancée
+* Max Detweiler, Captain von Trapp's friend, a music agent and producer
+* Rolf Gruber, the 17-year-old Nazi delivery boy who is in love with Liesl
+* Sisters Berthe, Margaretta and Sophia, nuns at the Abbey
+* Franz, Captain von Trapp's butler
+* Frau Schmidt, Captain von Trapp's housekeeper
+* Herr Zeller, the [[Gauleiter]]
+* Admiral von Schreiber, of the German Navy
+* Ensemble of nuns, high-society neighbors of Captain von Trapp, Nazi soldiers and festival concert contestants
+
+=== Original casts ===
+{| class="wikitable"
+
+|-
+! rowspan=2 style="width:10%;" | Character
+! style="width:10%;" | Broadway
+! style="width:10%;" | West End
+! style="width:10%;" | West End revival
+! style="width:10%;" | Broadway revival
+! style="width:10%;" | West End revival
+
+|-
+! <small>1959</small>
+! <small>1961</small>
+! <small>1981</small>
+! <small>1998</small>
+! <small>2006</small>
+
+|-
+! Maria Rainer
+| style="text-align:center;" | [[Mary Martin]]
+| style="text-align:center;" | [[Jean Bayless]]
+| style="text-align:center;" | [[Petula Clark]]
+| style="text-align:center;" | [[Rebecca Luker]]
+| style="text-align:center;" | [[Connie Fisher]]
+
+|-
+! Captain Georg von Trapp
+| style="text-align:center;" | [[Theodore Bikel]]
+| style="text-align:center;" | Roger Dann
+| style="text-align:center;" | [[Michael Jayston]]
+| style="text-align:center;" | [[Michael Siberry]]
+| style="text-align:center;" | [[Alexander Hanson (actor)|Alexander Hanson]]
+
+|-
+! The Mother Abbess
+| style="text-align:center;" | [[Patricia Neway]]
+| style="text-align:center;" | [[Constance Shacklock]]
+| style="text-align:center;" | [[June Bronhill]]
+| style="text-align:center;" | [[Patti Cohenour]]
+| style="text-align:center;" | [[Lesley Garrett]]
+
+|-
+! Baroness Elsa Schraeder
+| style="text-align:center;" | [[Marion Marlowe]]
+| style="text-align:center;" | [[Eunice Gayson]]
+| style="text-align:center;" | [[Honor Blackman]]
+| style="text-align:center;" | [[Jan Maxwell]]
+| style="text-align:center;" | [[Lauren Ward]]
+
+|-
+! Max Detweiler
+| style="text-align:center;" | [[Kurt Kasznar]]
+| style="text-align:center;" | Harold Kasket
+| style="text-align:center;" | [[John Bennett (actor)|John Bennett]]
+| style="text-align:center;" | [[Fred Applegate (actor)|Fred Applegate]]
+| style="text-align:center;" | [[Ian Gelder]]
+
+|-
+! Liesl von Trapp
+| style="text-align:center;" | [[Lauri Peters]]
+| style="text-align:center;" | Barbara Brown
+| style="text-align:center;" | Claire Parker
+| style="text-align:center;" | Sara Zelle
+| style="text-align:center;" | [[Sophie Bould]]
+
+|-
+! Rolf Gruber
+| style="text-align:center;" | Brian Davies
+| style="text-align:center;" | Nicholas Bennett
+| style="text-align:center;" | Paul Shearstone
+| style="text-align:center;" | [[Dashiell Eaves]]
+| style="text-align:center;" | [[Neil McDermott]]
+
+|}
+
+=== Notable replacements ===
+;Broadway (1959–63)
+*'''Maria:''' [[Martha Wright (actress)|Martha Wright]], [[Jeannie Carson]], [[Nancy Dussault]]
+*'''Baroness:''' [[Lois Hunt]]
+*'''Max:''' [[Paul Lipson]]
+*'''Rolf:''' [[Jon Voight]]
+;Broadway (1998–99)
+*'''Maria:''' [[Laura Benanti]]
+*'''Captain von Trapp:''' [[Dennis Parlato]], [[Richard Chamberlain]]
+*'''Max:''' [[Patrick Quinn (actor)|Patrick Quinn]], [[Lenny Wolpe]]
+;West End (2006–09)
+*'''Maria:''' [[Summer Strallen]]
+*'''Captain von Trapp:''' [[Simon Burke]], [[Simon MacCorkindale]]
+*'''The Mother Abbess:''' [[Margaret Preece]]
+
+==Productions==
+===Original productions===
+===1981 West End revival===
+===1998 Broadway revival===
+===2006 West End revival===
+===2009 and 2015 UK tours===
+===2015 and 2025 North American tours===
+===Planned 2027 Broadway revival===
+===Other notable productions===
+====1960s to 2000====
+====21st century====
+==Film and television adaptations==
+==Reception==
+==Cast recordings==
+==Awards and nominations==
+===Original Broadway production===
+{|
+|-
+| links || [[Tony Awards]] [[Tony Award for Best Musical|Best Musical]] [[Tony Award for Best Actress in a Musical|Best Actress in a Musical]] [[Mary Martin]] [[Tony Award for Best Featured Actor in a Musical|Best Featured Actor in a Musical]] [[Theodore Bikel]] [[Kurt Kasznar]] [[Tony Award for Best Featured Actress in a Musical|Best Featured Actress in a Musical]] [[Patricia Neway]] [[Lauri Peters]] [[Tony Award for Best Direction of a Musical|Best Direction of a Musical]] [[Vincent J. Donehue]] [[Tony Award for Best Conductor and Musical Director|Best Conductor and Musical Director]] [[Tony Award for Best Scenic Design of a Musical|Best Scenic Design of a Musical]] [[Oliver Smith (designer)|Oliver Smith]] [[Theatre World Award]] [[Outer Critics Circle]] [[Constance Towers]]
+|}
+===1998 Broadway revival===
+{|
+|-
+| links || [[Tony Awards]] [[Tony Award for Best Revival of a Musical|Best Revival of a Musical]] [[Drama Desk Awards]] [[Drama Desk Award for Outstanding Orchestrations|Outstanding Orchestrations]] [[Bruce Coughlin]] [[Outer Critics Circle Awards]] [[Rebecca Luker]] [[Jan Maxwell]] [[Heidi Ettinger]] [[Drama League Awards]]
+|}
+==Notes==
+==References==
+==Further reading==
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+cast included [[Mary Martin]].
+starred [[Florence Henderson]].
+cast included [[Jean Bayless]].
+cast included [[Connie Fisher]].
+starred [[Lucy O'Byrne]].
+starring [[Jasmine Amy Rogers]].
+cast included [[June Bronhill]].
+played by [[Burke Moses]].
+starred [[Lourdes Robles]].
+cast included [[Amy Lehpamer]].
+starring [[Julie Andrews]].
+starred [[Kara Tointon]].

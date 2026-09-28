@@ -1475,6 +1475,9 @@
   .sd-hero-actions,
   .sd-hero-owner,
   .sd-manage,
+  .sd-media,
+  .sd-track-add,
+  .sd-add-art,
   .sd-similar,
   .sd-chatter {
     display: none !important;
@@ -1483,4 +1486,118 @@
   .sd-hero {
     background: none;
   }
+}
+
+/* ------------------------------------------------------------ owner media tools (SPEC §7c) */
+.sd-add-art {
+  position: absolute;
+  left: 50%;
+  bottom: -18px;
+  z-index: 4;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  min-height: var(--tap);
+  padding: 0.35rem 1rem;
+  transform: translateX(-50%);
+  border-radius: var(--radius-pill);
+  background: var(--primary);
+  color: var(--on-primary);
+  font-size: var(--step--1);
+  font-weight: 900;
+  white-space: nowrap;
+  text-decoration: none;
+  box-shadow: var(--shadow-md);
+  transition: transform var(--dur-fast) var(--ease-out);
+}
+
+.sd-add-art:hover {
+  color: var(--on-primary);
+  transform: translateX(-50%) translateY(-2px);
+}
+
+.sd-track-add {
+  color: inherit;
+  text-decoration: none;
+  border: 1.5px dashed var(--border-strong);
+  background: transparent;
+}
+
+.sd-track-add:hover {
+  border-color: var(--primary);
+  background: var(--primary-soft);
+}
+
+.sd-track-add .sd-track-title,
+.sd-track-add .sd-track-credit {
+  display: block;
+}
+
+.sd-track-icon.is-add {
+  background: var(--primary-soft);
+  color: var(--primary-text);
+}
+
+.sd-media-lede {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.sd-media-card {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-lg);
+  padding: clamp(0.5rem, 0.2rem + 1.5vw, 1rem);
+}
+
+.sd-media-block {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-sm);
+  min-width: 0;
+}
+
+.sd-media-block + .sd-media-block {
+  padding-top: var(--space-lg);
+  border-top: 1px dashed var(--border-strong);
+}
+
+.sd-recording {
+  padding-inline: clamp(0rem, 0.5vw, 0.25rem);
+}
+
+.sd-recording-current {
+  display: flex;
+  align-items: center;
+  gap: var(--space-md);
+  padding: var(--space-sm) var(--space-md);
+  border-radius: var(--radius-md);
+  background: var(--surface-2);
+  min-width: 0;
+}
+
+.sd-recording-current .rec-chosen-art {
+  width: 64px;
+}
+
+.sd-recording-text {
+  min-width: 0;
+}
+
+.sd-recording-name {
+  font-weight: 900;
+  color: var(--heading);
+  overflow-wrap: anywhere;
+}
+
+/* Wraps the picker so focus can land on it when it opens (min-width keeps the strip scrollable). */
+.sd-recording-picker {
+  min-width: 0;
+  border-radius: var(--radius-md);
+}
+
+.sd-recording-close {
+  align-self: flex-start;
+  margin-left: -0.5rem;
 }

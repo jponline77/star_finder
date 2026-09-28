@@ -1,0 +1,235 @@
+{{Infobox musical
+|name=Dreamgirls
+|image=DreamGirls_Playbill_300.JPG
+|caption=Cover for the second ''[[Playbill]]'' for ''Dreamgirls''
+|music=[[Henry Krieger]]
+|lyrics=[[Tom Eyen]]
+|book=Tom Eyen
+|basis=
+|productions={{plainlist|
+* 1981 [[Broadway theatre|Broadway]]
+* 1983 US tour
+* 1985 International tour
+* 1987 Broadway revival
+* 1997 US tour
+* 2001 Broadway concert
+* 2009 US tour
+* 2016 [[West End theatre|West End]]
+}}
+2022 UK tour
+
+|awards={{Plainlist}}
+*[[Tony Award for Best Book of a Musical|Tony Award for Best Book]]
+*[[Drama Desk Award for Outstanding Book of a Musical]]
+{{Endplainlist}}
+}}
+==Background==
+==Plot summary==
+===Act I: 1960s===
+===Act II: 1970s===
+==Casts of notable productions==
+
+{| class="wikitable" style="width:100;"
+|-
+! rowspan="2" | Character
+! Broadway
+! US Tour
+! Broadway Revival
+! Actors Fund Concert
+! US Tour
+! West End
+! UK Tour
+|-
+!<small>1981</small>
+!<small>1983</small>
+!<small>1987</small>
+!<small>2001</small>
+!<small>2009</small>
+!<small>2016</small>
+!<small>2021</small>
+|-
+! Effie Melody White
+|colspan='2' align=center|[[Jennifer Holliday]]
+|colspan='2' align=center|[[Lillias White]]
+| align=center|Moya Angela
+| align=center|[[Amber Riley]]
+| align=center|[[Nicole Raquel Dennis]]
+|-
+! Deena Jones
+| align=center|[[Sheryl Lee Ralph]]
+| align=center|Linda Leilani Brown
+| align=center|Alisa Gyse
+| align=center|[[Audra McDonald]]
+| align=center|[[Syesha Mercado]]
+| align=center|[[Liisi LaFontaine]]
+| align=center|[[Natalie Kassanga]]
+|-
+! Lorrell Robinson
+| align=center|[[Loretta Devine]]
+| colspan="2" align="center" |[[Arnetia Walker]]
+| align=center|[[Heather Headley]]
+| align=center|[[Adrienne Warren]]
+| align=center|[[Ibinabo Jack]]
+| align=center|Paige Peddie
+|-
+! Curtis Taylor Jr.
+| align=center|[[Ben Harney (actor)|Ben Harney]]
+| align=center|[[Larry Riley (actor)|Larry Riley]]
+| align=center|Weyman Thompson
+| align=center|[[Norm Lewis]]
+| align=center|[[Chaz Lamar Shepherd]]
+| align=center|Joe Aaron Reid
+| align=center|Dom Hartley-Harris 
+|-
+! James "Thunder" Early
+| align=center|[[Cleavant Derricks (actor)|Cleavant Derricks]]
+| align=center|[[Clinton Derricks-Carroll]]
+| align=center|Herbert L. Rawlings, Jr.
+| align=center|[[Billy Porter (entertainer)|Billy Porter]]
+| align=center|[[Chester Gregory]]
+| align=center|[[Adam J. Bernard]]
+| align=center|Brandon Lee Sears
+|-
+! C.C. White
+| align=center|[[Obba Babatundé]]
+| align=center|Lawrence Clayton
+| align=center|[[Kevyn Morrow]]
+| align=center|[[Darius de Haas]]
+| align=center|Trevon Davis
+| align=center|[[Tyrone Huntley]]
+| align=center|Shem Omari James
+|-
+! Michelle Morris
+|colspan='2' align=center|Deborah Burrell
+| align=center|Susan Beaubian
+| align=center|[[Tamara Tunie]]
+| align=center|Margaret Hoffman
+| align=center|[[Lily Frazer]]
+| align=center|Brianna Ogunbawo 
+|-
+! Marty Madison
+| align=center|[[Vondie Curtis-Hall]]
+| align=center|Weyman Thompson
+| align=center|Roy L. Jones
+| align=center|[[James Stovall]]
+| align=center|Milton Craig Nealy
+| align=center|Nicholas Bailey
+| align=center|Jo Servi 
+|-
+! Wayne
+| align=center|Tony Franklin
+| align=center|Maurice Felder
+| align=center|Milton Craig Nealy
+| align=center|Bobby Daye
+| align=center|Terrance Lemar Thomas
+| align=center|Rohan Richards
+| align=center|Lukas Hunt
+|}
+
+==Musical numbers==
+{{col-begin}}
+{{col-2}}
+
+'''''Act I'''''
+<br/>
+'''Scene 1: The Apollo Theater'''
+* "I'm Looking for Something" – The Stepp Sisters
+* "Goin' Downtown" – Little Albert and the Tru-Tones
+* "Takin' the Long Way Home" – Tiny Joe Dixon
+* "Move (You're Steppin' on My Heart)" – The Dreamettes
+* "Fake Your Way to the Top" – Jimmy Early, The Jimmy Early Band, and the Dreamettes
+* "Cadillac Car" – Curtis, Jimmy, C.C., Marty, and the Company
+'''Scene 2: On the Road'''
+* "Cadillac Car (Reprise)" – The Company
+'''Scene 3: A Recording Studio'''
+* "Cadillac Car (Second Reprise)" – The Company
+'''Scene 4: Limbo'''
+* "Cadillac Car (Third Reprise)" – Dave and the Sweethearts
+* "Steppin' to the Bad Side" – Curtis, C.C., Jimmy, Wayne, the Dreamettes, and the Company
+'''Scene 5: A Hotel in St. Louis'''
+* "Party, Party" – The Company
+'''Scene 6: Miami'''
+* "I Want You Baby" – Jimmy and the Dreamettes
+'''Scene 7: Dressing Room in the Atlantic Hotel'''
+* "Family" – C.C., Curtis, Jimmy, Deena, and Lorrell
+'''Scene 8: Cleveland'''
+* "Dreamgirls" – The Dreams
+* "Press Conference" – The Company
+* "Only the Beginning" – Curtis, Deena, and Effie
+'''Scene 9: A TV Studio'''
+* "Heavy" – The Dreams
+'''Scene 10: San Francisco'''
+* "Heavy (Reprise)" - The Dreams and Curtis
+'''Scene 11: Las Vegas (Backstage)'''
+* "Drivin' Down the Strip" – Jimmy
+* "It's All Over" – Curtis, Effie, Deena, Lorrell, C.C., Michelle, and Jimmy
+* "[[And I Am Telling You I'm Not Going]]" – Effie
+'''Scene 12: Las Vegas (On Stage)'''
+* "Love Love You Baby" – Deena Jones and the Dreams
+{{col-break}}
+
+'''''Act II'''''
+<br/>
+'''Scene 1: Las Vegas Hilton'''
+* "'Dreams' Medley" <sup>1</sup> – Deena Jones and the Dreams and the Company
+'''Scene 2: Chicago Nightclub'''
+* "[[I Am Changing]]" – Effie
+'''Scene 3: Vogue Magazine Photo Call'''
+* "One More Picture Please" – The Company
+* "When I First Saw You" – Curtis and Deena
+'''Scene 4: National Democratic Fundraiser'''
+* "Got to Be Good Times" – The Five Tuxedos
+* "Ain't No Party" – Lorrell and Jimmy
+* "I Meant You No Harm" – Jimmy
+* "Quintette" – Deena, Lorrell, C.C., and Michelle
+* "The Rap" – Jimmy, C.C., Marty, Curtis, Frank, Lorrell, and the Company
+'''Scene 5: A Chicago Recording Studio'''
+* "I Miss You Old Friend" – Effie, Marty, C.C., and Les Style
+* "[[One Night Only (song)|One Night Only]]" – Effie
+'''Scene 6: Los Angeles'''
+* "One Night Only (Reprise)" – Deena Jones and the Dreams and the Company
+'''Scene 7: Chicago'''
+* "I'm Somebody" – Deena Jones and the Dreams
+* "Faith in Myself" <sup>2</sup> – Effie
+'''Scene 8: New York'''
+* "Hard to Say Goodbye, My Love" <sup>3</sup> – Deena Jones and the Dreams
+{{col-end}}
+
+'''Notes'''
+* <sup>1</sup> "'Dreams' Medley" was the original Act II opening, a medley reprising the songs "Dreamgirls", "Move", "Love Love You Baby", "Family", "Heavy" and "Cadillac Car", performed by Deena Jones and the Dreams, as well as "Press Conference", performed by the Company. When the musical's national tour began in 1983, the Act II opening was changed to be a reprise of "Dreamgirls". With the new national tour in 2009, a new song, "What Love Can Do", replaced the Act II Opening; [[Willie Reale]], who had co- written a song for the film adaptation, wrote the song's lyrics, with Krieger composing the music. The 2016 West End production replaced the Act II opening with a full-length reprise of "Love Love You Baby" with new lyrics by Reale.
+* <sup>2</sup> [[Listen (Beyoncé song)|Listen]], a song originally written for the film adaptation, was modified for and added to the 2009 U.S. tour production of ''Dreamgirls'' as an [[11 o'clock number|11 o'clock]] duet between Deena and Effie, and replaced an unnamed number after "Faith in Myself". "Listen"'s lyrics was revised for the 2016 West End production. Music and lyrics by Henry Krieger, [[Scott Cutler]], [[Anne Preven]], [[Beyoncé]] and Willie Reale.
+* <sup>3</sup> This number is not the finale; the finale is a reprise of "Dreamgirls", which is not listed as a musical number.
+
+==Productions==
+===Broadway===
+===US tours===
+===2001 Actors Fund of America Concert===
+===West End===
+=== UK tour ===
+=== Planned Broadway revival ===
+==Awards and honors==
+===Original Broadway production===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Musical|Best Musical]] [[Tony Award for Best Book of a Musical|Best Book of a Musical]] [[Tom Eyen]] [[Tony Award for Best Original Score|Best Original Score]] [[Henry Krieger]] [[Tony Award for Best Performance by a Leading Actor in a Musical|Best Performance by a Leading Actor in a Musical]] [[Ben Harney (actor)|Ben Harney]] [[Tony Award for Best Performance by a Leading Actress in a Musical|Best Performance by a Leading Actress in a Musical]] [[Jennifer Holliday]] [[Sheryl Lee Ralph]] [[Tony Award for Best Performance by a Featured Actor in a Musical|Best Performance by a Featured Actor in a Musical]] [[Cleavant Derricks (actor)|Cleavant Derricks]] [[Obba Babatundé]] [[Tony Award for Best Direction of a Musical|Best Direction of a Musical]] [[Michael Bennett (theater)|Michael Bennett]] [[Tony Award for Best Choreography|Best Choreography]] [[Michael Peters (choreographer)|Michael Peters]] [[Tony Award for Best Scenic Design|Best Scenic Design]] [[Robin Wagner (designer)|Robin Wagner]] [[Tony Award for Best Costume Design|Best Costume Design]] [[Theoni V. Aldredge]] [[Tony Award for Best Lighting Design|Best Lighting Design]] [[Tharon Musser]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Musical|Outstanding Musical]] [[Drama Desk Award for Outstanding Book of a Musical|Outstanding Book of a Musical]] [[Drama Desk Award for Outstanding Actress in a Musical|Outstanding Actress in a Musical]] [[Drama Desk Award for Outstanding Featured Actor in a Musical|Outstanding Featured Actor in a Musical]] [[Drama Desk Award for Outstanding Director of a Musical|Outstanding Director of a Musical]] [[Drama Desk Award for Outstanding Lyrics|Outstanding Lyrics]] [[Drama Desk Award for Outstanding Set Design|Outstanding Set Design]] [[Drama Desk Award for Outstanding Costume Design|Outstanding Costume Design]] [[Drama Desk Award for Outstanding Lighting Design|Outstanding Lighting Design]] [[Grammy Award]] [[Grammy Award for Best Musical Show Album|Best Cast Show Album]] [[David Foster]] [[Grammy Award for Best Female R&B Vocal Performance|Best Female R&B Vocal Performance]] [[And I Am Telling You I'm Not Going]]
+|}
+===1987 Broadway revival===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Revival|Best Revival]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Revival|Outstanding Revival]] [[Drama Desk Award for Outstanding Featured Actor in a Musical|Outstanding Featured Actor in a Musical]]
+|}
+===Original West End production===
+{|
+|-
+| links || [[2017 Laurence Olivier Awards|Laurence Olivier Award]] [[Laurence Olivier Award for Best New Musical|Best New Musical]] [[Laurence Olivier Award for Best Actress in a Musical|Best Actress in a Musical]] [[Amber Riley]] [[Laurence Olivier Award for Best Actor in a Supporting Role in a Musical|Best Supporting Actor in a Musical]] [[Adam J. Bernard]] [[Laurence Olivier Award for Best Costume Design|Best Costume Design]] [[Gregg Barnes|Greg Barnes]] [[Laurence Olivier Award for Outstanding Achievement in Music|Outstanding Achievement in Music]] [[Henry Krieger]] [[Evening Standard Theatre Awards|Evening Standard Theatre Award]] [[Evening Standard Theatre Awards#Best Musical|Best Musical]] [[Evening Standard Theatre Awards#Best Musical Performance|Best Musical Performance]]
+|}
+==Film adaptation==
+==Similarities to The Supremes' story==
+==See also==
+==Notes==
+==References==
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+starred [[Sheryl Lee Ralph]].
+starring [[Lillias White]].

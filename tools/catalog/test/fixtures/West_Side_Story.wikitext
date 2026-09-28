@@ -1,0 +1,240 @@
+{{Infobox musical
+| name = West Side Story
+| image = West Side 001.jpg
+| caption = Original Broadway cast recording
+| music = [[Leonard Bernstein]]
+| lyrics = [[Stephen Sondheim]]
+| book = [[Arthur Laurents]] {{Infobox
+|decat=yes
+|child=yes
+|label1=Concept
+|data1={{Ubl|[[Jerome Robbins]]}}
+}}
+| basis = {{based on|''[[Romeo and Juliet]]''|[[William Shakespeare]]}}
+| productions = 1957 [[Washington, D.C.]]<br/>1957 [[Philadelphia]]<br/>1957 [[Broadway theatre|Broadway]]<br/>1958 [[West End theatre|West End]]<br/>1959 US tour<br/>1960 Broadway revival<br/>1964 Broadway revival<br/>1974 West End revival<br/>1980 Broadway revival<br/>1984 West End revival<br/>1985 US tour<br/>1995 US tour<br/>1998 West End revival<br/>2009 Broadway revival<br/>2010 US tour<br/>2020 Broadway revival
+
+}}
+==Background==
+===Genesis===
+===Collaboration and development===
+===Production period===
+==Synopsis==
+===Act 1===
+===Act 2===
+==Characters==
+
+{{col-begin}}
+'''The Jets'''
+*Riff, the leader
+*Tony, Riff's best friend
+*Diesel, Riff's (and later Action's) lieutenant
+*Action, who succeeds Riff as leader 
+*A-Rab, Baby John, Big Deal, Gee-Tar, Mouthpiece, Snowboy, Tiger and Anybodys
+
+'''The Jet Girls'''
+*Velma, Riff's girlfriend
+*Graziella, Diesel's girlfriend
+*Minnie, Clarice and Pauline
+
+'''The Sharks'''
+*Bernardo, the leader
+*Chino, Bernardo's best friend
+*Pepe, second-in-command
+*Indio, Luis, Anxious, Nibbles, Juano, Toro and Moose
+
+'''The Shark Girls'''
+*Maria, Bernardo's sister
+*Anita, Bernardo's girlfriend
+*Rosalia, Consuelo, Teresita, Francisca, Estella and Marguerita
+
+'''The Adults'''
+*Doc, owner of the local drugstore/soda shop
+*Schrank, racist local police lieutenant
+*Krupke, neighborhood cop and Schrank's right-hand man
+*Glad Hand, well-meaning social worker in charge of the dance
+
+{{col-end}}
+
+==Cast==
+{| class="wikitable" style="text-align:center;"
+|-
+! rowspan="2" | Character
+! Broadway
+! West End
+! Broadway Revival
+! Broadway Revival
+! Broadway Revival
+! Broadway Revival
+! Broadway Revival
+|-
+!<small>1957</small>
+!<small>1958</small>
+!<small>1960</small>
+!<small>1964</small>
+!<small>1980</small>
+!<small>2009</small>
+!<small>2020</small>
+|-
+! Tony
+| [[Larry Kert]]
+| [[Don McKay (actor)|Don McKay]]
+| [[Larry Kert]]
+| [[Don McKay (actor)|Don McKay]]
+| [[Kenneth Marshall|Ken Marshall]]
+| [[Matt Cavenaugh]]
+| [[Isaac Cole Powell]]
+|-
+! Maria
+| [[Carol Lawrence]]
+| Marlys Watters
+| [[Carol Lawrence]]
+| [[Julia Migenes]]
+| [[Josie de Guzman]]
+| [[Josefina Scaglione]]
+| Shereen Pimentel
+|-
+! Anita
+| colspan ="2" | [[Chita Rivera]]
+| [[Allyn Ann McLerie]]
+| [[Luba Lisa]]
+| [[Debbie Allen]]
+| [[Karen Olivo]]
+| Yesenia Ayala
+|-
+! Riff
+| [[Michael Callan]]
+| [[George Chakiris]]
+| Tom Hasson
+| James Moore
+| James J. Mellon
+| Cody Green
+| Dharon E. Jones
+|-
+! Bernardo
+| colspan="2" | Ken LeRoy
+| George Marcy
+| [[Jay Norman]]
+| Héctor Jaime Mercado
+| George Akram
+| [[Amar Ramasar]]
+|-
+! Lt. Schrank
+| [[Arch Johnson]]
+| colspan ="3" | Ted Gunther
+| Arch Johnson
+| Steve Bassett
+| [[Thomas Jay Ryan]]
+|-
+! Doc
+| [[Art Smith (actor)|Art Smith]]
+| [[David Bauer (actor)|David Bauer]]
+| [[Albert M. Ottenheimer]]
+| Harry Davis
+| Sammy Smith
+| Greg Vinkler
+| Daniel Oreskes
+|-
+! Krupke
+| [[William Bramley]]
+| Hal Galili
+| Roger Franklin
+| Frank Downing
+| [[John Bentley (actor)|John Bentley]]
+| Lee Sellars
+| Danny Wolohan
+|-
+|}
+
+==Musical numbers==
+{{col-begin}}
+{{col-2}}
+
+===Act 1===
+*"Prologue" – Orchestra, danced by Jets & Sharks
+*"Jet Song" – Riff & Jets
+*"[[Something's Coming (song)|Something's Coming]]" – Tony
+*"The Dance at the Gym" – Orchestra, danced by Jets & Sharks
+*"[[Maria (West Side Story song)|Maria]]" – Tony
+*"[[Tonight (West Side Story song)|Tonight]]" – Tony & Maria
+*"[[America (West Side Story song)|America]]" – Anita, Rosalia & Shark Girls
+*"[[Cool (West Side Story song)|Cool]]" – Riff & Jets
+*"[[One Hand, One Heart]]" – Tony & Maria
+*"[[Tonight Quintet|Tonight (Quintet & Chorus)]]" – Riff, Jets, Bernardo, Sharks, Anita, Tony & Maria
+*"The Rumble" – Orchestra, danced by Riff, Bernardo, Sharks & Jets
+{{col-break}}
+
+===Act 2===
+*"[[I Feel Pretty]]" – Maria, Rosalia, Teresita & Francisca
+*"[[Somewhere (song)|Somewhere]]" – Consuelo, danced by Company
+*"Procession and Nightmare" – Tony, Maria & Ensemble
+*"[[Gee, Officer Krupke]]" – Action, Snowboy & Jets
+*"[[A Boy Like That|A Boy Like That/I Have a Love]]" – Anita & Maria
+*"Finale" – Tony, Maria & Company
+{{col-end}}
+
+'''Notes'''
+*In the 1964 and 1980 revivals, "Somewhere" was sung by Francisca rather than Consuelo.
+*In the 2009 revival, "Cool" was performed by Riff, the Jets, and the Jet Girls. "I Feel Pretty" was sung in Spanish as "{{lang|es|Me siento hermosa}}" and "A Boy Like That" was sung in Spanish as "{{lang|es|Un hombre así}}". They were changed back to their English lyrics midway through the run. "Somewhere" was sung by Kiddo, a young Jet.
+
+==Productions==
+===Original Broadway production===
+===UK productions===
+===1980 Broadway revival===
+===2009 Broadway revival===
+===2020 Broadway revival===
+===Other notable US productions and tours===
+===International productions===
+===Planned productions===
+==Critical reaction==
+==Score==
+
+==Analysis of the book==
+==Recordings==
+=== Cast albums ===
+=== Film soundtracks ===
+=== Other albums ===
+==Films==
+===1961===
+===1979===
+===2021===
+==References in popular culture==
+==Awards and nominations==
+===Original Broadway production===
+{|
+|-
+| links || [[Theatre World Award]] [[Carol Lawrence]] [[12th Tony Awards|Tony Awards]] [[Tony Award for Best Musical|Best Musical]] [[Tony Award for Best Featured Actress in a Musical|Best Featured Actress in a Musical]] [[Tony Award for Best Choreography|Best Choreography]] [[Jerome Robbins]] [[Tony Award for Best Scenic Design|Best Scenic Design]] [[Oliver Smith (designer)|Oliver Smith]] [[Tony Award for Best Costume Design|Best Costume Design]] [[Tony Award for Best Conductor and Musical Director|Best Conductor and Musical Director]]
+|}
+===1964 Broadway revival===
+{|
+|-
+| links || [[18th Tony Awards|Tony Award]] [[Tony Award|Best Producer of a Musical]] [[New York City Center|City Center Light Opera Company]] [[Tony Award for Best Conductor and Musical Director|Best Conductor and Musical Director]] [[Charles Jaffe (conductor)|Charles Jaffe]]
+|}
+===1980 Broadway revival===
+{|
+|-
+| links || [[34th Tony Awards|Tony Award]] [[Tony Award for Best Revival|Best Revival]] [[Tony Award for Best Featured Actress in a Musical|Best Performance by an Actress in a Featured Role in a Musical]] [[Josie de Guzman]] [[Debbie Allen]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Featured Actress in a Musical|Outstanding Featured Actress in a Musical]]
+|}
+===2009 Broadway revival===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Revival of a Musical|Best Revival of a Musical]] [[Tony Award for Best Actress in a Musical|Best Performance by an Actress in a Lead Role in a Musical]] [[Josefina Scaglione]] [[Tony Award for Best Featured Actress in a Musical|Best Performance by an Actress in a Featured Role in a Musical]] [[Karen Olivo]] [[Tony Award for Best Lighting Design|Best Lighting Design]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Revival of a Musical|Outstanding Revival of a Musical]] [[Drama Desk Award for Outstanding Featured Actress in a Musical|Outstanding Featured Actress in a Musical]] [[Theatre World Award]]
+|}
+=== 2020 Broadway revival ===
+{|
+|-
+| links || [[Drama Desk Award]] [[Drama Desk Award for Outstanding Revival of a Musical|Outstanding Revival of a Musical]] [[Drama Desk Award for Outstanding Featured Actress in a Musical|Outstanding Featured Actress in a Musical]] [[Drama Desk Award for Outstanding Choreography|Outstanding Choreography]] [[Anne Teresa De Keersmaeker]] [[Drama Desk Award for Outstanding Orchestrations|Outstanding Orchestrations]] [[Drama Desk Award for Outstanding Projection Design|Outstanding Projection Design]] [[Drama Desk Award for Outstanding Sound Design in a Musical|Outstanding Sound Design in a Musical]]
+|}
+==References==
+===Sources===
+==Further reading==
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+starred [[Larry Kert]].
+starred [[Lionel Morton]].
+starred [[Steven Pacey]].
+starred [[David Habbin]].
+starring [[Jamie Muscato]].
+starred [[Kenneth Marshall|Ken Marshall]].
+starred [[Jack Wagner (actor)|Jack Wagner]].
+starring [[Tyley Ross]].

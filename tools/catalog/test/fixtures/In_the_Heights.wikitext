@@ -1,0 +1,238 @@
+{{Infobox musical
+| name = In the Heights
+| subtitle = 
+| image = In the Heights.jpg
+| caption = Broadway promotional poster
+| alt = 
+| music = [[Lin-Manuel Miranda]]
+| lyrics = Lin-Manuel Miranda
+| book = [[Quiara Alegría Hudes]] {{Infobox|decat=yes|child=yes|label1=Concept|data1={{Ubl|Lin-Manuel Miranda}}}}
+| premiere_date = July 23, 2005
+| premiere_location = [[Eugene O'Neill Theater Center]], [[Waterford, Connecticut]]
+| productions = 2005 [[Waterford, Connecticut|Waterford]] <br />2007 [[Off-Broadway]]<br />2008 [[Broadway theatre|Broadway]]<br />2009 US tour<br />2015 London
+| awards = [[Tony Award for Best Musical]] <br /> [[Tony Award for Best Original Score]] <br />[[Grammy Award for Best Musical Show Album]] <br /> [[Laurence Olivier Award for Outstanding Achievement in Music]] <br /> [[Obie Award]]
+| image_size = 
+}}
+==Synopsis {{Anchor|Plot}}==
+===Act 1===
+===Act 2===
+==Musical numbers==
+{{col-begin}}{{col-2}}
+
+;Act I
+* "In the Heights" – Usnavi, Kevin, Camila, Daniela, Carla, Sonny, Benny, Vanessa, Piragua Guy, Abuela Claudia and Company
+* "Breathe" – Nina, Piragua Guy, Cuca, and Company
+* "Benny's Dispatch" – Benny and Nina
+* "It Won't Be Long Now" – Vanessa, Usnavi, and Sonny
+* "Inútil <small>(Useless)</small>" – Kevin
+* "No Me Diga <small>(You Don't Say)</small>" – Daniela, Carla, Vanessa, and Nina
+* "96,000" – Usnavi, Benny, Sonny, Graffiti Pete, Daniela, Carla, Vanessa, and Company
+* "Paciencia y Fe <small>(Patience and Faith)</small>" – Abuela Claudia and Company
+* "When You're Home" – Nina, Benny, and Company
+* "Piragua" – Piragua Guy
+* "Siempre <small>(Always)</small>" – Camila and Bolero Singer †
+* "The Club" – Usnavi, Vanessa, Benny, Nina, and Company
+* "Blackout" – Usnavi, Benny, Sonny, Kevin, Vanessa, Nina, Graffiti Pete, Daniela, Carla, Abuela Claudia, and Company{{col-break}}
+
+;Act II
+* "Sunrise" – Nina, Benny, and Company
+* "Hundreds of Stories" – Abuela Claudia and Usnavi
+* "Enough" – Camila
+* "Carnaval del Barrio" – Daniela, Carla, Piragua Guy, Vanessa, Usnavi, Benny, Sonny, and Company
+* "Atención" – Kevin
+* "Alabanza"<small>(Praise)</small> – Usnavi, Nina, and Company
+* "Everything I Know" – Nina
+* "No Me Diga <small>(Reprise)</small>" – Daniela, Carla, and Vanessa †
+* "Piragua <small>(Reprise)</small>" – Piragua Guy
+* "Champagne" – Vanessa and Usnavi
+* "When the Sun Goes Down" – Nina and Benny
+* "Finale" – Usnavi, Bolero Singer, Daniela, Carla, Piragua Guy, Kevin, Camila, Vanessa, and Company{{col-end}}
+
+† Designates number not included on the original cast recording
+
+==Characters==
+* '''Usnavi de la Vega''' is the narrator of the musical's [[exposition (narrative)|exposition]] and a major character throughout; he is the owner of a small [[Bodega (store)|bodega]] in Washington Heights called De La Vega Bodega. He was originally played by [[Lin-Manuel Miranda]], songwriter of the musical. He was named after one of the first sights his parents saw when they arrived in America, a ship with the sign "[[United States Navy|US Navy]]" on it. Abuela Claudia, the neighborhood matriarch, "practically raised" him when his parents both died during his early childhood. He dreams of moving to the [[Dominican Republic]]. He is in love with Vanessa. 
+* '''Nina Rosario''' is an intelligent girl, the first in her family to go to college ([[Stanford University]]), and everyone in the [[barrio]] admires her as the "one who made it out." However, she returns home from school for the summer to reluctantly tell her parents that she has become overburdened and dropped out. She is the typical "good girl" and always got along with her parents. Upon arriving back home, though, she loses patience constantly over her father's overprotectiveness and his refusal to accept Benny, with whom she gets into a romantic relationship.
+* '''Benny''' works at the dispatch of Nina's father, Kevin. The only character in the play who does not speak [[Spanish language|Spanish]], Benny falls in love with Nina. He dreams of opening his own business.
+* '''Vanessa García''' is Usnavi's love interest who works at Daniela's salon. She is stunningly beautiful and catches the eye of every guy in the Heights; however, she takes interest in Usnavi. She lives with an alcoholic mother and dreams of getting out of the barrio and getting an apartment downtown but cannot yet afford it.
+* '''Abuela Claudia''' (“abuela" means "grandmother" in Spanish) is the loving matriarch of the barrio who is like a grandmother to all. She is the one who looked after Usnavi when his parents died. She and her mother moved from [[Cuba]] to New York in 1943 while she was a child. She worked as a maid for several years but never earned the money for her and her mother to travel home.
+* '''Sonny de la Vega''' is Usnavi's younger cousin who works with Usnavi in the bodega. He is a jokester, and has an intelligent and thoughtful side that yearns for [[social justice]].
+* '''Daniela''' is the owner of the salon where the neighborhood girls come to gossip. She is very bold and loud and loves to banter. 
+* '''Carla''' works at Daniela's salon along with Vanessa, and is Daniela's close friend; young and pretty, but a little slow to get the others' jokes and innuendos, she is of [[Chile]]an, [[Cuba]]n, [[Dominican Republic|Dominican]], and [[Puerto Rico|Puerto Rican]] descent.
+* '''Kevin Rosario''' is Nina's overprotective father, who, coming from a long line of farmers, has worked hard to resist following in his own father's footsteps. He now owns his own taxi cab service: Rosario's.
+* '''Camila Rosario''' is Nina's strong-willed mother, who wants what is best for Nina. She is typically tolerant of Kevin's control issues, but in the course of the show, reveals her real feelings.
+* '''Piragua Guy (Piragüero)''' is the owner of a small [[piragua (food)|piragua]] stand that competes with [[Mister Softee]].
+* '''Graffiti Pete''' is a [[graffiti]] artist. He is good friends with Sonny and is one of the few characters who acknowledge Sonny's dreams. Usnavi believes Pete is a trouble-making vandal (constantly referring to him as a 'punk'), until Pete reveals his amazing skills as an artist.
+* '''Cuca''' is a bold, fashionable, and full of attitude Washington Heights resident. She most notably has a small solo in the song "Breathe". The character was originally an unnamed background ensemble member, until Book writer [[Quiara Alegría Hudes]] gave her a name in honor of her original actress [[Doreen Montalvo]]'s involvement and commitment to the show both on and off-Broadway from 2007–2011.
+
+==Cast and characters{{Anchor|Cast}}==
+{| class="wikitable" width="100%"
+|-
+! rowspan=2|Character
+! Connecticut
+! Off-Broadway
+! Broadway
+! First US tour
+! West End
+! Kennedy Center
+|-
+!<small>2005</small>
+! <small>2007</small>
+! <small>2008</small>
+! <small>2009</small>
+! <small>2015</small>
+! <small>2018</small>
+|-
+! Usnavi De La Vega
+| align="center" | [[Javier Muñoz (actor)|Javier Muñoz]]
+| colspan="2" align="center"| [[Lin-Manuel Miranda]]
+| align="center"| Kyle Beltran
+| align="center" | Sam Mackay
+| align="center" | [[Anthony Ramos]]
+|-
+! Nina Rosario
+| align="center" | Natalie Cortez
+| colspan="2" align="center"| [[Mandy Gonzalez]]
+| align="center"| [[Arielle Jacobs]]
+| align="center"| [[Lily Frazer]]
+| align="center" | [[Ana Villafañe]]
+|-
+! Benny
+| colspan="3" align="center"|[[Christopher Jackson (actor)|Christopher Jackson]]
+| align="center"| Rogelio Douglas Jr.
+| align="center"| Joe Aaron Reid
+| align="center" | J. Quinton Johnson
+|-
+! Vanessa
+| align="center" | Sheena Marie Ortiz
+| colspan="2" align="center"| [[Karen Olivo]]
+| align="center"| [[Yvette González-Nacer]]
+| align="center"| [[Jade Ewen]]
+| align="center" | [[Vanessa Hudgens]]
+|-
+! Abuela Claudia
+| align="center" |[[Doreen Montalvo]]
+| colspan="2" align="center" | [[Olga Merediz]]
+| align="center" | Elise Santora
+| align="center" | [[Eve Polycarpou]]
+| align="center" | [[Saundra Santiago]]
+|-
+! Kevin Rosario
+| align="center" | Rick Negron
+| align="center" | John Herrera
+| align="center" | [[Carlos Gomez (American actor)|Carlos Gómez]]
+| align="center" | Danny Bolero
+| align="center" | [[David Bedella]]
+| align="center" | Rick Negron
+|-
+! Camila Rosario
+| align="center" | Nancy Ticotin
+| colspan="2" align="center" | [[Priscilla Lopez]]
+| align="center" | [[Natalie Toro (actress)|Natalie Toro]]
+| align="center" | Josie Benson
+| align="center" | Blanca Camacho
+|-
+! Sonny
+| colspan="3" align="center" | [[Robin de Jesús]]
+| align="center" | [[Shaun Taylor-Corbett]]
+| align="center" | [[Cleve September]]
+| align="center" | Mateo Ferro
+|-
+! Daniela
+| align="center" |  Monica Salazar
+| colspan="2" align="center" | [[Andréa Burns]]
+| align="center" |  Isabel Santiago
+| align="center" | [[Victoria Hamilton-Barritt]]
+| align="center" | [[Eden Espinosa]]
+|-
+! Carla
+| colspan="3" align="center"|[[Janet Dacal]]
+| align="center" | Genny Lis Padilla
+| align="center" | [[Sarah Naudi]]
+| align="center" | Arianna Rosario
+|-
+! Graffiti Pete
+| rowspan="2" align="center" | Matt Saldivar
+| colspan="2" align="center" | [[Seth Stewart]]
+| align="center" | Jose-Luis Lopez
+| align="center" | Antoine Murray-Straughan
+| align="center" | Virgil Gadson
+|-
+! Piragua Guy (Piragüero)
+| colspan="2" align="center" | Eliseo Román
+| align="center" | David Baida
+| align="center" | Vas Constanti
+| align="center" | Eliseo Roman
+|-
+|}
+
+===Notable Broadway replacements===
+* Usnavi – [[Javier Muñoz (actor)|Javier Muñoz]], [[Corbin Bleu]]
+* Nina – [[Janet Dacal]], [[Jordin Sparks]], [[Arielle Jacobs]]
+* Vanessa – [[Marcy Harriell]]
+* Daniela – [[Justina Machado]], [[Bianca Marroquín]]
+* Sonny – [[David Del Rio]], [[Jon Rua]]
+* Carla – [[Gabrielle Ruiz]]
+* Graffiti Pete – [[Jon Rua]]
+
+===Notable US tour replacements===
+*Usnavi – [[Lin-Manuel Miranda]], [[Joseph Morales]]
+*Benny – [[Nicholas Christopher (actor)|Nicholas Christopher]]
+*Vanessa – [[Lexi Lawson]]
+
+===Notable West End replacements===
+* Vanessa – [[Christine Allado]]
+* Daniela – [[Aimie Atkinson]]
+
+==Background==
+==Productions==
+===Connecticut (2005) and off-Broadway (2007) tryouts===
+===Broadway (2008–2011)===
+===North American tour (2009–2011)===
+===Manila, Philippines (2011)===
+===Non-Equity US tour (2011–2012)===
+===Panama City, Panama (2013) and São Paulo, Brazil (2014)===
+===Off-West End, United Kingdom (2014)===
+===Tokyo, Japan (2014)===
+===Melbourne, Australia (2015)===
+===London return (2015–2017)===
+===Vancouver, Canada and Seoul, South Korea (2015)===
+===Lima, Peru (2016)===
+===Lohne, Germany (2016)===
+===US Spanish Premiere (2017)===
+===Nyborg, Denmark (2018)===
+===Saltillo, Mexico (2019)===
+=== New Orleans, Louisiana, U.S.A., Regional Premiere (October 7–16, 2022) ===
+=== Koszalin, Poland (2022) ===
+=== Australian return (2024–2025) ===
+=== Off-Broadway revival (2026) ===
+==Awards and nominations==
+===Original Off-Broadway production===
+{|
+|-
+| links || [[Drama Desk Award]] [[Drama Desk Award for Outstanding Musical|Outstanding Musical]] [[Drama Desk Award|Outstanding Ensemble Performance]] [[Drama Desk Award for Outstanding Director of a Musical|Outstanding Director of a Musical]] [[Thomas Kail]] [[Drama Desk Award for Outstanding Choreography|Outstanding Choreography]] [[Andy Blankenbuehler]] [[Drama Desk Award for Outstanding Music|Outstanding Music]] [[Lin-Manuel Miranda]] [[Drama Desk Award for Outstanding Lyrics|Outstanding Lyrics]] [[Drama Desk Award for Outstanding Orchestrations|Outstanding Orchestrations]] [[Alex Lacamoire]] [[Bill Sherman (composer)|Bill Sherman]] [[Drama Desk Award for Outstanding Set Design|Outstanding Set Design]] [[Anna Louizos]] [[Drama Desk Award for Outstanding Sound Design|Outstanding Sound Design]] [[Clarence Derwent Award]]
+|}
+===Original Broadway production===
+{|
+|-
+| links || [[62nd Tony Awards|Tony Award]] [[Tony Award for Best Musical|Best Musical]] [[Tony Award for Best Book of a Musical|Best Book of a Musical]] [[Quiara Alegría Hudes]] [[Tony Award for Best Original Score|Best Original Score]] [[Lin-Manuel Miranda]] [[Tony Award for Best Actor in a Musical|Best Actor in a Musical]] [[Tony Award for Best Featured Actor in a Musical|Best Featured Actor in a Musical]] [[Robin de Jesús]] [[Tony Award for Best Featured Actress in a Musical|Best Featured Actress in a Musical]] [[Olga Merediz]] [[Tony Award for Best Direction of a Musical|Best Direction of a Musical]] [[Thomas Kail]] [[Tony Award for Best Choreography|Best Choreography]] [[Andy Blankenbuehler]] [[Tony Award for Best Orchestrations|Best Orchestrations]] [[Alex Lacamoire]] [[Bill Sherman (composer)|Bill Sherman]] [[Tony Award for Best Scenic Design|Best Scenic Design]] [[Anna Louizos]] [[Tony Award for Best Costume Design|Best Costume Design]] [[Paul Tazewell]] [[Tony Award for Best Lighting Design|Best Lighting Design]] [[Howell Binkley]] [[Tony Award for Best Sound Design|Best Sound Design]] [[Grammy Award]] [[Grammy Award for Best Musical Show Album|Best Musical Show Album]] [[Pulitzer Prize for Drama]]
+|}
+===Original West End production===
+{|
+|-
+| links || [[Laurence Olivier Awards]] [[Laurence Olivier Award for Best New Musical|Best New Musical]] [[Laurence Olivier Award for Best Actor in a Supporting Role in a Musical|Best Actor in a Supporting Role in a Musical]] [[David Bedella]] [[Laurence Olivier Award for Best Theatre Choreographer|Best Theatre Choreographer]] [[Laurence Olivier Award for Outstanding Achievement in Music|Outstanding Achievement in Music]] [[Lin-Manuel Miranda]] [[WhatsOnStage Awards]] [[Lily Frazer]] [[Victoria Hamilton-Barritt]]
+|}
+==Reception==
+==Documentary==
+==Film adaptation==
+==See also==
+==References==
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+played by [[Lin-Manuel Miranda]].
+cast featured Natalie Cortez, Janet Dacal, Robin de Jesús, Huey Dunbar, [[Christopher Jackson (actor)|Christopher Jackson]], [[Doreen Montalvo]], [[Javier Muñoz (actor)|Javier Muñoz]].
+cast included [[Lin-Manuel Miranda]].
+cast included [[Lin-Manuel Miranda]], [[Arielle Jacobs]], [[Marcy Harriell]], [[Shaun Taylor-Corbett]], [[Olga Merediz]], [[Andréa Burns]], [[Christopher Jackson (actor)|Christopher Jackson]], [[Priscilla Lopez]], [[Jon Rua]].
+starred [[Joseph Morales]].
+cast featured Sam Mackay as Usnavi, [[Christina Modestou]], [[David Bedella]], [[Victoria Hamilton-Barritt]], [[Gabriella Slade]].

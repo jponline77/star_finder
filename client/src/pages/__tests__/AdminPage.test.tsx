@@ -224,6 +224,49 @@ describe('AdminPage → Festivals (SPEC §7b)', () => {
     expect(screen.getByTestId('festivals-panel')).toHaveTextContent('10 festivals · 1 hidden');
   });
 
+  it('Cast albums: lists what users saved for catalog shows and removes one (rejected unless "let it be found again")', async () => {
+    const shows = [
+      { id: 6, key: 'Q1', title: 'Come From Away', year: 2013, castAlbum: { collectionId: 900, collectionName: 'Come From Away (Original Broadway Cast Recording)' }, recordingSongs: 17, savedAt: '2026-09-20T10:00:00.000Z', savedBy: { id: 2, displayName: 'Belter Bea' }, retired: false },
+      { id: 7, key: 'Q2', title: 'Death Becomes Her', year: 2023, castAlbum: { collectionId: 901, collectionName: 'Death Becomes Her' }, recordingSongs: 0, savedAt: null, savedBy: null, retired: false },
+    ];
+    const deletes: string[] = [];
+    const fn = stubApi(
+      baseRoutes({
+        'GET /api/admin/catalog/recordings': () => ({ body: { shows } }),
+        'DELETE /api/admin/catalog/shows/': (_init, url) => {
+          deletes.push(url);
+          return { body: { removedSongs: url.includes('/6/') ? 17 : 0, rejectedCollectionId: null } };
+        },
+      }),
+    );
+    renderWithProviders(<AdminPage />, { route: '/admin', path: '/admin', user: adminUser });
+    await screen.findByTestId('users-table');
+    expect(fn.mock.calls.some(([u]) => String(u).startsWith('/api/admin/catalog'))).toBe(false); // only when the tab opens
+    fireEvent.click(screen.getByTestId('admin-tab-recordings'));
+    const items = await screen.findAllByTestId('admin-recording');
+    expect(items).toHaveLength(2);
+    expect(items[0]).toHaveTextContent('Come From Away (2013)');
+    expect(items[0]).toHaveTextContent('17 songs from its track list');
+    expect(items[0]).toHaveTextContent('by Belter Bea');
+    expect(within(items[0]!).getByRole('link', { name: 'Come From Away' })).toHaveAttribute('href', '/add?catalogShow=6');
+    expect(items[1]).toHaveTextContent('album only');
+
+    fireEvent.click(within(items[0]!).getByTestId('admin-remove-recording'));
+    const dialog = await screen.findByTestId('confirm-remove-recording');
+    expect(dialog).toHaveTextContent('Its 17 songs from the track list disappear');
+    fireEvent.click(within(dialog).getByRole('button', { name: 'Remove' }));
+    await waitFor(() => expect(screen.getAllByTestId('admin-recording')).toHaveLength(1));
+    expect(deletes[0]).toBe('/api/admin/catalog/shows/6/recording');
+
+    fireEvent.click(screen.getByTestId('admin-remove-recording'));
+    const dialog2 = await screen.findByTestId('confirm-remove-recording');
+    fireEvent.click(within(dialog2).getByTestId('recording-allow-again'));
+    fireEvent.click(within(dialog2).getByRole('button', { name: 'Remove' }));
+    await waitFor(() => expect(screen.queryAllByTestId('admin-recording')).toHaveLength(0));
+    expect(deletes[1]).toBe('/api/admin/catalog/shows/7/recording?reject=0');
+    expect(await screen.findByText('No cast albums saved yet')).toBeInTheDocument();
+  });
+
   it('does not load festivals until their tab is opened', async () => {
     const fn = stubApi(festivalRoutes());
     renderWithProviders(<AdminPage />, { route: '/admin', path: '/admin', user: adminUser });

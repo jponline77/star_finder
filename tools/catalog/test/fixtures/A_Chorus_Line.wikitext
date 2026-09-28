@@ -1,0 +1,238 @@
+{{Infobox musical
+| name = A Chorus Line
+| image = A Chorus Line cover.jpg
+| caption = Original Broadway windowcard
+| music = [[Marvin Hamlisch]]
+| lyrics = [[Edward Kleban]]
+| book = [[James Kirkwood Jr.]]<br />[[Nicholas Dante]]
+| basis = 
+| productions = 1975 [[Off-Broadway]]<br />1975 [[Broadway theatre|Broadway]]<br />1976 North American tour<br />1976 US tour<br />1976 [[West End theatre|West End]]<br />1990 US tour<br />1996 North American tour<br />2006 Broadway revival<br />2008 North American tour<br />2013 West End revival
+| awards = [[Tony Award for Best Musical]]<br />[[Tony Award for Best Book of a Musical]]<br />[[Tony Award for Best Original Score]]<br /> [[Pulitzer Prize for Drama]]<br />[[Laurence Olivier Award for Best New Musical|Olivier Award for Best Musical]]<br/> [[Drama Desk Award for Outstanding Musical]] <br>[[Helpmann Award for Best Musical]]
+| image_size = 
+}}
+==Synopsis==
+==Musical numbers==
+* "[[I Hope I Get It]]" – Company
+* "[[I Can Do That (A Chorus Line song)|I Can Do That]]" – Mike
+* "And..." – Bobby, Richie, Val, and Judy
+* "[[At the Ballet]]" – Sheila, Bebe, and Maggie
+* "[[Sing! (song)|Sing!]]" – Kristine, Al, and Company
+* "Montage Part 1: [[Hello Twelve, Hello Thirteen, Hello Love]]" – Mark, Connie, and Company
+* "Montage Part 2: [[Nothing (A Chorus Line song)|Nothing]]" – Diana
+* "Montage Part 3: Mother" – Don, Judy, Maggie, and Company
+* "Montage Part 4: Gimme the Ball" – Greg, Richie, and Company
+* "Dance: Ten; Looks: Three" – Val
+* "The Music and the Mirror" – Cassie
+* "[[One (A Chorus Line song)|One]]" – Company
+* "The Tap Combination" – Company
+* "[[What I Did for Love (A Chorus Line)|What I Did for Love]]" – Diana and Company 
+* "One (Reprise)/Finale" – Company
+
+===Original cast album===
+
+====Charts====
+{| class="wikitable"
+!Chart (1977)
+!Position
+|-
+|Australia ([[Kent Music Report]])
+|align="center"|47
+|}
+
+==Notable casts==
+{| class="wikitable" style="text-align: center;"
+! rowspan="2" scope="col" | Character
+! scope="col"| Off-Broadway
+! scope="col"| Broadway
+! scope="col"| U.S. Tour
+! scope="col"| International Tour
+! scope="col"| West End
+! scope="col"| Broadway Revival
+! scope="col"| U.S. Tour
+! scope="col"| West End Revival
+|-
+! colspan="2" |<small>1975</small>
+! colspan="3" |<small>1976</small>
+!<small>2006</small>
+!<small>2005</small>
+!<small>2013</small>
+|-
+!scope="row"| Zach
+|colspan="3"| [[Robert LuPone]]
+|colspan="2"| Eivind Harum
+|[[Michael Berresse]]
+|[[Michael Gruber (actor)|Michael Gruber]]
+|[[John Partridge (actor)|John Partridge]]
+|-
+!scope="row"| Larry
+|colspan="2"| [[Clive Clerk]]
+|Roy Smith
+|colspan="2"| T. Michael Reed
+|[[Tyler Hanes]]
+|John Carroll
+|Alastair Postlethwaite 
+|-
+!scope="row"| Don Kerr (#5)
+|colspan="3"| Ron Kuhlman
+|colspan="2"| Ronald Young
+|Brad Anderson
+|Derek Hanson
+|[[Gary Watson]]
+|-
+!scope="row"| Maggie Winslow (#9)
+|colspan="3"| Kay Cole
+|colspan="2"| Jean Fraser
+|[[Mara Davi]] 
+|Hollie Howard
+|[[Vicki Lee Taylor]]
+|-
+! scope="row"| Mike Costa (#81)
+|colspan="2"| [[Wayne Cilento]]
+|[[Don Correia]]
+|colspan="2"| [[Jeff Hyslop]]
+|Jeffrey Schecter
+|[[Clyde Alves]]
+|Adam Salter
+|-
+!scope="row"| Connie Wong (#149)
+|colspan="3"| [[Baayork Lee]]
+|colspan="2"| Jennifer Ann Lee
+|Yuka Takara
+|Jessica Wu
+|Alexzandra Sarmiento
+|-
+!scope="row"| Greg Gardner (#67)
+|colspan="3"| Michel Stuart
+|Andy Keyser
+|Mark Dovey
+|Michael Paternostro
+|Denis Lambert
+|Andy Rees
+|-
+!scope="row"| Cassie Ferguson
+|colspan="3"| [[Donna McKechnie]]
+|colspan="2"| Sandy Roveta
+|[[Charlotte d'Amboise|Charlotte d’Amboise]]
+|[[Nikki Snelson]]
+|[[Scarlett Strallen]]
+|-
+!scope="row"| Sheila Bryant (#152)
+|colspan="2"| [[Kelly Bishop]]
+|Charlene Ryan
+|colspan="2"| [[Jane Summerhays]]
+|[[Deidre Goodwin]]
+|Emily Fletcher
+|[[Leigh Zimmerman]]
+|-
+!scope="row"|Bobby Mills (#84)
+|colspan="2"|[[Thommie Walsh|Thomas J. Walsh]]
+|Scott Pearson
+|colspan="2"|Ron Kurowski
+|Ken Alan
+|Ian Liberto
+|Ed Currie
+|-
+!scope="row"|Bebe Benzenheimer (#37)
+|colspan="3"|Nancy Lane
+|colspan="2"|Miriam Welch
+|[[Alisan Porter]]
+|Pilar Millhollen
+|Daisy Maywood
+|-
+!scope="row"|Judy Turner (#23)
+|colspan="3"|Patricia Garland
+|colspan="2"|Yvette Mathews
+|[[Heather Parcells]]
+|Stephanie Gibson
+|Lucy Adcock
+|-
+!scope="row"|Richie Walters (#44)
+|colspan="3"|Ronald Dennis
+|colspan="2"|A. Wellington Perkins
+|[[James T. Lane]]
+|Anthony Wayne
+|[[James T. Lane]]
+|-
+!scope="row"|Al DeLuca (#17)
+|colspan="3"|Don Percassi
+|colspan="2"|Steve Baumann
+|[[Tony Yazbeck]]
+|Colt Prattes
+|Simon Hardwick
+|-
+!scope="row"|Kristine Urich-DeLuca (#10)
+|colspan="3"|Renee Baughman
+|colspan="2"|Christine Barker
+|[[Chryssie Whitehead]]
+|Jessica Latshaw
+|Frances Dee
+|-
+!scope="row"|Val Clark (#179)
+|colspan="3"|[[Pamela Blair]]
+|colspan="2"|Mitzi Hamilton
+|[[Jessica Lee Goldyn]]
+|[[Natalie Hall]]
+|Rebecca Herszenhon
+|-
+!scope="row"|Mark Anthony (#63)
+|colspan="2"|Cameron Mason
+|Paul Charles
+|colspan="2"|[[Timothy Scott (actor, born 1955)|Tim Scott]]
+|[[Paul McGill (actor)|Paul McGill]]
+|[[Jay Armstrong Johnson]]
+|Harry Francis
+|-
+!scope="row"|Paul San Marco (#45)
+|colspan="3"|[[Sammy Williams]]
+|colspan="2"|Tommy Aguilar
+|[[Jason Tam]]
+|[[Kevin Santos (actor)|Kevin Santos]]
+|Gary Wood
+|-
+!scope="row"|Diana Morales (#2)
+|colspan="3"|[[Priscilla Lopez]]
+|colspan="2"|Loida Iglesias
+|Natalie Cortez
+|[[Gabrielle Ruiz]]
+|[[Victoria Hamilton-Barritt]]
+|}
+
+==Production history==
+===Original production===
+===Subsequent productions===
+==Awards and nominations==
+===Original Broadway production===
+{|
+|-
+| links || [[30th Tony Awards|Tony Award]] [[Tony Award for Best Musical|Best Musical]] [[Tony Award for Best Book of a Musical|Best Book of a Musical]] [[James Kirkwood Jr.]] [[Nicholas Dante]] [[Tony Award for Best Performance by a Leading Actress in a Musical|Best Performance by a Leading Actress in a Musical]] [[Donna McKechnie]] [[Tony Award for Best Performance by a Featured Actor in a Musical|Best Performance by a Featured Actor in a Musical]] [[Sammy Williams]] [[Robert LuPone]] [[Tony Award for Best Performance by a Featured Actress in a Musical|Best Performance by a Featured Actress in a Musical]] [[Kelly Bishop]] [[Priscilla Lopez]] [[Tony Award for Best Original Score|Best Original Score]] [[Marvin Hamlisch]] [[Edward Kleban]] [[Tony Award for Best Direction of a Musical|Best Direction of a Musical]] [[Michael Bennett (theater)|Michael Bennett]] [[Tony Award for Best Choreography|Best Choreography]] [[Bob Avian]] [[Tony Award for Best Costume Design|Best Costume Design]] [[Theoni V. Aldredge]] [[Tony Award for Best Lighting Design|Best Lighting Design]] [[Tharon Musser]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Musical|Outstanding Musical]] [[Drama Desk Award for Outstanding Book of a Musical|Book of a Musical]] [[Drama Desk Award for Outstanding Actress in a Musical|Outstanding Actress in a Musical]] [[Drama Desk Award for Outstanding Director of a Musical|Outstanding Director of a Musical]] [[Drama Desk Award for Outstanding Choreography|Outstanding Choreography]] [[Drama Desk Award for Outstanding Music|Outstanding Music]] [[Drama Desk Award for Outstanding Lyrics|Outstanding Lyrics]] [[Pulitzer Prize for Drama]] [[Theatre World Award]] [[New York Drama Critics' Circle|New York Drama Critics' Circle Award]] [[Columbia Records]] [[Tony Award]] [[Special Tony Award|Longest-running Broadway musical]]
+|}
+===Original London production===
+{|
+|-
+| links || [[Laurence Olivier Award]] [[Laurence Olivier Award for Best New Musical|Best New Musical]] [[Evening Standard Theatre Awards|Evening Standard Theatre Award]]
+|}
+===2006 Broadway revival===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Revival of a Musical|Best Revival of a Musical]] [[Tony Award for Best Performance by a Featured Actress in a Musical|Best Performance by a Featured Actress in a Musical]] [[Charlotte d'Amboise]]
+|}
+===2012 Australian  revival===
+{|
+|-
+| links || [[Helpmann Award]] [[Helpmann Award for Best Musical|Best Musical]] [[Helpmann Award for Best Female Actor in a Musical|Best Actress in a Musical]] [[Anita Louise Combe]]
+|}
+===2013 London revival===
+{|
+|-
+| links || [[Laurence Olivier Award]] [[Laurence Olivier Award for Best Musical Revival|Best Musical Revival]] [[Laurence Olivier Award for Best Performance in a Supporting Role in a Musical|Best Performance in a Supporting Role in a Musical]] [[Leigh Zimmerman]]
+|}
+== Film adaptation ==
+== See also ==
+==Notes==
+==References==
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+cast included [[Paul McGill (actor)|Paul McGill]].
+cast included [[Sabrina Bryan]].
+starring [[Michael Douglas]].

@@ -1,0 +1,289 @@
+{{Infobox musical
+|name         = Love Never Dies
+|subtitle     = The Phantom Returns
+|image        = Love Never Dies (musical) logo.jpg
+|music        = [[Andrew Lloyd Webber]]
+|lyrics       = [[Glenn Slater]]<br>Additional lyrics:
+[[Charles Hart (lyricist)|Charles Hart]] 
+|book         = Andrew Lloyd Webber<br>[[Ben Elton]]<br>[[Frederick Forsyth]]<br>Glenn Slater
+|basis        = ''[[The Phantom of Manhattan]]''<br>by Frederick Forsyth<br>Characters by [[Gaston Leroux]]
+|productions  = 2010 [[West End theatre|West End]]<br>2011 [[Melbourne]]<br>2012 [[Copenhagen]]<br>2013 [[Vienna]]<br>2014 [[Tokyo]]<br>2015 [[Hamburg]]<br>2017 U.S. Tour<br>2019 Tokyo<br>2023 West End Concert<br>2023 China Tour
+}}
+==Background==
+==Score==
+{{See also|Burlesque#In_music}}
+
+==Productions==
+===West End (2010–2011)===
+===Australia (2011–2012)===
+===Copenhagen (2012–2013)===
+===Vienna (2013)===
+===Tokyo (2014)===
+=== Hamburg (2015-2016) ===
+=== U.S. national tour (2017-2018) ===
+=== Tokyo (2019) ===
+=== World Tour (2021) ===
+=== West End Concerts (2023; 2026) ===
+=== Tokyo (2025) ===
+==Synopsis (original London version)==
+===Act I===
+===Act II===
+==Synopsis (2011 Australian version)==
+===Act I===
+===Act II===
+==Characters and original cast==
+
+{| class="wikitable" width="90%"
+|-
+! rowspan=2|Character
+! Original West End Production 
+! Final West End Cast
+! Original Australian Production
+! Original North American Tour
+! West End Concert
+! China Tour
+|-
+!2010
+!colspan=2|2011
+!2017
+!colspan=2|2023
+|-
+! [[Erik (The Phantom of the Opera)|The Phantom of the Opera]]
+| align="center"| [[Ramin Karimloo]]
+| align="center"| [[Ramin Karimloo]]<hr />[[Tam Mutu]]
+| align="center"| [[Ben Lewis (Australian actor)|Ben Lewis]]
+| align="center"| [[Garðar Thór Cortes]]<hr />Bronson Norris Murphy
+| align="center"| [[Norm Lewis]]
+| align="center"| Luke McCall<hr>John Ellis
+|-
+! [[Christine Daaé]]
+| align="center"| [[Sierra Boggess]]
+| align="center"| [[Celia Graham]]
+| align="center"| [[Anna O'Byrne]]
+| align="center"|[[Meghan Picerno]]<hr />[[Rachel Anne Moore]]
+| align="center"|[[Celinde Schoenmaker]]
+| align="center"| Manon Taris<hr>Olivia Holland Rose <hr> Georgie Ashford
+|-
+! [[Meg Giry]]
+| align="center"| [[Summer Strallen]]
+| align="center"| Haley Flaherty
+| align="center"| [[Sharon Millerchip]]
+| align="center"| [[Mary Michael Patterson]]
+| align="center"| [[Courtney Stapleton]]
+| align="center"| Olivia Barnett Legh
+|-
+! [[Viscount Raoul de Chagny|Raoul, Vicomte de Chagny]]
+| align="center"| [[Joseph Millson]]
+| align="center"| [[David Thaxton]]
+| align="center"| [[Simon Gleeson]]
+| align="center"| Sean Thompson
+| align="center"| Matthew Seadon-Young
+| align="center"| Niall Sheehy 
+|-
+! [[Madame Giry]]
+| colspan="2" align="center"| [[Liz Robertson]]
+| align="center"| [[Maria Mercedes (actor)|Maria Mercedes]]
+| align="center"| [[Karen Mason]]
+| align="center"| [[Sally Dexter]]
+| align="center"| Britt Lenting
+|-
+! Gustave
+| align="center"| Jack Blass<hr />Harry Child<hr />Tyler Fagan<hr />[[Alexander Hockaday]]<hr />Richard Linnell<hr />Charlie Manton<hr />Kaisun Raj
+| align="center"| Edward Bracey<hr />Jack Costello<hr />Daniel Dowling<hr />Connor Fitzgerald<hr />George Littell<hr />Harry Polden
+| align="center"| George Cartwright Bush<hr />Trent Heath<hr />Lachlan Kelly<hr />Jack Lyall <hr />Kurtis Papadinis
+| align="center"| Jake Heston Miller<hr />Casey J. Lyons<hr />Christian Harmston 
+| align="center"| Cian Eagle-Service
+| align="center"| Jack Sherran<hr>Odo Rowntree-Bailly<hr>Zayne Norris<hr>Zachary Richardson
+|-
+! Squelch
+| colspan="2" align="center"|  Adam Pearce
+| align="center"| [[Paul Ettore Tabone]] 
+| align="center"| Richard Koons
+| align="center"| Nic Greenshields
+| align="center"| Chris Draper
+|-
+! Gangle
+| align="center"| [[Jami Reid-Quarrell]]
+| align="center"| Charles Brunton
+| align="center"| Dean Vince
+| align="center"| Stephen Petrovich
+| align="center"| Charles Brunton
+| align="center"| Nic Cain
+|-
+! Fleck
+| align="center"| [[Niamh Perry]]
+| align="center"| Tracey Penn
+| align="center"| Emma J. Hawkins
+| align="center"| Katrina Kemp
+| align="center"| Lucie-Mae Sumner
+| align="center"| Katrina Kemp
+|-
+|}
+
+==Musical numbers==
+===''The Concept Album''===
+{{col-begin}}
+{{col-2}}
+;Disc 1
+* "Prologue" – The Orchestra, Madame Giry and Fleck
+* "The Coney Island Waltz" – The Orchestra
+* "That's the Place That You Ruined, You Fool!" – Madame Giry and Fleck
+* "Heaven by the Sea" – Ensemble
+* "Only for Him/Only for You" – Meg, Fleck, Gangle, Squelch and Ensemble
+* "The Aerie" – The Orchestra
+* "[['Til I Hear You Sing]]" – The Phantom
+* "Giry Confronts the Phantom/'Til I Hear You Sing (Reprise)" – Madame Giry, Meg and The Phantom
+* "Christine Disembarks" – The Orchestra, Christine, Raoul, Gustave and Ensemble
+* "Arrival of the Trio: "Are You Ready to Begin?" – Fleck, Gangle, Squelch, Christine, Raoul, Gustave and Ensemble
+* "What a Dreadful Town!..." – Christine, Raoul and Gustave
+* "Look with Your Heart" – Christine and Gustave
+* "Beneath a Moonless Sky" – The Phantom and Christine
+* "Once Upon Another Time" – The Phantom and Christine
+* "Mother Please, I'm Scared!" – The Phantom, Christine and Gustave
+* "Dear Old Friend" – Christine, Raoul, Meg and Madame Giry
+* "Beautiful" – The Phantom, Gustave, Fleck, Gangle and Squelch
+* "The Beauty Underneath" – The Phantom and Gustave
+* "The Phantom Confronts Christine" – The Phantom, Christine and Madame Giry
+{{col-break}}
+;Disc 2
+* "Entr'acte" – The Orchestra
+* "Why Does She Love Me?" – Raoul and Meg
+* "Devil Take the Hindmost" – Raoul and The Phantom
+* "Heaven by the Sea (Reprise)" – Ensemble
+* "Ladies...Gents!/The Coney Island Waltz (Reprise)" – Fleck, Gangle, Squelch, Ensemble and The Orchestra
+* "Bathing Beauty" – Meg and Ensemble
+* "Mother, Did You Watch?" – Meg and Madame Giry
+* "Before the Performance" – Gustave, Christine, Raoul and The Phantom
+* "Devil Take the Hindmost (Quartet)" – Raoul, The Phantom, Meg and Madame Giry
+* "Love Never Dies" – Christine
+* "Ah, Christine!" – Christine, The Phantom and Raoul
+* "Gustave! Gustave!" – Christine, The Phantom, Madame Giry, Fleck and Squelch
+* "Please Miss Giry, I Want to Go Back!..." – Meg, Gustave, Christine, The Phantom and Madame Giry
+{{col-end}}
+
+===London===
+{{col-begin}}
+{{col-2}}
+; Act I
+# "Prologue" – The Orchestra
+# "[['Til I Hear You Sing]]"&nbsp;– The Phantom
+# "The Coney Island Waltz"&nbsp;– The Orchestra
+# "Only For You"<sup>†</sup>&nbsp;– Meg Giry, Fleck, Squelch, Gangle and Ensemble
+# "Ten Long Years"<sup>†</sup>* – Meg and Madame Giry
+# "Christine Disembarks"&nbsp;– Raoul, Gustave and Ensemble
+# "Arrival Of The Trio: "Are You Ready to Begin…?"&nbsp;– Fleck, Gangle, Squelch, Raoul, Gustave and Ensemble
+# "What A Dreadful Town…!"&nbsp;– Raoul, Christine and Gustave
+# "Look With Your Heart"&nbsp;– Christine and Gustave
+# "Beneath A Moonless Sky"&nbsp;– Christine and The Phantom
+# "Once Upon Another Time"&nbsp;– Christine and The Phantom
+# "Mother Please, I'm Scared…!"&nbsp;– The Phantom, Gustave and Christine
+# "Ten Long Years Of Yearning"*<sup>†</sup>&nbsp;– The Phantom and Christine
+# "Dear Old Friend"<sup>†</sup>&nbsp;– Meg, Madame Giry, Christine, Raoul, Gustave and Ensemble
+# "Beautiful"&nbsp;– Gustave, Fleck, Gangle, Squelch and The Phantom
+# "The Beauty Underneath"&nbsp;– The Phantom and Gustave
+# "Phantom Confronts Christine"&nbsp;– The Phantom, Christine and Madame Giry
+{{col-2}}
+; Act II
+# Entr'acte&nbsp;– The Orchestra
+# "Why Does She Love Me?"&nbsp;– Raoul, Meg and Ensemble
+# "Devil Take the Hindmost"<sup>†</sup>&nbsp;– Raoul and The Phantom
+# "Invitation to the Concert"&nbsp;– Fleck, Gangle, Squelch and Ensemble
+# "Bathing Beauty"&nbsp;– Meg, Fleck, Gangle, Squelch and Ensemble
+# "Before the Performance"&nbsp;– Christine, Raoul, Gustave and The Phantom
+# "Devil Take the Hindmost (Quartet)"&nbsp;– Gustave, Raoul, The Phantom, Madame Giry and Meg
+# "Love Never Dies"&nbsp;– Christine
+# "Ah, Christine…!"&nbsp;– The Phantom and Christine
+# "Gustave! Gustave…!"&nbsp;– Christine, The Phantom, Madame Giry, Fleck, Gangle and Squelch
+# "Please Miss Giry, I Want to Go Back…"&nbsp;– Gustave, Meg, Madame Giry, The Phantom and Christine
+# Finale**&nbsp;– The Phantom and Christine
+# Playout – The Orchestra
+{{col-end}}
+
+Notes:
+
+<sup>†</sup> denotes new lyrics by [[Charles Hart (lyricist)|Charles Hart]].
+
+&ast; denotes new song; lyrics by Hart.
+
+&ast;&ast; denotes new scene/song; lyrics by [[Glenn Slater]].
+
+===Melbourne and subsequent productions===
+{{col-begin}}
+{{col-2}}
+; Act I
+# "Prologue" – The Orchestra and The Phantom
+# "[['Til I Hear You Sing]]" (includes "The Aerie")&nbsp;– The Phantom
+# "The Coney Island Waltz"&nbsp;– Squelch, Fleck, Gangle, Ensemble & The Orchestra
+# "Only for You"✝&nbsp;– Meg Giry, Ensemble
+# " 'Mother, Did You See…?' "/" 'Ten Long Years…' "/"Meg's Aria"✝&nbsp;– Meg and Madame Giry
+# "Christine Disembarks"&nbsp;– Raoul, Gustave, Christine and Ensemble
+# "Arrival Of The Trio: '...La la la' "&nbsp;– Fleck, Gangle, Squelch, Raoul, Gustave and Ensemble
+# " 'What A Dreadful Town…!' "&nbsp;– Raoul, Christine and Gustave
+# "Look With Your Heart"&nbsp;– Christine and Gustave
+# "Beneath A Moonless Sky"&nbsp;– Christine and The Phantom
+# "Once Upon Another Time"&nbsp;– Christine and The Phantom
+# " 'Mother Please, I'm Scared…!' "&nbsp;– The Phantom, Gustave and Christine
+# " 'Ten Long Years of Yearning…' "✝&nbsp;– The Phantom and Christine
+# "Dear Old Friend"✝&nbsp;– Meg, Madame Giry, Christine, Raoul, Gustave and Ensemble
+# "Beautiful"&nbsp;– Gustave, Fleck, Gangle, Squelch and The Phantom
+# "The Beauty Underneath"✝&nbsp;– The Phantom and Gustave
+# "The Phantom Confronts Christine"&nbsp;– The Phantom, Christine and Madame Giry
+{{col-2}}
+; Act II
+# Entr'acte&nbsp;– The Orchestra
+# "Why Does She Love Me?"&nbsp;– Raoul, Meg and Ensemble
+# "Devil Take the Hindmost"✝&nbsp;– Raoul and The Phantom
+# "Invitation to the Concert"&nbsp;– Fleck, Gangle, Squelch and Ensemble
+# "Bathing Beauty"&nbsp;– Meg, Fleck, Gangle, Squelch and Ensemble
+# " 'Mother, Did You Watch…?' "&nbsp;– Meg, Madame Giry 
+# "Before the Performance"&nbsp;– Christine, Raoul, Gustave and The Phantom
+# "Devil Take the Hindmost (Quartet)"✝&nbsp;– Gustave, Raoul, The Phantom, Madame Giry and Meg
+# "Love Never Dies"&nbsp;– Christine
+# " 'Ah, Christine…!' "&nbsp;– The Phantom and Christine
+# "The Streets Of Coney Island ('Gustave…! Gustave…!')"&nbsp;– Christine, The Phantom, Madame Giry, Fleck, Gangle and Squelch
+# " 'Please Miss Giry, I Want To Go Back…' "&nbsp;– Gustave, Meg, The Phantom, Madame Giry and Christine
+# "Finale"&nbsp;– The Phantom
+# Playout&nbsp;– The Orchestra
+{{col-end}}
+
+Notes:
+
+==Recordings==
+===Singles===
+===Discography===
+====Albums====
+=== Live stage filming ===
+==Reception==
+===West End===
+====Critics' reaction====
+====Audience and other assessments====
+===Australia===
+===US tour===
+===Academic reception===
+== Awards ==
+===Original London production===
+{|
+|-
+| links || [[Laurence Olivier Awards]] [[Ramin Karimloo]] [[Sierra Boggess]] [[Summer Strallen]] [[Bob Crowley]]
+|}
+=== Original Australian production ===
+{|
+|-
+| links || [[Sydney Theatre Awards]] [[Anna O'Byrne]] [[Ben Lewis (Australian actor)|Ben Lewis]] [[Sharon Millerchip]] [[Simon Gleeson]]
+|}
+==References==
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+played by [[Ramin Karimloo]].
+played by [[Aaron Lazar]].
+played by [[Summer Strallen]].
+cast included [[Ramin Karimloo]].
+cast included [[Ramin Karimloo]], [[Sierra Boggess]], [[Joseph Millson]], [[Liz Robertson]], [[Summer Strallen]], [[Niamh Perry]].
+starred [[Drew Sarich]].
+starred [[Masachika Ichimura]].
+cast included [[Gardar Thor Cortes]].
+cast included [[Gardar Thor Cortes]], [[Meghan Picerno]], [[Rachel Anne Moore]], [[Karen Mason]].
+starred [[Norm Lewis]].
+starring [[Masachika Ichimura]].
+starring [[Ben Lewis (Australian actor)|Ben Lewis]].

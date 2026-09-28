@@ -1,0 +1,246 @@
+{{Infobox Musical
+|name=Once on This Island
+|image=Once on This Island.jpg
+|caption=Original Broadway Production Logo
+|music=[[Stephen Flaherty]]
+|lyrics=[[Lynn Ahrens]]
+|book=Lynn Ahrens
+|basis= ''My Love, My Love; or, The Peasant Girl''<br /> by [[Rosa Guy]]
+|productions= 1990 [[Broadway theater|Broadway]] <br /> 1994 UK/Europe <br /> 1995 [[West End theatre|West End]] <br /> 2009 UK [[revival (theatre)|revival]] <br /> 2017 Broadway revival <br /> 2019 National Tour <br /> 2022 Hong Kong
+
+|awards=1995 [[Laurence Olivier Award for Best New Musical]]<br />2018 [[Tony Award for Best Revival of a Musical]]
+}}
+==Production history==
+=== Off-Broadway (1990) ===
+=== Broadway (1990–1991) ===
+=== First National Tour (1992–1993) ===
+=== West End (1994) ===
+=== Broadway Revival (2017–2019) ===
+=== Second National Tour (2019–2020) ===
+=== Other notable productions ===
+==Synopsis==
+==Characters==
+* '''Ti Moune''' – A peasant girl.
+** '''Little Ti Moune''' – Ti Moune as a child.
+* '''Daniel Beauxhomme''' – A {{lang|fr|grand homme}} (French for "upper class"); Ti Moune's love interest; {{lang|fr|Beauxhomme}} is French for "beautiful man"
+* '''[[Guédé|Papa Ge]]''' – The sly Demon of Death who is the main [[antagonist]] of the show. He tricks the main character into giving her life for another. He is seen as a [[Skeleton (undead)|skeleton]] and is very sneaky. The people on the island fear him because of what he represents: the unknown that is death.
+* '''[[Erzulie]]''' – Beautiful Goddess of Love; the foil to Papa Ge
+* '''[[Agwe]]''' – God of Water
+* '''[[Azaka Medeh|Asaka]]''' – Mother of the Earth 
+* '''Mama Euralie''' – Ti Moune's adoptive mother 
+* '''Tonton Julian''' – Ti Moune's adoptive father 
+* '''Andrea Deveraux''' – Daniel's promised wife; also "Madame Armand" 
+* '''Armand Beauxhomme''' – Daniel's stern father.
+* '''"Armand"''' – The ancestor of Armand Beauxhomme.
+* '''[[Gatekeeper]]''' – The Hotel Beauxhomme's fierce guard (commonly played by Armand).
+* '''The Little Girl''' – A young girl who is told the story of Ti Moune.
+* '''Daniel's Son''' – Daniel's young son (commonly played by Daniel's actor).
+* '''[[Storytelling|Storytellers]]'''/'''Gossips''' – Various Grands Hommes and peasants (in most productions, the storytellers are shown as also performing the parts of the Gods).
+
+==Original casts==
+{| class="wikitable" style="width:1000;"
+! rowspan="2" |Character
+!Off-Broadway
+!Broadway
+!West End
+!Broadway Revival
+! National Tour
+|-
+! colspan="2" |<small>1990</small>
+!<small>1994</small>
+!<small>2017</small>
+!<small>2019</small>
+|-
+!Ti Moune
+| colspan="2" align="center" |[[LaChanze]]
+| align="center" |[[Lorna Brown (actress)|Lorna Brown]]
+| align="center" | [[Hailey Kilgore]]
+|align="center"| Courtnee Carter
+|-
+!Daniel Beauxhomme
+| colspan="2" align="center" |[[Jerry Dixon (actor)|Jerry Dixon]]
+| align="center" |Anthony Corriete
+| align="center" |[[Isaac Cole Powell]]
+|align="center"| Tyler Hardwick
+|-
+![[Azaka Medeh|Asaka]]
+| colspan="2" align="center" |[[Kecia Lewis]]
+| align="center" |[[Sharon D. Clarke]]
+| align="center" |[[Alex Newell]]
+|align="center"| Kyle Ramar Freeman
+|-
+![[Agwe]]
+| colspan="2" align="center" |Milton Craig Nealy
+| align="center" |Trevor Michael Georges
+| align="center" |[[Quentin Earl Darrington]]
+|align="center"| Jahmaul Bakare
+|-
+![[Erzulie]]
+| colspan="2" align="center" |Andrea Frierson-Toney
+| align="center" |[[P. P. Arnold]]
+| align="center" |[[Lea Salonga]]
+|align="center"| Cassondra Kellam
+|-
+![[Guédé|Papa Ge]]
+| colspan="2" align="center" |Eric Riley
+| align="center" |[[Clive Rowe]]
+| align="center" |[[Merle Dandridge]]
+|align="center"| [[Tamyra Gray]]
+|-
+!Mama Euralie
+| colspan="2" align="center" |Sheila Gibbs
+| align="center" |Shezwae Powell
+| align="center" |Kenita R. Miller
+|align="center"| Danielle Lee Greaves
+|-
+!Tonton Julian
+| colspan="2" align="center" |[[Ellis Williams]]
+| align="center" |Johnny Worthy
+|colspan="2" align="center" |[[Phillip Boykin]]
+|-
+!Andrea Deveraux
+| colspan="2" align="center" |Nikki Rene
+| align="center" |[[Suzanne Packer]]
+| align="center" |Alysha Deslorieux
+|align="center"| Briana Brooks
+|-
+! align="center" |Armand Beauxhomme
+| colspan="2" align="center" |Gerry McIntyre
+| align="center" |Mark Vincent
+| align="center" |David Jennings
+|align="center"| George L. Brown
+|-
+!Little Ti Moune
+| colspan="2" align="center" |Afi Bijou
+| align="center" |Monique Mason{{ref|1|1}}
+| align="center" |Emerson Davis <br /> Mia Williamson
+| align="center" | Mimi Crossland <br /> Mariama Diop 
+|}
+{{refbegin|}}
+#{{note|1}}Elizabeth Kerr originated the role but Mason replaced her during the Birmingham Repertory run and subsequently transferred to the West End.
+{{refend}}
+
+=== Notable replacements ===
+'''Broadway (1990–1991)'''
+* '''Asaka:''' [[Lillias White]]
+* '''Tonton Julian:''' [[James Stovall]]
+
+'''Broadway revival (2017–2019)'''
+*'''Agwe:''' [[Norm Lewis]]
+*'''Papa Ge:''' [[Tamyra Gray]]
+*'''Ti Moune:''' [[Loren Lott]]
+*'''Erzulie:''' [[Michelle Williams (singer)|Michelle Williams]]
+
+==Musical numbers==
+{|class=wikitable style="text-align:center;font-size:100%;"
+|+
+|-
+! rowspan=2 | Title !! rowspan=2 | Cast
+! colspan=3 | Recordings
+|-
+! Broadway (1990)
+! London (1994){{efn|Includes bonus remix track of "The Human Heart", performed by P. P. Arnold (Erzulie).}}
+! Broadway revival (2017)
+|-
+| "We Dance" || Storytellers
+| {{ya}} || {{ya}} || {{ya}}
+|-
+| "One Small Girl" || Mama Euralie, Tonton Julian, Little Ti Moune, and Storytellers
+| {{ya}} || {{ya}} || {{ya}}
+|-
+| "Waiting for Life" || Ti Moune and Storytellers
+| {{ya}} || {{ya}} || {{ya}}
+|-
+| "And the Gods Heard Her Prayer" || Asaka, Agwe, Erzulie, and Papa Ge
+| {{ya}} || {{ya}} || {{ya}}
+|-
+| "Rain" || Agwe and Storytellers
+| {{ya}} || {{ya}} || {{ya}}
+|-
+| "Discovering Daniel" || Ti Moune and Storytellers
+| {{na}} || {{ya}} || {{ya}}
+|-
+| "Pray" || Ti Moune, Mama Euralie, Tonton Julian, Guard and Storytellers
+| {{ya}} || {{ya}} || {{ya}}
+|-
+| "Forever Yours" || Ti Moune, Daniel and Papa Ge
+| {{ya}} || {{ya}} || {{ya}}
+|-
+| "The Sad Tale of the Beauxhommes" || Armand and Storytellers
+| {{ya}} || {{ya}} || {{ya}}
+|-
+| "Ti Moune" || Ti Moune, Mama Euralie, Tonton Julian
+| {{ya}} || {{ya}} || {{ya}}
+|-
+| "Mama Will Provide" || Asaka and Storytellers
+| {{ya}} || {{ya}} || {{ya}}
+|-
+| "Waiting for Life" (Reprise)"{{efn|Included in production, but not recordings.}} || Ti Moune
+| {{na}} || {{na}} || {{na}}
+|-
+| "Some Say" || Storytellers
+| {{ya}} || {{ya}} || {{ya}}
+|-
+| "The Human Heart" || Erzulie and Storytellers
+| {{ya}} || {{ya}} || {{ya}}
+|-
+| "Pray" (Reprise){{efn |name=Gossip}} || Storytellers
+| {{ya}} || {{ya}} || {{na}}
+|-
+| "Gossip"{{efn |name=Gossip |"Gossip" replaces "Pray" (Reprise) for the Broadway revival (2017).}}{{efn|name=notOB |Not included in the original Broadway production.}} || Storytellers
+| {{na}} || {{na}} || {{ya}}
+|-
+| "Some Girls" || Daniel
+| {{ya}} || {{ya}} || {{ya}}
+|-
+| "The Ball" || Andrea, Daniel, Ti Moune, and Storytellers
+| {{ya}} || {{ya}} || {{ya}}
+|-
+| "Ti Moune's Dance" || Erzulie, Asaka, Agwe, Papa Ge, and Storytellers
+| {{ya}} || {{ya}} || {{ya}}
+|-
+| "When We Are Wed" || Andrea, Daniel and Ti Moune
+| {{ya}} || {{ya}} || {{ya}}
+|-
+| "Promises" || Papa Ge, Ti Moune, and Storytellers
+| {{na}} || {{ya}} || {{na}}
+|-
+| "Forever Yours" (Reprise) || Papa Ge, Ti Moune, Erzulie, and Storytellers
+| {{ya}} || {{ya}} || {{ya}}
+|-
+| "Wedding Sequence" || Papa Ge, Ti Moune, and Storytellers
+| {{na}} || {{ya}} || {{na}}
+|-
+| "A Part of Us" || Mama Euralie, Tonton Julian, Little Ti Moune, and Storytellers
+| {{ya}} || {{ya}} || {{ya}}
+|-
+| "Why We Tell the Story" || Storytellers
+| {{ya}} || {{ya}} || {{ya}}
+|}
+
+;Notes
+{{notelist|25em}}
+
+==Awards and nominations==
+===Original Broadway production===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Musical|Best Musical]] [[Tony Award for Best Book of a Musical|Best Book of a Musical]] [[Lynn Ahrens]] [[Tony Award for Best Original Score|Best Original Score]] [[Stephen Flaherty]] [[Tony Award for Best Performance by a Featured Actress in a Musical|Best Performance by a Featured Actress in a Musical]] [[LaChanze]] [[Tony Award for Best Direction of a Musical|Best Direction of a Musical]] [[Graciela Daniele]] [[Tony Award for Best Choreography|Best Choreography]] [[Tony Award for Best Costume Design|Best Costume Design]] [[Judy Dearing]] [[Tony Award for Best Lighting Design|Best Lighting Design]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Actress in a Musical|Outstanding Actress in a Musical]] [[Theatre World Award]]
+|}
+===Original London production===
+{|
+|-
+| links || [[Laurence Olivier Award]] [[Laurence Olivier Award for Best New Musical|Best New Musical]] [[Laurence Olivier Award for Best Performance in a Supporting Role in a Musical|Best Performance in a Supporting Role in a Musical]] [[Sharon D. Clarke]] [[Laurence Olivier Award for Best Director of a Musical|Best Director of a Musical]] [[David Toguri]] [[Laurence Olivier Award for Best Theatre Choreographer|Best Theatre Choreographer]]
+|}
+===2017 Broadway revival===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Revival of a Musical|Best Revival of a Musical]] [[Tony Award for Best Actress in a Musical|Best Actress in a Musical]] [[Hailey Kilgore]] [[Tony Award for Best Direction of a Musical|Best Direction of a Musical]] [[Michael Arden]] [[Tony Award for Best Scenic Design in a Musical|Best Scenic Design in a Musical]] [[Dane Laffrey]] [[Tony Award for Best Costume Design in a Musical|Best Costume Design in a Musical]] [[Clint Ramos]] [[Tony Award for Best Lighting Design in a Musical|Best Lighting Design in a Musical]] [[Jules Fisher]] [[Peggy Eisenhauer]] [[Tony Award for Best Sound Design|Best Sound Design]] [[Tony Award for Best Orchestrations|Best Orchestrations]] [[Michael Starobin]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Revival of a Musical|Outstanding Revival of a Musical]] [[Drama Desk Award for Outstanding Featured Actress in a Musical|Outstanding Featured Actress in a Musical]] [[Drama Desk Award for Outstanding Choreography|Outstanding Choreography]] [[Drama Desk Award for Outstanding Orchestrations|Outstanding Orchestrations]] [[Drama Desk Award for Outstanding Scenic Design of a Musical|Outstanding Set Design for a Musical]] [[Drama Desk Award for Outstanding Costume Design of a Musical|Outstanding Costume Design for a Musical]] [[Drama Desk Award for Outstanding Lighting Design for a Musical|Outstanding Lighting Design for a Musical]] [[Theatre World Award]] [[Grammy Awards]] [[Grammy Award for Best Musical Theater Album|Best Musical Theater Album]]
+|}
+==Film adaptation==
+==References==
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+cast included [[Hailey Kilgore]].
+starring [[Gabrielle Brooks]].

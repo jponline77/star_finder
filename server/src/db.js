@@ -102,6 +102,96 @@ export const MIGRATIONS = [
       )`);
     },
   },
+  {
+    version: 5,
+    up(db) {
+      // Show & song catalog (SPEC §7c): every stage musical with its song list, built offline from
+      // Wikidata/Wikipedia into seed/catalog/catalog.json.gz and loaded by lib/catalog.js at startup
+      // (only these catalog_* tables are rewritten by a load; community data is never touched).
+      // Rows keep their ids across loads (matched by show `key`, then song title + reprise), so
+      // links and bookmarked /add?catalogSong=<id> URLs survive a catalog update.
+      db.exec(`CREATE TABLE IF NOT EXISTS catalog_shows (
+        id            INTEGER PRIMARY KEY,
+        key           TEXT NOT NULL UNIQUE,          -- Wikidata QID, or 'wp:<enwiki title>'
+        title         TEXT NOT NULL,
+        alt_titles    TEXT NOT NULL DEFAULT '[]',    -- JSON string[]
+        wiki_title    TEXT,
+        wikidata_id   TEXT,
+        composer      TEXT,
+        lyricist      TEXT,
+        book_writer   TEXT,
+        year          INTEGER,
+        genres        TEXT NOT NULL DEFAULT '[]',    -- JSON string[] (lowercase)
+        description   TEXT,
+        characters    TEXT NOT NULL DEFAULT '[]',    -- JSON {name, voiceType}[]
+        itunes_collection_id INTEGER,                -- cast album found on demand, cached for everyone
+        itunes_collection_name TEXT,                 -- its name, for "from the <album>" labels
+        song_count    INTEGER NOT NULL DEFAULT 0     -- songs that aren't instrumentals
+      )`);
+      db.exec(`CREATE TABLE IF NOT EXISTS catalog_songs (
+        id            INTEGER PRIMARY KEY,
+        show_id       INTEGER NOT NULL REFERENCES catalog_shows(id) ON DELETE CASCADE,
+        title         TEXT NOT NULL,
+        act           INTEGER,
+        position      INTEGER,
+        singers       TEXT NOT NULL DEFAULT '[]',    -- JSON string[] (character names)
+        singers_raw   TEXT,
+        ensemble      INTEGER NOT NULL DEFAULT 0,
+        reprise       INTEGER NOT NULL DEFAULT 0,
+        instrumental  INTEGER NOT NULL DEFAULT 0,
+        source        TEXT NOT NULL DEFAULT 'wikipedia' CHECK (source IN ('wikipedia','recording')),
+        UNIQUE (show_id, title COLLATE NOCASE, reprise)
+      )`);
+      db.exec('CREATE INDEX IF NOT EXISTS idx_catalog_songs_show ON catalog_songs(show_id, position)');
+      // Full-text search (accent/case-insensitive). rowid = catalog_songs.id / catalog_shows.id.
+      // Instrumentals aren't indexed. prefix='2 3' keeps typeahead prefix queries fast.
+      db.exec(`CREATE VIRTUAL TABLE IF NOT EXISTS catalog_fts USING fts5(song_title, show_title, alt_titles, singers,
+        tokenize = 'unicode61 remove_diacritics 2', prefix = '2 3')`);
+      db.exec(`CREATE VIRTUAL TABLE IF NOT EXISTS catalog_show_fts USING fts5(title, alt_titles, credits,
+        tokenize = 'unicode61 remove_diacritics 2', prefix = '2 3')`);
+      db.exec('CREATE TABLE IF NOT EXISTS catalog_meta (key TEXT PRIMARY KEY, value TEXT)');
+      // Site rows ↔ catalog: set by the loader's re-linking (folded titles) and by the song form.
+      addColumnIfMissing(db, 'shows', 'catalog_show_id', 'INTEGER REFERENCES catalog_shows(id) ON DELETE SET NULL');
+      addColumnIfMissing(db, 'songs', 'catalog_song_id', 'INTEGER REFERENCES catalog_songs(id) ON DELETE SET NULL');
+      // Partial indexes (most rows aren't linked); still used for `= ?`, `IN (…)` and the foreign-key
+      // SET NULL when catalog rows go.
+      db.exec('CREATE INDEX IF NOT EXISTS idx_shows_catalog ON shows(catalog_show_id) WHERE catalog_show_id IS NOT NULL');
+      db.exec('CREATE INDEX IF NOT EXISTS idx_songs_catalog ON songs(catalog_song_id) WHERE catalog_song_id IS NOT NULL');
+      // Album art the owner uploaded (/uploads/art/…). artwork_path keeps the recording's art, so
+      // removing the upload falls back to it.
+      addColumnIfMissing(db, 'songs', 'custom_artwork_path', 'TEXT');
+    },
+  },
+  {
+    version: 6,
+    up(db) {
+      // Catalog hardening (SPEC §7c follow-ups). Only new columns/tables; nothing is rewritten.
+      // Where a site row's catalog link came from: NULL = automatic (re-computed by title after every
+      // load/edit), 'manual' = chosen by someone who may edit the row (kept while the catalog row
+      // exists), 'none' = explicitly "not in the catalog" (never linked automatically).
+      addColumnIfMissing(db, 'shows', 'catalog_link', "TEXT CHECK (catalog_link IN ('manual','none'))");
+      addColumnIfMissing(db, 'songs', 'catalog_link', "TEXT CHECK (catalog_link IN ('manual','none'))");
+      // A show that left the catalog file but still holds site data (cast-album songs, a cached
+      // album, manual links) is retired — hidden from search and matching — instead of deleted.
+      addColumnIfMissing(db, 'catalog_shows', 'retired', 'INTEGER NOT NULL DEFAULT 0');
+      // "Does Apple have a cast album?" answers from show pages, kept in the database (not in memory)
+      // so every visitor doesn't re-ask Apple: when it was checked and whether one was found.
+      addColumnIfMissing(db, 'catalog_shows', 'itunes_checked_at', 'TEXT');
+      addColumnIfMissing(db, 'catalog_shows', 'itunes_check_found', 'INTEGER');
+      // Who saved the show's cast album / cast-album songs, and when (for admins; never public).
+      addColumnIfMissing(db, 'catalog_shows', 'itunes_saved_at', 'TEXT');
+      addColumnIfMissing(db, 'catalog_shows', 'itunes_saved_by', 'INTEGER REFERENCES users(id) ON DELETE SET NULL');
+      // Albums an admin removed from a show — never picked for that show again. Keyed by the show's
+      // stable catalog key (ids survive reloads, but keys are what the catalog file carries).
+      db.exec(`CREATE TABLE IF NOT EXISTS catalog_rejected_albums (
+        show_key       TEXT NOT NULL,
+        collection_id  INTEGER NOT NULL,
+        rejected_at    TEXT NOT NULL,
+        rejected_by    INTEGER REFERENCES users(id) ON DELETE SET NULL,
+        PRIMARY KEY (show_key, collection_id)
+      )`);
+    },
+  },
 ];
 
 /** Add a column only if it doesn't exist yet (safe to re-run). */

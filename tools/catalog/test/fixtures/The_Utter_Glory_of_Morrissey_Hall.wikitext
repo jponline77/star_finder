@@ -1,0 +1,80 @@
+{{Infobox Musical
+|name         = The Utter Glory of Morrissey Hall
+|subtitle     = 
+|image        = MorrisseyHall.jpg
+|image_size   = 200px
+|caption      = 
+|music        = [[Clark Gesner]]
+|lyrics       = Clark Gesner
+|book         = Clark Gesner<br>Nagle Jackson
+|basis        = 
+|productions  = 1979 [[Broadway theatre|Broadway]]
+|awards       = 
+}}
+==Synopsis==
+== Musical numbers ==
+{{col-begin}}
+{{col-2}}
+;Act I
+*Overture - Orchestra
+*Promenade - Company
+*Proud, Erstwhile, Upright, Fair - Julia Faysle, Foresta Studley, Elizabeth Wilkins
+*Elizabeth's Song - Elizabeth Wilkins
+*Way Back When - Julia Faysle, Foresta Studley
+*Lost - The Sixth Form
+*Morning - Mrs. Delmonde, Dancing Class
+*The Letter - Helen, Charles Hill, Company
+*Give Me That Key - Julia Faysle, Helen, Elizabeth Wilkins
+*Duet - Elizabeth Wilkins, Richard Tidewell, Company
+{{col-break}}
+;Act II
+*Interlude and Gallop - Orchestra, Students
+*Oh Sun - Marjorie (St. George), Angela (Dragon), Helen, Frances, Mary (Dryads), Mrs. Delmonde
+*You Will Know When the Time Has Arrived - Teresa Winkle, Carswell, Fifth and Sixth Forms
+*You Would Say - Helen, Charles Hill, Fifth Form
+*See the Blue - Julia Faysle, Flowers (Girls)
+*Dance of Resignation - Mrs. Delmonde
+*Reflection - Julia Faysle
+*The War (''[[Les Preludes]]'' by [[Franz Liszt]]) - Company
+*Oh, Sun (reprise)/The Ending - Company
+{{col-end}}
+
+== Characters ==
+{{col-begin}}
+{{col-2}}
+'''Administration:'''
+*Julia Faysle, Headmistress of Morrissey Hall
+*Elizabeth Wilkins, Secretary
+
+'''Staff:'''
+*Foresta Studley
+*Teresa Winkle
+*Mrs. Delmonde
+*Miss Newton
+*Mr. Weybum, Groundskeeper
+
+'''Sixth Form Students:'''
+*Carswell
+*Vickers
+*Boody
+*Dale
+*Dickerson
+*Haverfield
+{{col-break}}
+'''Fifth Form Students:'''
+*Alice
+*Helen
+*Frances
+*Angela
+*Marjorie
+*Mary
+
+'''Visitors:'''
+*Richard Tidewell
+*Charles Hill
+*Mr. Osgood
+{{col-end}}
+
+== Production history ==
+== References==
+==External links==

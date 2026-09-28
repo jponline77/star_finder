@@ -1,23 +1,31 @@
 /**
- * "Listen" card: Apple 30-sec preview (with credit + Apple Music link), community-uploaded audio,
- * an external audio link, and (for the owner/admin) upload/remove tools.
+ * "Listen" card: Apple 30-sec preview (with credit + Apple Music link), community-uploaded audio and an
+ * external audio link. Owners/admins get a friendly "Add a backing track" nudge when there's no upload; the
+ * upload tools themselves live in the "Album art & audio" panel below (SongMediaPanel).
  */
-import { ExternalLink, Headphones, Link2, Music2 } from 'lucide-react';
+import { ExternalLink, Headphones, Link2, Music2, Plus } from 'lucide-react';
 import { formatLength } from '../../lib/format';
 import { hostOf, isSafeHttpUrl } from '../../lib/links';
 import { useAudio, useAudioProgress } from '../../state/AudioProvider';
 import { PlayButton } from '../../components/PlayButton';
 import type { Song } from '../../types';
-import { AudioManager } from './AudioManager';
 import { previewCredit } from './helpers';
+
+/** Scroll to an owner tool and put the keyboard focus on its main button. */
+export function jumpToTool(sectionId: string, focusId: string) {
+  const section = document.getElementById(sectionId);
+  section?.scrollIntoView?.({ behavior: 'smooth', block: 'center' });
+  document.getElementById(focusId)?.focus({ preventScroll: true });
+}
 
 export interface ListenSectionProps {
   song: Song;
   canManage: boolean;
-  onSongUpdated: (song: Song) => void;
+  /** Kept for callers; updates happen in SongMediaPanel. */
+  onSongUpdated?: (song: Song) => void;
 }
 
-export function ListenSection({ song, canManage, onSongUpdated }: ListenSectionProps) {
+export function ListenSection({ song, canManage }: ListenSectionProps) {
   const { media } = song;
   const audio = useAudio();
   const link = isSafeHttpUrl(media.audioLink) ? media.audioLink : null;
@@ -91,12 +99,30 @@ export function ListenSection({ song, canManage, onSongUpdated }: ListenSectionP
           </span>
           <div className="sd-track-body">
             <p className="sd-track-title">No preview yet</p>
-            <p className="sd-track-credit">Try “Watch performances” below to hear how it goes{canManage ? ', or upload a file' : ''}.</p>
+            <p className="sd-track-credit">Try “Watch performances” below to hear how it goes{canManage ? ', or pick a recording in the tools below' : ''}.</p>
           </div>
         </div>
       )}
 
-      {canManage && <AudioManager song={song} onUpdated={onSongUpdated} />}
+      {canManage && !media.audioUrl && (
+        <a
+          href="#media-audio"
+          className="sd-track sd-track-add"
+          onClick={(e) => {
+            e.preventDefault();
+            jumpToTool('media-audio', 'media-audio-choose');
+          }}
+          data-testid="add-backing-track"
+        >
+          <span className="sd-track-icon is-add" aria-hidden="true">
+            <Plus size={24} />
+          </span>
+          <span className="sd-track-body">
+            <span className="sd-track-title">Add a backing track</span>
+            <span className="sd-track-credit">Have a no-vocals track you’re allowed to share? Upload it so others can rehearse with it.</span>
+          </span>
+        </a>
+      )}
     </div>
   );
 }

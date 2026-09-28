@@ -1,6 +1,6 @@
 import { afterAll, beforeAll, describe, expect, it } from 'vitest';
 import { act, fireEvent, render, screen, waitFor } from '@testing-library/react';
-import { createMemoryRouter, Link, Outlet, RouterProvider } from 'react-router';
+import { createMemoryRouter, Link, Outlet, RouterProvider, useSearchParams } from 'react-router';
 import { makeMeta, makeSong } from '../../test/fixtures';
 import type { Meta } from '../../types';
 import { useDocumentTitle } from '../../hooks/useDocumentTitle';
@@ -51,6 +51,36 @@ function Detail() {
   return <h1>Popular</h1>;
 }
 
+/** A stand-in for /add: its steps share the path and differ by params (like SongFormPage). */
+function AddSteps() {
+  const [params] = useSearchParams();
+  const show = params.get('catalogShow');
+  const song = params.get('catalogSong');
+  const title = song ? 'Add “Stars”' : show ? 'Add a song from Les Misérables' : 'Add a song — find it';
+  useDocumentTitle(title);
+  if (song) return <h1>Add “Stars”</h1>;
+  if (show)
+    return (
+      <>
+        <h1>Which song from Les Misérables?</h1>
+        <Link to="/add?catalogSong=15719&fromShow=1" data-testid="song-link">
+          Stars
+        </Link>
+      </>
+    );
+  return (
+    <>
+      <h1>Add a song</h1>
+      <Link to="/add?q=les" data-testid="typing-link">
+        Type
+      </Link>
+      <Link to="/add?catalogShow=1&q=les" data-testid="show-link">
+        Les Misérables
+      </Link>
+    </>
+  );
+}
+
 function renderApp(route = '/', meta: Meta | null = null) {
   const router = createMemoryRouter(
     [
@@ -76,6 +106,7 @@ function renderApp(route = '/', meta: Meta | null = null) {
               { index: true, element: <Home /> },
               { path: 'songs', element: <Browse /> },
               { path: 'songs/:id', element: <Detail /> },
+              { path: 'add', element: <AddSteps /> },
             ],
           },
         ],
@@ -106,6 +137,71 @@ describe('Layout route changes', () => {
     await screen.findByRole('heading', { name: 'Popular' });
     expect(document.activeElement).not.toBe(document.body);
     expect(document.getElementById('main')).toHaveFocus();
+  });
+
+  it('/add steps share a path: moving to the next step still moves focus to <main> and announces it', async () => {
+    const router = renderApp('/add');
+    const link = screen.getByTestId('show-link');
+    act(() => link.focus());
+    fireEvent.click(link);
+    await screen.findByRole('heading', { name: 'Which song from Les Misérables?' });
+    expect(router.state.location.pathname).toBe('/add');
+    expect(document.activeElement).not.toBe(document.body);
+    expect(document.getElementById('main')).toHaveFocus();
+    await waitFor(() => expect(screen.getByTestId('route-announcer')).toHaveTextContent('Add a song from Les Misérables · STAR Song Finder'));
+
+    const song = screen.getByTestId('song-link');
+    act(() => song.focus());
+    fireEvent.click(song);
+    await screen.findByRole('heading', { name: 'Add “Stars”' });
+    expect(document.getElementById('main')).toHaveFocus();
+    await waitFor(() => expect(screen.getByTestId('route-announcer')).toHaveTextContent('Add “Stars” · STAR Song Finder'));
+  });
+
+  it('typing in the /add find box (?q=) is not a new step: focus stays put', async () => {
+    const router = renderApp('/add');
+    const link = screen.getByTestId('typing-link');
+    act(() => link.focus());
+    fireEvent.click(link);
+    await waitFor(() => expect(router.state.location.search).toBe('?q=les'));
+    expect(link).toHaveFocus();
+  });
+
+  it('announces the refined title when a page sets it once its data loads', async () => {
+    function Loading() {
+      const [params] = useSearchParams();
+      useDocumentTitle(params.get('ready') ? 'Add a song from Wicked' : 'Add a song');
+      return <h1>Show</h1>;
+    }
+    const router = createMemoryRouter(
+      [
+        {
+          element: (
+            <ToastProvider>
+              <AuthProvider initialUser={null}>
+                <SongsProvider initialSongs={[song]} initialMeta={null}>
+                  <FestivalProvider>
+                    <AudioProvider>
+                      <Layout />
+                    </AudioProvider>
+                  </FestivalProvider>
+                </SongsProvider>
+              </AuthProvider>
+            </ToastProvider>
+          ),
+          children: [
+            { index: true, element: <Home /> },
+            { path: 'add', element: <Loading /> },
+          ],
+        },
+      ],
+      { initialEntries: ['/'] },
+    );
+    render(<RouterProvider router={router} />);
+    await act(() => router.navigate('/add?catalogShow=3'));
+    await waitFor(() => expect(screen.getByTestId('route-announcer')).toHaveTextContent('Add a song · STAR Song Finder'));
+    await act(() => router.navigate('/add?catalogShow=3&ready=1', { replace: true }));
+    await waitFor(() => expect(screen.getByTestId('route-announcer')).toHaveTextContent('Add a song from Wicked · STAR Song Finder'));
   });
 
   it('leaves focus alone for query-only changes (filters)', async () => {

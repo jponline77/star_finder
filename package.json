@@ -23,7 +23,8 @@
     "import": "npm --prefix server run import --",
     "fetch-media": "npm --prefix server run fetch-media --",
     "backup": "npm --prefix server run backup --",
-    "make-admin": "npm --prefix server run make-admin --"
+    "make-admin": "npm --prefix server run make-admin --",
+    "catalog:build": "npm --prefix tools/catalog install && npm --prefix tools/catalog run build"
   },
   "devDependencies": {
     "@playwright/test": "1.63.0",

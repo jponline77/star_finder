@@ -1,0 +1,292 @@
+{{Infobox musical
+| name = Fiddler on the Roof
+| image = Fiddler On The Roof Playbill.jpg
+| caption = ''[[Playbill]]'' from the original Broadway production
+| music = [[Jerry Bock]]
+| lyrics = [[Sheldon Harnick]]
+| book = [[Joseph Stein]]
+| basis = [[Tevye the Dairyman]]<br />by [[Sholem Aleichem]]
+| productions = {{Plain list|
+* 1964 [[Broadway theatre|Broadway]]
+* 1967 [[West End theatre|West End]]
+* 1976 Broadway [[Revival (play)|revival]]
+* 1981 Broadway revival
+* 1983 West End revival
+* 1990 Broadway revival
+* 1994 West End revival
+* 2003 [[UK]] tour
+* 2004 Broadway revival
+* 2007 West End revival
+* 2008 UK tour
+* 2009 US tour
+* 2015 Broadway revival 
+* 2018 US tour
+* 2019 West End revival
+}} 
+| awards = {{plainlist|
+*1965 [[Tony Award for Best Musical]]
+*1965 [[Tony Award for Best Original Score|Tony Award for Best Score]]
+*1965 [[Tony Award for Best Book]]
+*1991 [[Tony Award for Best Revival of a Musical]]
+*2020 [[Laurence Olivier Award for Best Musical Revival|Olivier Award for Best Musical Revival]]
+*2025 [[Laurence Olivier Award for Best Musical Revival|Olivier Award for Best Musical Revival]]}}
+}}
+==Background==
+==Synopsis==
+===Act I===
+===Act II===
+==Musical numbers==
+{{col-begin}}
+{{col-2}}
+;Act I
+* "Prologue: [[Tradition (song)|Tradition]]" – Tevye and Company
+* "[[Matchmaker, Matchmaker]]" – Tzeitel, Hodel and Chava
+* "[[If I Were a Rich Man (song)|If I Were a Rich Man]]" – Tevye
+* "Sabbath Prayer" – Tevye, Golde, Company
+* "[[To Life (song)|To Life]]" – Tevye, Lazar Wolf, Russian soloist and Men
+* "Tevye's Monologue" – Tevye
+* "Miracle of Miracles" – Motel
+* "Tevye's Dream" – Tevye, Golde, Grandma Tzeitel, Rabbi, Fruma-Sarah and Company
+* "[[Sunrise, Sunset]]" – Tevye, Golde, Perchik, Hodel and Company
+* "The Bottle Dance" – Instrumental
+{{col-break}}
+
+; Act II
+* "Entr'acte" – Orchestra
+* "Now I Have Everything" – Perchik and Hodel
+* "Tevye's Rebuttal" – Tevye
+* "[[Do You Love Me? (Fiddler on the Roof song)|Do You Love Me?]]" – Tevye and Golde
+* "The Rumor/I Just Heard" – Yente and Villagers{{efn|The 2004 revival featured a song for Yente and some women of the village (Rivka and Mirala) titled "Topsy Turvy", discussing the disappearing role of the [[Matchmaking|matchmaker]] in society. The number replaced "The Rumor/I Just Heard".}}
+* "Far From the Home I Love" – Hodel
+* "Chavaleh (Little Bird)" – Tevye
+* "Anatevka" – The Company
+{{col-end}}
+{{notelist}}
+
+==Principal characters==
+All of the characters are Jewish, except as noted:
+* [[Tevye]], a poor milkman with five daughters. A firm supporter of the traditions of his faith, he finds many of his convictions tested by the actions of his three oldest daughters.
+* Golde, Tevye's sharp-tongued wife. 
+*Tzeitel, their oldest daughter, about nineteen. She loves her childhood friend Motel and marries him, even though he's poor, begging her father not to force her to marry Lazar Wolf.
+*Hodel, their daughter, about seventeen. Intelligent and spirited, she falls in love with Perchik and later joins him in Siberia.
+*Chava, their daughter, about fifteen. A shy and bookish girl, who falls in love with Fyedka.
+* Motel Kamzoil, a poor but hardworking tailor who loves, and later marries, Tzeitel.
+* Perchik, a student revolutionary who comes to Anatevka and falls in love with Hodel. He leaves for Kyiv, is arrested and exiled to Siberia. 
+* Fyedka, a young Christian. He shares Chava's passion for reading and is outraged by the Russians' treatment of the Jews. 
+* Lazar Wolf, the wealthy village butcher. Widower of Fruma-Sarah. Attempts to arrange a marriage for himself to Tzeitel.
+* Yente, the gossipy village matchmaker who matches Tzeitel and Lazar.
+* Grandma Tzeitel, Golde's dead grandmother, who rises from the grave in Tevye's "nightmare".
+* Fruma-Sarah, Lazar Wolf's dead wife, who also rises from the grave in the "nightmare".
+* Rabbi, the wise village leader.
+* Constable, the head of the local Russian police, a Christian.
+
+==Casts==
+
+{|class="wikitable" style="width:100%;"
+|-
+! rowspan="2"|Character
+! Broadway
+! West End
+! Broadway revival
+! Broadway revival
+! West End revival
+! Broadway Revival
+! West End revival
+! Broadway Revival
+! West End revival
+! Broadway revival
+! West End revival
+|-
+! {{Small|1964}}
+! {{Small|1967}}
+! {{Small|1976}}
+! {{Small|1981}}
+! {{Small|1983}}
+! {{Small|1990}}
+! {{Small|1994}}
+! {{Small|2004}}
+! {{Small|2007}}
+! {{Small|2015}}
+! {{Small|2019}}
+|-
+! Tevye
+| style="text-align:center;" | [[Zero Mostel]]
+| style="text-align:center;" | [[Chaim Topol]]
+| style="text-align:center;" | [[Zero Mostel]]
+| style="text-align:center;" | [[Herschel Bernardi]]
+| style="text-align:center;" colspan="3" | [[Chaim Topol]]
+| style="text-align:center;" | [[Alfred Molina]]
+| style="text-align:center;" | [[Henry Goodman]]
+| style="text-align:center;" | [[Danny Burstein]]
+| style="text-align:center;" | [[Andy Nyman]]
+|-
+! Golde
+| style="text-align:center;" | [[Maria Karnilova]]
+| style="text-align:center;" | [[Miriam Karlin]]
+| style="text-align:center;" | Thelma Lee
+| style="text-align:center;" | [[Maria Karnilova]]
+| style="text-align:center;" | [[Thelma Ruby]]
+| style="text-align:center;" | [[Marcia Lewis]]
+| style="text-align:center;" | [[Sara Kestelman]]
+| style="text-align:center;" | [[Randy Graff]]
+| style="text-align:center;" | Beverley Klein
+| style="text-align:center;" | [[Jessica Hecht]]
+| style="text-align:center;" | [[Judy Kuhn]]
+|-
+! Tzeitel
+| style="text-align:center;" | [[Joanna Merlin]]
+| style="text-align:center;" | [[Rosemary Nicols]]
+| style="text-align:center;" | Elizabeth Hale
+| style="text-align:center;" | Lori Ada Jaroslow
+| style="text-align:center;" | [[Jane Gurnett]]
+| style="text-align:center;" | [[Sharon Lawrence]]
+| style="text-align:center;" | Jacquelyn Yorke
+| style="text-align:center;" | [[Sally Murphy (actress)|Sally Murphy]]
+| style="text-align:center;" | Frances Thoburn
+| style="text-align:center;" | [[Alexandra Silber]]
+| style="text-align:center;" | Molly Osborne
+|-
+! Hodel
+| style="text-align:center;" | [[Julia Migenes]]
+| style="text-align:center;" | Linda Gardner
+| style="text-align:center;" | Christopher Callan
+| style="text-align:center;" | Donalyn Petrucci
+| style="text-align:center;" | Andrea Levine
+| style="text-align:center;" | Tia Riebling
+| style="text-align:center;" | Jo John
+| style="text-align:center;" | [[Laura Michelle Kelly]]
+| style="text-align:center;" | [[Alexandra Silber]]
+| style="text-align:center;" | [[Samantha Massell]]
+| style="text-align:center;" | Harriet Bunton
+|-
+! Chava
+| style="text-align:center;" | Tanya Evertt
+| style="text-align:center;" | Caryl Little
+| style="text-align:center;" | Nancy Tomkins
+| style="text-align:center;" | [[Liz Larsen]]
+| style="text-align:center;" | [[Lisa Jacobs (actress)|Lisa Jacobs]]
+| style="text-align:center;" | Jennifer Prescott
+| style="text-align:center;" | Adi Topol-Margalith
+| style="text-align:center;" | Tricia Paoluccio
+| style="text-align:center;" | Natasha Broomfield
+| style="text-align:center;" | [[Melanie Moore]]
+| style="text-align:center;" | Nicola Brown
+|-
+! Motel Kamzoil
+| style="text-align:center;" | [[Austin Pendleton]]
+| style="text-align:center;" | [[Jonathan Lynn]]
+| style="text-align:center;" | Irwin Pearl
+| style="text-align:center;" | [[Michelan Sisti]]
+| style="text-align:center;" | Peter Whitman
+| style="text-align:center;" | [[Jack Kenny]]
+| style="text-align:center;" | Neil Rutherford
+| style="text-align:center;" | [[John Cariani]]
+| style="text-align:center;" | Gareth Kennerley
+| style="text-align:center;" | [[Adam Kantor]]
+| style="text-align:center;" | Joshua Gannon
+|-
+! Perchik
+| style="text-align:center;" | [[Bert Convy]]
+| style="text-align:center;" | [[Sandor Elès]]
+| style="text-align:center;" | [[Jeff Keller]]
+| style="text-align:center;" | James Werner
+| style="text-align:center;" | Steven Mann
+| style="text-align:center;" | Gary Schwartz
+| style="text-align:center;" | [[Peter Darling]]
+| style="text-align:center;" | [[Robert Petkoff]]
+| style="text-align:center;" | [[Damian Humbley]]
+| style="text-align:center;" | [[Ben Rappaport]]
+| style="text-align:center;" | Stewart Clarke
+|-
+! Fyedka
+| style="text-align:center;" | Joe Ponazecki
+| style="text-align:center;" | Tim Goodman
+| style="text-align:center;" | Rick Friesen
+| style="text-align:center;" | Joel Robertson
+| style="text-align:center;" | Christopher Snell
+| style="text-align:center;" | [[Ron Bohmer]]
+| style="text-align:center;" | Kieran Creggan
+| style="text-align:center;" | David Ayers
+| style="text-align:center;" | Michael Conway
+| style="text-align:center;" | Nick Rehberger
+| style="text-align:center;" | Matthew Hawksley
+|-
+! Lazar Wolf
+| style="text-align:center;" | [[Michael Granger]]
+| style="text-align:center;" | [[Paul Whitsun-Jones]]
+| style="text-align:center;" colspan="2" | [[Paul Lipson]]
+| style="text-align:center;" | [[David Jackson (actor)|David Jackson]]
+| style="text-align:center;" | Mark Zeller
+| style="text-align:center;" | David Bacon
+| style="text-align:center;" | David Wohl
+| style="text-align:center;" | [[Victor McGuire]]
+| style="text-align:center;" | Adam Dannheisser
+| style="text-align:center;" | Dermot Canavan
+|-
+! Yente
+| style="text-align:center;" | [[Beatrice Arthur]]
+| style="text-align:center;" | Cynthia Grenville
+| style="text-align:center;" colspan="2" | Ruth Jaroslow
+| style="text-align:center;" | [[Maria Charles]]
+| style="text-align:center;" | Ruth Jaroslow
+| style="text-align:center;" | Margaret Robertson
+| style="text-align:center;" | [[Nancy Opel]]
+| style="text-align:center;" | [[Julie Legrand]]
+| style="text-align:center;" | Alix Korey
+| style="text-align:center;" | [[Louise Gold]]
+|}
+
+=== Notable replacements ===
+;Broadway (1964–72)
+*'''Tevye:''' [[Luther Adler]], [[Herschel Bernardi]], [[Harry Goz]], [[Paul Lipson]]
+*'''Golde:''' [[Peg Murray]], [[Martha Schlamme]], [[Dolores Wilson]]
+*'''Tzeitel:''' [[Rosalind Harris]], [[Bette Midler]]
+*'''Hodel:''' [[Adrienne Barbeau]], [[Susan Hufford]]
+*'''Perchik:''' [[Leonard Frey]], [[Michael Zaslow]]
+*'''Lazar Wolf:''' [[Paul Lipson]]
+*'''Yente:''' [[Florence Stanley]]
+
+;Broadway revival (1990–91)
+*'''Perchik:''' [[Brad Little (actor)|Brad Little]]
+
+;Broadway revival (2004–06)
+*'''Tevye:''' [[Harvey Fierstein]]
+*'''Golde:''' [[Andrea Martin]], [[Rosie O'Donnell]]
+*'''Yente:''' [[Barbara Barrie]]
+
+;Broadway revival (2015–16)
+*'''Golde:''' [[Judy Kuhn]]
+*'''Lazar Wolf:''' [[Steven Skybell]]
+
+==Productions==
+===Original productions===
+===Broadway revivals===
+===London revivals===
+===Other notable UK productions===
+===Australian productions===
+===Other notable North American productions===
+===International and amateur productions===
+== Recordings ==
+== 1971 film ==
+==Cultural influence==
+===Parodies===
+===Covers===
+===Other===
+==Awards==
+==Notes==
+===References===
+==References==
+==Further reading==
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+cast included [[Zero Mostel]].
+starred [[Herschel Bernardi]].
+starred [[Danny Burstein]].
+starring [[Henry Goodman]].
+starring [[Andy Nyman]].
+starring [[Joe McGann]].
+starring [[Paul Michael Glaser]].
+starring [[Omid Djalili]].
+starred [[Hayes Gordon]].
+starred [[Scott Wentworth]].

@@ -22,13 +22,17 @@ import { metaRouter } from './routes/meta.js';
 import { lookupRouter } from './routes/lookup.js';
 import { festivalsRouter } from './routes/festivals.js';
 import { DEFAULT_FESTIVALS_SEED, seedFestivalsIfEmpty, defaultFestivalResolver } from './lib/festivals.js';
+import { catalogRouter } from './routes/catalog.js';
+import { catalogPathFromEnv, loadCatalogAtStartup } from './lib/catalog.js';
+import { budgetedFetch, appleBudgetFromEnv } from './lib/apple-budget.js';
 
 /**
  * @typedef {object} AppContext
  * @property {import('better-sqlite3').Database} db
  * @property {string} uploadsDir
  * @property {string} mediaDir
- * @property {typeof fetch} fetchImpl
+ * @property {typeof fetch} fetchImpl every outgoing request; calls to Apple's iTunes API share one
+ *   site-wide budget (STAR_APPLE_LIMIT a minute, lib/apple-budget.js)
  * @property {Record<string, string|undefined>} env
  * @property {TtlCache} cache
  * @property {VersionedCache} catalogCache
@@ -67,7 +71,7 @@ export function trustProxyWarning(trustProxyEnv, host, port) {
     + ' (set HOST=127.0.0.1, or firewall the port) — otherwise clients can fake their IP address.';
 }
 
-const MULTIPART_ROUTES = [/^\/songs\/\d+\/audio\/?$/, /^\/shows\/\d+\/image\/?$/];
+const MULTIPART_ROUTES = [/^\/songs\/\d+\/audio\/?$/, /^\/songs\/\d+\/artwork\/?$/, /^\/shows\/\d+\/image\/?$/];
 
 /** Human-readable timestamp + request line for log entries. */
 const requestTag = (req) => `${new Date().toISOString()} ${req.method} ${req.originalUrl} user=${req.user?.id ?? '-'}`;
@@ -75,12 +79,15 @@ const requestTag = (req) => `${new Date().toISOString()} ${req.method} ${req.ori
 /**
  * @param {{ db: import('better-sqlite3').Database, uploadsDir: string, mediaDir: string,
  *   clientDistDir?: string|null, fetchImpl?: typeof fetch, env?: Record<string, string|undefined>,
- *   logger?: { info: Function, warn: Function, error: Function }, festivalsSeedPath?: string|null }} opts
+ *   logger?: { info: Function, warn: Function, error: Function }, festivalsSeedPath?: string|null,
+ *   catalogPath?: string|null }} opts
  *   festivalsSeedPath: seed/festivals.json by default — loaded only while the festivals table is empty.
+ *   catalogPath: the song catalog (SPEC §7c), loaded when its version changed; default STAR_CATALOG_PATH
+ *   or seed/catalog/catalog.json.gz; null = don't load (tests).
  */
 export function createApp({
   db, uploadsDir, mediaDir, clientDistDir = null, fetchImpl = globalThis.fetch, env = process.env, logger = console,
-  festivalsSeedPath = DEFAULT_FESTIVALS_SEED,
+  festivalsSeedPath = DEFAULT_FESTIVALS_SEED, catalogPath,
 }) {
   if (!db) throw new Error('createApp: db is required');
   ensureUploadDirs(uploadsDir);
@@ -92,7 +99,7 @@ export function createApp({
     db,
     uploadsDir,
     mediaDir,
-    fetchImpl,
+    fetchImpl: budgetedFetch(fetchImpl, appleBudgetFromEnv(env)),
     env,
     cache: new TtlCache({ ttlMs: 60 * 60 * 1000, max: 500 }),
     catalogCache: new VersionedCache(() => catalogVersion(db)),
@@ -118,6 +125,10 @@ export function createApp({
   } catch (err) {
     ctx.log.warn(`⚠️  Couldn't check STAR_DEFAULT_FESTIVAL: ${err.message}`);
   }
+
+  // Song catalog (SPEC §7c): a deploy with a new catalog file reloads it here (one transaction,
+  // a few seconds for ~100k songs); unchanged → just re-links site rows. Never fatal.
+  loadCatalogAtStartup(db, catalogPath === undefined ? catalogPathFromEnv(env) : catalogPath, ctx.log);
 
   // STAR_ADMIN_EMAILS: startup only, and only for accounts that existed when the email was listed
   // (signup doesn't prove anyone owns an address — see applyAdminEmails).
@@ -217,6 +228,7 @@ export function createApp({
   api.use(ctx.limiters.writes);
   api.use('/auth', authRouter(ctx));
   api.use('/lookup', lookupRouter(ctx));
+  api.use('/catalog', catalogRouter(ctx));
   api.use('/me', meRouter(ctx));
   api.use('/admin', adminRouter(ctx));
   api.use('/', commentsRouter(ctx));

@@ -1,0 +1,383 @@
+{
+ "version": "2026-09-27.28",
+ "generatedAt": "2026-09-27T23:49:52.508Z",
+ "unchanged": true,
+ "sha256": "b85f24dbc6db990300197854a5247d5f346f9c2ce61562ae4aa5e50df6c1b809",
+ "shows": 2927,
+ "showsWithSongs": 1890,
+ "showsWithSingers": 1320,
+ "songs": 39932,
+ "songsWithSingers": 22777,
+ "songsWithSingersOrEnsemble": 26582,
+ "songsSung": 38877,
+ "songsInstrumental": 1055,
+ "songsReprise": 2929,
+ "songsEnsemble": 11540,
+ "soloGuesses": 7411,
+ "duetGuesses": 4830,
+ "characters": 19968,
+ "showsWithCharacters": 1572,
+ "charactersWithVoiceType": 1998,
+ "coverage": {
+  "composer": 2470,
+  "lyricist": 2082,
+  "bookWriter": 2332,
+  "year": 2906,
+  "description": 2802,
+  "genres": 998,
+  "altTitles": 507
+ },
+ "bySource": {
+  "wikidata": 2571,
+  "category": 330,
+  "rescue": 21,
+  "override": 5
+ },
+ "byKind": {
+  "musical": 2524,
+  "operetta": 327,
+  "revue": 76
+ },
+ "songSections": {
+  "musical numbers": 1097,
+  "songs": 410,
+  "song list": 219,
+  "track listing (track listing)": 15,
+  "music": 14,
+  "numbers": 14,
+  "list of musical numbers": 13,
+  "tracks (track listing)": 4,
+  "cast recording (track listing)": 3,
+  "musical numbers (english adaptation)": 3,
+  "original cast recording (track listing)": 3,
+  "scenes and musical numbers": 3,
+  "songs and scenes": 3,
+  "1927 song list": 2,
+  "album (track listing)": 2,
+  "list of songs": 2,
+  "musical highlights": 2,
+  "original song list": 2,
+  "recordings (track listing)": 2,
+  "songs (broadway)": 2,
+  "songs (partial)": 2,
+  "songs and recordings": 2,
+  "subpage:album": 2,
+  "track list (track listing)": 2,
+  "1965 cast album song list": 1,
+  "broadway song list": 1,
+  "cast album (track listing)": 1,
+  "cast recording (1995 production) (track listing)": 1,
+  "confirmed songs": 1,
+  "english musical numbers": 1,
+  "list of musical numbers in the first version": 1,
+  "list of numbers": 1,
+  "music (songs and instrumentals)": 1,
+  "music and cast album": 1,
+  "music and cast recording": 1,
+  "music numbers": 1,
+  "music numbers in the original set": 1,
+  "musical numbers (1995 workshop)": 1,
+  "musical numbers (2006-07)": 1,
+  "musical numbers (2013 concert version)": 1,
+  "musical numbers (2013 west end production)": 1,
+  "musical numbers (adrian ross version)": 1,
+  "musical numbers (from english-language adaptation)": 1,
+  "musical numbers (original version)": 1,
+  "musical numbers (select)": 1,
+  "musical numbers and instrumentation": 1,
+  "musical numbers and sketches (in order of performance)": 1,
+  "musical numbers/songs in this production": 1,
+  "musical numbers/tracklisting": 1,
+  "notable musical numbers": 1,
+  "off-broadway cast recording": 1,
+  "original broadway song list": 1,
+  "original cast album (track listing)": 1,
+  "original cast album song list": 1,
+  "original cast recording track listing (track listing)": 1,
+  "original czech production song list": 1,
+  "original hungarian production song list": 1,
+  "original london cast recording": 1,
+  "original song list (prior to cuts)": 1,
+  "original us production musical numbers": 1,
+  "partial song list": 1,
+  "principal songs": 1,
+  "program and songs": 1,
+  "recording (track listing)": 1,
+  "revue sketches and songs overview": 1,
+  "scene and song list": 1,
+  "scenes and music": 1,
+  "scenes and songs": 1,
+  "selected songs": 1,
+  "selections on the cast album": 1,
+  "song list (original version)": 1,
+  "song numbers": 1,
+  "songs (2007)": 1,
+  "songs (english version)": 1,
+  "songs (includes all versions)": 1,
+  "songs (london version)": 1,
+  "songs (original score order)": 1,
+  "songs (per 1954 published score from harms, inc. – new world music corp.)": 1,
+  "songs and music": 1,
+  "songs and sketches": 1,
+  "songs from the broadway version": 1,
+  "songs in the original production": 1,
+  "songs include": 1,
+  "songs included": 1,
+  "structure and musical numbers": 1,
+  "studio cast recording (2022) (track listing)": 1,
+  "synopsis and songs": 1,
+  "the musical — scenes, songs and poetry": 1,
+  "tracklist (track listing)": 1,
+  "tracks (2001) (track listing)": 1,
+  "workshop song list": 1
+ },
+ "singersSource": {
+  "characters": 1328,
+  "none": 532,
+  "actors-dropped": 30
+ },
+ "subpagesFollowed": 2,
+ "songsFromLaterProductionLists": 135,
+ "songsFromListNotes": 3,
+ "excluded": {
+  "blocked-class": 368,
+  "film/tv": 153,
+  "non-stage-disambiguator": 126,
+  "fallback:film/tv": 33,
+  "fallback:blocked-class": 32,
+  "not-stage-class": 30,
+  "fallback:non-stage-disambiguator": 22,
+  "fallback:non-stage-description": 21,
+  "fallback:opera-not-comic": 17,
+  "song": 11,
+  "fallback:list-article": 4,
+  "list-article": 1,
+  "override: Epic: The Musical - a concept-album series, not a staged work": 1,
+  "override: Harry Potter and the Cursed Child - a play": 1,
+  "override: Love (Cirque du Soleil) - a contemporary-circus show set to the Beatles' recordings (found only through Category:2006 musicals), not a stage musical": 1,
+  "override: Lovestruck: The Musical - a TV film": 1,
+  "override: The Tropicana Holiday - a Las Vegas striptease/showgirl revue, not a stage musical students perform (found only through Category:Revues)": 1
+ },
+ "dropped": {
+  "redirect": 29,
+  "duplicate": 12
+ },
+ "gateRejected": 19,
+ "gzipBytes": 1264901,
+ "jsonBytes": 8351729,
+ "spotCheck": [
+  {
+   "wikiTitle": "Hamilton (musical)",
+   "key": "Q19320959",
+   "songs": 47,
+   "withSingers": 47,
+   "characters": 14
+  },
+  {
+   "wikiTitle": "Wicked (musical)",
+   "key": "Q616439",
+   "songs": 21,
+   "withSingers": 20,
+   "characters": 8
+  },
+  {
+   "wikiTitle": "Les Misérables (musical)",
+   "key": "Q830581",
+   "songs": 48,
+   "withSingers": 44,
+   "characters": 10
+  },
+  {
+   "wikiTitle": "Six (musical)",
+   "key": "Q60752083",
+   "songs": 14,
+   "withSingers": 7,
+   "characters": 6
+  },
+  {
+   "wikiTitle": "Heathers: The Musical",
+   "key": "Q5694229",
+   "songs": 26,
+   "withSingers": 26,
+   "characters": 16
+  },
+  {
+   "wikiTitle": "Be More Chill (musical)",
+   "key": "Q30668248",
+   "songs": 27,
+   "withSingers": 24,
+   "characters": 12
+  },
+  {
+   "wikiTitle": "Hadestown",
+   "key": "Q28452845",
+   "songs": 33,
+   "withSingers": 30,
+   "characters": 6
+  },
+  {
+   "wikiTitle": "Newsies (musical)",
+   "key": "Q7019676",
+   "songs": 25,
+   "withSingers": 17,
+   "characters": 8
+  },
+  {
+   "wikiTitle": "Matilda the Musical",
+   "key": "Q1407282",
+   "songs": 26,
+   "withSingers": 20,
+   "characters": 6
+  },
+  {
+   "wikiTitle": "Mean Girls (musical)",
+   "key": "Q28453248",
+   "songs": 25,
+   "withSingers": 25,
+   "characters": 12
+  },
+  {
+   "wikiTitle": "Beetlejuice (musical)",
+   "key": "Q55639292",
+   "songs": 22,
+   "withSingers": 22,
+   "characters": 12
+  },
+  {
+   "wikiTitle": "Dear Evan Hansen",
+   "key": "Q20899421",
+   "songs": 19,
+   "withSingers": 19,
+   "characters": 8
+  },
+  {
+   "wikiTitle": "Waitress (musical)",
+   "key": "Q22075256",
+   "songs": 22,
+   "withSingers": 18,
+   "characters": 9
+  },
+  {
+   "wikiTitle": "Come from Away",
+   "key": "Q23838574",
+   "songs": 23,
+   "withSingers": 8,
+   "characters": 16
+  },
+  {
+   "wikiTitle": "Anastasia (musical)",
+   "key": "Q24199422",
+   "songs": 32,
+   "withSingers": 29,
+   "characters": 6
+  },
+  {
+   "wikiTitle": "Frozen (musical)",
+   "key": "Q30597506",
+   "songs": 24,
+   "withSingers": 21,
+   "characters": 14
+  },
+  {
+   "wikiTitle": "Into the Woods",
+   "key": "Q1118244",
+   "songs": 31,
+   "withSingers": 29,
+   "characters": 21
+  },
+  {
+   "wikiTitle": "Guys and Dolls",
+   "key": "Q796988",
+   "songs": 20,
+   "withSingers": 16,
+   "characters": 19
+  },
+  {
+   "wikiTitle": "Oklahoma!",
+   "key": "Q1364648",
+   "songs": 19,
+   "withSingers": 16,
+   "characters": 11
+  },
+  {
+   "wikiTitle": "Rent (musical)",
+   "key": "Q553890",
+   "songs": 42,
+   "withSingers": 39,
+   "characters": 26
+  },
+  {
+   "wikiTitle": "Spring Awakening (musical)",
+   "key": "Q579927",
+   "songs": 19,
+   "withSingers": 14,
+   "characters": 35
+  },
+  {
+   "wikiTitle": "In the Heights",
+   "key": "Q12810054",
+   "songs": 25,
+   "withSingers": 25,
+   "characters": 13
+  },
+  {
+   "wikiTitle": "Legally Blonde (musical)",
+   "key": "Q2200020",
+   "songs": 25,
+   "withSingers": 23,
+   "characters": 12
+  },
+  {
+   "wikiTitle": "The Prom (musical)",
+   "key": "Q55635481",
+   "songs": 21,
+   "withSingers": 19,
+   "characters": 9
+  },
+  {
+   "wikiTitle": "Bring It On: The Musical",
+   "key": "Q4968283",
+   "songs": 24,
+   "withSingers": 18,
+   "characters": 12
+  },
+  {
+   "wikiTitle": "Kinky Boots (musical)",
+   "key": "Q6413943",
+   "songs": 19,
+   "withSingers": 17,
+   "characters": 12
+  },
+  {
+   "wikiTitle": "Next to Normal",
+   "key": "Q1533983",
+   "songs": 37,
+   "withSingers": 33,
+   "characters": 7
+  },
+  {
+   "wikiTitle": "Something Rotten!",
+   "key": "Q19954807",
+   "songs": 20,
+   "withSingers": 17,
+   "characters": 11
+  },
+  {
+   "wikiTitle": "Shrek the Musical",
+   "key": "Q251667",
+   "songs": 33,
+   "withSingers": 27,
+   "characters": 7
+  },
+  {
+   "wikiTitle": "Operation Mincemeat (musical)",
+   "key": "Q115517196",
+   "songs": 22,
+   "withSingers": 15,
+   "characters": 5
+  }
+ ],
+ "unknownTemplates": {
+  "0": 1
+ }
+}

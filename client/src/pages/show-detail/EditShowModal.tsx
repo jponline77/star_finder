@@ -1,7 +1,8 @@
 /**
  * "Edit show" modal (owner or admin): name, credits, year, licensor, licensing note (admins),
- * description, Wikipedia link and the poster — upload a file (POST /api/shows/:id/image),
- * fetch it from Wikipedia (sends `imageUrl`), or remove it (`imageUrl: null`).
+ * description, Wikipedia link, the poster — upload a file (POST /api/shows/:id/image),
+ * fetch it from Wikipedia (sends `imageUrl`), or remove it (`imageUrl: null`) — and the song-catalog
+ * link (`catalogShowId`: CatalogLinkField).
  * PUT /api/shows/:id is a partial update, so only the shown fields are sent.
  *
  * data-testids: edit-show-modal, edit-show-form, show-name, show-composer, show-lyricist,
@@ -17,6 +18,7 @@ import { Modal } from '../../components/Modal';
 import { formatBytes } from '../../lib/format';
 import { hostOf, isHttpsUrl } from '../../lib/links';
 import type { Show, ShowInput } from '../../types';
+import { CatalogLinkField, catalogLinkBody, type CatalogLinkChoice } from './CatalogLinkField';
 
 export const SHOW_LIMITS = { name: 120, credit: 120, licensor: 120, licensingNote: 600, description: 1200, wikiUrl: 500 } as const;
 export const IMAGE_MAX_BYTES = 5 * 1024 * 1024;
@@ -93,6 +95,7 @@ export function EditShowModal({ open, show, isAdmin, onClose, onSaved }: EditSho
   const [formError, setFormError] = useState<string | null>(null);
   const [saving, setSaving] = useState(false);
   const [wikiState, setWikiState] = useState<{ status: 'idle' | 'loading' | 'done' | 'error'; message?: string }>({ status: 'idle' });
+  const [catalogLink, setCatalogLink] = useState<CatalogLinkChoice>({ mode: 'keep' });
   const fileRef = useRef<HTMLInputElement>(null);
 
   // fresh form every time it opens
@@ -103,6 +106,7 @@ export function EditShowModal({ open, show, isAdmin, onClose, onSaved }: EditSho
     setErrors({});
     setFormError(null);
     setWikiState({ status: 'idle' });
+    setCatalogLink({ mode: 'keep' });
   }, [open, show]);
 
   // release object URLs
@@ -209,6 +213,12 @@ export function EditShowModal({ open, show, isAdmin, onClose, onSaved }: EditSho
     if (isAdmin) body.licensingNote = clean(values.licensingNote);
     if (poster.type === 'wiki') body.imageUrl = poster.url;
     if (poster.type === 'remove') body.imageUrl = null;
+    if (catalogLink.mode === 'pick' && !catalogLink.id) {
+      setErrors((e2) => ({ ...e2, catalogShowId: 'Pick a catalog show from the search, or choose another option.' }));
+      return;
+    }
+    const link = catalogLinkBody(catalogLink);
+    if (link !== undefined) body.catalogShowId = link;
     setSaving(true);
     try {
       let saved = await updateShow(show.id, body);
@@ -361,6 +371,20 @@ export function EditShowModal({ open, show, isAdmin, onClose, onSaved }: EditSho
               )}
             </Field>
             {text('wikiUrl', 'Wikipedia link', { testId: 'show-wiki-url', inputMode: 'url', placeholder: 'https://en.wikipedia.org/wiki/…' })}
+            <CatalogLinkField
+              catalogShowId={show.catalogShowId ?? null}
+              value={catalogLink}
+              onChange={(c) => {
+                setCatalogLink(c);
+                setErrors((e) => {
+                  if (!('catalogShowId' in e)) return e;
+                  const n = { ...e };
+                  delete n.catalogShowId;
+                  return n;
+                });
+              }}
+              error={errors.catalogShowId}
+            />
           </div>
         </div>
       </form>

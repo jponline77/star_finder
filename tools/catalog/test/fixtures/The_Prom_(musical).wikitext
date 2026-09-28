@@ -1,0 +1,128 @@
+{{Infobox Musical
+| name = The Prom
+| image = ThePromOriginalBroadwayPoster.jpg
+| image_size = 220px
+| caption = Original Broadway Poster
+| music = [[Matthew Sklar]]
+| lyrics = [[Chad Beguelin]]
+| book = [[Bob Martin (comedian)|Bob Martin]] <br /> Chad Beguelin
+| basis = Original concept<br />by [[Jack Viertel]]
+| premiere_date = August 18, 2016
+| premiere_location = [[Alliance Theatre]], [[Atlanta, Georgia|Atlanta]]
+| productions = 2016 [[Atlanta, Georgia|Atlanta]]<br /> 2018 [[Broadway theatre|Broadway]]<br /> 2021 US tour
+<br />2022 [[Mexico City, Mexico|Mexico City]]
+| awards = [[Drama Desk Award for Outstanding Musical]]
+}}
+== Background ==
+==Productions==
+===Atlanta (2016)===
+===Broadway (2018)===
+=== U.S. tour (2021) ===
+=== Switzerland (2021) ===
+=== Spain (2025) ===
+==Plot==
+=== Act One ===
+=== Act Two ===
+==Musical numbers==
+{{col-begin}}
+{{col-2}}
+;Act I
+* Overture - Orchestra
+*"Changing Lives" - Dee Dee, Barry, Ensemble
+*"Changing Lives" (Mini-Reprise) - Barry †
+*"Changing Lives" (Reprise) - Dee Dee, Barry, Angie, Trent
+*"Just Breathe" - Emma
+*"It's Not About Me" - Dee Dee, Barry, Angie, Trent, Parents, Students
+*"Dance with You" - Emma, Alyssa
+*"The Acceptance Song" - Trent, Dee Dee, Barry, Angie, Godspell Cast
+*"You Happened" - Emma, Alyssa, Kevin, Nick, Students
+*"We Look to You" - Mr. Hawkins
+*"Tonight Belongs to You" - Barry, Emma, Mrs. Greene, Shelby, Kaylee, Students
+*"Tonight Belongs to You" (Reprise) - Emma ‡{{col-break}}
+
+{{col-2}}
+;Act II
+* Entr'acte - Orchestra †
+*"Zazz" - Angie, Emma
+*"The Lady's Improving" - Dee Dee
+*"Love Thy Neighbor" - Trent, Students, Godspell Cast
+*"Alyssa Greene" - Alyssa
+*"Barry Is Going to Prom" - Barry
+*"Unruly Heart" - Emma, LGBTQ Students
+*"Changing Lives (Act 2 Reprise)" - Barry, Dee Dee, Trent, Angie, Sheldon, Mr. Hawkins †
+*"It's Time to Dance" - Emma, Alyssa, Company
+{{col-end}}
+
+† - Not included on the original Broadway cast recording.
+
+‡ - Included on the Movie soundtrack, but not the Broadway cast recording
+
+=== Recording ===
+
+== Characters and casts ==
+{| class="wikitable" style="width:10000;"
+|-
+! rowspan="2" | Character
+! Atlanta
+! Broadway
+!US National Tour
+|-
+!<small>2016</small>
+!<small>2018</small>
+!<small>2021</small>
+|-
+! Emma Nolan
+| colspan="2" align="center" | [[Caitlin Kinnunen]]
+| align="center" | Kaden Kearney
+|-
+! Dee Dee Allen
+| colspan="2" align="center" | [[Beth Leavel]]
+| align="center"| Courtney Balan
+|-
+! Barry Glickman 
+| colspan="2" align="center" | [[Brooks Ashmanskas]]
+| align="center" | Patrick Wetzel
+|-
+! Alyssa Greene
+| align="center" | [[Anna Grace Barlow]]
+| align="center" | [[Isabelle McCalla]]
+| align="center" | Kalyn West
+|-
+! Trent Oliver
+| colspan="2" align="center" | [[Christopher Sieber]]
+| align="center" | Bud Weber
+|-
+! Angie Dickinson
+| colspan="2" align="center" | [[Angie Schworer]]
+| align="center" | Emily Borromeo
+|-
+! Tom Hawkins
+| align="center" | [[Martin Moran (actor)|Martin Moran]]
+| align="center" | [[Michael Potts (actor)|Michael Potts]]
+| align="center" | Sinclair Mitchell
+|-
+! Mrs. Greene
+| colspan="2" align="center" | Courtenay Collins
+| align="center" | Ashanti J'Aria
+|-
+! Sheldon Saperstein
+| colspan="2" align="center" | Josh Lamon
+| align="center" | Shavey Brown
+|}
+
+===Notable replacements===
+'''Broadway'''
+*'''Tom Hawkins:''' [[Michael Genet]]
+
+== Critical reception ==
+== Other ==
+==Awards and nominations==
+=== Broadway production ===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Musical|Best Musical]] [[Tony Award for Best Book of a Musical|Best Book of a Musical]] [[Chad Beguelin]] [[Bob Martin (comedian)|Bob Martin]] [[Tony Award for Best Original Score|Best Original Score]] [[Matthew Sklar]] [[Tony Award for Best Actor in a Musical|Best Leading Actor in a Musical]] [[Brooks Ashmanskas]] [[Tony Award for Best Actress in a Musical|Best Leading Actress in a Musical]] [[Caitlin Kinnunen]] [[Beth Leavel]] [[Tony Award for Best Direction of a Musical|Best Direction of a Musical]] [[Casey Nicholaw]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Musical|Outstanding Musical]] [[Drama Desk Award for Outstanding Book of a Musical|Outstanding Book of a Musical]] [[Drama Desk Award for Outstanding Lyrics|Outstanding Lyrics]] [[Drama Desk Award for Outstanding Actor in a Musical|Outstanding Actor in a Musical]] [[Drama Desk Award for Outstanding Actress in a Musical|Outstanding Actress in a Musical]] [[Outer Critics Circle Award]] [[Drama League Award]]
+|}
+== Novelization ==
+== See also ==
+==References==
+==External links==

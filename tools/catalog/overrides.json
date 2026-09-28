@@ -1,0 +1,32 @@
+{
+  "_comment": "Manual corrections applied after the Wikidata selection and the Wikipedia-category fallback. forceInclude: stage works that Wikidata types as opera/album or not at all (value = why). forceExclude: false positives (value = why). preferList: which of an article's production lists to use when its own notes can't tell the builder (value = { label: a regex matched against the list's label, why }). Keys are Wikidata QIDs.",
+  "forceInclude": {
+    "Q740920": "Porgy and Bess - typed as an opera, but widely performed as musical theatre and sung at STAR",
+    "Q5737404": "Here Lies Love - the item is typed as an album; the article covers the staged musical",
+    "Q124022523": "Paddington: The Musical - 2025 item has no type yet",
+    "Q131747572": "Just in Time (musical) - 2025 item has no type yet",
+    "Q7623880": "Striking 12 - an Off-Broadway stage musical (2006); the article's first infobox is its cast album's",
+    "Q7426602": "Saturday's Warrior - a 1973 stage musical (Category:1973 musicals); the article also covers the 1989 film, whose infobox comes first"
+  },
+  "forceExclude": {
+    "Q12125897": "Lovestruck: The Musical - a TV film",
+    "Q20711488": "Harry Potter and the Cursed Child - a play",
+    "Q131373019": "Epic: The Musical - a concept-album series, not a staged work",
+    "Q7770334": "The Tropicana Holiday - a Las Vegas striptease/showgirl revue, not a stage musical students perform (found only through Category:Revues)",
+    "Q2511457": "Love (Cirque du Soleil) - a contemporary-circus show set to the Beatles' recordings (found only through Category:2006 musicals), not a stage musical"
+  },
+  "preferList": {
+    "Q251667": {
+      "label": "^US tour",
+      "why": "Shrek the Musical - the article's notes say Dragon's \"Forever\" replaced \"Donkey Pot Pie\" from the first tour on in all subsequent productions; the US tour list is the licensed version"
+    },
+    "Q7775315": {
+      "label": "^London",
+      "why": "The Witches of Eastwick - the original London production's score (\"Eye of the Beholder\" …); the lists that name singers are later regional/foreign productions"
+    },
+    "Q5046194": {
+      "label": "^Off-Broadway revival",
+      "why": "Carrie (musical) - the 2012 Off-Broadway revival is the rewritten version that is licensed and performed today (\"Dreamer in Disguise\", \"You Shine\"); the 1988 Broadway list is the withdrawn original"
+    }
+  }
+}

@@ -1,0 +1,180 @@
+{{Infobox Musical
+| name = Hadestown
+| image = Hadestown musical poster.png
+| caption = Broadway promotional poster.
+| music = [[Anaïs Mitchell]]
+| lyrics = Anaïs Mitchell
+| book = Anaïs Mitchell
+| basis = [[Orpheus and Eurydice]] and [[Persephone#Abduction_myth|Hades and Persephone]]
+| productions = 2016 [[off-Broadway]] <br /> 2018 [[London]]<br /> 2019 [[Broadway theatre|Broadway]]<br/>2021 North American tour <br /> 2024 [[West End theatre|West End]]
+| awards = [[Tony Award for Best Musical]]<br />[[Tony Award for Best Original Score]]
+}}
+== Synopsis ==
+=== Act I ===
+=== Act II ===
+==Musical numbers==
+There are 33 songs performed over the two acts:''''''
+{{col-begin}}
+{{col-2}}
+; Act I
+* "Road to Hell" – Hermes, Company
+* "Any Way the Wind Blows" – Eurydice, The Fates
+* "Come Home With Me" – Orpheus, Eurydice, Hermes, Workers
+* "Wedding Song" – Orpheus, Eurydice, Workers
+* "Epic I" – Orpheus, Hermes
+* "Livin' it Up on Top" – Persephone, Hermes, Orpheus, Company
+* "All I've Ever Known" – Eurydice, Orpheus
+* "Way Down Hadestown" – Company
+* "A Gathering Storm" – Hermes, Orpheus, Eurydice, The Fates
+* "Epic II" – Orpheus
+* "Chant" – Company
+* "Hey, Little Songbird" – Hades, Eurydice
+* "When the Chips Are Down" – The Fates, Eurydice
+* "Gone, I'm Gone" – Eurydice, The Fates
+* "Wait for Me" – Hermes, Orpheus, The Fates, Workers
+* "Why We Build the Wall" – Hades, Company
+
+{{col-2}}
+; Act II 
+* "Our Lady of the Underground" – Persephone
+* "Way Down Hadestown" (reprise) – Hermes, The Fates, Eurydice, Workers
+* "Flowers" – Eurydice
+* "Come Home With Me" (reprise) – Orpheus, Eurydice
+* "Papers" – Hades, Company
+* "Nothing Changes" – The Fates
+* "If It's True" – Orpheus, Hermes, Workers
+* "How Long?" – Persephone, Hades
+* "Chant" (reprise) – Company
+* "Epic III" – Orpheus, Company
+* "Promises" – Eurydice, Orpheus
+* "Word to the Wise" – The Fates
+* "His Kiss, the Riot" – Hades
+* "Wait for Me" (reprise) – Hermes, Company
+* "Doubt Comes In" – Orpheus, Eurydice, The Fates, Workers
+* "Road to Hell" (reprise) – Hermes, Company
+* "We Raise our Cups" – Persephone, Eurydice, Company
+{{col-end}}
+
+== Productions ==
+=== Early versions (2006–2012) ===
+=== Off-Broadway (2016) ===
+=== Canada (2017) ===
+=== London (2018) ===
+=== Broadway (2019–present) ===
+=== South Korea (2021–2022) ===
+=== North American national tour (2021–2024) ===
+=== North American national tour (2024–present) ===
+=== West End (2024–present) ===
+=== Australia (2025) ===
+=== Netherlands (2025) ===
+=== Upcoming productions ===
+== Casts ==
+
+Original casts of original production and major-market revivals of ''Hadestown'':
+{| class="wikitable"
+! rowspan="2" |Character
+!Concept Album
+!Off-Broadway
+!Broadway
+!North American Tour
+!West End
+|-
+!<small>2010</small>
+!<small>2016</small>
+!<small>2019</small>
+!<small>2021</small>
+!<small>2024</small>
+|-
+![[Orpheus]]
+| colspan="1" align="center" | [[Justin Vernon]]
+| colspan="1" align="center" | [[Damon Daunno]]
+| colspan="1" align="center" | [[Reeve Carney]]
+| colspan="1" align="center" | [[Nicholas Barasch]]
+| colspan="1" align="center" | [[Dónal Finn]]
+|-
+![[Eurydice]]
+| colspan="1" align="center" | [[Anaïs Mitchell]]
+| colspan="1" align="center" | [[Nabiyah Be (actress)|Nabiyah Be]]
+| colspan="1" align="center" | [[Eva Noblezada]]
+| colspan="1" align="center" | Morgan Siobhan Green
+| colspan="1" align="center" | [[Grace Hodgett Young]]
+|-
+![[Hades]]
+| colspan="1" align="center" | [[Greg Brown (folk musician)|Greg Brown]]
+| colspan="2" align="center" | [[Patrick Page]]
+| colspan="1" align="center" | [[Kevyn Morrow]]
+| colspan="1" align="center" | [[Zachary James]]
+|-
+![[Persephone]]
+| colspan="1" align="center" | [[Ani DiFranco]]
+| colspan="2" align="center" | [[Amber Gray]]
+| colspan="1" align="center" | Kimberly Marable
+| colspan="1" align="center" | Gloria Onitiri
+|-
+![[Hermes]]
+| colspan="1" align="center" | [[The Low Anthem|Ben Knox Miller]]
+| colspan="1" align="center" | [[Chris Sullivan (actor)|Chris Sullivan]]
+| colspan="1" align="center" | [[André De Shields]]
+| colspan="1" align="center" | [[Levi Kreis]]
+| colspan="1" align="center" | [[Melanie La Barrie]]
+|-
+![[Moirai|The Fates]]
+| colspan="1" align="center" | [[The Haden Triplets]]
+| colspan="1" align="center" | Lulu Fall<br>Jessie Shelton<br>[[Shaina Taub]]
+| colspan="1" align="center" | Jewelle Blackman<br>Kay Trinidad<br>[[Yvette González-Nacer]]
+| colspan="1" align="center" | Belén Moyano<br>Bex Odorisio<br>Shea Renne
+| colspan="1" align="center" | Bella Brown<br>Madeline Charlemagne<br>Allie Daniel
+|}
+
+=== Notable replacements ===
+
+;Broadway (2019–)
+*Orpheus: [[Jordan Fisher]], [[Carlos Valdes (actor)|Carlos Valdes]], [[Ali Louis Bourzgui]], [[Jack Wolfe (actor)|Jack Wolfe]], [[Joshua Colley]]
+*Eurydice: [[Solea Pfeiffer]], [[Lola Tung]], [[Isa Briones]], [[Maia Reficco]], [[Hailey Kilgore]], [[Myra Molloy]], [[Morgan Dudley]], [[Jasmin Savoy Brown]]
+*Hades: [[Tom Hewitt (actor)|Tom Hewitt]], [[Phillip Boykin]], [[Paulo Szot]], [[Gary Dourdan]], [[Ben Davis (singer)|Ben Davis]]
+*Persephone: [[Lana Gordon]], [[Betty Who]], [[Ani DiFranco]], [[Yola (singer)|Yola]], [[Allison Russell]], [[Merle Dandridge]], [[Rebecca Naomi Jones]], [[Gaby Moreno]], [[Amber Iman]]
+*Hermes: [[Lillias White]], [[Jon Jon Briones]], [[Stephanie Mills]], [[Daniel Breaker]], [[Kurt Elling]], [[J. Harrison Ghee]], [[Norbert Leo Butz]]
+
+;North American Tour (2021–2024)
+*Persephone: [[Maria-Christina Oliveras]], [[Lana Gordon]]
+*Hermes: [[Nathan Lee Graham]]
+
+;West End (2024–)
+* Orpheus: [[Reeve Carney]], [[Nathan Sykes]]
+* Eurydice: [[Eva Noblezada]], [[Bethany Antonia]]
+* Hades: [[Trevor Dion Nicholas]], [[Phillip Boykin]], [[Patrick Page]], [[Chris Jarman]], [[Shaun Dooley]]
+* Persephone: [[Rachel Tucker]], [[Amber Gray]], [[Victoria Hamilton-Barritt]], [[Nicola Roberts]], [[Rachel Adedeji]], [[Danielle de Niese]]
+* Hermes: [[André De Shields]], [[Daniel Breaker]], [[Clive Rowe]]
+
+== Recordings ==
+==Themes==
+== Reception ==
+==Awards and nominations==
+===Off-Broadway production===
+{|
+|-
+| links || [[American Academy of Arts and Letters]] [[Richard Rodgers Award for Musical Theater]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Musical|Outstanding Musical]] [[Drama Desk Award for Outstanding Lighting Design for a Musical|Outstanding Lighting Design for a Musical]] [[Bradley King (Lighting Designer)|Bradley King]] [[Drama League Award]] [[Lucille Lortel Awards]] [[Patrick Page]] [[Amber Gray]] [[Chris Sullivan (actor)|Chris Sullivan]] [[Rachel Hauck]] [[Outer Critics Circle Award]] [[Outer Critics Circle Award for Outstanding New Off-Broadway Musical|Outstanding New Off-Broadway Musical]]
+|}
+===Edmonton production===
+{|
+|-
+| links || [[Elizabeth Sterling Haynes Award]] [[Rachel Chavkin]] [[Amber Gray]]
+|}
+=== Broadway production ===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Musical|Best Musical]] [[Tony Award for Best Book of a Musical|Best Book of a Musical]] [[Anaïs Mitchell]] [[Tony Award for Best Original Score|Best Original Score]] [[Tony Award for Best Actress in a Musical|Best Performance by an Actress in a Leading Role in a Musical]] [[Eva Noblezada]] [[Tony Award for Best Featured Actor in a Musical|Best Performance by an Actor in a Featured Role in a Musical]] [[André De Shields]] [[Patrick Page]] [[Tony Award for Best Featured Actress in a Musical|Best Performance by an Actress in a Featured Role in a Musical]] [[Amber Gray]] [[Tony Award for Best Scenic Design in a Musical|Best Scenic Design in a Musical]] [[Tony Award for Best Costume Design in a Musical|Best Costume Design in a Musical]] [[Tony Award for Best Lighting Design in a Musical|Best Lighting Design in a Musical]] [[Tony Award for Best Sound Design|Best Sound Design of a Musical]] [[Tony Award for Best Direction of a Musical|Best Direction of a Musical]] [[Rachel Chavkin]] [[Tony Award for Best Choreography|Best Choreography]] [[Tony Award for Best Orchestrations|Best Orchestrations]] [[Michael Chorney]] [[Todd Sickafoose]] [[Drama Desk Awards]] [[Drama Desk Award for Outstanding Featured Actor in a Musical|Outstanding Featured Actor in a Musical]] [[Drama Desk Award for Outstanding Director of a Musical|Outstanding Director of a Musical]] [[Drama Desk Award for Outstanding Choreography|Outstanding Choreography]] [[Drama Desk Award for Outstanding Scenic Design of a Musical|Outstanding Scenic Design for a Musical]] [[Drama Desk Award for Outstanding Costume Design of a Musical|Outstanding Costume Design for a Musical]] [[Drama Desk Award for Outstanding Lighting Design of a Musical|Outstanding Lighting Design for a Musical]] [[Drama Desk Award for Outstanding Sound Design in a Musical|Outstanding Sound Design in a Musical]] [[Drama League Awards]] [[Outer Critics Circle Awards]] [[Reeve Carney]] [[Chita Rivera Awards for Dance and Choreography|Chita Rivera Awards]]
+|}
+=== West End production ===
+{|
+|-
+| links || [[Laurence Olivier Awards]] [[Laurence Olivier Award for Best Musical Revival|Best Musical Revival]] [[WhatsOnStage Awards]] [[Melanie La Barrie]]
+|}
+== References ==
+== External links ==
+
+== Actors mentioned in prose (fixture) ==
+starred [[Damon Daunno]].
+cast included Daunno as Orpheus, [[Amber Gray]], [[Shaina Taub]], [[Taylor Mac]].
+starred [[Nicholas Barasch]].
+cast included [[Christine Anu]].

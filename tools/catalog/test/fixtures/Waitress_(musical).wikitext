@@ -1,0 +1,210 @@
+{{Infobox musical
+| name = Waitress
+| image = Waitress musical Broadway poster.jpg
+| image_size = 220px
+| caption = 2016 Broadway poster
+| music = [[Sara Bareilles]]
+| lyrics = Sara Bareilles
+| book = [[Jessie Nelson (filmmaker)|Jessie Nelson]]
+| basis = ''[[Waitress (2007 film)|Waitress]]''<br />by [[Adrienne Shelly]]
+| premiere_date = {{Start date|2015|08|19}}
+| premiere_location = [[American Repertory Theater]], [[Cambridge, Massachusetts|Cambridge]]
+| productions = 2015 Cambridge <br />2016 [[Broadway theatre|Broadway]]<br />2017 US tour<br />2019 [[West End theatre|West End]]<br />2019 US tour<br />2021 Broadway<br />2021 UK tour<br />2022 US tour<br />2026 UK tour
+}}
+==Background==
+== Synopsis ==
+=== Act I ===
+=== Act II ===
+==Productions==
+=== Cambridge, Massachusetts (2015) ===
+=== Broadway (2016–2020) ===
+=== Broadway (2021) ===
+=== US national tours ===
+=== West End (2019–2020) ===
+=== UK and Ireland tours (2021–2022; 2026–present) ===
+=== International productions ===
+=== Filmed stage production ===
+==Music==
+
+=== Musical numbers ===
+; 2016 Broadway Production
+{{col-begin}}
+{{col-2}}
+; Act I
+* "What's Inside" – Jenna and Ensemble
+* "Opening Up" – Jenna, Becky, Dawn, Cal and Company
+* "The Negative" – Becky, Dawn and Jenna
+* "What Baking Can Do" – Jenna and Ensemble
+* "Club Knocked Up" – Female Ensemble
+* "Pomatter Pie" – Band
+* "When He Sees Me" – Dawn
+* "It Only Takes a Taste" – Dr. Jim Pomatter and Jenna
+* "You Will Still Be Mine" – Earl and Jenna
+* "A Soft Place to Land" – Jenna, Becky and Dawn
+* "Never Ever Getting Rid of Me" – Ogie and Ensemble
+* "Bad Idea" – Jenna, Dr. Pomatter and Ensemble
+{{col-break}}
+
+; Act II
+* "I Didn't Plan It" – Becky
+* "Bad Idea" (Reprise) – Jenna, Dr. Pomatter, Becky, Cal, Dawn, Ogie and Ensemble
+* "You Matter to Me" – Dr. Pomatter and Jenna
+* "I Love You Like a Table" – Ogie, Dawn and Ensemble
+* "Take It From an Old Man" – Joe and Ensemble‡
+* "[[She Used to Be Mine (Sara Bareilles song)|She Used to Be Mine]]" – Jenna
+* "Contraction Ballet" – Jenna and Company
+* "What's Inside (Reprise)" – Company *
+* "Everything Changes" – Jenna, Becky, Dawn and Company
+* "Opening Up" (Finale) – Company{{col-end}}
+
+<nowiki>*</nowiki>Not included on Original Broadway Cast Recording.
+
+===Recordings===
+
+==Casts and characters==
+
+{| class="wikitable sortable" style="width:1000;"
+|+
+|-
+! rowspan=2|Character
+! align="center" |Workshop 
+! align="center" |American Repertory Theater
+! align="center" |Broadway
+! align="center" |US tour 
+! align="center" |West End 
+! align="center" |Broadway{{efn|This cast is also featured in the live stage recording ''[[Waitress: The Musical]]''.}}
+! align="center" |UK tour
+! align="center" |UK tour
+|-
+! <small>2014</small>
+! <small>2015</small>
+! <small>2016</small>
+! <small>2017</small>
+! colspan=1|<small>2019</small>
+! colspan="2" |<small>2021</small>
+! <small>2026</small>
+|-
+! Jenna
+| align="center" colspan="3" |[[Jessie Mueller]]
+| align="center" | [[Desi Oakley]]
+| align="center" | [[Katharine McPhee]]
+| align="center" | [[Sara Bareilles]]
+| align="center" | [[Lucie Jones]]
+| align="center" | [[Carrie Hope Fletcher]]
+|-
+! Dr. Pomatter
+| align="center" | [[Bryce Pinkham]]
+| align="center" colspan="2" | [[Drew Gehling]]
+| align="center" | Bryan Fenkart
+| align="center" | [[David Hunter (actor)|David Hunter]]
+| align="center" | [[Drew Gehling]]
+| align="center" | [[Matt Willis]]
+| align="center" | [[Dan Partridge]]
+|-
+! Becky
+| align="center" colspan="3" | [[Keala Settle]]
+| align="center" | [[Charity Angél Dawson]]
+| align="center" | [[Marisha Wallace]]
+| align="center" | [[Charity Angél Dawson]]
+| align="center" colspan="2" | Sandra Marvin
+|-
+! Dawn
+| align="center" | [[Barrett Wilbert Weed]]
+| align="center" | [[Jeanna de Waal]]
+| align="center" | [[Kimiko Glenn]]
+| align="center" | Lenne Klingaman
+| align="center" | Laura Baldwin
+| align="center" | Caitlin Houlahan
+| align="center" colspan="2" | [[Evelyn Hoskins]]
+|-
+! Joe
+| align="center" colspan="3" |[[Dakin Matthews]]
+| align="center" | [[Larry Marshall (actor)|Larry Marshall]]
+| align="center" | [[Shaun Prendergast]]
+| align="center" | [[Dakin Matthews]]
+| align="center" | [[Michael Starke]]
+| align="center" | [[Les Dennis]]
+|-
+! Ogie
+| align="center" | [[Christopher Fitzgerald (actor)|Christopher Fitzgerald]]
+| align="center" | Jeremy Morse
+| align="center" | [[Christopher Fitzgerald (actor)|Christopher Fitzgerald]]
+| align="center" | Jeremy Morse
+| align="center" | [[Jack McBrayer]]
+| align="center" | [[Christopher Fitzgerald (actor)|Christopher Fitzgerald]]
+| align="center" | George Crawford
+| align="center" | Mark Anderson
+|-
+! Earl
+| align="center" | [[Andy Karl]]
+| align="center" | [[Joe Tippett]] 
+| align="center" | [[Nick Cordero]]
+| align="center" | Nick Bailey
+| align="center" | Peter Hannah
+| align="center" | [[Joe Tippett]]
+| align="center" | Tamlyn Henderson
+| align="center" | Mark Willshire
+|-
+! Cal
+| align="center" colspan="3" |[[Eric Anderson (actor)|Eric Anderson]]
+| align="center" | Ryan G. Dunkin
+| align="center" | Stephen Leask
+| align="center" | [[Eric Anderson (actor)|Eric Anderson]]
+| align="center" | Christopher D. Hunt
+| align="center" | Dan O'Brien
+|-
+! Nurse Norma
+| align="center" | Amber Iman
+| align="center" colspan=2 | [[Charity Angél Dawson]]
+| align="center" | Maiesha McQueen
+| align="center" | [[Kelly Agbowu]]
+| align="center" | Anastacia McCleskey
+| align="center" | Scarlet Gabriel
+| align="center" | Ellie Ruiz Rodriguez
+|}
+{{notelist}}
+
+=== Notable replacements ===
+==== Broadway (2016–2020; 2021) ====
+
+* '''Jenna Hunterson:''' [[Sara Bareilles]], [[Betsy Wolfe]], [[Katharine McPhee]], [[Nicolette Robinson]], [[Shoshana Bean]], [[Alison Luff]], [[Jordin Sparks]], [[Jennifer Nettles]], [[Ciara Renée]]
+* '''Jim Pomatter:''' [[Chris Diamantopoulos]], [[Jason Mraz]], [[Gavin Creel]], [[Joey McIntyre]], [[Jeremy Jordan (actor, born 1984)|Jeremy Jordan]], [[Mark Evans (actor)|Mark Evans]], [[Joshua Henry]]
+* '''Becky:''' [[Charity Angél Dawson]]
+* '''Dawn:''' [[Jenna Ushkowitz]], [[Katie Lowes]], [[Colleen Ballinger]]
+* '''Joe:''' [[Larry Marshall (actor)|Larry Marshall]], [[John Cullum]], [[Lee Wilkof]], [[Steve Vinovich]], [[Bill Nolte]], [[Al Roker]], [[June Squibb]] (as Josie), [[Richard Kline]]
+* '''Ogie Anhorn:''' [[Alex Wyse]], [[Eddie Jemison]], [[Noah Galvin]], [[Todrick Hall]], [[Nik Dodani]]
+* '''Earl Hunterson:''' [[Will Swenson (actor)|Will Swenson]], [[Joe Tippett]]
+
+==== US tour (2017–2019) ====
+* '''Joe:''' [[Bill Nolte]], [[Richard Kline]]
+
+==== West End (2019–2020) ====
+* '''Jenna Hunterson:''' [[Lucie Jones]], [[Sara Bareilles]], [[Desi Oakley]]
+* '''Jim Pomatter:''' [[Gavin Creel]]
+* '''Dawn:''' [[Ashley Roberts]], [[Hannah Tointon]], [[Evelyn Hoskins]]
+* '''Ogie Anhorn:''' [[Blake Harrison]], [[Joe Sugg]]
+
+==== UK tour (2021–2022) ====
+* '''Jenna Hunterson:''' [[Chelsea Halfpenny]]
+* '''Jim Pomatter:''' [[David Hunter (actor)|David Hunter]]
+
+==Critical response==
+== Awards and nominations ==
+===Original Broadway production===
+{|
+|-
+| links || [[Tony Awards]] [[Tony Award for Best Musical|Best Musical]] [[Tony Award for Best Original Score|Best Original Score]] [[Tony Award for Best Actress in a Musical|Best Performance by a Leading Actress in a Musical]] [[Tony Award for Best Featured Actor in a Musical|Best Performance by a Featured Actor in a Musical]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Musical|Outstanding Musical]] [[Drama Desk Award for Outstanding Actress in a Musical|Outstanding Actress in a Musical]] [[Drama Desk Award for Outstanding Featured Actor in a Musical|Outstanding Featured Actor in a Musical]] [[Drama Desk Award for Outstanding Book of a Musical|Outstanding Book of a Musical]] [[Drama Desk Award for Outstanding Music|Outstanding Music]] [[Drama Desk Award for Outstanding Lyrics|Outstanding Lyrics]] [[Drama League Award]] [[Outer Critics Circle Award]] [[Grammy Award]] [[Grammy Award for Best Musical Theater Album|Best Musical Theater Album]]
+|}
+===Original West End production===
+{|
+|-
+| links || [[2020 Laurence Olivier Awards|Laurence Olivier Awards]] [[Laurence Olivier Award for Best New Musical|Best New Musical]] [[Laurence Olivier Award for Best Original Score or New Orchestrations|Original Score or New Orchestrations]] [[Sara Bareilles]]
+|}
+== References ==
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+starred [[Keri Russell]].
+played by [[Chelsea Halfpenny]].
+starred [[Mitsuki Takahata]].
+starring [[Natalie Bassingthwaighte]].

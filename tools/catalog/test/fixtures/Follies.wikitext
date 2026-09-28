@@ -1,0 +1,380 @@
+{{Infobox Musical
+| image = Pfollies.jpeg
+| name = Follies
+| caption = Original Broadway windowcard with artwork by [[David Edward Byrd]]
+| music = [[Stephen Sondheim]]
+| lyrics = Stephen Sondheim
+| book = [[James Goldman]]
+| basis = 
+| productions = {{Plain list|
+* 1971 [[Broadway theatre|Broadway]]
+* 1972 [[Los Angeles]]
+* 1985 [[Lincoln Center]] concert
+* 1987 [[West End theatre|West End]]
+* 2001 Broadway [[revival (theatre)|revival]]
+* 2002 Los Angeles
+* 2002 West End revival
+* 2007 [[New York City Center]] concert
+* 2011 [[Washington, D.C.]]
+* 2011 Broadway revival
+* 2012 Los Angeles
+* 2012 [[Madrid]]
+* 2017 London revival
+}}
+| awards = {{Plain list|
+* 1971 – [[New York Drama Critics Award]] for Best Musical
+* 1972 – [[Tony Award for Best Score]]
+* 1971 – [[Drama Desk Award for Outstanding Music]]
+* 1971 – [[Drama Desk Award for Outstanding Lyrics]]
+* 1987 – [[Laurence Olivier Award for Best New Musical|Laurence Olivier Award for Musical of the Year]]
+* 2012 – [[Drama Desk Award for Outstanding Revival of a Musical]]
+* 2018 – [[Laurence Olivier Award for Best Musical Revival]]
+}}
+| image_size = 
+}}
+==Background==
+==Plot==
+==Songs==
+
+The song list as initially produced on Broadway in 1971:
+
+* "Prologue" – Orchestra
+* "Overture" – Orchestra
+* "Beautiful Girls" – Roscoe and Company
+* "Don't Look at Me" – Sally and Ben
+* "Waiting for the Girls Upstairs" – Ben, Sally, Phyllis and Buddy, Young Ben, Young Sally, Young Phyllis and Young Buddy
+* "Montage" ("Rain on the Roof"/"Ah, Paris!"/"{{ill|Broadway Baby (song)|lt=Broadway Baby|it|Broadway Baby}}") – Emily, Theodore, Solange, and Hattie
+* "The Road You Didn't Take" – Ben
+* "Bolero d'Amour" – Danced by Vincent and Vanessa ≠≠
+* "In Buddy's Eyes" – Sally
+* "Who's That Woman?" – Stella and Company
+* "[[I'm Still Here (Follies song)|I'm Still Here]]" – Carlotta
+* "Too Many Mornings" – Ben and Sally
+* "The Right Girl" – Buddy
+* "One More Kiss" – Heidi and Young Heidi
+* "[[Could I Leave You? (song)|Could I Leave You?]]" – Phyllis
+* "Loveland" – Company
+* "You're Gonna Love Tomorrow" / "Love Will See Us Through" – Young Ben, Young Sally, Young Phyllis and Young Buddy
+* "The God-Why-Don't-You-Love-Me Blues" – Buddy, "Margie", "Sally"
+* "[[Losing My Mind]]" – Sally
+* "The Story of Lucy and Jessie" – Phyllis and backup male dancers ≠
+* "Live, Laugh, Love" – Ben and Company
+* "Chaos" – Ben and Company
+* "Finale" – Young Buddy and Young Ben
+
+≠≠ Omitted from some productions
+
+==Analysis==
+==Versions==
+==Productions==
+===1971 original Broadway===
+===1972 Los Angeles===
+=== 1979 Australian Premiere ===
+===1985 Wythenshawe and Lincoln Center===
+===1987 West End===
+===U.S. regional productions===
+===1996 and 1998 concerts===
+====Dublin concert====
+====London concert====
+====Sydney concert====
+===1998 Paper Mill Playhouse===
+===2001 Broadway revival===
+===2002 London revival===
+===2002 Los Angeles===
+===2003 Ann Arbor===
+===2007 New York City Center Encores!===
+===2011 Kennedy Center and Broadway===
+===2012 Los Angeles===
+===2013 Toulon Opera House (France)===
+===2016 Australian concert version===
+===2017 London revival===
+===2024 Carnegie Hall concert===
+==Casts and characters==
+The characters and original cast:
+{| class="wikitable" style="width:1000;"
+|-
+! rowspan="2"|Character
+! Broadway
+! Lincoln Center
+! West End
+! Paper Mill Playhouse
+! 1st Broadway revival
+! 1st West End revival
+! City Center Encores!
+! 2nd Broadway revival
+! Royal Albert Hall
+! Australian Ccncert
+!London
+!London revival
+|-
+!{{Small|1971}}
+!{{Small|1985}}
+!{{Small|1987}}
+!{{Small|1998}}
+!{{Small|2001}}
+!{{Small|2002}}
+!{{Small|2007}}
+!{{Small|2011}}
+!{{Small|2015}}
+!{{Small|2016}}
+!{{Small|2017}}
+!{{Small|2019}}
+|-
+! Sally Durant Plummer
+|colspan='1' align=center| [[Dorothy Collins]]
+|colspan='1' align=center| [[Barbara Cook]]
+|colspan='1' align=center| [[Julia McKenzie]]
+|colspan='1' align=center| [[Donna McKechnie]]
+|colspan='1' align=center| [[Judith Ivey]]
+|colspan='1' align=center| [[Kathryn Evans]]
+|colspan='1' align=center| [[Victoria Clark]]
+|colspan='1' align=center| [[Bernadette Peters]]
+|colspan='1' align=center| [[Ruthie Henshall]]
+|colspan='1' align=center| [[Lisa McCune]]
+|colspan='1' align=center| [[Imelda Staunton]]
+|colspan='1' align=center| [[Joanna Riding]]
+|-
+! Benjamin Stone
+|colspan='1' align=center| [[John McMartin]]
+|colspan='1' align=center| [[George Hearn]]
+|colspan='1' align=center| [[Daniel Massey (actor)|Daniel Massey]]
+|colspan='1' align=center| [[Laurence Guittard]]
+|colspan='1' align=center| [[Gregory Harrison]]
+|colspan='1' align=center| David Durham
+|colspan='1' align=center| [[Victor Garber]]
+|colspan='1' align=center| [[Ron Raines]]
+|colspan='1' align=center| [[Alexander Hanson (actor)|Alexander Hanson]]
+|colspan='2' align=center| [[Philip Quast]]
+|colspan="1" align=center| [[Alexander Hanson (actor)|Alexander Hanson]]
+|-
+! Phyllis Rogers Stone
+|colspan='1' align=center| [[Alexis Smith]]
+|colspan='1' align=center| [[Lee Remick]]
+|colspan='1' align=center| [[Diana Rigg]]
+|colspan='1' align=center| [[Dee Hoty]]
+|colspan='1' align=center| [[Blythe Danner]]
+|colspan='1' align=center| [[Louise Gold]]
+|colspan='1' align=center| [[Donna Murphy]]
+|colspan='1' align=center| [[Jan Maxwell]]
+|colspan='1' align=center| [[Christine Baranski]]
+|colspan='1' align=center| Anne Wood
+|colspan="2" align=center| [[Janie Dee]]
+|-
+! Buddy Plummer
+|colspan='1' align=center| [[Gene Nelson]]
+|colspan='1' align=center| [[Mandy Patinkin]]
+|colspan='1' align=center| [[David Healy (actor)|David Healy]]
+|colspan='1' align=center| [[Tony Roberts (actor)|Tony Roberts]]
+|colspan='1' align=center| [[Treat Williams]]
+|colspan='1' align=center| [[Henry Goodman]]
+|colspan='1' align=center| [[Michael McGrath (actor)|Michael McGrath]]
+|colspan='1' align=center| [[Danny Burstein]]
+|colspan='1' align=center| [[Peter Polycarpou]]
+|colspan='1' align=center| [[David Hobson (tenor)|David Hobson]]
+|colspan="2" align=center| [[Peter Forbes (actor)|Peter Forbes]]
+|-
+! Young Sally
+|colspan='1' align=center| Marti Rolph
+|colspan='1' align=center| [[Liz Callaway]]
+|colspan='1' align=center| Deborah Poplett
+|colspan='1' align=center| Danette Holden
+|colspan='1' align=center| [[Lauren Ward]]
+|colspan='1' align=center| Emma Clifford
+|colspan='1' align=center| Katie Klaus
+|colspan='1' align=center| [[Lora Lee Gayer]]
+|colspan='1' align=center| Amy Ellen Richardson
+|colspan='1' align=center|[[Sophie Wright (actress)|Sophie Wright]]
+|colspan='1' align=center| [[Alex Young (actor)|Alex Young]]
+|colspan='1' align=center| Gemma Sutton
+|-
+! Young Ben
+|colspan='1' align=center| Kurt Peterson
+|colspan='1' align=center| [[Howard McGillin]]
+|colspan='1' align=center| Simon Green
+|colspan='1' align=center| [[Michael Gruber (actor)|Michael Gruber]]
+|colspan='1' align=center| Richard Roland
+|colspan='1' align=center| [[Hugh Maynard]]
+|colspan='1' align=center| [[Colin Donnell]]
+|colspan='1' align=center| Nick Verina
+|colspan='1' align=center| [[Alistair Brammer]]
+|colspan='1' align=center| Lachlan Graham
+|colspan='1' align=center| Adam Rhys-Charles
+|colspan='1' align=center| Ian McIntosh
+|-
+! Young Phyllis
+|colspan='1' align=center| Virginia Sandifur
+|colspan='1' align=center| Daisy Prince
+|colspan='1' align=center| [[Gillian Bevan]]
+|colspan='1' align=center| [[Meredith Patterson]]
+|colspan='1' align=center| [[Erin Dilly]]
+|colspan='1' align=center| Kerry Jay
+|colspan='1' align=center| [[Jenny Powers]]
+|colspan='1' align=center| Kirsten Scott
+|colspan='1' align=center| [[Laura Pitt-Pulford]]
+|colspan='1' align=center| Jenni Little
+|colspan='1' align=center| [[Zizi Strallen]]
+|colspan='1' align=center| Christine Tucker
+|-
+! Young Buddy
+|colspan='1' align=center| Harvey Evans
+|colspan='1' align=center|[[Jim Walton (actor)|Jim Walton]]
+|colspan='1' align=center| Evan Pappas
+|colspan='1' align=center| [[Billy Hartung (actor)|Billy Hartung]]
+|colspan='1' align=center| Joey Sorge
+|colspan='1' align=center| Matthew Cammelle
+|colspan='1' align=center| Curtis Holbrook
+|colspan='1' align=center| Christian Delcroix
+|colspan='1' align=center| Jos Slovick
+|colspan='1' align=center| [[Rowan Witt]]
+|colspan='1' align=center| Fred Haig
+|colspan='1' align=center| Henry Hepple
+|-
+! Carlotta Campion
+|colspan='1' align=center| [[Yvonne De Carlo]]
+|colspan='1' align=center| [[Carol Burnett]]
+|colspan='1' align=center| [[Dolores Gray]]
+|colspan='1' align=center| [[Ann Miller]]
+|colspan='1' align=center| [[Polly Bergen]]
+|colspan='1' align=center| [[Diane Langton]]
+|colspan='1' align=center| [[Christine Baranski]]
+|colspan='1' align=center| [[Elaine Paige]]
+|colspan='1' align=center| [[Betty Buckley]]
+|colspan='1' align=center| [[Debra Byrne]]
+|colspan="2" align=center| [[Tracie Bennett]]
+|-
+! Stella Deems
+|colspan='1' align=center| [[Mary McCarty (actress)|Mary McCarty]]
+|colspan='1' align=center| [[Phyllis Newman]]
+|colspan='1' align=center| [[Lynda Baron]]
+|colspan='1' align=center| [[Phyllis Newman]]
+|colspan='1' align=center| [[Carol Woods]]
+|colspan='1' align=center| Shezwae Powell
+|colspan='1' align=center| [[Joanne Worley]]
+|colspan='1' align=center| [[Terri White]]
+|colspan='1' align=center| [[Anita Dobson]]
+|colspan='1' align=center| [[Queenie van de Zandt]]
+|colspan="2" align=center| Dawn Hope
+|-
+! Heidi Schiller
+|colspan='1' align=center| [[Justine Johnston]]
+|colspan='1' align=center| [[Licia Albanese]]
+|colspan='1' align=center| [[Adele Leigh]]
+|colspan='1' align=center| Carol Skarimbas
+|colspan='1' align=center| [[Joan Roberts]] 
+|colspan='1' align=center| [[Julia Goss]]
+|colspan='1' align=center| [[Lucine Amara]]
+|colspan='1' align=center| [[Rosalind Elias]]
+|colspan='1' align=center| Charlotte Page
+|colspan='1' align=center| [[Cheryl Barker]]
+|colspan="1" align=center| [[Josephine Barstow]]
+|colspan="1" align=center| [[Felicity Lott]]/[[Josephine Barstow]]
+|-
+! Hattie Walker
+|colspan='1' align=center| [[Ethel Shutta]]
+|colspan='1' align=center| [[Elaine Stritch]]
+|colspan='1' align=center| [[Margaret Courtenay (actress)|Margaret Courtenay]]
+|colspan='1' align=center| [[Kaye Ballard]]
+|colspan='1' align=center| [[Betty Garrett]]
+|colspan='1' align=center| Joan Savage
+|colspan='1' align=center| [[Mimi Hines]]
+|colspan='1' align=center| [[Jayne Houdyshell]]
+|colspan='1' align=center| [[Lorna Luft]]
+|colspan='1' align=center| [[Nancye Hayes]]
+|colspan='1' align=center| [[Di Botcher]]
+|colspan='1' align=center| [[Claire Moore (singer)|Claire Moore]]
+|-
+! Dimitri Weismann
+|colspan='1' align=center| [[Arnold Moss]]
+|colspan='1' align=center| [[Andre Gregory]]
+|colspan='1' align=center| [[Leonard Sachs]]
+|colspan='1' align=center| [[Eddie Bracken]]
+|colspan='1' align=center| [[Louis Zorich]]
+|colspan='1' align=center| Russell Dixon
+|colspan='1' align=center| [[Philip Bosco]]
+|colspan='1' align=center| David Sabin
+|colspan='1' align=center| [[Alistair McGowan]]
+|colspan='1' align=center| [[Robert Grubb]]
+|colspan="2" align=center| [[Gary Raymond]]
+|}
+
+===Notable replacements===
+====Broadway (1971–1972)====
+*'''Sally Durant Plummer:''' [[Jan Clayton]] (s/b), [[Ethel Barrymore Colt]] (u/s)
+*'''Benjamin Stone:''' [[Peter Walker (actor)|Peter Walker]] (u/s)
+*'''Phyllis Rogers Stone:''' [[Marion Marlowe]] (s/b)
+*'''Buddy Plummer:''' [[Dick Latessa]] (u/s)
+*'''Young Phyllis Rogers:''' [[Suzanne Rogers]] (u/s)
+*'''Carlotta Campion:''' Marion Marlowe (s/b)
+*'''Stella Deems:''' [[Helon Blount]] (u/s)
+*'''Heidi Schiller:''' Ethel Barrymore Colt (u/s)
+*'''Hattie Walker:''' Helon Blount (u/s)
+
+====Broadway (2001)====
+*'''Buddy Plummer:''' [[Don Correia]] (s/b)
+*'''Young Sally Durant:''' [[Kelli O'Hara]] (u/s)
+*'''Young Phyllis Rogers:''' Kelli O'Hara
+*'''Carlotta Campion:''' [[Joan Marshall]] (u/s)
+*'''Stella Deems:''' Joan Marshall (u/s)
+*'''Heidi Schiller:''' [[Marni Nixon]], Joan Marshall (u/s)
+*'''Hattie Walker:''' Joan Marshall (u/s)
+
+====Broadway (2011)====
+*'''Buddy Plummer:''' Don Correia (u/s)
+
+==Critical response==
+==Recordings==
+==Film adaptation==
+==Awards and nominations==
+===Original Broadway production===
+{|
+|-
+| links || [[Drama Desk Awards]] [[Drama Desk Award for Outstanding Choreography|Outstanding Choreography]] [[Michael Bennett (theater)|Michael Bennett]] [[Drama Desk Award for Outstanding Lyrics|Outstanding Lyrics]] [[Stephen Sondheim]] [[Drama Desk Award for Outstanding Music|Outstanding Music]] [[Drama Desk Award for Outstanding Costume Design|Outstanding Costume Design]] [[Florence Klotz]] [[Drama Desk Award for Outstanding Set Design|Outstanding Set Design]] [[Boris Aronson]] [[Drama Desk Award|Outstanding Performance]] [[Alexis Smith]] [[Drama Desk Award for Outstanding Director|Outstanding Director]] [[Harold Prince]] [[New York Drama Critics' Circle|New York Drama Critics' Circle Awards]] [[James Goldman]] [[26th Tony Awards|Tony Awards]] [[Tony Award for Best Musical|Best Musical]] [[Tony Award for Best Original Score|Best Original Score]] [[Tony Award for Best Book of a Musical|Best Book of a Musical]] [[Tony Award for Best Performance by a Leading Actress in a Musical|Best Performance by a Leading Actress in a Musical]] [[Dorothy Collins]] [[Tony Award for Best Performance by a Featured Actor in a Musical|Best Performance by a Featured Actor in a Musical]] [[Gene Nelson]] [[Tony Award for Best Direction of a Musical|Best Direction of a Musical]] [[Tony Award for Best Choreography|Best Choreography]] [[Tony Award for Best Scenic Design|Best Scenic Design]] [[Tony Award for Best Costume Design|Best Costume Design]] [[Tony Award for Best Lighting Design|Best Lighting Design]] [[Tharon Musser]]
+|}
+===Original London production===
+{|
+|-
+| links || [[Laurence Olivier Awards]] [[Laurence Olivier Award|Musical of the Year]] [[Laurence Olivier Award|Actress of the Year in a Musical]] [[Julia McKenzie]]
+|}
+===2001 Broadway revival===
+{|
+|-
+| links || [[55th Tony Awards|Tony Awards]] [[Tony Award for Best Revival of a Musical|Best Revival of a Musical]] [[Tony Award for Best Performance by a Leading Actress in a Musical|Best Performance by a Leading Actress in a Musical]] [[Blythe Danner]] [[Tony Award for Best Performance by a Featured Actress in a Musical|Best Performance by a Featured Actress in a Musical]] [[Tony Award for Best Costume Design|Best Costume Design]] [[Theoni V. Aldredge]] [[Tony Award for Best Orchestrations|Best Orchestrations]] [[Drama Desk Awards]] [[Drama Desk Award for Outstanding Revival of a Musical|Outstanding Revival of a Musical]] [[Drama Desk Award for Outstanding Featured Actress in a Musical|Outstanding Featured Actress in a Musical]] [[Polly Bergen]] [[Drama Desk Award for Outstanding Orchestrations|Outstanding Orchestrations]] [[Jonathan Tunick]]
+|}
+===2011 Broadway revival===
+{|
+|-
+| links || [[66th Tony Awards|Tony Awards]] [[Tony Award for Best Revival of a Musical|Best Revival of a Musical]] [[Tony Award for Best Performance by a Leading Actor in a Musical|Best Performance by a Leading Actor in a Musical]] [[Danny Burstein]] [[Ron Raines]] [[Tony Award for Best Performance by a Leading Actress in a Musical|Best Performance by a Leading Actress in a Musical]] [[Jan Maxwell]] [[Tony Award for Best Performance by a Featured Actress in a Musical|Best Performance by a Featured Actress in a Musical]] [[Jayne Houdyshell]] [[Tony Award for Best Costume Design|Best Costume Design]] [[Gregg Barnes]] [[Tony Award for Best Lighting Design|Best Lighting Design]] [[Natasha Katz]] [[Tony Award for Best Sound Design|Best Sound Design]] [[Drama Desk Awards]] [[Drama Desk Award for Outstanding Revival of a Musical|Outstanding Revival of a Musical]] [[Drama Desk Award for Outstanding Actor in a Musical|Outstanding Actor in a Musical]] [[Drama Desk Award for Outstanding Actress in a Musical|Outstanding Actress in a Musical]] [[Bernadette Peters]] [[Drama Desk Award for Outstanding Featured Actress in a Musical|Outstanding Featured Actress in a Musical]] [[Elaine Paige]] [[Drama Desk Award for Outstanding Director of a Musical|Outstanding Director of a Musical]] [[Eric D. Schaeffer|Eric Schaeffer]] [[Drama Desk Award for Outstanding Choreography|Outstanding Choreography]] [[Warren Carlyle]] [[Drama Desk Award for Outstanding Set Design|Outstanding Set Design]] [[Derek McLane]] [[Drama Desk Award for Outstanding Costume Design|Outstanding Costume Design]] [[Drama Desk Award for Outstanding Sound Design|Outstanding Sound Design]] [[55th Annual Grammy Awards|Grammy Award]] [[Grammy Award for Best Musical Theater Album|Best Musical Theater Album]]
+|}
+===2017 London revival===
+{|
+|-
+| links || [[Critics' Circle Theatre Award]] [[Critics' Circle Theatre Award#Best Director|Best Director]] [[Dominic Cooke]] [[Critics' Circle Theatre Award#Best Designer|Best Designer]] [[Evening Standard Theatre Awards|Evening Standard Theatre Awards]] [[Evening Standard Theatre Awards#Best Musical|Best Musical]] [[Evening Standard Theatre Awards#Best Musical Performance|Best Musical Performance]] [[Janie Dee]] [[Evening Standard Theatre Awards#Best Director|Best Director]] [[2018 Laurence Olivier Awards|Laurence Olivier Awards]] [[Laurence Olivier Award for Best Musical Revival|Best Musical Revival]] [[Laurence Olivier Award for Best Actress in a Musical|Best Actress in a Musical]] [[Imelda Staunton]] [[Laurence Olivier Award for Best Actress in a Supporting Role in a Musical|Best Actress in a Supporting Role in a Musical]] [[Tracie Bennett]] [[Laurence Olivier Award for Best Director|Best Director]] [[Laurence Olivier Award for Best Theatre Choreographer|Best Theatre Choreographer]] [[Laurence Olivier Award for Best Set Design|Best Set Design]] [[Laurence Olivier Award for Best Costume Design|Best Costume Design]] [[Laurence Olivier Award for Best Lighting Design|Best Lighting Design]] [[Paule Constable]] [[Laurence Olivier Award for Outstanding Achievement in Music|Outstanding Achievement in Music]]
+|}
+==Notes==
+==References==
+==Further reading==
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+starred [[Alexis Smith]].
+cast included [[Mary Millar]].
+cast included [[Mary Millar]], [[Meg Johnson (actress)|Meg Johnson]], [[Chili Bouchier]].
+starred [[Barbara Cook]].
+cast featured [[Diana Rigg]], [[Daniel Massey (actor)|Daniel Massey]], [[Julia McKenzie]], [[David Healy (actor)|David Healy]], [[Lynda Baron]], [[Leonard Sachs]], [[Maria Charles]], [[Pearl Carr & Teddy Johnson]].
+starred [[Nancy Dussault]].
+cast included [[Kim Crosby (singer)|Kim Crosby]].
+cast included [[Kim Crosby (singer)|Kim Crosby]], [[Jeff McCarthy]], [[Lara Teeter]], [[Marni Nixon]], [[Donna McKechnie]].
+cast included [[Lorna Luft]].
+cast included [[Lorna Luft]], [[Millicent Martin]], [[Mary Millar]], [[Bryan Smyth]], [[Enda Markey]].
+starred [[Julia McKenzie]].
+starred [[Toni Lamond]].
+starred [[Donna McKechnie]].
+starred [[Blythe Danner]].
+starred [[Bob Gunton]].
+starred [[Donna Murphy]].
+cast included [[Anne Rogers]].
+cast included [[Anne Rogers]], [[Jo Anne Worley]], [[Philip Bosco]].
+cast featured Charlotte Page (Sally), [[Liz Robertson]], [[Graham Bickley]], [[Jérôme Pradon]], [[Nicole Croisille]], [[Julia Sutton (actress)|Julia Sutton]], [[Fra Fee]].
+starred [[Peter Forbes (actor)|Peter Forbes]].
+cast included [[Kate Baldwin]].
+cast included [[Kate Baldwin]], [[Julie Benko]], [[Michael Berresse]], [[Alexandra Billings]], [[Klea Blackhurst]], [[Harolyn Blackwell]], [[Stephen Bogardus]], [[Carolee Carmello]], [[Nikki Renée Daniels]], [[Christine Ebersole]], [[Hannah Elless]], [[Katie Finneran]], [[Santino Fontana]].

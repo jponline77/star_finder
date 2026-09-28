@@ -1,0 +1,135 @@
+{{Infobox musical
+| name = Meet Me in St. Louis
+| subtitle = 
+| image = Meet Me In St Louis Bway Poster.jpg
+| caption = {{plainlist|
+*Broadway windowcard
+*Illustration by [[Hilary Knight (illustrator)|Hilary Knight]]
+}}
+| music = [[Hugh Martin]]<br>[[Ralph Blane]]
+| lyrics = Hugh Martin<br>Ralph Blane
+| book = [[Hugh Wheeler]]
+| basis = ''[[Meet Me in St. Louis]]'' <br> by [[Irving Brecher]] <br> [[Fred F. Finklehoffe]] <br> ''[[Meet Me in St. Louis (novel)|Meet Me in St. Louis]]'' <br> by [[Sally Benson]]
+| productions = 1989 [[Broadway theatre|Broadway]]<br>2004 [[Off-Broadway]]<br>2006 [[Off-Broadway]] revival<br>2009 [[St. Louis, Missouri]]<br>2013 [[London]]
+| awards = 
+| image_size = 
+}}
+==Productions==
+==Plot==
+==Characters and Original cast==
+{| class="wikitable sortable" style="width:75%; text-align:center"
+|-
+! width="36%"| Character
+! width="32%"| Broadway production
+|-
+! Esther Smith
+| [[Donna Kane]]
+|-
+! John Truitt
+| Jason Workman
+|-
+! Mr. Alonzo Smith
+| [[George Hearn]]
+|-
+! Mrs. Anna Smith
+| Charlotte Moore
+|-
+! Sarah Mahala Redway "Tootie" Smith
+| [[Courtney Peldon]]
+|-
+! Katie the Maid
+| [[Betty Garrett]]
+|-
+! Alonzo "Lon" Smith Jr.
+| Michael O'Steen / David Gunderman
+|-
+! Rose Smith
+| Juliet Lambert
+|-
+! Grandpa Prophater
+| [[Milo O'Shea]]
+|-
+! Agnes Smith
+| Rachael Graham
+|-
+! Warren Sheffield
+| Peter Reardon
+|}
+
+==Songs==
+{{col-begin}}
+{{col-2}}
+; Act I
+* "[[Meet Me in St. Louis]]" *
+* "[[Be Anything But a Girl]]"
+* "[[The Boy Next Door (song)|The Boy Next Door]]" *
+* "[[Skip to My Lou]]" *
+* "[[Under the Bamboo Tree]]" *
+* "Banjos"
+* "Ghosties and Ghoulies and Things That Go Bump in the Night"
+* "Halloween Ballet"
+* "Wasn't It Fun"
+* "[[The Trolley Song]]" *
+{{col-break}}
+; Act II
+* "Ice"
+* "Raving Beauty"
+* "A Touch of the Irish"
+* "You Are for Loving"
+* "A Day in New York"
+* "The Ball"
+* "Diamonds in the Starlight"
+* "[[Have Yourself a Merry Little Christmas]]" *
+* "Paging Mr. Sousa"
+{{col-end}}
+
+''* Songs from the film also in the stage version''
+
+As of the late 1990s the order of songs was changed, some were removed and some added. The current version is as follows:
+
+{{col-begin}}
+{{col-2}}
+; Act I
+* "Overture" – Instrumental
+* "Meet Me in St. Louis" – Ensemble and Smith Family Octet
+* "The Boy Next Door" – Esther
+* "Meet Me in St. Louis" (Reprise) – Tootie, Agnes, Esther, Rose and Grandpa
+* "Whenever I'm with You" – Smith Family Octet
+* "You'll Hear a Bell" – Mrs. Smith
+* "Meet Me in St. Louis" (Reprise) – Smith Family Octet and Ensemble
+* "A Raving Beauty" – Warren and Rose
+* "Skip to My Lou" – Lon, Warren, Rose and Ensemble
+* "Drunk Song" – Tootie
+* "Under the Bamboo Tree" – Esther, Tootie and Agnes
+* "Over the Banister" – John
+* "The Trolley Song" – Esther and Ensemble
+{{col-break}}
+; Act II
+* "Entr'acte" – Instrumental
+* "Touch of the Irish" – Katie, Rose and Esther
+* "Boy Next Door" (Reprise) – John and Esther
+* "A Day in New York" – Mr. Smith, Mrs. Smith, Esther, Rose, Katie and Grandpa
+* "You'll Hear a Bell" (Reprise) – Mrs. Smith
+* "Wasn't It Fun?" – Mr. and Mrs. Smith
+* "Christmas Waltz" – Instrumental
+* "The Banjo" – Lon and Ensemble
+* "Auld Lang Syne" – Instrumental
+* "You Are for Loving" – John and Esther
+* "Have Yourself a Merry Little Christmas" – Esther
+* "Trolley Song" (Reprise) – Ensemble
+* "Meet Me in St. Louis" (Reprise) – All
+{{col-end}}
+
+;Note: The Smith Family Octet – Tootie, Agnes, Rose, Esther, Lon, Mrs. Smith, Katie  and Grandpa
+
+==Awards and nominations==
+===Original Broadway production===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Musical|Best Musical]] [[Tony Award for Best Book of a Musical|Best Book of a Musical]] [[Hugh Wheeler]] [[Tony Award for Best Original Score|Best Original Score]] [[Hugh Martin]] [[Ralph Blane]] [[Tony Award for Best Choreography|Best Choreography]] [[Joan Brickhill]] [[Theatre World Award]]
+|}
+==References==
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+cast featured [[George S. Irving]].

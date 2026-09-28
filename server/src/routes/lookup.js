@@ -1,6 +1,7 @@
 // /api/lookup/itunes and /api/lookup/wikipedia — server-side lookups with a 1 h in-memory cache.
 import { Router } from 'express';
 import { HttpError } from '../lib/errors.js';
+import { appleHttpError } from '../lib/apple-budget.js';
 import { Validator } from '../lib/validate.js';
 import { findItunesCandidates } from '../lib/itunes.js';
 import { lookupWikipedia } from '../lib/wikipedia.js';
@@ -37,7 +38,7 @@ export function lookupRouter(ctx) {
         }));
       } catch (err) {
         ctx.log.warn(`iTunes lookup failed: ${err.message}`);
-        throw new HttpError(502, "Couldn't reach Apple Music right now — try again in a bit");
+        throw appleHttpError(err, res);
       }
       cache.set(key, candidates);
     }

@@ -8,6 +8,8 @@ import {
   listSongs, listShows, listComments, listAdminUsers, getAdminUser, getUserRow, listRecentComments,
 } from '../repo.js';
 import { adminFestivalsRouter } from './festivals.js';
+import { toCatalogShow } from './catalog.js';
+import { clearCatalogShowRecording } from '../lib/catalog-recordings.js';
 
 /** @param {import('../app.js').AppContext} ctx */
 export function meRouter(ctx) {
@@ -92,6 +94,43 @@ export function adminRouter(ctx) {
   });
 
   r.use('/festivals', adminFestivalsRouter(ctx));
+
+  // ---- catalog moderation (SPEC §7c): cast albums / cast-album songs saved from Apple ----
+  // Everything users saved for catalog shows, newest first: which album, how many songs, by whom.
+  r.get('/catalog/recordings', (_req, res) => {
+    const rows = db.prepare(`SELECT sh.*, u.display_name AS saved_by_name,
+        (SELECT count(*) FROM catalog_songs cs WHERE cs.show_id = sh.id AND cs.source = 'recording') AS recording_songs
+      FROM catalog_shows sh LEFT JOIN users u ON u.id = sh.itunes_saved_by
+      WHERE sh.itunes_collection_id IS NOT NULL
+        OR EXISTS (SELECT 1 FROM catalog_songs cs WHERE cs.show_id = sh.id AND cs.source = 'recording')
+      ORDER BY sh.itunes_saved_at IS NULL, sh.itunes_saved_at DESC, sh.id`).all();
+    res.json({
+      shows: rows.map((row) => ({
+        id: row.id,
+        key: row.key,
+        title: row.title,
+        year: row.year ?? null,
+        castAlbum: toCatalogShow(row).castAlbum,
+        recordingSongs: row.recording_songs,
+        savedAt: row.itunes_saved_at ?? null,
+        savedBy: row.itunes_saved_by ? { id: row.itunes_saved_by, displayName: row.saved_by_name ?? null } : null,
+        retired: Boolean(row.retired),
+      })),
+    });
+  });
+
+  // Remove a show's saved cast album and cast-album songs (e.g. the wrong album, or offensive track
+  // names). The album is remembered as rejected for that show so it isn't picked again (?reject=0
+  // to allow it later). Site songs linked to the removed songs just lose the link.
+  r.delete('/catalog/shows/:id/recording', (req, res) => {
+    const id = parseId(req.params.id);
+    const reject = !['0', 'false', 'no'].includes(String(req.query.reject ?? '').toLowerCase());
+    const result = id ? clearCatalogShowRecording(db, id, { reject, userId: req.user.id }) : null;
+    if (!result) throw notFound('Show not found in the catalog');
+    const row = db.prepare('SELECT * FROM catalog_shows WHERE id = ?').get(id);
+    ctx.log.info(`catalog: admin #${req.user.id} removed the cast album${result.collectionId ? ` ${result.collectionId}` : ''} and ${result.removedSongs} cast-album song(s) of catalog show #${id} “${row.title}”${result.rejected ? ' (album rejected for this show)' : ''}`);
+    res.json({ show: toCatalogShow(row), removedSongs: result.removedSongs, rejectedCollectionId: result.rejected ? result.collectionId : null });
+  });
 
   return r;
 }

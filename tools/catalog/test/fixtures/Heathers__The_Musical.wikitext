@@ -1,0 +1,341 @@
+{{Infobox Musical
+| name = Heathers
+| subtitle = The Musical
+| image = Heathers The Musical Off-Broadway Poster.jpg
+| alt = 
+| caption = Off-Broadway promotional poster
+| music = {{Plainlist| 
+* [[Laurence O'Keefe (composer)|Laurence O'Keefe]]
+* [[Kevin Murphy (screenwriter)|Kevin Murphy]]}}
+| lyrics = {{Plainlist|
+* Laurence O'Keefe
+* Kevin Murphy}}
+| book = {{Plainlist|
+* Laurence O'Keefe
+* Kevin Murphy}}
+| basis = ''[[Heathers]]''<br />by [[Daniel Waters (screenwriter)|Daniel Waters]]
+| productions = 2009 Endeavor Agency <br/>2009 Hudson Theatre <br/>2009 Coast Theatre <br/>2010 Joe's Pub <br/>2013 Los Angeles<br/>2014 [[Off-Broadway]] <br/>2015 Australia<br/>2017 [[The Other Palace]] <br/>2018 [[Off West End|Off-West End]]<br/>2018 [[West End theatre|West End]] <br/>2021 [[West End theatre|West End]] Revival <br/>2021 UK & Ireland tour <br/>2021 [[Off West End|Off-West End]]<br/>2023 UK & Ireland tour <br/>2024 [[West End theatre|West End]] Revival <br/>2024 UK Tour <br/>2025 [[Off-Broadway]] Revival <br/>2026 Australia & [[New Zealand|NZ]] Tour  <br/>2026 Off-West End <br/> 2026/27 UK & Ireland Tour<br/>2027 North American Tour
+| awards = 
+| image_size = 
+}}
+== Synopsis ==
+=== Act One ===
+=== Act Two ===
+== Musical numbers ==
+{{col-begin}}
+{{col-2}}
+; Act I
+* "Beautiful" – Veronica, H. Chandler, H. McNamara, H. Duke, Kurt, Ram, Martha, Ms. Fleming and Company
+* "Candy Store" – H. Chandler, H. McNamara and H. Duke
+* "Fight for Me" – Veronica and Students
+* "Candy Store (Reprise)" † – H. Chandler, H. McNamara and H. Duke
+* "Freeze Your Brain" – J.D.
+* "Big Fun" – Ram, Kurt, Veronica, H. Chandler, H. McNamara, H. Duke, Martha, and Students
+* "Dead Girl Walking" – Veronica and J.D.
+* "Veronica's Chandler Nightmare" † – H. Chandler and Company
+* "The Me Inside of Me" – H. Chandler, Veronica, J.D., Ms. Fleming, Principal, Coach, Cops and Company
+* "You're Welcome" †† – Ram, Kurt, Veronica
+* "Never Shut Up Again" †† – H. Duke, Ram, Kurt and Ensemble 
+* "Our Love Is God" – J.D., Veronica, Ram, Kurt and Company
+{{col-break}}
+; Act II
+* "Prom or Hell?" † – Veronica
+* "My Dead Gay Son" – Ram's Dad, Kurt's Dad and Mourners
+* "Seventeen" – Veronica and J.D.
+* "Shine a Light" – Ms. Fleming and Students
+* "Lifeboat" – H. McNamara
+* "Shine a Light (Reprise)" – H. Duke, H. McNamara, and Students
+* "I Say No" †† – Veronica and Ensemble
+* "Hey Yo, Westerberg" † – H. McNamara and Students
+* "Kindergarten Boyfriend" – Martha
+* "Yo Girl" – H. Duke, H. Chandler, Ram, Kurt, Veronica, Veronica’s Dad, and Veronica's Mom
+* "Meant to Be Yours" – J.D. and Students
+* "Dead Girl Walking (Reprise)" – Veronica, J.D., Ms. Fleming, H. McNamara, and Students
+* "I Am Damaged" – J.D. and Veronica
+* "Seventeen (Reprise)" – Veronica, Martha, H. McNamara, H. Duke and Company
+{{col-end}}
+
+† Not featured on any of the cast recordings.<br />
+†† Songs added to the West End version and all future productions.
+
+== Background ==
+== Development (2009–10) ==
+== Productions ==
+=== Los Angeles (2013) ===
+=== Off-Broadway (2014) ===
+=== Australia (2015) ===
+=== London/West End productions and UK tours (2018–2024, 2026–2027) ===
+=== Off-Broadway revival (2025) ===
+=== Australia and NZ (2026) ===
+=== North American Tour (2027) ===
+=== Other productions ===
+== Cast ==
+
+{| class="wikitable" width="100%"
+|-
+! rowspan=2 scope"col" width="15%"| Character
+! Joe's Pub
+! Los Angeles
+! Off-Broadway
+! Australia
+! Off-West End
+! West End
+! Berlin
+! West End Revival
+! UK Tour
+! Off-West End Revival
+! 2022 Proshot
+! UK & Ireland Tour
+!West End Revival
+! UK Tour
+! Poland
+! Off-Broadway Revival 
+! Australia & NZ Tour
+! West End Revival
+! UK Tour
+|-
+!<small>2010</small>
+!<small>2013</small>
+!<small>2014</small>
+!2016
+! colspan="3" |<small>2018</small>
+!colspan=2|<small>2021</small>
+!colspan=2|<small>2022</small>
+!<small>2023</small>
+!colspan=3|<small>2024</small>
+!<small>2025</small>
+!colspan=3|<small>2026</small>
+|-
+! scope="row"| Veronica Sawyer
+| align="center"| [[Annaleigh Ashford]]
+| align="center" colspan="2"| [[Barrett Wilbert Weed]]
+| align="center" | Hilary Cole
+| colspan="2" align="center" | [[Carrie Hope Fletcher]]
+| align="center" | Michelle Hoffmann
+| align="center" | [[Christina Bennington]]
+| align="center" | Rebecca Wickes
+| colspan="2" align="center" | [[Ailsa Davidson]]
+| colspan="3" align="center" | Jenna Innes
+| align="center" | Natalia Kujawa
+| align="center" | [[Lorna Courtney]] 
+| align="center" | Emma Caporaso
+| colspan="2" align="center" | Gerardine Sacdalan
+|-
+! scope="row"| Jason "J.D." Dean
+| align="center"| [[Jeremy Jordan (actor, born 1984)|Jeremy Jordan]]
+| align="center" colspan="2"| [[Ryan McCartan]]
+| align="center" | Stephen Madsen
+| colspan="2" align="center" | [[Jamie Muscato]]
+| align="center" | Kevin Kolodziej
+| align="center" | [[Jordan Luke Gage]]
+| align="center" | Simon Gordon
+| align="center" | Freddie King
+| align="center" | Simon Gordon
+| align="center" | Jacob Fowler
+| colspan="2" align="center" | Keelan McAuley
+| align="center" | Maciej M. Tomaszewski
+| align="center" | [[Casey Likes]]
+| align="center" | Conor Beaumont
+| colspan="2" align="center" | Louis Hearsey
+|-
+! scope="row" | Heather Chandler
+| align="center"| [[Jenna Leigh Green]]
+| align="center"| Sarah Halford
+| align="center"| [[Jessica Keenan Wynn]]
+| align="center" | Lucy Maunder
+| colspan="2" align="center" | [[Jodie Steele]]
+| align="center" | Franziska Wiethan
+| align="center" | [[Jodie Steele]]
+| align="center" | Maddison Firth
+| align="center" | [[Emma Kingston]]
+| align="center" | Maddison Firth
+| align="center" | Verity Thompson
+| colspan="2" align="center" | Esme Bowdler
+| align="center" | Aleksandra Gotowicka
+| align="center" | [[McKenzie Kurtz]]
+| align="center" | Calista Nelmes
+| colspan="2" align="center" | Liberty Stottor
+|-
+! scope="row"| Heather McNamara
+| align="center"| Corri English
+| align="center" colspan="2"| [[Elle McLemore]]
+| align="center" | Hannah Fredericksen
+| colspan="2" align="center" | [[Sophie Isaacs]]
+| align="center" | Irina Deuble
+| align="center" | [[Frances Mayli McCann]]
+| align="center" | Lizzy Parker
+| colspan="2" align="center" | Teleri Hughes
+| align="center" | Billie Bowman
+| colspan="2" align="center" | Daisy Twells
+| align="center" | Karolina Gwóźdź
+| align="center" | [[Elizabeth Teeter]]
+| align="center" | Abigail Sharp
+| colspan="2" align="center" | Lou Henry
+|-
+! scope="row"| Heather Duke
+| align="center"| [[Christine Lakin]]
+| align="center"| Kristolyn Lloyd
+| align="center"| [[Alice Lee (actress)|Alice Lee]]
+| align="center" | Rebecca Hetherington
+| colspan="2" align="center" | T'Shan Williams
+| align="center" | Nina Knoll
+| align="center" | Bobbie Little
+| align="center" | Merryl Ansah
+| align="center" | Inez Budd
+| align="center" | [[Vivian Panka]]
+| align="center" | Elise Zavou
+| colspan="2" align="center" | Sedona Sky
+| align="center" | Joanna Gorzała
+| align="center" | Olivia Hardy
+| align="center" | Amélia Rojas
+| colspan="2" align="center" | Jessica Ibadin
+|-
+! scope="row"| Martha Dunnstock
+| align="center"| Julie Garnyé
+| align="center" colspan="2"| Katie Ladner
+| align="center" | Erin Clare
+| colspan="2" align="center" | Jenny O’Leary
+| align="center" | Julia Spang
+| align="center" | Madison Swan
+| align="center" | Mhairi Angus
+| align="center" | [[Lizzie Bea]]
+| align="center" | Mhairi Angus
+| align="center" | Kingsley Morton
+| colspan="2" align="center" | Amy Miles
+| align="center" | Marta Burdynowicz
+| align="center" | [[Erin Morton]]
+| align="center" | Mel O'Brien
+| colspan="2" align="center" | Sophie Manners
+|-
+! scope="row"| Ram Sweeney
+| align="center"| PJ Griffith
+| align="center" colspan="2"| Jon Eidson
+| align="center" | Vincent Hooper
+| colspan="2" align="center" | Dominic Andersen
+| align="center" | Matthias Busch
+| align="center" | [[Joaquin Pedro Valdes]]
+| align="center" | Rory Phelan
+| align="center" | Tom Scanlon
+| align="center" | Rory Phelan
+| align="center" | Morgan Jackson
+| colspan="2" align="center" | Jason Battersby
+| align="center" | Jędrzej Czerwonogrodzki
+| align="center" | Xavier McKinnon 
+| align="center" | David Cuny
+| colspan="2" align="center" | Beau Jackson
+|-
+! scope="row"| Kurt Kelly
+| align="center" | [[James Snyder (actor)|James Snyder]]
+| align="center" colspan="2"| [[Evan Todd]]
+| align="center" | Jakob Ambrose
+| colspan="2" align="center" | [[Chris Chung]]
+| align="center" | Sven Edthofer
+| align="center" | Ross Harmon
+| align="center" | Liam Doyle
+| align="center" | George Maddison
+| align="center" | Liam Doyle
+| align="center" | Alex Woodward
+| colspan="2" align="center" | Iván Fernández González
+| align="center" | Karol Ledwosiński
+| align="center" | Cade Ostermeyer
+| align="center" | Nic Van Lits
+| colspan="2" align="center" | Markus Södergren
+|-
+! scope="row"| Ram's Dad / Big Bud Dean / Coach Ripper
+| align="center" | Eric Leviton
+| align="center" | [[Rex Smith]]
+| align="center" | [[Anthony Crivello]]
+| align="center" | Vincent Hooper
+| align="center" | Edward Baruwa 
+| align="center" | Nathan Amzi
+| align="center" | Matthias Busch
+| align="center" | Simon Bailey
+| align="center" | Kurt Kansley
+| align="center" | Kieran Brown 
+| align="center" | Oliver Brooks
+| colspan="3" align="center" | Conor McFarlane
+| align="center" | Michał Konarski
+| align="center" | [[Ben Davis (singer)|Ben Davis]]
+| align="center" | Ellis Dolan
+| colspan="2" align="center" | John GurdÍan
+|-
+! scope="row"| Kurt's Dad / Veronica's Dad / Principal Gowan
+| align="center" | Kevin Pariseau
+| align="center" | Zachary Ford
+| align="center" | Daniel Cooney
+| align="center" | Jakob Ambrose
+| colspan="2" align="center" | Jon Boydon
+| align="center" | Sven Edthofer
+| align="center" | Steven Serlin
+| align="center" | Andy Brady
+| align="center" | Sam Ferriday
+| align="center" | Andy Brady
+| align="center" | Jay Bryce
+| colspan="2" align="center" | Alexander Service
+| align="center" | Albert Osik
+| align="center" | Cameron Loyal
+| align="center" | Brodie Masini
+| colspan="2" align="center" | Reuben Browne
+|-
+! scope="row"| Ms. Fleming/Veronica's Mom
+| align="center" | Jill Abramovitz
+| align="center" | Rena Strober
+| align="center" | Michelle Duffy
+| align="center" | Michelle Barr
+| colspan="2" align="center" | [[Rebecca Lock]]
+| align="center"|Christine Milo
+| align="center" | [[Lauren Ward]] 
+| align="center" | Georgina Hagen
+| colspan="2" align="center" | Vicki Lee Taylor
+| align="center" | Katie Paine
+| colspan="2" align="center" | Lucy Sinclair
+| align="center" |Agnieszka Rose
+| align="center" | [[Kerry Butler]]
+| align="center" | Zoe Gertz
+| colspan="2" align="center" | Veronica Carabai
+|}<small>*Can be interchangeable between playing Paul Kelly and Bill Sweeney</small>
+
+===Notable replacements===
+{{Unreferenced section|date=September 2026}}
+====2025 Off-Broadway revival====
+*'''Veronica Sawyer:''' [[Kuhoo Verma]], [[Isabella Esler]]
+*'''Jason "J.D." Dean:''' [[John Cardoza]]
+*'''Heather Chandler:''' [[Jodie Steele]], [[Peyton List (actress, born 1998)|Peyton List]]
+*'''Heather Duke:''' [[Morgan Dudley]]
+*'''Kurt's Dad / Veronica's Dad / Principal Gowan:''' [[Jimmy Ray Bennett]]
+*'''Ms. Fleming/Veronica's Mom:''' [[Kate Rockwell (actress)|Kate Rockwell]], [[Lisa Ann Walter]]
+
+== Critical reception ==
+=== Off-Broadway ===
+=== West End ===
+== Awards and nominations ==
+=== Original Off-Broadway production ===
+{|
+|-
+| links || [[Drama Desk Awards]] [[Drama Desk Award for Outstanding Music|Outstanding Music]] [[Laurence O'Keefe (composer)|Laurence O'Keefe]] [[Kevin Murphy (screenwriter)|Kevin Murphy]] [[Drama Desk Award for Outstanding Actress in a Musical|Outstanding Actress in a Musical]] [[Barrett Wilbert Weed]] [[Lucille Lortel Awards]] [[Marguerite Derricks]]
+|}
+=== Original West End production ===
+{|
+|-
+| links || [[WhatsOnStage Awards]] [[WhatsOnStage Award for Best Actor in a Musical|Best Actor in a Musical]] [[Jamie Muscato]] [[Carrie Hope Fletcher]] [[Jodie Steele]] [[Andy Fickman]]
+|}
+=== 2025 Off-Broadway revival ===
+{|
+|-
+| links || [[Drama League Award]] [[Drama League Award for Outstanding Revival of a Musical|Outstanding Revival of a Musical]] [[Lucille Lortel Award]] [[Lucille Lortel Award for Outstanding Featured Performer in a Musical|Outstanding Featured Performer in a Musical]] [[Erin Morton]] [[Drama Desk Awards]]
+|}
+== ''Heathers: The Musical (Teen Edition)'' ==
+== In popular culture ==
+== References ==
+== External links ==
+
+== Actors mentioned in prose (fixture) ==
+starring [[Kristen Bell]].
+starring [[Christian Campbell]].
+starring [[Scott Porter]].
+starring [[James Snyder (actor)|James Snyder]].
+starred [[Annaleigh Ashford]].
+cast included [[Barrett Wilbert Weed]].
+cast included [[Stephen Madsen]].
+starring [[Carrie Hope Fletcher]].
+cast included [[Jodie Steele]].

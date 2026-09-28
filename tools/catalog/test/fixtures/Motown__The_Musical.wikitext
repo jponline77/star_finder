@@ -1,0 +1,345 @@
+{{Infobox Musical
+|name=Motown: The Musical 
+|image=Motown The Musical.jpg
+|caption= 
+|music=Various Artists
+|lyrics=Various Artists
+|book=[[Berry Gordy]] 
+|basis=''To Be Loved: The Music, the Magic, the Memories of Motown'' by Berry Gordy
+|productions= 2013 [[Broadway theatre|Broadway]] <br> 2014 US Tour <br> 2016 [[West End theatre|West End]] <br> 2016 [[Broadway theatre|Broadway]] Revival <br> 2018 UK Tour 
+
+|awards=
+}}
+==Productions==
+==Synopsis==
+== Original casts ==
+{| class="wikitable"
+|+Casts of ''Motown: The Musical''
+!scope="col"|Character
+!scope="col"|Broadway (2013)
+!scope="col"|U.S. Tour (2014)
+!scope="col"|West End (2016)
+!scope="col"|U.K.  Tour (2018)
+|-
+|scope="row"|'''[[Berry Gordy]]'''
+|[[Brandon Victor Dixon]]
+|Clifton Oliver
+|Cedric Neal
+|Edward Baruwa
+|-
+|scope="row"|'''[[Marvin Gaye]]'''
+|[[Bryan Terrell Clark]]
+|Jarran Muse
+|Sifiso Mazibuko
+|Shak Gabbidon-Williams
+|-
+|scope="row"|'''[[Smokey Robinson]]'''
+|Charl Brown
+| [[Nicholas Christopher (actor)|Nicholas Christopher]]
+|Charl Brown
+|Nathan Lewis
+|-
+|scope="row"|'''[[Diana Ross]]'''
+|[[Valisia LeKae]]
+|Allison Semmes
+|[[Lucy St. Louis]]
+|Karis Anderson
+|-
+|scope="row" rowspan="4" |'''Young [[Berry Gordy]]/Young [[Michael Jackson]]/Young [[Stevie Wonder]]'''
+|Raymond Luke Jr./Jaleel Battles Jr.
+|Reed L. Shannon/ Jaleel Battles Jr.
+|Eshan Gopal
+|[[Joshua Vaughan]]
+|-
+| colspan="2" |Leon Outlaw, Jr.
+|Kwame Kandekore
+|Keiran Edwards
+|-
+|
+|
+|Joshua Tikare
+|Mickell Stewart-Grimes
+|-
+|
+|
+|
+|Yami Mirazi
+|}
+
+==Musical numbers==
+The musical contains a total of 66 songs. The following song list is not the order of the songs in the production:
+{| class="wikitable sortable"
+|+Songs in ''Motown: The Musical''
+|-
+!scope="col"| Song
+!scope="col"| Original artist
+!scope="col"| Written by
+|-
+|scope="row"| "[[ABC (The Jackson 5 song)|ABC]]"
+| [[The Jackson 5]]
+| [[Mizell Brothers|Alphonso Mizell]], [[Freddie Perren]], [[Berry Gordy|Berry Gordy Jr.]], [[Deke Richards]]
+|-
+|scope="row"| "[[Ain't No Mountain High Enough]]"
+| [[Marvin Gaye]] and [[Tammi Terrell]]
+| [[Valerie Simpson]], [[Nickolas Ashford]]
+|-
+|scope="row"| "[[Ain't Too Proud to Beg]]"
+| [[The Temptations]]
+| [[Norman Whitfield]], [[Eddie Holland]]
+|-
+|scope="row"| "[[All Night Long (All Night)]]"
+| [[Lionel Richie]]
+| Lionel Richie
+|-
+|scope="row"| "[[Baby I Need Your Loving]]"
+| [[Four Tops|The Four Tops]]
+| [[Holland–Dozier–Holland]]
+|-
+|scope="row"| "[[Ball of Confusion (That's What the World Is Today)]]"
+| The Temptations
+| Norman Whitfield, [[Barrett Strong]]
+|-
+|scope="row"| "[[A Breathtaking Guy]]"
+| [[Smokey Robinson]]
+| Smokey Robinson
+|-
+|scope="row"| "[[Brick House (song)|Brick House]]"
+| [[Commodores|The Commodores]]
+| Lionel Richie, Ronald LaPread, Walter Orange, [[Milan Williams]], Thomas McClary, [[William King (singer)|William King]]
+|-
+|scope="row"| "[[Buttered Popcorn]]"
+| [[The Supremes]]
+| Berry Gordy Jr., Barney Ales
+|-
+|scope="row"| "[[Bye Bye Baby (Mary Wells song)|Bye Bye Baby]]"
+| [[Mary Wells]]
+| Mary Wells
+|-
+|scope="row"| "Can I Close the Door"
+| {{N/A}}
+| Berry Gordy, Michael Lovesmith
+|-
+|scope="row"| "[[Come See About Me]]"
+| The Supremes
+| Holland–Dozier–Holland
+|-
+|scope="row"| "[[Cruisin' (Smokey Robinson song)|Cruisin']]"
+| Smokey Robinson
+| Smokey Robinson, [[Marv Tarplin]]
+|-
+|scope="row"| "[[Dancing in the Street]]"
+| [[Martha and the Vandellas]]
+| Marvin Gaye, [[Ivy Jo Hunter]], [[William "Mickey" Stevenson]]
+|-
+|scope="row"| "[[Do You Love Me]]"
+| [[The Contours]]
+| Berry Gordy
+|-
+|scope="row"| "[[Fingertips|Fingertips, Part 2]]"
+| Stevie Wonder
+| [[Clarence Paul]], [[Henry Cosby]]
+|-
+|scope="row"| "[[For Once in My Life]]"
+| [[Jean DuShon]]
+| Orlando Murden, [[Ron Miller (songwriter)|Ronald Miller]]
+|-
+|scope="row"| "[[Get Ready (The Temptations song)|Get Ready]]"
+| The Temptations
+| Smokey Robinson
+|-
+|scope="row"| "[[Give It to Me Baby]]"
+| [[Rick James]]
+| Rick James
+|-
+|scope="row"| "[[Good Morning Heartache]]"
+| [[Billie Holiday]]
+| [[Ervin Drake]], Dan Fisher, [[Irene Higginbotham]]
+|-
+|scope="row"| "Got a Job"
+| {{N/A}}
+| Smokey Robinson, Berry Gordy Jr., [[Billy Davis (songwriter)|Billy Davis]]
+|-
+|scope="row"| "Hail to the Beat"
+| {{N/A}}
+| Berry Gordy Jr., Michael Lovesmith
+|-
+|scope="row"| "[[The Happening (song)|The Happening]]"
+| The Supremes
+| Holland–Dozier–Holland, [[Frank De Vol]]
+|-
+|scope="row"| "[[Happy Birthday (Stevie Wonder song)|Happy Birthday]]"
+| [[Stevie Wonder]]
+| Stevie Wonder
+|-
+|scope="row"| "Hey Joe (Black Like Me)"
+| {{N/A}}
+| Berry Gordy Jr., Michael Lovesmith
+|-
+|scope="row"| "[[How High the Moon]]"
+| ''[[Two for the Show (musical)|Two for the Show]]''
+| [[Morgan Lewis (songwriter)|Morgan Lewis]], [[Nancy Hamilton]]
+|-
+|scope="row"| "[[I Can't Get Next to You]]"
+| The Temptations
+| Norman Whitfield, Barrett Strong
+|-
+|scope="row"| "[[I Can't Help Myself (Sugar Pie Honey Bunch)]]"
+| The Four Tops
+| Holland–Dozier–Holland
+|-
+|scope="row"| "[[I Got a Feeling (Four Tops song)|I Got a Feeling]]"
+| The Four Tops
+| Holland–Dozier–Holland
+|-
+|scope="row"| "[[I Hear a Symphony]]"
+| The Supremes
+| Holland–Dozier–Holland
+|-
+|scope="row"| "[[I Heard It Through the Grapevine]]"
+| [[Gladys Knight & the Pips]]
+| Norman Whitfield, Barrett Strong
+|-
+|scope="row"| "[[(I Know) I'm Losing You]]"
+| The Temptations
+| Holland–Dozier–Holland
+|-
+|scope="row"| "[[I Want You Back]]"
+| The Jackson 5
+| Alphonso Mizell, Freddie Perren, Berry Gordy Jr., Deke Richards
+|-
+|scope="row"| "[[I'll Be There (The Jackson 5 song)|I'll Be There]]"
+| The Jackson 5
+| Holland–Dozier–Holland
+|-
+|scope="row"| "It's What's in the Grooves That Counts"
+| {{N/A}}
+| Berry Gordy Jr., Michael Lovesmith
+|-
+|scope="row"| "[[Lonely Teardrops]]"
+| Jackie Wilson
+| Berry Gordy Jr., [[Gwen Gordy Fuqua]], Billy Davis
+|-
+|scope="row"| "[[Love Child (song)|Love Child]]"
+| [[Diana Ross]] & [[The Supremes]]
+| [[R. Dean Taylor]], [[Frank Wilson (musician)|Frank Wilson]], [[Pam Sawyer]] and Richards
+|-
+|scope="row"| "[[Love Is Here and Now You're Gone]]"
+| The Supremes
+| Holland–Dozier–Holland
+|-
+|scope="row"| "[[The Love You Save]]"
+| The Jackson 5
+| Alphonso Mizell, Freddie Perren, Berry Gordy Jr., Deke Richards
+|-
+|scope="row"| "[[Mercy Mercy Me (The Ecology)]]"
+| Marvin Gaye
+| Marvin Gaye
+|-
+|scope="row"| "[[My Girl (The Temptations song)|My Girl]]"
+| The Temptations
+| Smokey Robinson, [[Ronnie White]]
+|-
+|scope="row"| "[[My Guy]]"
+| Mary Wells
+| Smokey Robinson
+|-
+|scope="row"| "My Mama Done Told Me"
+| [[Dinah Shore]]
+| Berry Gordy Jr., Smokey Robinson, Billy Davis
+|-
+|scope="row"| "[[Please Mr. Postman]]"
+| [[The Marvelettes]]
+| William Garrett, Georgia Dobbins, B. Holland, [[Freddie Gorman]], Robert Bateman
+|-
+|scope="row"| "[[Reach Out and Touch (Somebody's Hand)]]"
+| Diana Ross
+| Valerie Simpson, Nickolas Ashford
+|-
+|scope="row"| "[[Reach Out I'll Be There]]"
+| The Four Tops
+| Holland–Dozier–Holland
+|-
+|scope="row"| "[[Reet Petite]]"
+| [[Jackie Wilson]]
+| Berry Gordy Jr., Billy Davis
+|-
+|scope="row"| "[[Remember Me (Diana Ross song)|Remember Me]]"
+| Diana Ross
+| Valerie Simpson, Nickolas Ashford
+|-
+|scope="row"| "[[Shop Around]]"
+| [[The Miracles]]
+| Berry Gordy Jr., Smokey Robinson
+|-
+|scope="row"| "[[Shotgun (Junior Walker & the All Stars song)|Shotgun]]"
+| [[Junior Walker|Jr. Walker & the All Stars]]
+| Junior Walker
+|-
+|scope="row"| "[[Signed, Sealed, Delivered I'm Yours]]"
+| Stevie Wonder
+| Stevie Wonder, [[Syreeta Wright]], [[Lee Garrett]], [[Lula Mae Hardaway]]
+|-
+|scope="row"| "[[Square Biz]]"
+| [[Teena Marie]]
+| [[Teena Marie|Mary C. Brockert]], Allen McGrier
+|-
+|scope="row"| "[[Stop! In the Name of Love]]"
+| The Supremes
+| Holland–Dozier–Holland
+|-
+|scope="row"| "[[Stubborn Kind of Fellow]]"
+| Marvin Gaye
+| Gaye, George Gordy, Stevenson
+|-
+|scope="row"| "[[Super Freak]]"
+| Rick James
+| Rick James
+|-
+|scope="row"| "[[The Tears of a Clown]]"
+| The Miracles
+| Stevie Wonder, Smokey Robinson, Henry Cosby
+|-
+|scope="row"| "To Be Loved"
+| {{N/A}}
+| Berry Gordy Jr., Gwen Fuqua, Billy Davis
+|-
+|scope="row"| "[[Two Lovers (Mary Wells song)|Two Lovers]]"
+| Mary Wells
+| Smokey Robinson
+|-
+|scope="row"| "[[War (Edwin Starr song)|War]]"
+| [[Edwin Starr]]
+| Norman Whitfield, Barrett Strong
+|-
+|scope="row"| "[[What's Going On (song)|What's Going On]]"
+| Marvin Gaye
+| Marvin Gaye, [[Renaldo Benson]], [[Al Cleveland]]
+|-
+|scope="row"| "[[Where Did Our Love Go]]"
+| The Supremes
+| Holland–Dozier–Holland
+|-
+|scope="row"| "[[Who's Lovin' You]]"
+| Smokey Robinson
+| Smokey Robinson
+|-
+|scope="row"| "You Are You"
+| {{N/A}}
+| Berry Gordy Jr.
+|-
+|scope="row"| "[[You're All I Need to Get By]]"
+| Marvin Gaye and Tammi Terrell
+| Valerie Simpson, Nickolas Ashford
+|-
+|scope="row"| "[[You're Nobody till Somebody Loves You]]"
+| [[Russ Morgan]]
+| Russ Morgan, [[James Cavanaugh (songwriter)|James Cavanaugh]], [[Larry Stock]]
+|-
+|scope="row"| "[[You've Really Got a Hold on Me]]"
+| The Miracles
+| Smokey Robinson
+|}
+
+==Critical response==
+==References==
+==External links==

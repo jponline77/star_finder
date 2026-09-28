@@ -1,0 +1,95 @@
+{{Infobox musical
+|name=Miss Littlewood
+|image=Miss_Littlewood_artwork.jpg
+|caption=
+|music=Sam Kenyon
+|lyrics=Sam Kenyon
+|book=Sam Kenyon
+|basis=The life of [[Joan Littlewood]]
+|productions={{ubl|2018 [[Stratford-upon-Avon]]}}
+|premiere_location=[[Swan Theatre, Stratford-upon-Avon]]
+|premiere_date={{Start date|df=yes|2018|7|3}}
+}}
+== Production history ==
+=== World premiere: Stratford-upon-Avon (2018) ===
+== Cast and characters ==
+{| class="wikitable" text-align:center"
+|+
+! rowspan="2" |Character
+!Stratford-Upon-Avon
+|-
+!<small>2018</small>
+|-
+![[Joan Littlewood]]
+| align=center |[[Clare Burt]]
+|-
+!Sister Mary/Rosalie Williams/Reporter
+| align=center |Daisy Badger
+|-
+!Robert Littlewood/[[Ewan MacColl|Jimmie Miller]]/[[Cedric Price]]
+| align=center |Greg Barnett
+|-
+!Kate Littlewood/Beattie/[[Shelagh Delaney]]
+| align=center |Laura Elsworthy
+|-
+!Gerry Raffles
+| align=center |Solomon Israel
+|-
+!Nellie
+| align=center |Natasha Lewis
+|-
+![[John Gielgud|Gielgud's Macbeth]]/[[Howard Goorney]]/[[Murray Melvin]]/Bellboy
+| align=center |Tam Williams
+|-
+!Joan 1/Pearl Turner/[[Barbara Young (actress)|Barbara Young]]/[[Lionel Bart]]/Barbara/[[Barbara Windsor]]
+| align=center |Emily Johnstone
+|-
+!Joan 2/[[Frank Norman]]
+| align=center |Aretha Ayeh
+|-
+!Joan 3/[[Avis Bunnage]]
+| align=center |Sophia Nomvete
+|-
+!Sister Gertrude/Woman with pears/Jean Newlove/Joan 4
+| align=center |Sandy Foster
+|-
+!Sister Susannah/Nick/Archie Harding/[[John Bury (theatre designer)|John Bury]]/Joan 5/[[Victor Spinetti]]
+| align=center |Amanda Hadingue
+|-
+!Caroline Emily/[[Harold Prince|Hal Prince]]/Joan 6
+| align=center |Dawn Hope
+|}
+
+== Musical numbers ==
+{{col-begin}}
+{{col-2}}
+; Act I
+* "Joan All Alone" - Joan Littlewood and Joan 1
+* "The Trouble With Theatre" - Joan 1 and Women
+* "My Father's Eyes" - Joan 1, Joan 2 and Company
+* "Paris Is A Woman" - Joan 2 and Company
+* "The Trouble With Theatre: RADA Reprise" - Joan 2
+* "The Wanderer's Lament" - Jimmie Miller and Company
+* "Goodbye" - Joan  2 and Women
+* "The Theatre Workshop Story 1: Fuente Ovejuna" - Company
+* "The Theatre Workshop Story 2: Last Edition" - Company
+* "Now" - Joan Littlewood and Gerry Raffles
+* "The Theatre Workshop Story 3: Uranium 235" - Company
+* "Goodbye: Ormesby Reprise" - Joan Littlewood, Joan 1, 2 and 3{{col-2}}
+; Act II
+* "In Stratford East" - Joan Littlewood, Joan 4, Company, Avis Bunnage and Gerry Raffles
+* "Top Of The Morning" - Jimmie Miller
+* "A Taste Of Honey" - Shelagh Delaney
+* "A Taste Of Honey: Frank Norman Reprise" - Frank Norman and Lionel Bart
+* "A Taste Of Honey: Hal Prince Reprise" - Hal Prince and Company
+* "Change" - Joan Littlewood, Joan 1, 2, 3, 4 and 5, and Gerry Raffles
+* "A Little Bit of Business" - Barbara Windsor
+* "Where Have You Been All My Life?" - Joan 6 and Barbara Windsor
+* "The Theatre Workshop Story 4: Oh What A Lovely War" - Company
+* "Nothing Much Happened After That" - Joan Littlewood, Joan 1, 2, 3, 4, 5 and 6
+* "A Decent Day" - Joan Littlewood and Company{{col-end}}
+
+=== Orchestrations ===
+
+== External links ==
+== References ==

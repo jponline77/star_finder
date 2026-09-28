@@ -1,0 +1,342 @@
+==Background==
+==Performance history==
+===Early productions===
+===Later productions===
+====France====
+====North America====
+====Britain====
+====Other European productions====
+== Roles ==
+{| class="wikitable"
+!Role
+!Voice type
+!Premiere cast, 6 October 1868,<br>(Conductor: Jacques Offenbach)
+!Revised version, 25 April 1874,<br>(Conductor: Jacques Offenbach)
+|-
+|La Périchole, ''a poor street singer''
+|[[mezzo-soprano]] 
+|[[Hortense Schneider]]
+|Hortense Schneider
+|-
+|Piquillo, ''a poor street singer''
+|[[tenor]] 
+|[[José Dupuis]]
+|José Dupuis
+|-
+|Don Andrès de Ribeira, ''Viceroy of Peru''
+|[[baritone]]
+|[[Pierre-Eugène Grenier]]
+|Pierre-Eugène Grenier
+|-
+|Don Miguel de Panatellas, ''First Gentleman of the Bedchamber''
+|tenor
+|[[Christian Perrin|Christian]]
+|[[Louis Baron|Baron]]
+|-
+|Don Pedro de Hinoyosa, ''Mayor of Lima''
+|baritone
+|Lecomte
+|[[Léonce (actor)|Léonce]]
+|-
+|Guadalena, ''first cousin''
+|[[soprano]]
+|Legrand
+|J Grandville
+|-
+|Berginella, ''second cousin''
+|soprano
+|Carlin
+|Lina Bell
+|-
+|Mastrilla, ''third cousin''
+|mezzo-soprano
+|C. Renault 
+|Schweska
+|-
+|The Marquis de Tarapote, ''Lord Chancellor'' 
+|spoken
+|Charles Blondelet 
+|Charles Blondelet
+|-
+|Manuelita, ''lady of the Court''
+|soprano
+|Julia H
+|Martin
+|- 
+|Ninetta, ''lady of the Court''
+|soprano
+|Bénard
+|Valpré
+|- 
+|Brambilla, ''lady of the Court''
+|mezzo-soprano
+|Gravier
+|Lavigne
+|- 
+|Frasquinella, ''lady of the Court''
+|mezzo-soprano
+|A Latour
+|Julia
+|- 
+|First notary
+|tenor
+|Bordier
+|Bordier
+|- 
+|Second notary
+|tenor
+|Horton  
+|Monti 
+|- 
+|First drinker (1868)
+|tenor
+|Videix
+| –
+|- 
+|Second drinker (1868)
+|tenor
+|Halserc
+| –
+|- 
+|Two men, a courtesan and a bailiff (1868)
+| –
+| –
+| –
+|- 
+|Le Marquis de Satarem, ''"The old prisoner", in disguise'' (1874)
+|spoken 
+| –
+|D Bac
+|-
+|Gaoler (1874)
+|spoken
+| –
+|Coste
+|-
+| colspan="4"|''Chorus: A crowd, drinkers, showmen; Ladies and Lords of the court; soldiers.''
+|}
+
+==Synopsis==
+===Act 1===
+===Act 2===
+===Act 3===
+==Musical numbers==
+
+{| class="wikitable sortable plainrowheaders" style="text-align: left; margin-right: 0;"
+
+| Act 1
+
+|  
+|  
+|  
+|-
+| Ouverture 
+|  
+|  
+|  
+|-
+| Chœur  
+| Du Vice-Roi c'est aujourd'hui la fête 
+| This is the Viceroy's name-day
+| Chœur 
+|-
+| Chansons des Trois Cousines  
+| Promptes à servir 
+| Prompt to serve
+| Les Trois Cousines, Chœur 
+|-
+| Sortie et dialogue  
+| Ah ! qu'on y fait gaîment glouglou 
+| Ah they gaily swig
+| Don Pedro, Panatellas
+|-
+| Chœur  
+| C'est lui, c'est notre Vice-Roi ! 
+| It's he! Our Viceroy
+| Chœur 
+|-
+| Couplets  
+| Sans en rien souffler à personne 
+| Without saying anything to anyone
+| Don Andrès, Chœur 
+|-
+| Marche indienne
+| 
+| Indian March
+|  
+|-
+| Entrée des chanteurs 
+|  
+| Entry of the singers
+|  
+|-
+| Complainte 
+| Le conquérant dit à la jeune Indienne 
+| The conqueror says to the Indian girl
+| La Périchole, Piquillo 
+|-
+| Séguedille  
+| Vous a-t-on dit souvent 
+| Have you often been told
+| La Périchole, Piquillo 
+|-
+| Couplets de la lettre  
+| Ô mon cher amant, je te jure 
+| Oh, my dear lover I swear to you
+| La Périchole 
+|-
+| Finale  
+| Oh ! là ! hé !... holà ! de là-bas 
+| Hey there, ho there – all come quickly
+| Don Andrès, Don Pedro, Les Trois Cousines, Les Deux Notaires, Chœur 
+|-
+| Couplets de la griserie  
+| Ah ! quel dîner je viens de faire ! 
+| Ah, what a dinner!
+| La Périchole, Don Andrès, Panatellas, Don Pedro
+|-
+| Suite du Finale [Finale, continued]  
+| Ah ! les autres étaient bien gris 
+| Ah, the others were very drunk
+| La Périchole, Piquillo, Panatellas, Les Trois Cousines, Chœur
+|-
+| Duetto du mariage  
+| Je dois vous prévenir, madame 
+| I must warn you, madam
+| Piquillo, La Périchole 
+|-
+| Suite du Finale  [Finale, continued]  
+| Mon Dieu !... que de cérémonie !... 
+| My God! What a ceremony
+| Tous 
+|-
+|  
+|  
+|  
+|  
+|-
+| Act 2
+|  
+|  
+|  
+|-
+| Entracte 
+|  
+|  
+|  
+|-
+| Chœur des Dames de la cour  
+| Cher seigneur, revenez à vous 
+| Good sir, come to your senses
+| Les Quatre Dames, Chœur 
+|-
+| Cancans-couplets
+| On vante partout son sourire 
+| We boast everywhere about our smile
+| Les Quatre Dames, Piquillo 
+|-
+| Couplets 
+| Et là, maintenant que nous sommes seuls
+| And there, now that we are alone
+| Piquillo, Don Pedro, Panatellas 
+|-
+| Chœur de la présentation  
+| Nous allons donc voir un mari 
+| So we're going to see a husband
+| La Périchole, Don Andrès, Piquillo, Don Pedro, Panatellas, Les Quatre Dames, L'Huissier, Chœur
+|-
+| Couplets  
+| Que veulent dire ces colères 
+| What do these tantrums mean?
+| La Périchole, Piquillo 
+|-
+| Rondo de bravoure  
+| Écoute, ô roi, je te présente 
+| Listen, O King, I present Thee
+| Piquillo 
+|-
+| Galop de l'arrestation  
+| Sautez dessus ! 
+| Jump on him!
+| Don Andrès, La Périchole, Piquillo, Don Pedro, Panatellas, Les Quatre Dames, Chœur 
+|-
+| Rondo  
+| Conduisez-le, bons courtisans 
+| Press on, good courtiers
+| Tous 
+|-
+|  
+|  
+|  
+|  
+|-
+| Act 3
+|  
+|  
+|  
+|-
+| Entracte 
+|  
+|  
+|  
+|-
+| Couplets-Boléro  
+| Les maris courbaient la tête 
+| Husbands bowed their heads
+| Piquillo, Panatellas, Don Pedro 
+|-
+| Air  
+| On me proposait d'être infâme 
+| They tried to make me despicable
+| Piquillo 
+|-
+| Duo
+| Dans ces couloirs obscurs 
+| In these dark corridors
+| La Périchole, Piquillo 
+|-
+| Couplets de l'aveu  
+| Tu n'es pas beau; tu n'es pas riche 
+| You are not good-looking; you are not rich
+| La Périchole, Piquillo 
+|-
+| Trio  
+| Je suis le joli geôlier 
+| I am the handsome jailer
+| La Périchole, Piquillo, Don Andrès 
+|-
+|Trio de la prison
+|Roi pas plus haut qu'une botte
+|King no higher than a boot
+|La Périchole, Piquillo, Don Andrès 
+|-
+| Intermède symphonique 
+|  
+|  
+|  
+|-
+| Complainte des amoureux  
+| Écoutez, peup' d'Amérique 
+| Listen, people of America, Spain and Peru
+| La Périchole, Piquillo 
+|-
+| Finale  
+| Tous deux, au temps de peine et de misère 
+| We both, at times of sorrow and misery
+| Tous 
+|}
+::Source: Notes to the Bru-Zane set (details below), consisting of numbers from the 1868 original and the 1874 revision.
+
+==Critical reception==
+==Broadcasts and recordings ==
+===Broadcasts===
+===Recordings===
+==Other operatic versions of the play by Prosper Mérimée==
+==Notes, references and sources==
+===Notes===
+===References===
+===Sources===
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+starring [[Virginie Déjazet]].

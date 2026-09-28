@@ -1,0 +1,184 @@
+{{Infobox musical
+| name = Bare
+| subtitle = A Pop Opera
+| image = Bare a Pop Opera Off Broadway Poster.JPG
+| caption = Off-Broadway promotional poster
+| music = [[Damon Intrabartolo]]
+| lyrics = Jon Hartmere
+| book = Jon Hartmere<br />Damon Intrabartolo
+| basis = 
+| premiere_date = {{start date|2000|10|14}}
+| premiere_location = Hudson Theatre, [[Los Angeles]]
+| productions = 2000 [[Los Angeles]] <br /> 2004 [[Off-Broadway]] <br /> 2008 [[Houston]] <br /> 2008 [[Seattle]] <br /> 2008 [[Indianapolis]] <br /> 2009 [[Denver]] <br />2009 [[Toronto]] <br /> 2010 [[Sydney]] <br /> 2011 [[Minneapolis]] <br /> 2011 [[St. Louis]] <br /> 2011 [[Albany, New York|Albany]] <br /> 2012 [[Manila]] <br /> 2012 [[Liverpool]] <br /> 2012 [[Belgium]] <br /> 2013 [[Los Angeles]] revival <br /> 2013 [[Off-West End]] <br />2014 [[Tokyo]] <br /> 2014 [[Barcelona]] <br /> 2014 [[Youngstown]] <br /> 2014 [[San Diego]] <br /> 2015 [[Seoul]] <br /> 2015 [[Medicine Hat]] <br /> 2016 [[Buenos Aires]] <br /> 2016 [[Tokyo]] revival <br /> 2016 [[Seoul]] revival <br /> 2016 [[Chicago]] <br /> 2016 [[Sydney]] <br /> 2017 [[Seoul]] revival <br /> 2017 [[Brighton]] <br /> 2018 [[Amsterdam]] <br /> 2018 [[Melbourne]] <br /> 2018 [[Brisbane]] <br /> 2018 [[Reno]] <br />2018 [[São Paulo]] <br /> 2019 [[London]] <br /> 2019 [[Wellington]]<br /> 2019 [[New York City|New York]] <br /> 2019 [[Hilo|Hawaii]] <br /> 2019 [[Ann Arbor|Michigan]] <br /> 2020 [[Tokyo]] revival <br /> 2020 [[Seoul]] revival <br /> 2022 [[Seoul]] revival <br /> 2024 [[London]] Staged Concert
+<br /> 2024 [[Seoul]] revival <br /> 2025 [[Seoul]] revival <br /> 2025 [[Los Angeles]] revival
+| awards = 
+| image_size = 
+}}
+==Productions==
+==Synopsis==
+===Act I===
+===Act II===
+==Characters and original casts==
+{| class="wikitable"
+|-
+! width="20%"|Character(s)
+! width="20%"|Los Angeles (2000) 
+! width="20%"|[[Off-Broadway]] (2004) 
+! width="20%"|Studio Recording (2007) 
+!Los Angeles Revival (2013) 
+! width="20%"|West End Staged Concert (2024) 
+|-
+! scope="row" |Peter Simonds
+| align="center" |[[John Torres]]
+| align="center" |[[Michael Arden]]
+| align="center" |[[Matt Doyle (actor)|Matt Doyle]]
+| align="center" |Payson Lewis
+| align="center" |[[Laurie Kynaston]]
+|-
+! scope="row" |Jason McConnell
+| align="center" |John Griffin
+| align="center" |[[John Hill (actor)|John Hill]]
+| align="center" |[[James Snyder (actor)|James Snyder]]
+| align="center" |[[Jonah Platt]]
+| align="center" |[[Jordan Luke Gage]] 
+|-
+! scope="row" |Ivy Robinson
+| colspan="3" align="center" |[[Jenna Leigh Green]]
+| align="center" |[[Lindsay Pearce]]
+| align="center" |[[Frances Mayli McCann]]
+|- 
+! scope="row" |Nadia McConnell
+| align="center" |Keili Lefkovitz
+| align="center" |[[Natalie Joy Johnson]]
+| align="center" |Keili Lefkovitz
+| align="center" |[[Katie Stevens]]
+| align="center" |Katie Ramshaw
+|-
+! scope="row" |Matt Lloyd
+| align="center" |Wallace Smith
+| align="center" |[[Aaron Lohr]]
+| align="center" |Christopher Johnson
+| align="center" |Nathan Parrett
+| align="center" |Ed Larkin
+|-
+! scope="row" |Sister Chantelle/Virgin Mary
+| align="center" |Stephanie Andersen
+| align="center" |Romelda T. Benjamin
+| colspan="2" align="center" |Stephanie Andersen
+| align="center" |[[Claudia Kariuki]]
+|-
+! scope="row" |Claire
+| align="center" |Maura M. Knowles
+| colspan="2" align="center" |[[Kaitlin Hopkins]]
+| align="center" |Alissa-Nicole Koblentz
+| align="center" |[[Cassidy Janson]]
+|-
+! scope="row" |Priest
+| align="center" |Mark Edgar Stephens
+| colspan="2" align="center" |Jim Price
+| align="center" |John Griffin
+| align="center" |Adrian Hansel
+|-
+! scope="row" |Lucas Carter
+| align="center" |Philip Dean Lightstone
+| align="center" |Adam Fleming
+| align="center" |Jason Ryterband
+| align="center" |Casey Hayden
+| align="center" |Jason Battersby
+|-
+! scope="row" |Tanya Garrett/Cherub
+| align="center" |Charity Hill
+| align="center" |[[Sasha Allen]]
+| align="center" |[[Judith Hill]]
+| align="center" |Caitlin Ary
+| align="center" |Aoife Kenny
+|-
+! scope="row" |Kyra/Cherub (named Brittany in 2000 Los Angeles production)
+| align="center" |Tassa Hampton
+| align="center" |[[Kearran Giovanni]]
+| align="center" |Carmel Echols
+| align="center" |Katherine Washington
+| align="center" |Chrissie Bhima 
+|-
+! scope="row" |Diane Lee
+| align="center" |[[Jennie Kwan]]
+| align="center" |[[Kay Trinidad]]
+| align="center" |Kara Maguire
+| align="center" |Reesa Ishiyama
+| align="center" |Emily Ooi
+|-
+! scope="row" |Zack
+| align="center" |Reed Prescott
+| align="center" |Mike Cannon
+| align="center" |Nils Montan
+| align="center" |Christopher Higgins
+| align="center" |Jack Ofrecio
+|-
+! scope="row" |Rory
+| align="center" {{n/a}}
+| align="center" |Lindsay Scott
+| align="center" |Anna Rose
+| align="center" |Kelsey Hainlen
+| align="center" |Clodagh Greene
+|-
+! scope="row" |Alan
+| align="center" {{n/a}}
+| align="center" |Isaac Calpito
+| align="center" |Joel Echols
+| align="center" |Harrison Meloeny
+| align="center" |Samuel Joseph Howes
+|}
+
+==Musical numbers==
+{{col-begin}}
+{{col-2}}
+;Act I
+* "Epiphany" — Company
+* "You & I" — Jason, Peter, and Students
+* "Role of a Lifetime" — Peter
+* "Auditions" — Chantelle and Students
+* "Plain Jane Fat Ass"† — Nadia and Jason
+* "Wonderland" — Matt, Nadia, Tanya, Lucas, Ivy, Peter, and Jason
+* "A Quiet Night at Home" — Nadia
+* "Rolling" — Band
+* "Best Kept Secret" — Jason and Peter
+* "Confession" — Priest and Students
+* "Portrait of a Girl" — Ivy and Matt
+* "Birthday, Bitch!" — Students
+* "One Kiss" — Ivy and Jason
+* "Are You There?" — Matt and Peter
+* "911! Emergency!"‡ — Mary and Cherubs
+* "Reputation Stain'd" — Ivy, Jason, Peter, Matt, and Nadia
+* "Ever After" — Peter and Jason
+* "Spring" — Nadia
+* "One" — Ivy, Jason, Nadia, Matt, and Peter
+{{col-break}}
+
+;Act II
+* "Wedding Bells" — Company
+* "In The Hallway" — Band
+* "Touch My Soul" — Ivy and Jason
+* "See Me" — Peter and Claire
+* "Warning" — Claire
+* "Pilgrims' Hands" — Jason and Peter
+* "God Don't Make No Trash" — Chantelle
+* "All Grown Up" — Ivy
+* "Promise" — Jason, Ivy, Matt, Nadia, and Peter
+* "Once Upon a Time" — Jason
+* "Cross" — Jason and Priest
+* "Two Households" — Students
+* "Bare" — Jason and Peter
+* "Queen Mab" — Jason and Peter
+* "A Glooming Peace" — Students
+* "Absolution" — Peter and Priest
+* "No Voice" — Company
+{{col-end}}
+
+† Cut from the 2004 Off-Broadway production and replaced with "Love, Dad"
+
+‡ Replaced "Mother Love" from the 2000 Los Angeles production
+
+==Album==
+==Planned film adaptation==
+== References ==
+==External links==

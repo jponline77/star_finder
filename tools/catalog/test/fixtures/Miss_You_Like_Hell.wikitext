@@ -1,0 +1,79 @@
+{{Infobox Musical
+| name = Miss You Like Hell
+| subtitle = 
+| image = Miss You Like Hell poster.webp
+| caption = Off-Broadway promotional poster
+| music = [[Erin McKeown]]
+| lyrics = [[Quiara Alegría Hudes]]<br>Erin McKeown
+| book = Quiara Alegría Hudes
+| basis = 
+| productions = 2016 [[San Diego, California|San Diego]]<br>2018 [[Off-Broadway]]<br>2019 [[Boston]]
+| awards = 
+| image_size = 200px
+}}
+==Background==
+==Production history==
+==Song list==
+
+{{col-begin}}
+{{col-2}}
+;Act I
+*"Lioness (Prologue & Prayer)"
+*"Sundays"
+*"Mothers"
+*"Received"
+*"Yellowstone"
+*"My Bell's Been Rung"
+*"Over My Shoulder"
+*"Bibliography"
+*"Baggage"
+*"Castaway Comments"
+{{col-break}}
+*"Tamales"
+*"Now I'm Here"
+*"The Dirtiest Deed"
+*"Yellowstone (Reprise)"
+*"Dance with Me"
+*"Lioness"
+*"Court Clothes"
+*"Miss You Like Hell"
+*"Over My Shoulder (Reprise)"
+*"Epilogue"
+{{col-end}}
+
+The original production at the La Jolla Playhouse in 2016 comprised two acts and featured a number of songs that were cut and reworked in future productions:
+
+{{col-begin}}
+{{col-2}}
+;Act I
+*"Lioness Prelude"
+*"Sundays"
+*"Mothers"
+*"Received"
+*"Eat You Up"
+*"Yellowstone (No Filter)"
+*"In a Fix"
+*"Over My Shoulder"
+*"Bibliography"
+*"Baggage"
+{{col-break}}
+;Act II
+*"Vecinos"
+*"Received Reprise"
+*"Tamales"
+*"Now I'm Here"
+*"The Dirtiest Deed"
+*"Yellowstone (IRL)"
+*"Dance with Me"
+*"Lioness"
+*"Sundays Reprise"
+*"The Courtroom"
+*"Castaway"
+{{col-end}}
+
+==Awards and nominations==
+{|
+|-
+| links || [[Outer Critics Circle Awards]] [[Outer Critics Circle Award for Outstanding New Off-Broadway Musical| Outstanding New Off-Broadway Musical]] [[Outer Critics Circle Award for Outstanding Book of a Musical|Outstanding Book of a Musical]] [[Quiara Alegría Hudes]] [[Outer Critics Circle Award for Outstanding New Score|Outstanding New Score]] [[Erin McKeown]] [[Drama Desk Awards]] [[Drama Desk Award for Outstanding Music|Outstanding Music]] [[Drama Desk Award for Outstanding Lyrics|Outstanding Lyrics]] [[Drama Desk Award for Outstanding Actress in a Musical|Outstanding Actress in a Musical]] [[Daphne Rubin-Vega]] [[Gizel Jimenez]] [[Drama Desk Award for Outstanding Orchestrations|Outstanding Orchestrations]] [[Charlie Rosen (musician)|Charlie Rosen]]
+|}
+==Notes==

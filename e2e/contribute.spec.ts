@@ -1,7 +1,9 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import type { Page } from '@playwright/test';
-import { apiCreateSolo, apiLogout, apiSignup, CSRF, expect, songByTitle, stubAudio, test, uniq } from './helpers';
+import {
+  ADMIN, allSongs, apiCreateSolo, apiLogin, apiLogout, apiSignup, CSRF, expect, songByTitle, stubAudio, test, uniq,
+} from './helpers';
 
 /** Network lookups (Apple / Wikipedia) are mocked so the suite runs offline and deterministically. */
 async function mockLookups(page: Page, showName: string) {
@@ -50,7 +52,7 @@ test.describe('Adding and editing songs', () => {
     const title = 'Opening Night Jitters';
     await mockLookups(page, showName);
 
-    await page.goto('/add');
+    await page.goto('/add?manual=1');
     const form = page.getByTestId('add-song-form');
     await expect(form).toBeVisible();
     await expect(page.getByTestId('song-kind-solo')).toHaveAttribute('aria-checked', 'true');
@@ -112,10 +114,82 @@ test.describe('Adding and editing songs', () => {
     await expect(page.getByTestId('preview-track')).toBeVisible();
   });
 
+  test('find-first: a catalog song pre-fills the form, the best recording is picked, album art uploads', async ({ page, request }, testInfo) => {
+    if (testInfo.retry) {
+      // The server refuses a second solo of the same catalog song in the same show (a true
+      // duplicate, whatever its title): an admin removes what a failed attempt left behind.
+      await apiLogin(request, ADMIN);
+      for (const s of await allSongs(request, `q=${encodeURIComponent("I'm Not That Girl")}`)) {
+        if (s.show.name === 'Wicked') await request.delete(`/api/songs/${s.id}`, { headers: CSRF });
+      }
+    }
+    await apiSignup(page.request);
+    // Apple is mocked (the catalog is the committed fixture: Wicked isn't on the site yet)
+    await page.route('**/api/catalog/songs/*/recordings', (route) =>
+      route.fulfill({
+        json: {
+          candidates: [
+            {
+              trackId: 880001,
+              trackName: "I'm Not That Girl",
+              collectionId: 77,
+              collectionName: 'Wicked (Original Broadway Cast Recording)',
+              artistName: 'Idina Menzel',
+              previewUrl: 'https://audio-ssl.itunes.apple.com/itunes-assets/e2e/wicked-1.m4a',
+              artworkUrl: '/media/art/e2e-cover.png',
+              appleMusicUrl: 'https://music.apple.com/ca/album/e2e/880001',
+              durationSeconds: 177,
+              score: 100,
+              castAlbum: true,
+              albumLabel: 'original cast recording',
+            },
+          ],
+        },
+      }),
+    );
+
+    await page.goto('/add');
+    await expect(page.getByTestId('find-song')).toBeVisible();
+    await page.getByTestId('catalog-search').fill('not that girl');
+    await page.locator('[data-testid="catalog-option"][data-type="song"]').filter({ hasText: "I'm Not That Girl" }).first().click();
+    await expect(page).toHaveURL(/\/add\?catalogSong=\d+/);
+
+    const form = page.getByTestId('add-song-form');
+    await expect(page.getByTestId('catalog-banner')).toContainText('Wicked');
+    await expect(form.getByTestId('song-title')).toHaveValue("I'm Not That Girl");
+    await expect(page.getByTestId('song-show')).toHaveValue('Wicked');
+    await expect(page.getByTestId('song-kind-solo')).toHaveAttribute('aria-checked', 'true');
+    await expect(page.getByTestId('part-1-character')).toHaveValue('Elphaba');
+    await expect(page.getByTestId('part-1-range')).toHaveValue('Mezzo-soprano');
+    // the best recording is picked by itself and brings the length
+    await expect(page.getByTestId('chosen-preview')).toContainText('Wicked (Original Broadway Cast Recording)');
+    await expect(page.getByTestId('song-length')).toHaveValue('2:57');
+
+    const title = `I'm Not That Girl ${uniq()}`; // unique title (a retry also clears the catalog-song duplicate above)
+    await form.getByTestId('song-title').fill(title);
+    await page.getByTestId('song-art-file-input').setInputFiles(path.join(__dirname, '..', 'server', 'test', 'fixtures', 'plain.png'));
+    await page.getByTestId('submit-song').click();
+    await expect(page).toHaveURL(/\/songs\/\d+$/);
+    await expect(page.getByTestId('song-detail-title')).toHaveText(title);
+    await expect(page.getByTestId('media-panel')).toBeVisible();
+
+    const id = Number(new URL(page.url()).pathname.split('/').pop());
+    const song = await (await page.request.get(`/api/songs/${id}`)).json();
+    expect(song.catalogSongId).toBeGreaterThan(0);
+    expect(song.lengthSeconds).toBe(177);
+    expect(song.parts).toEqual([{ position: 1, character: 'Elphaba', vocalRange: 'Mezzo-soprano' }]);
+    expect(song.media).toMatchObject({ artworkSource: 'upload', recordingArtworkUrl: '/media/art/e2e-cover.png' });
+    expect(song.media.artworkUrl).toMatch(/^\/uploads\/art\//);
+    // the new show was made from the catalog: linked, with its credits
+    const show = await (await page.request.get(`/api/shows/${song.show.id}`)).json();
+    expect(show).toMatchObject({ name: 'Wicked', composer: 'Stephen Schwartz', year: 2003 });
+    expect(show.catalogShowId).toBeGreaterThan(0);
+  });
+
   test('add a duet to an existing show', async ({ page }) => {
     await apiSignup(page.request);
     const title = `Road to Hadestown ${uniq()}`;
-    await page.goto('/add');
+    await page.goto('/add?manual=1');
     await page.getByTestId('song-kind-duet').click();
     await chooseShow(page, 'hades', /Hadestown/);
     await expect(page.getByTestId('new-show-panel')).toHaveCount(0);
@@ -145,7 +219,7 @@ test.describe('Adding and editing songs', () => {
     await expect(page.getByTestId('song-card')).toHaveCount(1);
 
     // adding it again → friendly duplicate message
-    await page.goto('/add?show=hadestown&kind=duet');
+    await page.goto('/add?manual=1&show=hadestown&kind=duet');
     await expect(page.getByTestId('song-show')).toHaveValue('Hadestown');
     await page.getByTestId('add-song-form').getByTestId('song-title').fill(title);
     await page.getByTestId('part-1-character').fill('Orpheus');
@@ -156,7 +230,7 @@ test.describe('Adding and editing songs', () => {
 
   test('validation errors are listed and focus the first bad field', async ({ page }) => {
     await apiSignup(page.request);
-    await page.goto('/add');
+    await page.goto('/add?manual=1');
     await page.getByTestId('song-length').fill('3:75');
     await page.getByTestId('submit-song').click();
     await expect(page.getByTestId('form-error-summary')).toBeVisible();
@@ -165,7 +239,7 @@ test.describe('Adding and editing songs', () => {
     await expect(page.getByTestId('form-error-summary')).toContainText(/minutes:seconds|seconds/i);
     // focus jumps to the first problem on screen (the show picker)
     await expect(page.getByTestId('song-show')).toBeFocused();
-    await expect(page).toHaveURL(/\/add$/);
+    await expect(page).toHaveURL(/\/add\?manual=1$/);
   });
 
   test('other users can’t edit your song (no Edit button, 403 from the API)', async ({ page }) => {

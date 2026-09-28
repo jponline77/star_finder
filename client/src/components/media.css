@@ -1,0 +1,620 @@
+/* Recording picker + album art / backing-track dropzones (SPEC §7c). Tokens only — works in both themes. */
+
+/* ------------------------------------------------------------ recording picker */
+.rec-picker {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-sm);
+  min-width: 0;
+}
+
+.rec-chosen {
+  display: flex;
+  gap: var(--space-md);
+  padding: var(--space-sm) var(--space-md);
+  border-radius: var(--radius-md);
+  border: 1.5px solid color-mix(in srgb, var(--success) 60%, transparent);
+  background:
+    radial-gradient(100% 140% at 0% 0%, var(--success-bg), transparent 70%),
+    var(--surface);
+  outline: none;
+  min-width: 0;
+}
+
+.rec-chosen.is-auto {
+  border-color: color-mix(in srgb, var(--primary) 70%, transparent);
+  background:
+    radial-gradient(100% 140% at 0% 0%, var(--primary-soft), transparent 70%),
+    var(--surface);
+}
+
+.rec-chosen:focus-visible {
+  box-shadow: 0 0 0 3px var(--focus);
+}
+
+.rec-chosen-art,
+.rec-card-art {
+  position: relative;
+}
+
+.rec-chosen-art {
+  flex: none;
+  align-self: flex-start;
+  width: 84px;
+}
+
+.rec-chosen-art .play-button,
+.rec-card-art .play-button {
+  position: absolute;
+  right: -6px;
+  bottom: -6px;
+}
+
+.rec-chosen-body {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+  min-width: 0;
+}
+
+.rec-eyebrow {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3em;
+  font-size: var(--step--2);
+  font-weight: 900;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--success-text);
+}
+
+.rec-chosen.is-auto .rec-eyebrow {
+  color: var(--primary-text);
+}
+
+.rec-chosen-title {
+  font-weight: 900;
+  font-size: var(--step-1);
+  line-height: 1.2;
+  color: var(--heading);
+  overflow-wrap: anywhere;
+}
+
+.rec-meta {
+  font-size: var(--step--1);
+  color: var(--text-muted);
+  line-height: 1.3;
+  overflow-wrap: anywhere;
+}
+
+.rec-duration {
+  font-weight: 800;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+.rec-chosen-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-2xs);
+  margin: var(--space-2xs) 0 0 -0.5rem;
+}
+
+.rec-search-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--space-xs) var(--space-md);
+}
+
+.rec-search-row .hint {
+  flex: 1 1 14rem;
+}
+
+.rec-status:empty {
+  display: none;
+}
+
+.rec-count {
+  font-size: var(--step--1);
+  font-weight: 800;
+  color: var(--text-muted);
+}
+
+/* Only possible matches (no cast recording found): nothing is picked, the student listens first. */
+.rec-count.is-unsure {
+  display: block;
+  padding: 0.55rem 0.8rem;
+  border-radius: var(--radius-md, 12px);
+  background: var(--warning-bg);
+  color: var(--text);
+  font-weight: 700;
+  line-height: 1.4;
+}
+
+.rec-empty,
+.rec-error {
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+/* the strip: scrolls sideways, snaps to cards */
+.rec-strip {
+  display: flex;
+  gap: var(--space-sm);
+  margin: 0 calc(var(--space-2xs) * -1);
+  padding: var(--space-2xs) var(--space-2xs) var(--space-sm);
+  list-style: none;
+  overflow-x: auto;
+  overscroll-behavior-x: contain;
+  scroll-snap-type: x mandatory;
+  scroll-padding-inline: var(--space-2xs);
+  scrollbar-width: thin;
+  scrollbar-color: var(--scrollbar) transparent;
+}
+
+.rec-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  flex: 0 0 auto;
+  width: 164px;
+  gap: 0.5rem;
+  padding: 0.55rem;
+  border-radius: var(--radius-md);
+  border: 1.5px solid var(--border);
+  background: var(--surface);
+  scroll-snap-align: start;
+  transition:
+    border-color var(--dur) var(--ease-out),
+    box-shadow var(--dur) var(--ease-out),
+    transform var(--dur-fast) var(--ease-out);
+}
+
+.rec-strip.is-loading .rec-card {
+  gap: 0.45rem;
+}
+
+.rec-card:hover {
+  border-color: color-mix(in srgb, var(--primary) 50%, var(--border));
+}
+
+.rec-card.is-chosen {
+  border-color: var(--primary);
+  box-shadow: var(--shadow-glow);
+}
+
+.rec-card-art .art-tile {
+  border-radius: var(--radius-sm);
+}
+
+.rec-card-check {
+  position: absolute;
+  top: 6px;
+  left: 6px;
+  display: grid;
+  place-items: center;
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  background: var(--primary);
+  color: var(--on-primary);
+  box-shadow: var(--shadow-md);
+}
+
+.rec-card-pick {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  align-items: stretch;
+  gap: 0.15rem;
+  min-width: 0;
+  padding: 0;
+  border: 0;
+  background: none;
+  color: inherit;
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+}
+
+.rec-card-pick::after {
+  /* the whole card is the tap target (the ▶ button sits above it) */
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+}
+
+.rec-card-art .play-button {
+  z-index: 1;
+}
+
+.rec-card-pick:focus-visible {
+  outline: none;
+}
+
+.rec-card:has(.rec-card-pick:focus-visible) {
+  outline: 3px solid var(--focus);
+  outline-offset: 2px;
+}
+
+.rec-card-pick:disabled {
+  cursor: default;
+}
+
+.rec-card-title {
+  font-weight: 900;
+  line-height: 1.2;
+  color: var(--heading);
+  overflow-wrap: anywhere;
+}
+
+.rec-card-album,
+.rec-card-artist {
+  font-size: var(--step--2);
+  line-height: 1.3;
+  color: var(--text-muted);
+}
+
+.rec-card-artist {
+  color: var(--text-subtle);
+}
+
+.rec-card-foot {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.35rem;
+  margin-top: auto;
+  padding-top: 0.2rem;
+}
+
+.rec-card-time {
+  font-size: var(--step--1);
+  font-weight: 900;
+  font-variant-numeric: tabular-nums;
+  color: var(--text);
+}
+
+.rec-card-cta {
+  margin-top: 0.25rem;
+  padding: 0.3rem 0.5rem;
+  border-radius: var(--radius-pill);
+  background: var(--surface-2);
+  border: 1px solid var(--border-strong);
+  font-size: var(--step--1);
+  font-weight: 900;
+  text-align: center;
+  color: var(--text);
+}
+
+.rec-card.is-chosen .rec-card-cta {
+  background: var(--primary);
+  border-color: var(--primary);
+  color: var(--on-primary);
+}
+
+.rec-card.is-none {
+  justify-content: center;
+  background:
+    repeating-linear-gradient(-45deg, transparent 0 10px, color-mix(in srgb, var(--text) 3%, transparent) 10px 20px),
+    var(--surface);
+}
+
+.rec-card.is-none .rec-card-pick {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  gap: 0.3rem;
+}
+
+.rec-card.is-none.is-chosen {
+  box-shadow: none;
+  border-color: var(--border-strong);
+}
+
+.rec-card.is-none.is-chosen .rec-card-cta {
+  background: var(--surface-3);
+  border-color: var(--border-strong);
+  color: var(--text);
+}
+
+.rec-none-icon {
+  font-size: 2rem;
+  line-height: 1;
+}
+
+.rec-foot {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--space-2xs) var(--space-md);
+}
+
+.rec-foot .btn {
+  margin-left: -0.5rem;
+}
+
+.rec-foot .tiny {
+  flex: 1 1 16rem;
+}
+
+/* ------------------------------------------------------------ dropzones */
+.media-drop {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: var(--space-md);
+  padding: var(--space-md);
+  border: 2px dashed var(--border-strong);
+  border-radius: var(--radius-md);
+  background: repeating-linear-gradient(-45deg, transparent 0 10px, color-mix(in srgb, var(--primary) 5%, transparent) 10px 20px);
+  transition:
+    border-color var(--dur) var(--ease-out),
+    background-color var(--dur) var(--ease-out);
+  min-width: 0;
+}
+
+.media-drop.is-dragging {
+  border-color: var(--primary);
+  background-color: var(--primary-soft);
+}
+
+.media-drop-overlay {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  border-radius: inherit;
+  background: color-mix(in srgb, var(--surface) 82%, transparent);
+  color: var(--primary-text);
+  font-weight: 900;
+  font-size: var(--step-1);
+  pointer-events: none;
+}
+
+.media-drop-body {
+  display: flex;
+  flex: 1 1 220px;
+  flex-direction: column;
+  gap: var(--space-xs);
+  min-width: 0;
+}
+
+.media-drop-title {
+  font-size: var(--step-1);
+  font-weight: 900;
+  line-height: 1.2;
+  color: var(--heading);
+}
+
+.media-drop-hint {
+  font-size: var(--step--1);
+  color: var(--text-muted);
+}
+
+.media-drop-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-xs);
+}
+
+.media-drop-note {
+  font-size: var(--step--1);
+  color: var(--text-muted);
+}
+
+.media-drop .field-error {
+  margin: 0;
+}
+
+/* album art */
+.art-drop-preview {
+  position: relative;
+  flex: none;
+  width: 148px;
+}
+
+.art-drop-preview .art-tile {
+  border-radius: var(--radius-sm);
+  box-shadow: var(--shadow-md);
+}
+
+.art-drop.is-none .art-drop-preview .art-tile {
+  opacity: 0.8;
+  box-shadow: inset 0 0 0 2px var(--border);
+}
+
+.art-drop-caption {
+  position: absolute;
+  left: 50%;
+  bottom: -10px;
+  transform: translateX(-50%);
+  padding: 0.12rem 0.55rem;
+  border-radius: var(--radius-pill);
+  background: var(--surface);
+  border: 1px solid var(--border-strong);
+  font-size: var(--step--2);
+  font-weight: 900;
+  white-space: nowrap;
+  color: var(--text);
+  box-shadow: var(--shadow-sm);
+}
+
+.art-drop-caption.is-pending {
+  background: var(--primary);
+  border-color: var(--primary);
+  color: var(--on-primary);
+}
+
+.art-drop-caption.is-upload {
+  background: var(--accent-teal);
+  border-color: var(--accent-teal);
+  color: var(--on-teal);
+}
+
+@media (max-width: 479px) {
+  .art-drop {
+    justify-content: center;
+  }
+
+  .art-drop-preview {
+    width: 132px;
+    margin-bottom: var(--space-xs);
+  }
+}
+
+/* backing track */
+.audio-drop-icon {
+  display: grid;
+  place-items: center;
+  flex: none;
+  width: 52px;
+  height: 52px;
+  border-radius: 50%;
+  background: var(--primary-soft);
+  color: var(--primary-text);
+}
+
+@media (max-width: 479px) {
+  .audio-drop-icon {
+    display: none;
+  }
+}
+
+.audio-drop-current {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--space-xs) var(--space-sm);
+  padding: var(--space-xs) var(--space-sm);
+  border-radius: var(--radius-md);
+  background: var(--surface);
+  border: 1px solid var(--border);
+}
+
+.audio-drop-current-text {
+  flex: 1 1 12rem;
+  font-size: var(--step--1);
+  font-weight: 700;
+}
+
+.audio-drop-current.is-removed .audio-drop-current-text {
+  color: var(--danger-text);
+}
+
+.file-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 40px;
+  padding: 0.25rem 0.25rem 0.25rem 0.75rem;
+  border-radius: var(--radius-pill);
+  background: var(--accent-teal-soft);
+  border: 1px solid color-mix(in srgb, var(--accent-teal) 40%, transparent);
+  font-size: var(--step--1);
+  font-weight: 700;
+}
+
+.audio-drop-pending {
+  width: fit-content;
+  margin: 0;
+}
+
+.audio-drop-pending .subtle {
+  white-space: nowrap;
+}
+
+/* phone widths: keep the file name readable ("tone.mp3", not "t…") — the note wraps instead */
+.audio-drop-pending .truncate {
+  min-width: min(12ch, 45%);
+}
+
+.audio-drop-pending .subtle:last-of-type {
+  white-space: normal;
+  min-width: 0;
+}
+
+/* progress */
+.media-progress {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--space-xs) var(--space-md);
+  width: 100%;
+}
+
+.media-progress-head {
+  display: flex;
+  justify-content: space-between;
+  gap: var(--space-sm);
+  flex: 1 1 100%;
+  min-width: 0;
+  font-size: var(--step--1);
+}
+
+.media-progress-pct {
+  font-weight: 900;
+  color: var(--primary-text);
+  font-variant-numeric: tabular-nums;
+}
+
+.media-meter {
+  position: relative;
+  flex: 1 1 200px;
+  height: 12px;
+  overflow: hidden;
+  border-radius: var(--radius-pill);
+  background: var(--surface-3);
+}
+
+.media-meter > span {
+  position: absolute;
+  inset: 0 auto 0 0;
+  border-radius: inherit;
+  background:
+    repeating-linear-gradient(-45deg, rgba(255, 255, 255, 0.22) 0 8px, transparent 8px 16px),
+    linear-gradient(90deg, var(--gold-400), var(--pink-400));
+  background-size:
+    22px 22px,
+    100% 100%;
+  animation: media-stripes 0.8s linear infinite;
+  transition: width 200ms linear;
+}
+
+.media-meter.is-indeterminate > span {
+  width: 40%;
+  animation:
+    media-stripes 0.8s linear infinite,
+    media-slide 1.2s var(--ease-out) infinite alternate;
+}
+
+@keyframes media-stripes {
+  to {
+    background-position:
+      22px 0,
+      0 0;
+  }
+}
+
+@keyframes media-slide {
+  from {
+    left: 0;
+  }
+  to {
+    left: 60%;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .media-meter > span,
+  .media-meter.is-indeterminate > span {
+    animation: none;
+  }
+}

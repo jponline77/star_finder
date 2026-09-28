@@ -1,0 +1,247 @@
+{{Infobox musical
+| name = Chicago
+| image = Chicago_original_poster_art.jpg
+| caption = Original Broadway poster art
+| alt = 
+| music = [[John Kander]]
+| lyrics = [[Fred Ebb]]
+| book = Fred Ebb<br />[[Bob Fosse]]
+| basis = ''[[Chicago (play)|Chicago]]''<br />by [[Maurine Dallas Watkins]]
+| premiere_date = June 3, 1975
+| premiere_location = [[Richard Rodgers Theatre|46th Street Theatre]], New York City
+| productions = {{plainlist|
+* 1975 [[Broadway theatre|Broadway]]
+* 1979 [[West End theatre|West End]]
+* 1996 Broadway revival
+* 1997 North America tour
+* 1997 West End revival
+* 2018 West End revival
+* 2021 UK Tour
+
+ }}
+| awards = 1996 [[Tony Award for Best Revival of a Musical]] <br /> 1997 [[Laurence Olivier Award for Best Musical Revival|Laurence Olivier Award for Outstanding Musical Production]]
+| image_size = 
+}}
+==History==
+==Synopsis==
+=== Act I ===
+===Act II===
+==Musical numbers==
+
+;1975 Original Broadway Production
+'''''"Chicago: A Musical Vaudeville"'''''
+{{col-begin}}
+{{col-2}}
+;Act 1
+* "Overture" – Orchestra
+* "[[All That Jazz (song)|All That Jazz]]" – Velma Kelly and Company
+* "Funny Honey" – Roxie Hart
+* "[[Cell Block Tango]]" – Velma and the Murderesses
+* "When You're Good to Mama" – Mama Morton
+* "Tap Dance" – Roxie, Amos, and Boys
+* "All I Care About" – Billy Flynn and the Girls
+* "A Little Bit of Good" – Mary Sunshine
+* "We Both Reached for the Gun" – Billy, Roxie, Mary Sunshine
+* "Roxie" – Roxie and Boys
+* "I Can't Do It Alone" – Velma
+* "Chicago After Midnight" – Orchestra
+* "My Own Best Friend" – Roxie and Velma
+
+{{col-2}}
+;Act 2
+* "I Know a Girl" – Velma
+* "Me and My Baby" – Roxie and Company
+* "Mister Cellophane" – Amos Hart
+* "When Velma Takes the Stand" – Velma and Boys
+* "Razzle Dazzle" – Billy and Company
+* "Class" – Velma and Morton
+* "Nowadays" – Roxie
+* Finale: "Nowadays"/"R.S.V.P"/"Keep It Hot" – Roxie and Velma †
+{{col-end}}
+
+;1996 Revival Production
+'''''"Chicago: The Musical"'''''
+
+{{col-begin}}
+{{col-2}}
+;Act 1
+* "Overture" – Orchestra
+* "[[All That Jazz (song)|All That Jazz]]" – Velma and Company
+* "Funny Honey" – Roxie
+* "[[Cell Block Tango]]" – Velma and the Murderesses
+* "When You're Good to Mama" – Mama Morton
+* "Tap Dance" – Roxie, Amos, and Boys
+* "All I Care About" – Billy Flynn and Girls
+* "A Little Bit of Good" – Mary Sunshine
+* "We Both Reached for the Gun" – Billy, Roxie, Mary and the Reporters
+* "Roxie" – Roxie and Boys
+* "I Can't Do It Alone" – Velma
+* "I Can't Do It Alone (Reprise)" – Velma
+* "My Own Best Friend" – Roxie and Velma
+* "Finale Act I: All That Jazz (Reprise)" – Velma
+
+{{col-2}}
+;Act 2
+* "Entr'acte" – Orchestra
+* "I Know a Girl" – Velma
+* "Me and My Baby" – Roxie and Company
+* "Mister Cellophane" – Amos
+* "When Velma Takes the Stand" – Velma and Boys
+* "Razzle Dazzle" – Billy and Company
+* "Class" – Velma and Mama Morton
+* "Nowadays" – Velma and Roxie
+* "Hot Honey Rag" – Orchestra 
+* "Finale Act II: All That Jazz (Reprise)" – Company
+{{col-end}}
+
+<small>† In the 1975 Original Broadway Production and its Playbill, there are a few contradicting song lists. Songs such as "R.S.V.P" and "Keep It Hot" which were instrumental pieces in the "Finale" were removed from the licensable music, but were included in original production and script.</small>
+
+==Cast and characters==
+===Original casts===
+Source for West End: overthefootlights.co.uk
+
+{| class="wikitable sortable" style="width:90%;"
+|-
+! rowspan="2" scope="col" | Character
+! rowspan="2" scope="col" class="unsortable" | Description
+! scope="col" class="unsortable" | Broadway
+! scope="col" class="unsortable" | West End
+! scope="col" class="unsortable" | Australia
+! scope="col" class="unsortable" | Broadway
+! scope="col" class="unsortable" | West End
+|-
+!<small>1975</small>
+!<small>1979</small>
+!<small>1981</small>
+!<small>1996</small>
+!<small>1997</small>
+|-
+! scope="row"| [[Roxie Hart]]
+| An aspiring vaudevillian and murderess who kills her paramour after a spat and is sent to jail. [[Mezzo-soprano]]
+| [[Gwen Verdon]]
+| Antonia Ellis
+| [[Nancye Hayes]]
+| [[Ann Reinking]]
+| [[Ruthie Henshall]]
+|-
+! scope="row"| [[Velma Kelly]]
+| A vaudevillian and murderess who is on trial for killing her cheating husband and sister. She is represented by Billy Flynn and competes with Roxie Hart for him. [[Alto]]
+| [[Chita Rivera]]
+| [[Jenny Logan]]
+| [[Geraldine Turner]]
+| [[Bebe Neuwirth]]
+| [[Ute Lemper]]
+|-
+! scope="row"| [[Billy Flynn (Chicago)|Billy Flynn]]
+| Velma and Roxie's lawyer who has a perfect track record and makes celebrities of his clients to win sympathy and sway public opinion. [[Baritone]]
+| [[Jerry Orbach]]
+| [[Ben Cross]]
+| [[Terence Donovan (actor)|Terence Donovan]]
+| [[James Naughton]]
+| [[Henry Goodman]]
+|-
+! scope="row"| Amos Hart
+| Roxie's faithful and good-natured but simple husband whom nobody pays attention to. He spends most of the show trying to make Roxie take interest in him or even just acknowledge his existence. [[Baritone]]
+| [[Barney Martin]]
+| [[Don Fellows]]
+| [[George Spartels]]
+| [[Joel Grey]]
+| [[Nigel Planer]]
+|-
+! scope="row"| Matron "Mama" Morton
+| The [[prison warden|matron]] of the Cook County Jail. Grants the inmates favors in exchange for [[bribery|bribes]]. [[Alto]]
+| [[Mary McCarty (actress)|Mary McCarty]]
+| Hope Jackman
+| [[Judi Connelli]]
+| [[Marcia Lewis]]
+| [[Meg Johnson (actress)|Meg Johnson]]
+|-
+! scope="row"| Mary Sunshine
+| The [[sob sister (journalism)|sob sister]] journalist who follows the trials of both Roxie Hart and Velma Kelly. In most productions, Mary Sunshine [[pantomime dame|is revealed to be male]] at the end of the show. [[Countertenor]]
+| Michael O'Haughey (credited as "M. O'Haughey")
+| Gary Lyons
+| J.P. Webster
+| David Sabella-Mills
+| Charles Shirvell
+|}
+
+===Notable replacements ===
+{{Unreferenced section|date=August 2023}}
+'''Broadway (1975–1977)'''
+*Roxie Hart: [[Liza Minnelli]], [[Lenora Nemetz]], [[Ann Reinking]]
+*Velma Kelly: [[Lenora Nemetz]]
+*Amos Hart: [[Rex Everhart]]
+*Mama Morton: [[Alaina Reed Hall]]
+'''Broadway (1996–)'''
+*Roxie Hart: [[Pamela Anderson]], [[Mel B]], [[Kate Baldwin]], [[Christie Brinkley]], [[Charlotte d'Amboise]], [[Paige Davis]], [[Kara DioGuardi]], [[Sandy Duncan]], [[Veronica Dunne (actor)|Veronica Dunne]], [[Charlotte Kate Fox]], [[Robin Givens]], [[Ashley Graham (model)|Ashley Graham]], [[Melanie Griffith]], [[Melora Hardin]], [[Samantha Harris]], [[Marilu Henner]], [[Ruthie Henshall]], [[Olivia Holt]], [[Ivy (South Korean singer)|Ivy]], [[Erika Jayne]], [[Bonnie Langford]], [[Whitney Leavitt]], [[Ariana Madix]], [[Shiri Maimon]], [[Bianca Marroquín]], [[Alyssa Milano]], [[Gretchen Mol]], [[Jennifer Nettles]], [[Bebe Neuwirth]], [[Petra Nielsen]], [[Brandy Norwood]], [[Desi Oakley]], [[Lisa Rinna]], [[Chita Rivera]], [[Krysta Rodriguez]], [[Angelica Ross]], [[Brooke Shields]], [[Ashlee Simpson]], [[Mira Sorvino]], [[Amy Spanger]], [[Denise van Outen]], [[Ana Villafañe]], [[Nana Visitor]], [[Reece Weaver]], [[Michelle Williams (singer)|Michelle Williams]], [[Rumer Willis]], [[Rita Wilson]], [[Ryoko Yonekura]], [[Karen Ziemba]]
+*Velma Kelly: [[Pia Douwes]], [[Deidre Goodwin]], [[Lana Gordon]], [[Jasmine Guy]], [[Mya (singer)|Mýa Harrison]], [[Ruthie Henshall]], [[Carly Hughes]], [[Robyn Hurder]], [[Nikka Graff Lanzarone]], [[Sharon Lawrence]], [[Ute Lemper]], [[Vicki Lewis]], [[Bianca Marroquín]], [[Luba Mason]], [[Anna Montanaro]], [[Caroline O'Connor (actress)|Caroline O'Connor]], [[Reva Rice]], [[Amra-Faye Wright]], [[Leigh Zimmerman]]
+*Billy Flynn: [[Pasquale Aleardi]], [[Obba Babatundé]], [[Mark Ballas]], [[Brent Barrett]], [[Hinton Battle]], [[Erich Bergen]], [[Wayne Brady]], [[Jaime Camil]], [[Philip Casnoff]], [[Maxwell Caulfield]], [[Chuck Cooper (actor)|Chuck Cooper]], [[Billy Ray Cyrus]], [[Jason Danieley]], [[Taye Diggs]], [[Brandon Victor Dixon]], [[Colman Domingo]], [[John Dossett]], [[Christopher Fitzgerald (actor)|Christopher Fitzgerald]], [[Alexander Gemignani]], [[Eddie George]], [[Cuba Gooding Jr.]], [[Louis Gossett Jr.]], [[Michael C. Hall]], [[Todrick Hall]], [[George Hamilton (actor)|George Hamilton]], [[Harry Hamlin]], [[Gregory Harrison]], [[Tom Hewitt (actor)|Tom Hewitt]], [[James Monroe Iglehart]], [[Gregory Jbara]], [[James T. Lane]], [[Matteo Lane|Mateo Lane]], [[Joey Lawrence]], [[Huey Lewis]], [[Norm Lewis]], [[Hal Linden]], [[Peter Lockyer]], [[Jeff McCarthy]], [[Christopher McDonald]], [[Brian McKnight]], [[Tam Mutu]], [[Paul Alexander Nolan]], [[John O'Hurley]], [[Adam Pascal]], [[Marti Pellow]], [[Clarke Peters]], [[Ron Raines]], [[Kevin Richardson (musician)|Kevin Richardson]], [[John Schneider (screen actor)|John Schneider]], [[Matthew Settle]], [[Chaz Lamar Shepherd]], [[Christopher Sieber]], [[Jerry Springer]], [[Elvis Stojko]], [[Patrick Swayze]], [[Paulo Szot]], [[Alan Thicke]], [[Robert Urich]], [[Usher (musician)|Usher]], [[Ben Vereen]], [[Max von Essen]], [[Nik Walker]], [[Tom Wopat]], [[Tony Yazbeck]], [[Billy Zane]], [[Adrian Zmed]], [[Marco Zunino]]
+*Amos Hart: [[Rob Bartlett]], [[Kevin Carolan]], [[Kevin Chamberlin]], [[Cory English]], [[Christopher Fitzgerald (actor)|Christopher Fitzgerald]], [[James T. Lane]], [[Tom McGowan]], [[Isaac Mizrahi]], [[Vincent Pastore]], [[Ernie Sabella]], [[Chris Sullivan (actor)|Chris Sullivan]], [[Paul C. Vogt]]
+*Mama Morton: [[Kandi Burruss]], [[B.J. Crosby]], [[Charity Angél Dawson]], [[Lea DeLaria]], [[Larisa Dolina]], [[Debbie Gravitte]], [[Jennifer Holliday]], [[Cady Huffman]], [[Patti LaBelle]], [[NeNe Leakes]], [[Adriane Lenox]], [[Debra Monk]], [[Jinkx Monsoon]], [[Anne L. Nathan]], [[Bebe Neuwirth]], [[Alex Newell]], [[Orfeh]], [[Michele Pawk]], [[Christine Pedi]], [[Roz Ryan]], [[Camille Saviola]], [[Valerie Simpson]], [[Angie Stone]], [[Mary Testa]], [[Aida Turturro]], [[Sofía Vergara]], [[Lillias White]], [[Terri White]], [[Wendy Williams]], [[Chandra Wilson]], [[Carol Woods]]
+*Mary Sunshine: [[Daniel Levine (actor)|Daniel Levine]], [[Max von Essen]]
+'''West End revival (1997–2012)'''
+*Roxie Hart: [[Tina Arena]], [[Emma Barton]], [[Christie Brinkley]], [[Anita Louise Combe]], [[Jennifer Ellison]], [[America Ferrera]], [[Maria Friedman]], [[Josefina Gabrielle]], [[Jill Halfpenny]], [[Linzi Hateley]], [[Bonnie Langford]], [[Aoife Mulholland]], [[Petra Nielsen]], [[Chita Rivera]], [[Frances Ruffelle]], [[Suzanne Shaw]], [[Brooke Shields]], [[Ashlee Simpson]], [[Claire Sweeney]], [[Sally Ann Triplett]], [[Denise van Outen]], [[Michelle Williams (singer)|Michelle Williams]]
+*Velma Kelly: [[Anna-Jane Casey]], [[Anita Louise Combe]], [[Pia Douwes]], [[Ruthie Henshall]], [[Nicola Hughes (actress)|Nicola Hughes]], [[Debbie Kurup]], [[Rachel McDowall]], [[Anna Montanaro]], [[Valarie Pettiford]], [[Leigh Zimmerman]]
+*Billy Flynn: [[Luca Barbareschi]], [[John Barrowman]], [[David Bedella]], [[Darius Campbell]], [[Maxwell Caulfield]], [[Robin Cousins]], [[Juan Pablo Di Pace]], [[John Diedrich]], [[Sacha Distel]], [[Michael French]], [[Matthew Goodgame]], [[Michael Greco (actor)|Michael Greco]], [[Tony Hadley]], [[David Hasselhoff]], [[Raza Jaffrey]], [[Duncan James]], [[Terence Maynard]],[[Ian Kelsey]], [[Craig McLachlan]], [[Jimmy Osmond]], [[Marti Pellow]], [[Clarke Peters]], [[Kevin Richardson (musician)|Kevin Richardson]], [[Rolf Saxon]], [[Michael Siberry]], [[Jerry Springer]], [[Jonathan Wilkes]], [[Gary Wilmot]]
+*Amos Hart: [[Justin Lee Collins]], [[Peter Davison]], [[Les Dennis]], [[James Doherty (actor)|James Doherty]], [[Joel Grey]], [[Gareth Hale]], [[Kevin Kennedy (actor)|Kevin Kennedy]], [[George Layton]], [[Victor McGuire]], [[Dale Meeks]], [[Norman Pace]], [[Clive Rowe]]
+*Mama Morton: [[Lynda Carter]], [[Sharon D. Clarke]], [[Anita Dobson]], [[Brenda Edwards]], [[Diane Langton]], [[Alison Moyet]], [[Kelly Osbourne]], [[Gaby Roslin]]
+*Mary Sunshine: [[Cory English]], [[Nathan Kiley]]
+
+==Musical and staging style==
+==Productions==
+===Original Broadway production===
+===1979 West End===
+=== 1977 Argentina ===
+=== 1981 Australia ===
+===1992 Los Angeles===
+===1996 Broadway revival===
+===London revivals===
+===North American tours===
+=== 2013 Hollywood Bowl ===
+=== 2019 Australia ===
+=== 2021 UK tour ===
+=== 2023 Australia ===
+===International productions===
+==Recordings==
+==Awards and nominations==
+===Original Broadway production===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Musical|Best Musical]] [[Tony Award for Best Book of a Musical|Best Book of a Musical]] [[Bob Fosse]] [[Fred Ebb]] [[Tony Award for Best Original Score|Best Original Score]] [[John Kander]] [[Tony Award for Best Actor in a Musical|Best Actor in a Musical]] [[Jerry Orbach]] [[Tony Award for Best Actress in a Musical|Best Actress in a Musical]] [[Chita Rivera]] [[Gwen Verdon]] [[Tony Award for Best Direction of a Musical|Best Direction of a Musical]] [[Tony Award for Best Choreography|Best Choreography]] [[Tony Award for Best Scenic Design|Best Scenic Design]] [[Tony Walton]] [[Tony Award for Best Costume Design|Best Costume Design]] [[Patricia Zipprodt]] [[Tony Award for Best Lighting Design|Best Lighting Design]] [[Jules Fisher]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Actor in a Musical|Outstanding Actor in a Musical]] [[Drama Desk Award for Outstanding Lighting Design|Outstanding Lighting Design]] [[Grammy Award]] [[Grammy Award for Best Musical Theater Album|Best Musical Theater Album]]
+|}
+===Original London production===
+{|
+|-
+| links || [[Laurence Olivier Award]] [[Laurence Olivier Award for Best New Musical|Best New Musical]] [[Laurence Olivier Award for Best Actor in a Musical|Best Actor in a Musical]] [[Ben Cross]] [[Laurence Olivier Award for Best Actress in a Musical|Best Actress in a Musical]]
+|}
+===1996 Broadway revival===
+{|
+|-
+| links || [[Drama Desk Award]] [[Drama Desk Award for Outstanding Revival of a Musical|Outstanding Revival of a Musical]] [[Drama Desk Award for Outstanding Actor in a Musical|Outstanding Actor in a Musical]] [[James Naughton]] [[Drama Desk Award for Outstanding Actress in a Musical|Outstanding Actress in a Musical]] [[Bebe Neuwirth]] [[Drama Desk Award for Outstanding Featured Actor in a Musical|Outstanding Featured Actor in a Musical]] [[Joel Grey]] [[Drama Desk Award for Outstanding Featured Actress in a Musical|Outstanding Featured Actress in a Musical]] [[Marcia Lewis]] [[Drama Desk Award for Outstanding Choreography|Outstanding Choreography]] [[Ann Reinking]] [[Drama Desk Award for Outstanding Director of a Musical|Outstanding Director of a Musical]] [[Walter Bobbie]] [[Drama Desk Award for Outstanding Lighting Design|Outstanding Lighting Design]] [[Ken Billington]] [[Tony Award]] [[Tony Award for Best Revival of a Musical|Best Revival of a Musical]] [[Tony Award for Best Actor in a Musical|Best Actor in a Musical]] [[Tony Award for Best Actress in a Musical|Best Actress in a Musical]] [[Tony Award for Best Featured Actress in a Musical|Best Featured Actress in a Musical]] [[Tony Award for Best Direction of a Musical|Best Direction of a Musical]] [[Tony Award for Best Choreography|Best Choreography]] [[Tony Award for Best Costume Design|Best Costume Design]] [[William Ivey Long]] [[Tony Award for Best Lighting Design|Best Lighting Design]] [[New York Drama Critics' Circle|New York Drama Critics' Circle Award]] [[Grammy Award]] [[Grammy Award for Best Musical Theater Album|Best Musical Theater Album]]
+|}
+===1997 London revival===
+{|
+|-
+| links || [[Laurence Olivier Awards|Laurence Olivier Award]] [[Laurence Olivier Award for Best Actor in a Musical|Best Actor in a Musical]] [[Henry Goodman]] [[Laurence Olivier Award for Best Actress in a Musical|Best Actress in a Musical]] [[Ute Lemper]] [[Ruthie Henshall]] [[Laurence Olivier Award for Best Director|Best Director]] [[Walter Bobbie]] [[Laurence Olivier Award for Best Theatre Choreographer|Best Theatre Choreographer]] [[Ann Reinking]] [[Laurence Olivier Award for Best Costume Design|Best Costume Design]] [[William Ivey Long]] [[Grammy Award]] [[Grammy Award for Best Musical Theater Album|Best Musical Theater Album]]
+|}
+==References==
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+starring [[Ginger Rogers]].
+played by [[David Rounds]].
+starred [[Chita Rivera]].
+in the cast were [[Bebe Neuwirth]], [[Joel Grey]], [[James Naughton]].
+starring [[Cuba Gooding Jr.]].
+cast featured [[Charlotte d'Amboise]], [[Jasmine Guy]], [[Obba Babatundé]], [[Carol Woods]].
+cast included [[Alan Thicke]].
+cast included [[Alan Thicke]], [[Tom Wopat]].
+cast included [[Samantha Barks]].
+cast included [[Samantha Barks]], [[Ashlee Simpson]], [[Stephen Moyer]], [[Drew Carey]], [[Lucy Lawless]].
+starred [[Natalie Bassingthwaighte]].
+starred [[Jason Donovan]].
+starring [[Susse Wold]].
+starred [[Birgitte Hjort Sørensen]].
+starred [[Maria Lucia Rosenberg]].
+starred [[Ryoko Yonekura]].
+starring [[Tati Alcántara]].

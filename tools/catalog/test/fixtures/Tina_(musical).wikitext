@@ -1,0 +1,293 @@
+{{Infobox Musical
+|name               = Tina
+|subtitle           = The Tina Turner Musical
+|image              = Tina_musical_poster.png
+|caption            = Broadway promotional poster
+|music              = Various
+|lyrics             = Various
+|book               = [[Katori Hall]]<br />[[Frank Ketelaar]]<br />Kees Prins
+|basis              = Songs<br />by [[Tina Turner]]
+| premiere_date     = {{Start date|df=yes|2018|04|17}}
+| premiere_location = [[Aldwych Theatre]], [[London]]
+| productions       = 2018 [[West End theatre|West End]]<br />2019 [[Hamburg]]<br />2019 [[Broadway theatre|Broadway]]<br />2020 [[Utrecht]]<br />2021 [[Madrid]]<br />2022 North American tour<br />2023 [[Sydney]]<br />2024 North American tour<br />2025 UK tour<br />2026 [[São Paulo]]
+}}
+==Synopsis==
+===Act I===
+===Act II===
+== Principal casts==
+
+{| class="wikitable" style="width:1000;"
+|-
+! rowspan="2"| Character
+! West End
+! Broadway
+! Hamburg
+! Utrecht
+! Madrid
+! North American tour
+! Sydney
+! North American tour
+! UK tour
+! São Paulo
+|-
+! <small>2018</small>
+! <small>2019</small>
+! <small>2019</small>
+! <small>2020</small>
+! <small>2021</small>
+! <small>2022</small>
+! <small>2023</small>
+! <small>2024</small>
+! <small>2025</small>
+! <small>2026</small>
+|-
+! [[Tina Turner]]
+| colspan=2 align=center| [[Adrienne Warren]]
+| colspan=1 align=center| Kristina Love
+| colspan=1 align=center| Nyassa Alberta
+| colspan=1 align=center| Kery Sankoh
+| colspan=1 align=center| Naomi Rodgers<hr>Zurin Villanueva
+| colspan=1 align=center| Ruva Ngwenya
+| colspan=1 align=center| Jayna Elise
+| colspan=1 align=center| Elle Ma-Kinga N'Zuzi<hr>Jochebel Ohene MaCcarthy
+| colspan=1 align=center| Analu Pimenta
+|-
+! [[Ike Turner]]
+| colspan=1 align=center| [[Kobna Holdbrook-Smith]]
+| colspan=1 align=center| [[Daniel J. Watts]]
+| colspan=1 align=center| Mandela Wee Wee
+| colspan=1 align=center| Juneoer Mers
+| colspan=1 align=center| Rone Reinoso
+| colspan=1 align=center| Garrett Turner
+| colspan=1 align=center| [[Tim Omaji]]
+| colspan=1 align=center| Sterling Baker-McClary
+| colspan=1 align=center| David King-Yombo
+| colspan=1 align=center| César Mello
+|-
+! Zelma Bullock
+| colspan=1 align=center| Madeline Appiah
+| colspan=1 align=center| [[Dawnn Lewis]]
+| colspan=1 align=center| Adisat Semenitsch
+| colspan=1 align=center| Noah Blindenburg
+| colspan=1 align=center| Juno Kotto King
+| colspan=1 align=center| Roz White
+| colspan=1 align=center| Ibinabo Jack
+| colspan=1 align=center| Elaina Walton
+| colspan=1 align=center| Letitia Hector
+| colspan=1 align=center| Renata Vilela
+|-
+! Erwin Bach
+| colspan=1 align=center| [[Gerard McCarthy]]
+| colspan=1 align=center| Ross Lekites
+| colspan=1 align=center| Simon Mehlich
+| colspan=1 align=center| Dieter Spileers
+| colspan=1 align=center| Oriol Anglada
+| colspan=1 align=center| Max Falls
+| colspan=1 align=center| Matthew Prime
+| colspan=1 align=center| Steven Sawan
+| colspan=1 align=center| William Beckerleg
+| colspan=1 align=center| Bruno Sigrist
+|-
+! Gran Georgeanna
+| colspan=1 align=center| [[Lorna Gayle]]
+| colspan=1 align=center| [[Myra Lucretia Taylor]]
+| colspan=1 align=center| Adi Wolf
+| colspan=1 align=center| Jeannine la Rose
+| colspan=1 align=center| Ileana Wilson
+| colspan=1 align=center| [[Ann Nesby]]
+| colspan=1 align=center| Deni Gordon
+| colspan=1 align=center| Deidre Lang
+| colspan=1 align=center| Claude East
+| colspan=1 align=center| Aline Cunha
+|-
+! [[Roger Davies (manager)|Roger Davies]]
+| colspan=1 align=center| Ryan O’Donnell
+| colspan=1 align=center| Charlie Franklin
+| colspan=1 align=center| Nikolas Heiber
+| colspan=1 align=center| Steven Roox
+| colspan=1 align=center| Pedro Martell
+| colspan=1 align=center| Zachary Freier-Harrison
+| colspan=1 align=center| Mat Verevis
+| colspan=1 align=center| Joe Hornberger
+| colspan=1 align=center| Isaac Elder
+| colspan=1 align=center| Rodrigo Garcia
+|-
+! Rhonda Graam
+| colspan=1 align=center| [[Francesca Jackson]]
+| colspan=1 align=center| [[Jessica Rush]]
+| colspan=1 align=center| Sarah Schütz
+| colspan=1 align=center| Liss Walravens
+| colspan=1 align=center| Anna Lagares
+| colspan=1 align=center| Lael Van Keuren
+| colspan=1 align=center| Nadia Komazec
+| colspan=1 align=center| Kristen Daniels
+| colspan=1 align=center| Gemma Sutton
+| colspan=1 align=center| Lia Canineu
+|-
+! [[Alline Bullock]]
+| colspan=1 align=center| Aisha Jawando
+| colspan=1 align=center| Mars Rucker
+| colspan=1 align=center| Denise Lucia Aquino
+| colspan=1 align=center| Gaia Aikman
+| colspan=1 align=center| Aisha Fay
+| colspan=1 align=center| Parris Lewis
+| colspan=1 align=center| Jayme-Lee Hanekom 
+| colspan=1 align=center| Mya Bryant
+| colspan=1 align=center| Georgia Gillam
+| colspan=1 align=center| Vanessa Mello
+|-
+! [[Phil Spector]] / [[Terry Britten]]
+| colspan=1 align=center| Tom Godwin
+| colspan=1 align=center| Steven Booth
+| colspan=1 align=center| Alex Bellinkx
+| colspan=1 align=center| Jasper Kerkhof
+| colspan=1 align=center| Carlos Báez
+| colspan=1 align=center| Geoffrey Kidwell
+| colspan=1 align=center| John O’Hara
+| colspan=1 align=center| Bear Manescalchi
+| colspan=1 align=center| Martin Allanson
+| colspan=1 align=center| Dante Paccola
+|-
+! [[Raymond Hill (musician)|Raymond Hill]]
+| colspan=1 rowspan=2 align=center| Natey Jones
+| colspan=1 align=center| Gerald Caesar
+| colspan=1 align=center| Anthony Curtis Kirby
+| colspan=1 align=center|Owen Playfair
+| colspan=1 align=center| Yefry Xander
+| colspan=1 align=center| Taylor A. Blackman
+| colspan=1 align=center| Rishab Kern
+| colspan=1 align=center| Maurice Alpharicio
+| colspan=1 align=center| Kyle Richardson
+| colspan=1 align=center| Abrahão Costa
+|-
+! Richard Bullock
+| colspan=1 align=center| David Jennings
+| colspan=1 align=center| Kristofer Weinstein-Storey
+| colspan=1 align=center| Marlon David Henry
+| colspan=1 align=center| Kevin Tuku
+| colspan=1 align=center| Carlton Terrence Taylor
+| colspan=1 align=center| Augie Tchantcho
+| colspan=1 align=center| Darius J. Manuel
+| colspan=1 align=center| Rushand Chambers
+| colspan=1 align=center| Samuel Conze
+|-
+! Carpenter / [[Martyn Ware]]
+| colspan=1 align=center| Jason Langley
+| colspan=1 align=center| Robert Lenzi
+| colspan=1 align=center| Marlon Wehmeier
+| colspan=1 align=center| Danny Houtkooper
+| colspan=1 align=center| Nico Baumgärtner
+| colspan=1 align=center| Chris Stevens
+| colspan=1 align=center| Blake Erickson
+| colspan=1 align=center| Hunter Torr
+| colspan=1 align=center| Richard Taylor Woods
+| colspan=1 align=center| Leonardo Miggiorin
+|-
+! Craig Hill
+| colspan=1 align=center| Kit Esuruoso
+| colspan=1 align=center| Matthew Griffin
+| colspan=1 align=center| Michael B. Sattler
+| colspan=1 align=center| Giovanni van Gom
+| colspan=1 align=center| Marcos Oli
+| colspan=1 align=center| Andre Hinds
+| colspan=1 align=center| David Mairs-McKenzie
+| colspan=1 align=center| Maurice Alpharicio
+| colspan=1 align=center| Kane Matthews
+| colspan=1 align=center| Bhener
+|-
+! Ronnie Turner
+| colspan=1 align=center| Baker Mukasa
+| colspan=1 align=center| Jhardon Dishon Milton
+| colspan=1 align=center| Dinipiri Etebu
+| colspan=1 align=center| Lorenzo Kolf
+| colspan=1 align=center| Hansel Moya
+| colspan=1 align=center| Antonio Beverly
+| colspan=1 align=center| Abu Kebe
+| colspan=1 align=center| Sterling Baker-McClary
+| colspan=1 align=center| Daniel N'Guessan-López
+| colspan=1 align=center| Douglas Motta
+|}
+
+===Notable replacements ===
+
+'''West End'''
+* '''Tina Turner''': Nkeki Obi-Melekwe, [[Chanelle Haynes|Chanel Haynes]], Aisha Jawando, Elesha Paul Moses, Kristina Love, Karis Anderson, [[Zoe Birkett]], [[Fleur East]]
+* '''Ike Turner''': Ashley Zhangazha, Jammy Kasongo, Caleb Roberts, Okezie Morro, [[Rolan Bell]]
+
+'''Broadway'''
+* '''Tina Turner''': Nkeki Obi-Melekwe
+* '''Ike Turner''': Nick Rashad Burroughs
+
+'''1st North American tour'''
+* '''Ike Turner''': Roderick Lawrence
+
+'''1st North American tour'''
+* '''Raymond HIll''': Gerard M. Williams
+
+'''2nd North American tour'''
+* '''Tina Turner''': Meghan Dawson, Darilyn Burtley
+
+==Musical numbers==
+{{col-begin}}
+{{col-2}}
+;Act I
+*"[[Nutbush City Limits]]" <small>([[Tina Turner]])</small> - Richard, Young Tina and Company
+*"[[Don't Turn Around]]" <small>([[Albert Hammond]], [[Diane Warren]])</small> - Tina, Gran Georgeanna and Company
+*"[[Shake a Tail Feather]]" <small>(Otha Hayes, Verlie Rice, [[Andre Williams (musician)|Andre Williams]])</small> - Alline, Tina, Ikettes and Company
+*"[[The Hunter (Albert King song)|The Hunter]]" <small>([[Booker T. Jones]], C. Wells, [[Al Jackson, Jr.]], [[Donald "Duck" Dunn|Donald Dunn]], [[Steve Cropper]])</small> - Ike and Ronnie
+*"Matchbox" <small>([[Ike Turner]])</small> - Ike, Tina and Company
+*"[[It's Gonna Work Out Fine]]" <small>([[Rose Marie McCoy]], Sylvia McKinney)</small> - Zelma, Ike, Tina, Alline, Ikettes and Company
+*"[[A Fool in Love]]" <small>(I. Turner)</small> - Tina and Ikettes
+*"[[Let's Stay Together (Al Green song)|Let's Stay Together]]" <small>([[Al Green]], [[Willie Mitchell (musician)|Willie Mitchell]], Jackson)</small> - Raymond and Tina
+*"[[Better Be Good to Me]]" <small>([[Holly Knight]], [[Mike Chapman]], [[Nicky Chinn]])</small> - Tina and Company
+*"[[I Want to Take You Higher]]" <small>([[Sly Stone]])</small> - Tina, Alline and Ikettes
+*"[[River Deep Mountain High]]" <small>([[Phil Spector]], [[Jeff Barry]], [[Ellie Greenwich]])</small> - Tina and Company
+*"[[Be Tender with Me Baby]]" <small>(Knight, Hammond,)</small> - Ike, Tina, Alline, Ikettes, Ronnie and Richard
+*"[[Proud Mary]]" <small>([[John Fogerty]])</small> - Tina, Ike, Alline and Ikettes
+*"[[I Don't Wanna Fight]]" <small>([[Lulu (singer)|Lulu]], Billy Lawrie, [[Steve DuBerry]])</small> - Tina and Company
+{{col-2}}
+;Act II
+*"[[Private Dancer (Tina Turner song)|Private Dancer]]" <small>([[Mark Knopfler]])</small> - Tina
+*"[[Disco Inferno]]" <small>(Leroy Green, [[Ron Kersey]])</small> - Tina and Company
+*"[[Open Arms (Tina Turner song)|Open Arms]]" <small>([[Martin Brammer]], Colette van Sertima, Ben Barson)</small> - Rhonda, Tina and Company
+*"[[I Can't Stand the Rain (song)|I Can't Stand the Rain]]" <small>(Ann Peebles, [[Don Bryant (songwriter)|Don Bryant]], Bernard Miller)</small> - Tina, Ike and Company
+*"[[Tonight (Iggy Pop song)|Tonight]]" <small>([[David Bowie]], [[Iggy Pop]])</small> - Young Tina, Gran Georgeanna, Tina and Roger
+*"[[What's Love Got to Do with It (song)|What's Love Got to Do with It?]]" <small>([[Terry Britten]], [[Graham Lyle]])</small> - Tina, Ikettes, Ronnie and Raymond
+*"[[We Don't Need Another Hero (Thunderdome)]]" <small>(Britten, Lyle)</small> - Tina and Company
+*"[[The Best (song)|The Best]]" <small>(Knight, Chapman)</small> - Tina and Company
+*"Finale: "Nutbush City Limits (Reprise)" <small>(T. Turner)</small> / Proud Mary (Reprise)" <small>(Fogerty)</small> - Company
+{{col-end}}
+
+: ''Songwriters in parentheses''
+
+: ''In the Broadway production "[[Rocket 88]]" replaced "The Hunter" and "She Made My Blood Run Cold" was included after "Matchbox"''. ''Beginning in 2021, the same change was made to the West End production.''
+
+== Background ==
+==Productions==
+=== West End (2018–2025) ===
+=== Germany (2019–2024) ===
+=== Broadway (2019–2022) ===
+=== Netherlands (2020–2023) ===
+=== Spain (2021–2023) ===
+=== North American tour (2022–2024) ===
+=== Australia (2023–2025) ===
+=== North American tour (2024–2026) ===
+=== UK and international tour (2025–2026)===
+=== Brazil (2026)===
+==Critical response==
+==Awards and nominations==
+=== Original West End production ===
+{|
+|-
+| links || [[64th Evening Standard Theatre Awards|Evening Standard Theatre Award]] [[Evening Standard Theatre Award for Best Musical Performance|Best Musical Performance]] [[Adrienne Warren]] [[Phyllida Lloyd]] [[2019 Laurence Olivier Awards|Laurence Olivier Award]] [[Laurence Olivier Award for Best New Musical|Best New Musical]] [[Laurence Olivier Award for Best Actress in a Musical|Best Actress in a Musical]] [[Laurence Olivier Award for Best Actor in a Musical|Best Actor in a Musical]] [[Kobna Holdbrook-Smith]] [[WhatsOnStage Awards|WhatsOnStage Award]]
+|}
+===Original Broadway production===
+{|
+|-
+| links || [[74th Tony Awards|Tony Awards]] [[Tony Award for Best Musical|Best Musical]] [[Tony Award for Best Book of a Musical|Best Book of a Musical]] [[Katori Hall]] [[Frank Ketelaar]] [[Tony Award for Best Actress in a Musical|Best Performance by a Leading Actress in a Musical]] [[Adrienne Warren]] [[Tony Award for Best Featured Actor in a Musical|Best Performance by a Featured Actor in a Musical]] [[Daniel J. Watts]] [[Tony Award for Best Featured Actress in a Musical|Best Performance by a Featured Actress in a Musical]] [[Myra Lucretia Taylor]] [[Tony Award for Best Direction of a Musical|Best Direction of a Musical]] [[Phyllida Lloyd]] [[Tony Award for Best Choreography|Best Choreography]] [[Anthony Van Laast]] [[Tony Award for Best Orchestrations|Best Orchestrations]] [[Tony Award for Best Scenic Design of a Musical|Best Scenic Design of a Musical]] [[Tony Award for Best Costume Design of a Musical|Best Costume Design of a Musical]] [[Tony Award for Best Lighting Design of a Musical|Best Lighting Design of a Musical]] [[Tony Award for Best Sound Design of a Musical|Best Sound Design of a Musical]] [[Drama Desk Awards]] [[Drama Desk Award for Outstanding Actress in a Musical|Outstanding Actress in a Musical]] [[Drama Desk Award for Outstanding Costume Design of a Musical|Outstanding Costume Design of a Musical]] [[Drama Desk Award for Outstanding Lighting Design for a Musical|Outstanding Lighting Design of a Musical]] [[Drama Desk Award for Outstanding Wig and Hair Design|Outstanding Wig and Hair Design]] [[Drama League Awards]] [[Drama League Distinguished Performance Award|Distinguished Performance Award]] [[Outer Critics Circle Award]] [[Chita Rivera Awards for Dance and Choreography|Chita Rivera Awards]]
+|}
+==References==
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+starring [[American Idol]].

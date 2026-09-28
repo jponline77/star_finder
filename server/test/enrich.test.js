@@ -9,6 +9,7 @@ import path from 'node:path';
 import { openDb } from '../src/db.js';
 import { insertShow, insertSong } from './helpers.js';
 import { matchTitle, classifyAlbum, albumLead, makeItunesFetch, main } from '../scripts/enrich.js';
+import { isUnwantedAlbum, showInfo } from '../src/lib/itunes-albums.js';
 
 const tmpDirs = [];
 const tmp = () => {
@@ -51,6 +52,21 @@ describe('matchTitle', () => {
   });
 });
 
+describe('isUnwantedAlbum / showInfo', () => {
+  test('the karaoke/cover/foreign-cast lists apply to albums that do not name the show', () => {
+    assert.equal(isUnwantedAlbum({ collectionName: 'Broadway Karaoke Hits', artistName: 'x' }), true);
+    assert.equal(isUnwantedAlbum({ collectionName: 'Songs in the Style of Wicked', artistName: 'x' }), true);
+    assert.equal(isUnwantedAlbum({ collectionName: 'Musicals', artistName: 'Seoul Musical Company' }), true);
+    assert.equal(isUnwantedAlbum({ collectionName: 'Songs from Bat Boy and Other Stories', artistName: 'Jane Doe' }), false);
+  });
+
+  test('the Apple search term drops Spanish ¡ ¿ and !', () => {
+    assert.equal(showInfo('¡Americano!').base, 'Americano');
+    assert.equal(showInfo('Oklahoma!').base, 'Oklahoma');
+    assert.equal(showInfo('The Book of Mormon').base, 'Book of Mormon');
+  });
+});
+
 describe('classifyAlbum', () => {
   const info = (show, cfg = {}, leads = []) => ({ leads: [albumLead(show), ...leads], cfg: { leads, ...cfg } });
 
@@ -69,6 +85,13 @@ describe('classifyAlbum', () => {
     assert.equal(classifyAlbum({ collectionName: 'Hadestown: A Tribute', artistName: 'x' }, h), null);
     assert.equal(classifyAlbum({ collectionName: 'Hadestown (Original Broadway Cast Recording)', artistName: 'Karaoke Kings' }, h), null);
     assert.equal(classifyAlbum({ collectionName: 'Hadestown (Deutsche Originalbesetzung)', artistName: 'x' }, h), null);
+    // a German-language production named only by its house (seen live for Come From Away)
+    assert.equal(classifyAlbum({ collectionName: 'Come from Away (2025 Theater Regensburg Original Cast)', artistName: 'x' }, info('Come from Away')), null);
+    assert.equal(classifyAlbum({ collectionName: 'Come From Away (Original Broadway Cast Recording)', artistName: 'x' }, info('Come from Away')).tier, 100);
+    // Vienna, Shiki (Japan) and Argentine casts
+    assert.equal(classifyAlbum({ collectionName: 'Elisabeth (Original Vienna Cast)', artistName: 'x' }, info('Elisabeth')), null);
+    assert.equal(classifyAlbum({ collectionName: 'Wicked (Shiki Theatre Company Cast)', artistName: 'x' }, info('Wicked')), null);
+    assert.equal(classifyAlbum({ collectionName: 'Rent (Elenco Argentina)', artistName: 'x' }, info('Rent')), null);
     assert.equal(classifyAlbum({ collectionName: 'Operation Mincemeat (Soundtrack from the Netflix Film)', artistName: 'x' }, info('Operation Mincemeat')), null);
     assert.equal(classifyAlbum({ collectionName: 'Les Misérables (Original Motion Picture Soundtrack)', artistName: 'x' }, info('Les Misérables', { film: true })).tier, 62);
   });

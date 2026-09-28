@@ -1,0 +1,138 @@
+{{Infobox musical
+| name        = Sing Street
+| image       =
+| caption     =
+| music       = [[Gary Clark (musician)|Gary Clark]]<br>[[John Carney (director)|John Carney]]
+| lyrics      = Gary Clark<br>John Carney
+| book        = [[Enda Walsh]]
+| basis       = ''[[Sing Street]]''<br>by John Carney <br> Simon Carmody
+| productions = 2019 Off-Broadway<br>2022 Boston
+
+}}
+==Overview==
+== Productions ==
+=== Off-Broadway (2019) and cancelled Broadway production (2020) ===
+=== Boston (2022) ===
+=== London (2025) ===
+==Characters and original cast==
+{| class="wikitable" style="width:1000;"
+|-
+! rowspan="2" | Character
+! Workshop
+! Off-Broadway
+! Boston
+! Off-West End
+|-
+! colspan="2" |<small>2019</small>
+!<small>2022</small>
+!<small>2025</small>
+|-
+! Darren Mulvey
+| colspan="2" align="center" | Max Bartos
+| align="center" | Diego Lucano
+| align="center" | Cameron Hogan
+|-
+! Gary
+| colspan="2" align="center" | Brendan C. Callahan
+| align="center" | Michael Lepore
+| align="center" | Indiana Hawkes
+|-
+! Robert Lalor
+| colspan="3" align="center" | Billy Carter
+| align="center" | [[Lochlann Ó Mearáin]]
+|-
+! Raphina
+| colspan="2" align="center" | [[Zara Devlin]]
+| align="center" | Courtnee Carter
+| align="center" | Grace Collender
+|-
+! Brendan Lalor
+| colspan="2" align="center" | Gus Halper
+| align="center" | [[Dónal Finn]]
+| align="center" | Adam Hunter
+|-
+! Larry
+| colspan="2" align="center" | Jakeim Hart
+| align="center" | Elijah Lyons
+| align="center" | Seb Robinson
+|-
+! Brother Baxter
+| colspan="2" align="center" | [[Martin Moran (actor)|Martin Moran]]
+| align="center" | Armand Schultz
+| align="center" | Lloyd Hutchinson
+|-
+! Sandra
+| colspan="3" align="center" | [[Anne L. Nathan]]
+| align="center" | [[Jenny Fitzpatrick]]
+|-
+! Barry
+| colspan="2" align="center" | Johnny Newcomb
+| align="center" | Jack DiFalco
+| align="center" | Jack James Ryan
+|-
+! Conor Lalor
+| colspan="2" align="center" | [[Brenock O'Connor]]
+| align="center" | Adam Bregman
+| align="center" | Sheridan Townsley
+|-
+! Kevin
+| colspan="3" align="center" | Gian Perez
+| align="center" | Harry Curley
+|-
+! Eamon
+| colspan="2" align="center" | Sam Poon
+| align="center" | [[Ben Wang]]
+| align="center" | Jesse Nyakudya
+|-
+! Declan
+| colspan="3" align="center" | Anthony Genovesi
+| align="center" | Matthew Philp
+|-
+! Anne Lalor
+| colspan="2" align="center" | Skyler Volpe
+| align="center" | Alexa Xioufaridou Moster
+| align="center" | Tateyana Arutura
+|-
+! Penny Lalor
+| align="center" | [[Julia Murney]]
+| align="center" | Amy Warren
+| align="center" | [[Dee Roscioli]]
+| align="center" | [[Lucianne McEvoy]]
+|}
+
+==Musical numbers==
+New York Theatre Workshop 
+* "[[Just Can't Get Enough (Depeche Mode song)|Just Can't Get Enough]]" – Conor
+* "Riddle of the Model" – Conor
+* "Up" – Conor
+* "A Beautiful Sea" – Conor & Raphina
+* "Girls" – Conor & Anne
+* "Faith of Our Fathers" – Brother Baxter
+* "Dream for You" – Conor
+* "Drive It Like You Stole It" – Conor
+* "Up (Down Version)" – Conor
+* "Brown Shoes" – Conor & Barry
+* "To Find You" – Conor
+* "Go Now" – Brendan
+Boston
+* "Riddle of the Model" – Conor
+* "Up" – Conor
+* "Up (Reprise)" – Raphina
+* "Go On" – Lalor Family
+* "A Beautiful Sea" – Conor & Raphina
+* "Girls" – Lalor Siblings 
+* "To Find You" – Conor
+* "Drive It Like You Stole It" – Conor
+* "Up (Down Version)" – Conor
+* "Faith of Our Fathers" – Brother Baxter
+* "Brown Shoes" – Conor, Eamon, Barry
+* "To Find You (Reprise)" – Raphina & Conor
+* "Go Now" – Brendan & Company
+
+==Awards and nominations==
+===Original Off-Broadway production===
+{|
+|-
+| links || [[Lucille Lortel Awards]] [[Drama League Awards]]
+|}
+== References ==

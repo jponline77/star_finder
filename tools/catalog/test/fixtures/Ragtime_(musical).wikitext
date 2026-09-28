@@ -1,0 +1,259 @@
+{{Infobox musical
+| name = Ragtime
+| image = Ragtime.jpg
+| caption = Cover of cast recording
+| music = [[Stephen Flaherty]]
+| lyrics = [[Lynn Ahrens]]
+| book = [[Terrence McNally]]
+| basis = ''[[Ragtime (novel)|Ragtime]]'' <br /> by [[E. L. Doctorow]]
+| productions = 1996 [[Toronto]]<br />1997 Los Angeles<br />1998 [[Broadway theatre|Broadway]]<br />1998 US tour<br />2003 [[West End theatre|West End]]<br />2009 [[Broadway theatre|Broadway]] revival<br />2025 Broadway revival<br />
+
+| awards = [[Tony Award for Best Book of a Musical]] <br /> [[Tony Award for Best Original Score]] <br /> 2026 [[Tony Award for Best Revival of a Musical]]
+}}
+==Background==
+==Production history==
+=== Toronto and Los Angeles ===
+=== Broadway ===
+===  West End ===
+===Revivals===
+==== 2009 Broadway ====
+==== 2025 Broadway ====
+==== Off West End and off-Broadway ====
+=== Regional and international productions ===
+==== Concerts ====
+==Synopsis==
+===Act one===
+===Act two===
+==Musical numbers==
+{{col-begin}}
+{{col-2}}
+; Act I
+* Prologue: "Ragtime" – Company
+* "Goodbye, My Love" – Mother
+* "Journey On" – Father, Tateh, and Mother
+* "The Crime of the Century" ‡ – Evelyn Nesbit, Younger Brother, Judge, Foreman, and Ensemble
+* "What Kind of Woman" – Mother
+* "A Shtetl iz Amereke" – Ensemble
+* "Success" – Tateh, J. P. Morgan, Harry Houdini, Emma Goldman, and Ensemble
+* "His Name Was Coalhouse Walker" – Coalhouse and Harlem Ensemble
+* "Gettin' Ready Rag" – Coalhouse and Harlem Ensemble
+* "Henry Ford" ‡ – Henry Ford, Coalhouse, and Ensemble
+* "Nothing Like the City" – Mother, Edgar, Tateh, and Little Girl
+* "Your Daddy's Son" – Sarah
+* "The Courtship" – Coalhouse, Mother, and Company
+* "New Music" – Father, Mother, Younger Brother, Coalhouse, Sarah, and Company
+* "Wheels of a Dream" – Coalhouse and Sarah
+* "The Night That Goldman Spoke at Union Square" ‡ – Younger Brother, Emma, and Ensemble
+* "Gliding" – Tateh
+* "The Trashing of the Car" – Willie Conklin, Booker T. Washington, Firefighters, Coalhouse, Sarah, and Orchestra
+* "Justice" ‡ – Coalhouse and Company
+* "President"‡ – Sarah
+* "Till We Reach That Day" – Sarah's Friend, Coalhouse, Emma, Mother, Younger Brother, Tateh, and Company
+
+{{col-2}}
+; Act II
+* Entr'acte – Orchestra
+* "Harry Houdini, Master Escapist" ≠ – Houdini and Edgar
+* "Coalhouse's Soliloquy" – Coalhouse
+* "Coalhouse Demands"‡ – Coalhouse, Washington, Will, and Ensemble
+* "What a Game" – Father, Edgar, and Men
+* "Fire in the City" – Orchestra
+* "New Music (Reprise)" – Father
+* "Atlantic City" ‡ – Evelyn, Houdini, Father, Mother, and Company
+* "Buffalo Nickel Photoplay, Inc." – Tateh
+* "Our Children" – Mother and Tateh
+* "Harlem Nightclub" – Orchestra
+* "Sarah Brown Eyes" – Coalhouse and Sarah
+* "He Wanted to Say" ‡ – Younger Brother, Emma, Coalhouse, and Men
+* "Back to Before" – Mother
+* "Look What You've Done" – Washington, Coalhouse, and Company
+* "Make Them Hear You" – Coalhouse°
+* Epilogue: "Ragtime" / "Wheels of a Dream" (reprise) – Coalhouse, Sarah, and Company
+* "Exit music" – Orchestra*
+{{col-end}}
+Notes:
+
+‡ - shortened in the 2009 Broadway revival
+
+≠ - cut from the 2009 Broadway revival and the 2025 Broadway revival
+
+==Orchestration==
+==Casts and characters==
+{| class="wikitable" style="width:98%;"
+|-
+! rowspan="2" | Character
+!Toronto
+!Los Angeles
+!Broadway
+!US Tour
+!West End 
+!Broadway Revival
+!Broadway Revival
+|-
+!<small>1996</small>
+! colspan="2" |<small>1997</small>
+!<small>1998</small>
+!<small>2003</small>
+!<small>2009</small>
+!<small>2025</small>
+|-
+! scope="row" | Coalhouse Walker, Jr.
+| colspan="3" align="center" |[[Brian Stokes Mitchell]]
+| align="center" |Alton Fitzgerald White
+| align="center" |[[Kevyn Morrow]]
+| align="center" |[[Quentin Earl Darrington]]
+| align="center" |[[Joshua Henry]]
+|-
+! scope="row" | Mother
+| align="center" |[[Marin Mazzie]]
+| align="center" |[[Marcia Mitzman Gaven]]
+| align="center" |[[Marin Mazzie]]
+| align="center" |Rebecca Eichenberger
+| align="center" |[[Maria Friedman]]
+| align="center" |[[Christiane Noll]]
+| align="center" |[[Caissie Levy]]
+|-
+
+! scope="row" | Tateh
+| align="center" |[[Peter Friedman]]
+| align="center" |[[John Rubinstein]]
+| align="center" |[[Peter Friedman]]
+| align="center" |[[Michael Rupert]]
+| align="center" |[[Graham Bickley]]
+| align="center" | [[Robert Petkoff]]
+| align="center" |[[Brandon Uranowitz]]
+|-
+! scope="row" | Sarah
+| align="center" |[[Audra McDonald]]
+| align="center" |[[LaChanze]]
+| align="center" |[[Audra McDonald]]
+| align="center" |Darlesia Cearcy
+| align="center" |Emma Jay Thomas
+| align="center" |[[Stephanie Umoh]]
+| align="center" |[[Nichelle Lewis]]
+|-
+! scope="row" | Father
+| align="center" |[[Mark Jacoby]]
+| align="center" |[[John Dossett]]
+| align="center" |[[Mark Jacoby]]
+| align="center" |[[Cris Groenendaal]]
+| align="center" |[[Dave Willetts]]
+| align="center" |[[Ron Bohmer]]
+| align="center" |[[Colin Donnell]]
+|-
+! scope="row" | Mother's Younger Brother
+| align="center" |Steven Sutcliffe
+| align="center" |Scott Carollo
+| align="center" |Steven Sutcliffe
+| align="center" |Aloysius Gigl
+| align="center" |Matthew White
+| align="center" |[[Bobby Steggert]]
+| align="center" |[[Ben Levi Ross]]
+|-
+! scope=row | Emma Goldman
+| align=center | [[Camille Saviola]]
+| colspan="2" align="center" | [[Judy Kaye]] 
+| align=center | [[Theresa Tova]]
+| align=center | Susie McKenna
+| align=center | Donna Migliaccio
+| align="center" |[[Shaina Taub]]
+|-
+!Evelyn Nesbit
+| align="center" |Lynnette Perry
+| align="center" |Susan Wood
+| align="center" |Lynnette Perry
+| align="center" |Melissa Dye
+| align="center" |Rebecca Thornhill
+| align="center" |Savannah Wise
+| align="center" |[[Anna Grace Barlow]]
+|-
+!Booker T. Washington
+| align=center| Richard Allen
+| align=center| Allan Louis
+| align=center| [[Tommy Hollis]]
+| align=center| Allan Louis
+| align=center| David Durham
+| align=center| Eric Jordan Young
+| align=center| John Clay III
+|-
+!Harry Houdini
+| align="center" |Jim Corti
+| align="center" |Jason Graae
+| align=center|Jim Corti
+| align=center| Bernie Yvon
+| align="center" |Samuel James
+| align="center" |Jonathan Hammond
+| align="center" |Rodd Cyrus
+|-
+!Henry Ford
+| align=center| Larry Daggett
+| align=center| Bill Carmichael
+| align=center| Larry Daggett
+| align=center| Larry Cahn
+| align=center| Iain Davey
+| align=center| Aaron Galligan-Stierle
+| align=center| [[Jason Forbach]]
+|-
+! scope="row" | The Little Boy (Edgar)
+| align="center" |[[Paul Dano]]
+| align="center" |[[Blake McIver Ewing]]
+| align="center" |Alex Strange
+| align="center" |Nathan Keen
+| align="center" |Thomas Brown Loye <br> Jordan Calvert <br> Matthew Protheroe
+| align="center" |Christopher Cox
+| align="center" |Nick Barrington
+|-
+! scope="row" | The Little Girl
+| align="center" | [[Lea Michele]]
+| align="center" |Danielle Wiener
+| align="center" |[[Lea Michele]]
+| align="center" |Amy Carrey
+| align="center" |Natasha Jules Bernard <br> Sarah Bowling <br> Ruby Williams
+| align="center" |Sarah Rosenthal
+| align="center" |Tabitha Lawing
+|}
+
+=== Notable replacements ===
+'''Toronto (1996)'''
+* The Little Boy: [[Brandon Uranowitz]]
+
+;Broadway (1998–2000)
+* Mother: [[Donna Bullock (actress)|Donna Bullock]]
+* Coalhouse Walker, Jr.: [[James Stovall]]
+* Tateh: [[John Rubinstein]], [[Michael Rupert]]
+* Father: [[John Dossett]]
+* Sarah: [[LaChanze]]
+
+;Broadway (2025–2026)
+* Father: [[Ben Davis (singer)|Ben Davis]]
+* Emma Goldman: [[Julie Benko]]
+
+==Awards and nominations==
+===Original Broadway production===
+{|
+|-
+| links || [[52nd Tony Awards|Tony Awards]] [[Tony Award for Best Musical|Best Musical]] [[Tony Award for Best Book of a Musical|Best Book of a Musical]] [[Terrence McNally]] [[Tony Award for Best Original Score|Best Original Score]] [[Stephen Flaherty]] [[Lynn Ahrens]] [[Tony Award for Best Performance by a Leading Actor in a Musical|Best Performance by a Leading Actor in a Musical]] [[Peter Friedman]] [[Brian Stokes Mitchell]] [[Tony Award for Best Performance by a Leading Actress in a Musical|Best Performance by a Leading Actress in a Musical]] [[Marin Mazzie]] [[Tony Award for Best Performance by a Featured Actress in a Musical|Best Performance by a Featured Actress in a Musical]] [[Audra McDonald]] [[Tony Award for Best Direction of a Musical|Best Direction of a Musical]] [[Frank Galati]] [[Tony Award for Best Choreography|Best Choreography]] [[Graciela Daniele]] [[Tony Award for Best Orchestrations|Best Orchestrations]] [[William David Brohn]] [[Tony Award for Best Scenic Design|Best Scenic Design]] [[Eugene Lee (designer)|Eugene Lee]] [[Tony Award for Best Costume Design|Best Costume Design]] [[Santo Loquasto]] [[Tony Award for Best Lighting Design|Best Lighting Design]] [[Jules Fisher]] [[Peggy Eisenhauer]] [[Drama Desk Awards]] [[Drama Desk Award for Outstanding Musical|Outstanding Musical]] [[Drama Desk Award for Outstanding Book of a Musical|Outstanding Book of a Musical]] [[Drama Desk Award for Outstanding Actor in a Musical|Outstanding Actor in a Musical]] [[Drama Desk Award for Outstanding Actress in a Musical|Outstanding Actress in a Musical]] [[Drama Desk Award for Outstanding Featured Actor in a Musical|Outstanding Featured Actor in a Musical]] [[Drama Desk Award for Outstanding Director of a Musical|Outstanding Director of a Musical]] [[Drama Desk Award for Outstanding Choreography|Outstanding Choreography]] [[Drama Desk Award for Outstanding Orchestrations|Outstanding Orchestrations]] [[Drama Desk Award for Outstanding Lyrics|Outstanding Lyrics]] [[Drama Desk Award for Outstanding Music|Outstanding Music]] [[Drama Desk Award for Outstanding Set Design|Outstanding Set Design]] [[Wendall K. Harrington]] [[Drama Desk Award for Outstanding Costume Design|Outstanding Costume Design]] [[Drama Desk Award for Outstanding Lighting Design|Outstanding Lighting Design]] [[New York Drama Critics' Circle|New York Drama Critics' Circle Awards]] [[Outer Critics Circle Award]] [[Outer Critics Circle Award for Outstanding New Broadway Musical|Outstanding Broadway Musical]] [[Outer Critics Circle Award for Outstanding Director of a Musical|Outstanding Director of a Musical]] [[Outer Critics Circle Award for Outstanding Actor in a Musical|Outstanding Actor in a Musical]] [[Outer Critics Circle Award for Outstanding Actress in a Musical|Outstanding Actress in a Musical]] [[Outer Critics Circle Award for Outstanding Featured Actor in a Musical|Outstanding Featured Actor in a Musical]] [[Outer Critics Circle Award for Outstanding Featured Actress in a Musical|Outstanding Featured Actress in a Musical]] [[Outer Critics Circle Award for Outstanding Choreography|Outstanding Choreography]] [[Outer Critics Circle Award for Outstanding Scenic Design|Outstanding Scenic Design]] [[Outer Critics Circle Award for Outstanding Costume Design|Outstanding Costume Design]] [[Outer Critics Circle Award for Outstanding Lighting Design|Outstanding Lighting Design]]
+|}
+===Original London production===
+{|
+|-
+| links || [[Laurence Olivier Awards]] [[Laurence Olivier Award for Best New Musical|Best New Musical]] [[Laurence Olivier Award for Best Actor in a Musical|Best Actor in a Musical]] [[Graham Bickley]] [[Kevyn Morrow]] [[Laurence Olivier Award for Best Actress in a Musical|Best Actress in a Musical]] [[Maria Friedman]] [[Laurence Olivier Award for Best Performance in a Supporting Role in a Musical|Best Performance in a Supporting Role in a Musical]] [[Laurence Olivier Award for Best Director|Best Director]] [[Stafford Arima]] [[Laurence Olivier Award for Best Lighting Design|Best Lighting Design]] [[Laurence Olivier Award for Best Sound Design|Best Sound Design]]
+|}
+===2009 Broadway revival===
+{|
+|-
+| links || [[64th Tony Awards|Tony Awards]] [[Tony Award for Best Revival of a Musical|Best Revival of a Musical]] [[Tony Award for Best Performance by a Leading Actress in a Musical|Best Performance by a Leading Actress in a Musical]] [[Christiane Noll]] [[Tony Award for Best Performance by a Featured Actor in a Musical|Best Performance by a Featured Actor in a Musical]] [[Bobby Steggert]] [[Tony Award for Best Direction of a Musical|Best Direction of a Musical]] [[Marcia Milgrom Dodge]] [[Tony Award for Best Scenic Design|Best Scenic Design]] [[Derek McLane]] [[Tony Award for Best Lighting Design|Best Lighting Design]] [[Donald Holder]] [[Drama Desk Awards]] [[Drama Desk Award for Outstanding Revival of a Musical|Outstanding Revival of a Musical]] [[Drama Desk Award for Outstanding Actress in a Musical|Outstanding Actress in a Musical]] [[Drama Desk Award for Outstanding Featured Actor in a Musical|Outstanding Featured Actor in a Musical]] [[Drama Desk Award for Outstanding Director of a Musical|Outstanding Director of a Musical]] [[Drama Desk Award for Outstanding Choreography|Outstanding Choreography]] [[Drama Desk Award for Outstanding Set Design|Outstanding Set Design]] [[Drama Desk Award for Outstanding Sound Design|Outstanding Sound Design]]
+|}
+===2025 Broadway revival===
+{|
+|-
+| links || [[Drama League Awards]] [[Drama League Award for Outstanding Revival of a Musical|Outstanding Revival of a Musical]] [[Drama League Award for Outstanding Direction of a Musical|Outstanding Direction of a Musical]] [[Lear deBessonet]] [[Drama League Award for Distinguished Performance|Distinguished Performance]] [[Caissie Levy]] [[Joshua Henry]] [[Brandon Uranowitz]] [[Outer Critics Circle Award]] [[Outer Critics Circle Award for Outstanding Revival of a Musical|Outstanding Revival of a Musical]] [[Outer Critics Circle Award for Outstanding Lead Performer in a Broadway Musical|Outstanding Lead Performer in a Broadway Musical]] [[Outer Critics Circle Award for Outstanding Featured Performer in a Broadway Musical|Outstanding Featured Performer in a Broadway Musical]] [[Ben Levi Ross]] [[Drama Desk Awards]] [[Drama Desk Award for Outstanding Revival of a Musical|Outstanding Revival of a Musical]] [[Drama Desk Award for Outstanding Lead Performance in a Musical|Outstanding Lead Performance in a Musical]] [[Drama Desk Award for Outstanding Featured Performance in a Musical|Outstanding Featured Performance in a Musical]] [[Drama Desk Award for Outstanding Direction of a Musical|Outstanding Direction of a Musical]] [[79th Tony Awards|Tony Awards]] [[Tony Award for Best Revival of a Musical|Best Revival of a Musical]] [[Tony Award for Best Actor in a Musical|Best Actor in a Musical]] [[Tony Award for Best Actress in a Musical|Best Actress in a Musical]] [[Tony Award for Best Featured Actor in a Musical|Best Featured Actor in a Musical]] [[Tony Award for Best Featured Actress in a Musical|Best Featured Actress in a Musical]] [[Nichelle Lewis]] [[Tony Award for Best Direction of a Musical|Best Direction of a Musical]] [[Tony Award for Best Choreography|Best Choreography]] [[Tony Award for Best Costume Design of a Musical|Best Costume Design of a Musical]] [[Linda Cho]] [[Tony Award for Best Lighting Design of a Musical|Best Lighting Design of a Musical]] [[Tony Award for Best Sound Design of a Musical|Best Sound Design of a Musical]] [[Kai Harada (sound designer)|Kai Harada]] [[Dorian Awards]] [[Dorian Award for Outstanding Broadway Musical Revival|Outstanding Broadway Musical Revival]] [[Dorian Award for Outstanding Lead Performance in a Broadway Musical|Outstanding Lead Performance in a Broadway Musical]] [[Dorian Award for Outstanding Featured Performance in a Broadway Musical|Outstanding Featured Performance in a Broadway Musical]] [[Dorian Award for Outstanding Broadway Ensemble|Outstanding Broadway Ensemble]]
+|}
+==Adaptation==
+==References==
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+starring [[Marcia Mitzman Gaven]].
+starred [[Maria Friedman]].
+cast included [[Joshua Henry]].

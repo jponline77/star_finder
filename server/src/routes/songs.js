@@ -12,8 +12,14 @@ import {
 } from '../lib/vocab.js';
 import { uniqueSlug } from '../lib/slug.js';
 import {
-  singleFileUpload, sniffAudio, storeUploadRange, deleteIfUnreferenced, requireFile, removeTemp, AUDIO_MAX_BYTES,
+  singleFileUpload, sniffAudio, sniffImage, storeUploadRange, saveBuffer, deleteIfUnreferenced, requireFile, removeTemp,
+  AUDIO_MAX_BYTES, IMAGE_MAX_BYTES,
 } from '../lib/uploads.js';
+import { stripImageMetadata, imageDimensions, imageSizeProblem } from '../lib/image-meta.js';
+import {
+  relinkSiteRows, siteShowMatchesCatalog, catalogShowCredits, songTitleKeys, songTitleMatchLevel,
+} from '../lib/catalog.js';
+import { fold } from '../lib/text.js';
 import { downloadRemoteImage } from '../lib/remote-image.js';
 import { requireUser, canEdit } from '../middleware.js';
 import {
@@ -101,11 +107,14 @@ function isSeedArtwork(mediaDir, publicPath) {
  * Validate a POST/PUT song body. Returns normalized values; `preview` is undefined when the key is
  * absent (PUT keeps existing media), null to clear, or an object.
  * A local `preview.artworkUrl` is accepted only if it is the song's current artwork or a
- * seed image — never another song's downloaded file (which that song may delete).
+ * seed image — never another song's downloaded file (which that song may delete). The song's own
+ * uploaded art (shown as media.artworkUrl) sent back means "keep the recording art as it is".
+ * `catalogSongId`: undefined = absent (PUT keeps the link), null = unlink, else a catalog song id
+ * (checked here). `catalogShowId` (optional) links a show created implicitly from `showName`.
  * @param {import('../app.js').AppContext} ctx
- * @param {{ currentArtwork?: string|null }} [opts]
+ * @param {{ currentArtwork?: string|null, customArtwork?: string|null }} [opts]
  */
-function parseSongBody(ctx, body, { currentArtwork = null } = {}) {
+function parseSongBody(ctx, body, { currentArtwork = null, customArtwork = null } = {}) {
   const { db } = ctx;
   const v = new Validator();
   if (!body || typeof body !== 'object' || Array.isArray(body)) throw badRequest('Request body must be a JSON object');
@@ -173,6 +182,7 @@ function parseSongBody(ctx, body, { currentArtwork = null } = {}) {
       const art = typeof p.artworkUrl === 'string' ? p.artworkUrl.trim() : p.artworkUrl;
       if (typeof art === 'string' && art.startsWith('/')) {
         if ((currentArtwork && art === currentArtwork) || isSeedArtwork(ctx.mediaDir, art)) artworkLocal = art;
+        else if (customArtwork && art === customArtwork) artworkLocal = currentArtwork; // null → no recording art
         else v.error('preview.artworkUrl', 'Unknown artwork file');
       } else {
         artworkUrl = v.httpsUrl('preview.artworkUrl', art, {
@@ -190,9 +200,27 @@ function parseSongBody(ctx, body, { currentArtwork = null } = {}) {
       preview = { previewUrl, artworkUrl, artworkLocal, appleMusicUrl, recordingName, recordingArtist, itunesTrackId };
     }
   }
+  let catalogSongId;
+  if (body.catalogSongId === null || body.catalogSongId === '') catalogSongId = null;
+  else if (body.catalogSongId !== undefined) {
+    catalogSongId = v.integer('catalogSongId', body.catalogSongId, { min: 1, label: 'Catalog song' });
+    if (catalogSongId && !db.prepare('SELECT 1 FROM catalog_songs WHERE id = ?').get(catalogSongId)) {
+      v.error('catalogSongId', "That song isn't in the catalog (any more) — pick it again or enter it manually");
+    }
+  }
+  let catalogShowId = null;
+  if (body.catalogShowId !== undefined && body.catalogShowId !== null && body.catalogShowId !== '') {
+    catalogShowId = v.integer('catalogShowId', body.catalogShowId, { min: 1, label: 'Catalog show' });
+    if (catalogShowId && !db.prepare('SELECT 1 FROM catalog_shows WHERE id = ?').get(catalogShowId)) {
+      v.error('catalogShowId', "That show isn't in the catalog");
+    }
+  }
   v.check();
-  return { kind, title, showId, showName, genre, subGenre, lengthSeconds, mature, notes, parts, audioLink, preview };
+  return {
+    kind, title, showId, showName, genre, subGenre, lengthSeconds, mature, notes, parts, audioLink, preview, catalogSongId, catalogShowId,
+  };
 }
+
 
 const sameParts = (before, after) =>
   before.length === after.length
@@ -221,11 +249,23 @@ export function songsRouter(ctx) {
     return show ? { show, create: null } : { show: null, create: input.showName };
   }
 
-  function findDuplicate(kind, showId, title, excludeId = null) {
+  /**
+   * The same song already on the list: same show and kind, and the same title (ignoring case,
+   * accents, punctuation and a leading article — "What have I done" is "What Have I Done?") or the
+   * same catalog song picked on the form ("Valjean's Soliloquy (What Have I Done?)" from the
+   * catalog is the site's "What Have I Done?"). Another kind of the same song (a duet version of a
+   * solo) is fine.
+   */
+  function findDuplicate(kind, showId, title, excludeId = null, catalogSongId = null) {
     if (!showId) return null;
-    return db
-      .prepare('SELECT id FROM songs WHERE kind = ? AND show_id = ? AND fold(title) = fold(?) AND id != ?')
-      .get(kind, showId, title, excludeId ?? -1) ?? null;
+    const rows = db.prepare('SELECT id, title, catalog_song_id FROM songs WHERE kind = ? AND show_id = ? AND id != ? ORDER BY id')
+      .all(kind, showId, excludeId ?? -1);
+    if (!rows.length) return null;
+    const want = songTitleKeys(title);
+    const folded = fold(title);
+    return rows.find((r) => (catalogSongId && r.catalog_song_id === catalogSongId)
+      || fold(r.title) === folded
+      || songTitleMatchLevel(songTitleKeys(r.title), want) === 2) ?? null;
   }
 
   const duplicateError = (id) =>
@@ -245,13 +285,61 @@ export function songsRouter(ctx) {
     }
   }
 
-  const insertShow = db.prepare(
-    "INSERT INTO shows (name, slug, source, created_by) VALUES (?, ?, 'community', ?)",
-  );
+  const insertShow = db.prepare(`INSERT INTO shows (name, slug, composer, lyricist, book_writer, year, wiki_url, catalog_show_id, catalog_link, source, created_by)
+    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, 'community', ?)`);
   const slugTaken = db.prepare('SELECT 1 FROM shows WHERE slug = ?');
-  function createShow(name, userId) {
+  /** A show created implicitly from `showName`; from the catalog it gets the link + credits/year. */
+  function createShow(name, userId, catalogShowId = null) {
     const slug = uniqueSlug(name, (s) => Boolean(slugTaken.get(s)));
-    return Number(insertShow.run(name, slug, userId).lastInsertRowid);
+    const c = catalogShowId ? catalogShowCredits(db, catalogShowId) : null;
+    return Number(insertShow.run(
+      name, slug, c?.composer ?? null, c?.lyricist ?? null, c?.book_writer ?? null, c?.year ?? null, c?.wiki_url ?? null,
+      c ? catalogShowId : null, c ? 'manual' : null, userId,
+    ).lastInsertRowid);
+  }
+
+  /**
+   * The catalog show the song form's choice points at (from catalogSongId, else catalogShowId), after
+   * checking it is the same show as the site show the song goes into (by link or by name) → 400 if not.
+   * @param {object|null} siteShow existing show row, or null when `newName` will be created
+   */
+  function catalogShowFor(input, siteShow, newName) {
+    const catSong = input.catalogSongId ? db.prepare('SELECT show_id FROM catalog_songs WHERE id = ?').get(input.catalogSongId) : null;
+    if (catSong && input.catalogShowId && input.catalogShowId !== catSong.show_id) {
+      throw badRequest('Please fix the highlighted fields', { catalogShowId: "The catalog show doesn't match the catalog song" });
+    }
+    const catShowId = catSong?.show_id ?? input.catalogShowId ?? null;
+    if (!catShowId) return null;
+    const site = siteShow ?? { name: newName, catalog_show_id: null };
+    if (!siteShowMatchesCatalog(db, site, catShowId)) {
+      const cat = db.prepare('SELECT title FROM catalog_shows WHERE id = ?').get(catShowId);
+      throw badRequest('Please fix the highlighted fields', {
+        [catSong ? 'catalogSongId' : 'catalogShowId']: `That's from “${cat?.title ?? 'another show'}” in the catalog, not “${site.name}” — pick that show, or enter the song without the catalog`,
+      });
+    }
+    return catShowId;
+  }
+
+  /**
+   * After a save: link the song's show and the song to the catalog.
+   * The show: picking a song from catalog show X links the site show to X only when the user may
+   * edit the show (its owner or an admin) — then it's their choice ('manual'), and it may replace an
+   * automatic link to a same-named show ("Parade" 1960 vs 1998). Anyone else's pick never re-points
+   * a shared show; the automatic matcher (relinkSiteRows) decides, with the show's songs as votes.
+   * The song: catalogSongId → 'manual'; null → 'none' (stays unlinked, also after restarts) — except
+   * when the song just moved to another show, where null only drops the old link (the form sends it
+   * then) and the song is matched again by title in its new show.
+   */
+  function linkToCatalog(user, showId, siteShow, catShowId, songId, input, { movedShow = false } = {}) {
+    if (siteShow && catShowId && siteShow.catalog_show_id !== catShowId && siteShow.catalog_link !== 'none'
+      && !(siteShow.catalog_link === 'manual' && siteShow.catalog_show_id) && canEdit(user, siteShow)) {
+      db.prepare("UPDATE shows SET catalog_show_id = ?, catalog_link = 'manual' WHERE id = ?").run(catShowId, showId);
+    }
+    if (input.catalogSongId !== undefined) {
+      const source = input.catalogSongId !== null ? 'manual' : movedShow ? null : 'none';
+      db.prepare('UPDATE songs SET catalog_link = ? WHERE id = ?').run(source, songId);
+    }
+    relinkSiteRows(db, { showIds: [showId], songIds: [songId] });
   }
 
   const insertPart = db.prepare('INSERT INTO song_parts (song_id, position, character, vocal_range) VALUES (?, ?, ?, ?)');
@@ -286,7 +374,7 @@ export function songsRouter(ctx) {
     const input = parseSongBody(ctx, req.body);
     const { show } = resolveShow(input);
     if (!show) caps.checkShows(req.user);
-    const dup = show && findDuplicate(input.kind, show.id, input.title);
+    const dup = show && findDuplicate(input.kind, show.id, input.title, null, input.catalogSongId);
     if (dup) throw duplicateError(dup.id);
     const art = await resolveArtwork(input.preview);
     const p = input.preview ?? {};
@@ -294,20 +382,22 @@ export function songsRouter(ctx) {
     try {
       songId = db.transaction(() => {
         const current = resolveShow(input);
-        const showId = current.show ? current.show.id : createShow(current.create, req.user.id);
-        const again = findDuplicate(input.kind, showId, input.title);
+        const catShowId = catalogShowFor(input, current.show, current.create);
+        const showId = current.show ? current.show.id : createShow(current.create, req.user.id, catShowId);
+        const again = findDuplicate(input.kind, showId, input.title, null, input.catalogSongId);
         if (again) throw duplicateError(again.id);
         const now = nowIso();
         const id = Number(db.prepare(`
           INSERT INTO songs (kind, title, show_id, genre, sub_genre, length_seconds, mature, notes,
             preview_url, artwork_path, apple_music_url, recording_name, recording_artist, itunes_track_id,
-            audio_link, source, created_by, created_at, updated_at)
-          VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, 'community', ?, ?, ?)`).run(
+            audio_link, catalog_song_id, source, created_by, created_at, updated_at)
+          VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, 'community', ?, ?, ?)`).run(
           input.kind, input.title, showId, input.genre, input.subGenre, input.lengthSeconds, input.mature ? 1 : 0, input.notes,
           p.previewUrl ?? null, art.path, p.appleMusicUrl ?? null, p.recordingName ?? null, p.recordingArtist ?? null,
-          p.itunesTrackId ?? null, input.audioLink, req.user.id, now, now,
+          p.itunesTrackId ?? null, input.audioLink, input.catalogSongId ?? null, req.user.id, now, now,
         ).lastInsertRowid);
         writeParts(id, input.parts);
+        linkToCatalog(req.user, showId, current.show, catShowId, id, input);
         return id;
       })();
     } catch (err) {
@@ -315,7 +405,7 @@ export function songsRouter(ctx) {
       if (err instanceof HttpError) throw err;
       if (isUniqueViolation(err)) {
         const current = resolveShow(input);
-        const d = current.show && findDuplicate(input.kind, current.show.id, input.title);
+        const d = current.show && findDuplicate(input.kind, current.show.id, input.title, null, input.catalogSongId);
         if (d) throw duplicateError(d.id);
       }
       throw err;
@@ -326,10 +416,17 @@ export function songsRouter(ctx) {
   // ---- update (full replace of editable fields; `preview` absent = keep media) ----
   r.put('/:id', requireUser, async (req, res) => {
     const row = loadEditable(req);
-    const input = parseSongBody(ctx, req.body, { currentArtwork: row.artwork_path });
+    const input = parseSongBody(ctx, req.body, { currentArtwork: row.artwork_path, customArtwork: row.custom_artwork_path });
     const { show } = resolveShow(input);
     if (!show) caps.checkShows(req.user);
-    const dup = show && findDuplicate(input.kind, show.id, input.title, row.id);
+    // Only a change of show, kind, title or catalog song can make a duplicate (an old pair of
+    // look-alike rows must not block unrelated edits).
+    const dupCheck = (showId) => showId !== row.show_id || input.kind !== row.kind || input.title !== row.title
+      || (input.catalogSongId !== undefined && input.catalogSongId !== row.catalog_song_id);
+    const dupOf = (showId) => (dupCheck(showId)
+      ? findDuplicate(input.kind, showId, input.title, row.id, input.catalogSongId === undefined ? row.catalog_song_id : input.catalogSongId)
+      : null);
+    const dup = show && dupOf(show.id);
     if (dup) throw duplicateError(dup.id);
     const art = input.preview === undefined ? { path: row.artwork_path, downloaded: false } : await resolveArtwork(input.preview);
     const media = input.preview === undefined
@@ -344,9 +441,15 @@ export function songsRouter(ctx) {
         const current = getSongRow(db, row.id); // it may have changed while the artwork downloaded
         if (!current) throw notFound('Song not found');
         const target = resolveShow(input);
-        const showId = target.show ? target.show.id : createShow(target.create, req.user.id);
-        const again = findDuplicate(input.kind, showId, input.title, row.id);
+        const catShowId = catalogShowFor(input, target.show, target.create);
+        const showId = target.show ? target.show.id : createShow(target.create, req.user.id, catShowId);
+        const again = dupOf(showId);
         if (again) throw duplicateError(again.id);
+        const movedShow = showId !== current.show_id;
+        // The catalog link is bookkeeping, not an edit (no updated_at/edited_at).
+        if (input.catalogSongId !== undefined && (current.catalog_song_id ?? null) !== input.catalogSongId) {
+          db.prepare('UPDATE songs SET catalog_song_id = ? WHERE id = ?').run(input.catalogSongId, row.id);
+        }
         const next = {
           kind: input.kind, title: input.title, show_id: showId, genre: input.genre, sub_genre: input.subGenre,
           length_seconds: input.lengthSeconds, mature: input.mature ? 1 : 0, notes: input.notes,
@@ -357,12 +460,16 @@ export function songsRouter(ctx) {
         const partsBefore = db.prepare('SELECT position, character, vocal_range FROM song_parts WHERE song_id = ? ORDER BY position').all(row.id);
         const changed = Object.keys(next).some((k) => (current[k] ?? null) !== next[k]) || !sameParts(partsBefore, input.parts);
         // A save that changes nothing isn't an edit (the importer keeps edited spreadsheet rows as they are).
-        if (!changed) return { oldArtwork: null };
+        if (!changed) {
+          linkToCatalog(req.user, showId, target.show, catShowId, row.id, input, { movedShow });
+          return { oldArtwork: null };
+        }
         const now = nowIso();
         const cols = Object.keys(next);
         db.prepare(`UPDATE songs SET ${cols.map((c) => `${c} = ?`).join(', ')}, updated_at = ?, edited_at = ? WHERE id = ?`)
           .run(...cols.map((c) => next[c]), now, now, row.id);
         writeParts(row.id, input.parts);
+        linkToCatalog(req.user, showId, target.show, catShowId, row.id, input, { movedShow });
         return { oldArtwork: current.artwork_path !== next.artwork_path ? current.artwork_path : null };
       })();
     } catch (err) {
@@ -370,7 +477,7 @@ export function songsRouter(ctx) {
       if (err instanceof HttpError) throw err;
       if (isUniqueViolation(err)) {
         const current = resolveShow(input);
-        const d = current.show && findDuplicate(input.kind, current.show.id, input.title, row.id);
+        const d = current.show && dupOf(current.show.id);
         if (d) throw duplicateError(d.id);
       }
       throw err;
@@ -399,6 +506,7 @@ export function songsRouter(ctx) {
     })();
     await deleteIfUnreferenced(db, uploadsDir, row.audio_path);
     await deleteIfUnreferenced(db, uploadsDir, row.artwork_path);
+    await deleteIfUnreferenced(db, uploadsDir, row.custom_artwork_path);
     res.status(204).end();
   });
 
@@ -408,9 +516,10 @@ export function songsRouter(ctx) {
     loadEditable(req); // 401/403/404 before the body is read
     next();
   }, uploadGuard.before, audioUpload, async (req, res) => {
-    const file = requireFile(req);
+    const file = req.file;
     let song;
     try {
+      requireFile(req); // an empty upload still left a temp file: the finally below removes it
       const row = loadEditable(req);
       const kind = sniffAudio(file.path);
       if (!kind) {
@@ -444,6 +553,60 @@ export function songsRouter(ctx) {
     if (row.audio_path) {
       db.prepare('UPDATE songs SET audio_path = NULL, updated_at = ? WHERE id = ?').run(nowIso(), row.id);
       await deleteIfUnreferenced(db, uploadsDir, row.audio_path);
+    }
+    res.json(getSong(db, row.id));
+  });
+
+  // ---- album art upload (SPEC §7c): the owner's own image, shown instead of the recording's art ----
+  const artworkUpload = singleFileUpload(IMAGE_MAX_BYTES, uploadsDir);
+  r.post('/:id/artwork', requireUser, (req, _res, next) => {
+    loadEditable(req); // 401/403/404 before the body is read
+    next();
+  }, uploadGuard.before, artworkUpload, async (req, res) => {
+    const file = req.file;
+    let song;
+    try {
+      requireFile(req); // an empty upload still left a temp file: the finally below removes it
+      const row = loadEditable(req);
+      const bytes = await fs.promises.readFile(file.path); // ≤ 5 MB
+      const kind = sniffImage(bytes);
+      if (!kind) throw badRequest('Album art must be a JPEG, PNG, WebP or GIF image', { file: 'Unsupported image type' });
+      // Phone photos carry GPS position, camera serials and timestamps — never publish those.
+      const clean = stripImageMetadata(bytes, kind.ext);
+      if (!clean) throw badRequest('That image file looks damaged — try saving it again as a JPEG or PNG', { file: 'Damaged image' });
+      // A few MB of compressed pixels can declare gigapixels: every visitor's browser would decode it.
+      const tooBig = imageSizeProblem(imageDimensions(clean, kind.ext));
+      if (tooBig) throw badRequest(tooBig, { file: 'Image is too large' });
+      uploadGuard.checkQuota(req.user, { newBytes: clean.length, ownerId: row.created_by, replacedPath: row.custom_artwork_path });
+      const publicPath = await saveBuffer(uploadsDir, 'art', clean, kind.ext, '/uploads');
+      let previous;
+      try {
+        // Read the current upload and swap it in one step, so overlapping uploads can't orphan a file.
+        previous = db.transaction(() => {
+          const current = getSongRow(db, row.id);
+          if (!current) throw notFound('Song not found');
+          db.prepare('UPDATE songs SET custom_artwork_path = ?, updated_at = ? WHERE id = ?').run(publicPath, nowIso(), row.id);
+          return current.custom_artwork_path;
+        })();
+      } catch (err) {
+        await deleteIfUnreferenced(db, uploadsDir, publicPath);
+        throw err;
+      }
+      if (previous && previous !== publicPath) await deleteIfUnreferenced(db, uploadsDir, previous);
+      song = getSong(db, row.id);
+    } finally {
+      await removeTemp(file); // before answering, so nothing is left behind once the client sees the result
+    }
+    res.json(song);
+  });
+
+  // Remove the uploaded art: the song shows its recording's art again (or none).
+  r.delete('/:id/artwork', requireUser, async (req, res) => {
+    const row = loadEditable(req);
+    if (row.custom_artwork_path) {
+      db.prepare('UPDATE songs SET custom_artwork_path = NULL, updated_at = ? WHERE id = ? AND custom_artwork_path = ?')
+        .run(nowIso(), row.id, row.custom_artwork_path);
+      await deleteIfUnreferenced(db, uploadsDir, row.custom_artwork_path);
     }
     res.json(getSong(db, row.id));
   });

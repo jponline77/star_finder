@@ -17,9 +17,10 @@ export class TtlCache {
     return hit.value;
   }
 
-  set(key, value) {
+  /** @param {number} [ttlMs] this entry's lifetime (default: the cache's) */
+  set(key, value, ttlMs = this.ttlMs) {
     this.map.delete(key);
-    this.map.set(key, { value, expires: Date.now() + this.ttlMs });
+    this.map.set(key, { value, expires: Date.now() + ttlMs });
     while (this.map.size > this.max) this.map.delete(this.map.keys().next().value);
     return value;
   }

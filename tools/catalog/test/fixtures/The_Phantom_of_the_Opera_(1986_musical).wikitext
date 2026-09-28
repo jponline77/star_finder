@@ -1,0 +1,300 @@
+{{Infobox Musical
+| name = The Phantom of the Opera
+| image = The Phantom of the Opera (1986 musical).jpg
+| caption = Poster
+| music = [[Andrew Lloyd Webber]]
+| lyrics = {{unbulleted list|
+[[Charles Hart (lyricist)|Charles Hart]]
+*[[Richard Stilgoe]] (additional)
+}}
+| book = {{unbulleted list|item_style=margin-top:auto;margin-bottom:auto
+| Richard Stilgoe
+| Andrew Lloyd Webber  
+}}
+| basis = {{based on|''[[The Phantom of the Opera (novel)|The Phantom of the Opera]]''|[[Gaston Leroux]]}}
+| productions = {{unbulleted list|
+1985: 1st performance at Sydmonton
+|1986 [[West End theatre|West End]]
+|1988 [[Broadway theatre|Broadway]]
+|1989 Canada (Toronto)
+|1989 US tour (Christine Tour)
+|1990 US tour (Raoul Tour)
+|1993 US tour (Music Box Tour)
+|1993 UK tour
+|1999 UK tour
+|2012 UK tour
+|2013 North American tour
+|2019 World tour
+|2020 UK tour
+|2021 West End revival
+|2024 World tour
+|2025 [[Off-Broadway]]
+|2025 North American tour
+}}
+| premiere_date = {{start date and age|df=yes|1986|10|9}}
+| premiere_location = [[Her Majesty's Theatre, London]]
+| awards = {{unbulleted list|item_style=margin-top:auto;margin-bottom:auto
+|1986 [[Laurence Olivier Award for Best New Musical]]
+|1986 [[Evening Standard Theatre Award]] for Best New Musical
+|1988 [[Tony Award for Best Musical]]
+|1988 [[Outer Critics Circle Award]] for Best Broadway Musical
+}}
+| image_size = 
+}}
+==Synopsis==
+===Prologue===
+===Act I===
+===Act II===
+==Development==
+===Idea===
+=== Lyricists ===
+===Score===
+
+===Design, direction, and choreography===
+===First preview at Sydmonton===
+==Productions==
+===Original West End Production===
+==== 2021 West End revival ====
+===Original Broadway Production===
+== Reviews ==
+== Other productions ==
+=== United Kingdom ===
+===Other international productions===
+===''Phantom: The Las Vegas Spectacular''===
+===Copyright release===
+===Cancelled French production===
+===''Masquerade''===
+==Film adaptations==
+===2004 film===
+===Anime film===
+===Possible new film adaptation===
+==Casting==
+===Original casts===
+
+The original casts of the English-speaking productions of ''The Phantom of the Opera'':
+{| class="wikitable" width="95%"
+|-
+! rowspan=2|Character
+! West End
+! Broadway
+! First US Tour
+! Canada
+! Australia
+! First UK Tour
+! Las Vegas
+! Royal Albert Hall 25th Anniversary
+!25th Anniversary UK Tour
+!Fifth US Tour
+|-
+!<small>1986</small>
+!<small>1988</small>
+!colspan=2|<small>1989</small>
+!<small>1990</small>
+!<small>1993</small>
+!<small>2006</small>
+!<small>2011</small>
+!<small>2012</small>
+!2025
+|-
+! [[Erik (The Phantom of the Opera)|The Phantom of the Opera]]
+| colspan="3" align="center" | [[Michael Crawford]]
+| align="center"| [[Colm Wilkinson]]
+| align="center"| [[Anthony Warlow]]
+| align="center"| [[Dave Willetts]]
+| align="center"| [[Anthony Crivello]]<hr />[[Brent Barrett]]{{efn|name=cast2|1=Three roles (The Phantom, Christine, and Carlotta) were double-cast in the original Las Vegas production, with the two actors in each pair singing alternate performances. Later, Las Vegas casting became identical to that in the Broadway production, with single casting for all characters and the principal/alternate structure for Christine.}}
+| align="center"| [[Ramin Karimloo]]
+| align="center"| [[John Owen-Jones]]<hr />[[Earl Carpenter (actor)|Earl Carpenter]]
+|Isaiah Bailey
+|-
+! [[Christine Daaé]]
+| colspan=2 align="center"|[[Sarah Brightman]] 
+| align="center"|Dale Kristien
+| align="center"|[[Rebecca Caine]]
+| align="center"|[[Marina Prior]]
+| align="center"| Lisa Hull
+| colspan=2 align="center"|[[Sierra Boggess]]
+| align="center"|[[Katie Hall (actress)|Katie Hall]]
+|Jordan Lee Gilbert
+|-
+! [[Raoul, Vicomte de Chagny]]
+| colspan="3" align="center"| [[Steve Barton]]
+| align="center"| Byron Nease
+| align="center"| Dale Burridge
+| align="center"| Mike Sterling
+| align="center"| [[Tim Martin Gleason]]
+| align="center"| [[Hadley Fraser]]
+| align="center"| Simon Bailey
+|Daniel Lopez
+|-
+! Monsieur Gilles André
+| align="center"| [[David Firth (actor)|David Firth]]
+| align="center"| [[Cris Groenendaal]]
+| align="center"| Norman Large
+| align="center"| Paul Massel
+| align="center"| [[John O'May]]
+| align="center"| Simon Green
+| align="center"| John Leslie Wolfe
+| align="center"| Gareth Snook
+| align="center"| Simon Green
+|Carrington Vilmont
+|-
+! Monsieur Richard Firmin
+| align="center"| [[John Savident]]
+| align="center"| [[Nick Wyman|Nicholas Wyman]]
+| align="center"| Calvin Remsberg
+| align="center"| Gregory Cross
+| align="center"| [[Jon Ewing]]
+| align="center"| Alan Rice
+| align="center"| Lawson Skala
+| align="center"| [[Barry James]]
+| align="center"| [[Andy Hockley]]
+|William Thomas Evans
+|-
+! [[Carlotta (The Phantom of the Opera)|Carlotta Guidicelli]]
+| align="center"| [[Rosemary Ashe]]
+| align="center"| [[Judy Kaye]]
+| align="center"| Leigh Munro
+| align="center"| Lyse Guerin
+| align="center"| Christa Leahmann
+| align="center"| Valda Aviks
+| align="center"| Elena Jeanne Batman <hr />Geena Jeffries{{efn|name=cast2}}
+| align="center"| Wendy Ferguson
+| align="center"| Angela M. Caesar
+|Midori Marsh
+|-
+! [[Madame Giry]]
+| align="center"| [[Mary Millar]]
+| align="center"| Leila Martin
+| align="center"| [[Barbara Lang (Broadway actress)|Barbara Lang]]
+| align="center"| Kristina-Marie Guiguet
+| align="center"| Geraldene Morrow
+| align="center"| Veronica Page 
+| align="center"| [[Rebecca Spencer (singer)|Rebecca Spencer]]
+| align="center"| [[Liz Robertson]]
+| align="center"| Elizabeth Marsh
+|[[Lisa Vroman]]
+|-
+! [[Meg Giry]]
+| align="center"| Janet Devenish
+| align="center"| Elisa Heinsohn
+| align="center"| Elisabeth Stringer
+| align="center"| Donna Rubin
+| align="center"| [[Sharon Millerchip]]
+| align="center"| Lucy Potter
+| align="center"| Brianne Kelly Morgan
+| align="center"| Daisy Maywood
+| align="center"| Hannah Cadec
+|Melo Ludwig
+|-
+! Ubaldo Piangi
+| align="center"| John Aron
+| align="center"| David Romano
+| align="center"| [[Gualtiero Negrini]]
+| align="center"| Peter Cormican
+| align="center"| Christopher Dawes
+| align="center"| Geoffrey Pogson
+| align="center"| Larry Wayne Morbitt
+| align="center"| [[Wynne Evans]]
+| align="center"| Vincent Pirillo
+|Christopher Bozeka
+|}
+{{notelist}}
+
+===Notable replacements===
+====West End (1986–present)====
+====Broadway (1988–2023)====
+====First, second, and third US national tours (1989–1999, 1990–1998, and 1992–2010)====
+====Canada (1989–1999)====
+====Australia tours (1990–1998, 2007–2009)====
+==Musical numbers==
+
+* "Prologue"{{efn|name=mn1|Lyrics by Charles Hart}} – Auctioneer, Raoul, Madame Giry
+* "Overture"{{efn|name=mn1}} – Orchestra
+{{col-begin}}
+{{col-break}}
+
+===Act I===
+* "''Hannibal'' Rehearsal"{{efn|name=mn1}} – Carlotta, Piangi, Reyer, Lefevre, André, Firmin, Madame Giry, Meg, Buquet, Ensemble
+* "Think of Me"{{efn|name=mn2|Lyrics by Charles Hart with additional lyrics by Richard Stilgoe}} – Christine, Raoul
+* "Angel of Music"{{efn|name=mn2}} – The Phantom, Meg, Christine
+* "Little Lotte"{{efn|name=mn1}} – Raoul, Christine
+* "The Mirror (Angel of Music (Reprise))"{{efn|name=mn1}} – The Phantom, Christine, Raoul
+* "[[The Phantom of the Opera (song)|The Phantom of the Opera]]"{{efn|name=mn3|Additional lyrics by Mike Batt}} – Christine, The Phantom
+* "[[The Music of the Night]]"{{efn|name=mn2}} – The Phantom
+* "I Remember"{{efn|name=mn1}} – Christine
+* "Stranger Than You Dreamt It"{{efn|name=mn1}} – The Phantom
+* "Magical Lasso…"{{efn|name=mn1}} – Buquet, Madame Giry, Meg
+* "Notes…"{{efn|name=mn2}} – Firmin, André, Raoul, Carlotta, Piangi, Madame Giry, Meg, The Phantom
+* "Prima Donna"{{efn|name=mn2}} – André, Firmin, Carlotta, Piangi, Raoul, Madame Giry, Meg, The Phantom
+* "''Il Muto''/Poor Fool, He Makes Me Laugh"{{efn|name=mn1}} – Carlotta, Piangi, The Phantom, Ensemble
+* "Why Have You Brought Me Here…?"/"Raoul, I've Been There…"{{efn|name=mn1}} – Raoul, Christine, The Phantom
+* "[[All I Ask of You]]"{{efn|name=mn2}} – Raoul, Christine
+* "All I Ask of You (Reprise)"{{Efn|name=mn2}} – The Phantom
+{{col-break}}
+
+===Act II===
+* "Entr'acte" – Orchestra
+* "Masquerade"{{efn|name=mn2}} – André, Firmin, Raoul, Christine, Madame Giry, Meg, Carlotta, Piangi, Ensemble
+* "Why So Silent…?"{{efn|name=mn2}} – The Phantom
+* "Notes (Reprise)"{{efn|name=mn1}} – André, Firmin, Carlotta, Piangi, Raoul, Christine, Madame Giry, The Phantom
+* "Twisted Every Way"{{efn|name=mn1}} – Christine, Raoul
+* "''Don Juan Triumphant'' Rehearsal"{{efn|name=mn1}} – Christine, Piangi, Reyer, Carlotta, Madame Giry, Ensemble
+* "Wishing You Were Somehow Here Again"{{efn|name=mn2}} – Christine
+* "Wandering Child"{{efn|name=mn1}} – The Phantom, Christine, Raoul 
+* "Bravo, Monsieur…"{{efn|name=mn1}} – The Phantom, Raoul, Christine
+* "''Don Juan Triumphant''"{{efn|name=mn1}} – Carlotta, Piangi, Passarino, Christine, The Phantom, Ensemble
+* "The Point of No Return"{{efn|name=mn2}} – The Phantom, Christine
+* "All I Ask of You (Reprise)"{{efn|name=mn2}} – The Phantom
+* "Down Once More…"{{efn|name=mn1}} – The Phantom
+* "Track Down This Murderer…"{{efn|name=mn1}} – Madame Giry, Raoul, Ensemble
+* "Finale" – Christine, The Phantom, Raoul, Ensemble
+Source
+{{col-end}}
+
+'''Notes'''
+{{notelist}}
+
+==Orchestra==
+==Recordings==
+===Sales and certifications===
+====Original 1986 London production====
+====Local productions====
+====''Highlights from The Phantom of the Opera''====
+==Allegations of plagiarism==
+==Sequel==
+==Awards and nominations==
+===Original London production===
+{|
+|-
+| links || [[Evening Standard Theatre Awards|Evening Standard Theatre Award]] [[Laurence Olivier Award]] [[Laurence Olivier Award for Best New Musical|Best New Musical]] [[Laurence Olivier Award for Best Actor in a Musical|Best Actor in a Musical]] [[Michael Crawford]] [[Laurence Olivier Award|Designer of the Year]] [[Maria Björnson]] [[Audience Award for Most Popular Show|Most Popular Show]] [[Audience Award for Most Popular Show|Magic Radio Audience Award]]
+|}
+===Original Broadway production===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Musical|Best Musical]] [[Tony Award for Best Actor in a Musical|Best Actor in a Musical]] [[Michael Crawford]] [[Tony Award for Best Featured Actress in a Musical|Best Featured Actress in a Musical]] [[Judy Kaye]] [[Tony Award for Best Direction of a Musical|Best Direction of a Musical]] [[Harold Prince]] [[Tony Award for Best Book of a Musical|Best Book of a Musical]] [[Richard Stilgoe]] [[Andrew Lloyd Webber]] [[Tony Award for Best Original Score|Best Original Score]] [[Charles Hart (lyricist)|Charles Hart]] [[Tony Award for Best Scenic Design|Best Scenic Design]] [[Maria Björnson]] [[Tony Award for Best Costume Design|Best Costume Design]] [[Tony Award for Best Lighting Design|Best Lighting Design]] [[Andrew Bridge (lighting designer)|Andrew Bridge]] [[Tony Award for Best Choreography|Best Choreography]] [[Gillian Lynne]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Musical|Outstanding Musical]] [[Drama Desk Award for Outstanding Actor in a Musical|Outstanding Actor in a Musical]] [[Drama Desk Award for Outstanding Actress in a Musical|Outstanding Actress in a Musical]] [[Sarah Brightman]] [[Drama Desk Award for Outstanding Director of a Musical|Outstanding Director of a Musical]] [[Drama Desk Award for Outstanding Music|Outstanding Music]] [[Drama Desk Award for Outstanding Orchestrations|Outstanding Orchestrations]] [[Drama Desk Award for Outstanding Set Design|Outstanding Set Design]] [[Drama Desk Award for Outstanding Costume Design|Outstanding Costume Design]] [[Drama Desk Award for Outstanding Lighting Design|Outstanding Lighting Design]] [[Outer Critics Circle Award]] [[New York Drama Critics' Circle|New York Drama Critics' Circle Award]]
+|}
+===2025 Off-Broadway revival===
+{|
+|-
+| links || [[Drama League Awards]] [[Drama League Award for Outstanding Revival of a Musical|Outstanding Revival of a Musical]] [[Drama Desk Awards]] [[Outer Critics Circle Award]] [[Outer Critics Circle Award for Outstanding Revival of a Musical|Outstanding Revival of a Musical]] [[Outer Critics Circle Award for Outstanding Direction of a Musical|Outstanding Direction of a Musical]] [[Diane Paulus]] [[Outer Critics Circle Award for Outstanding Choreography|Outstanding Choreography]] [[Outer Critics Circle Award for Outstanding Scenic Design|Outstanding Scenic Design]] [[Outer Critics Circle Award for Outstanding Costume Design|Outstanding Costume Design]] [[Emilio Sosa]] [[Outer Critics Circle Award for Outstanding Sound Design|Outstanding Sound Design]]
+|}
+==See also==
+==References==
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+starring [[Colm Wilkinson]].
+cast featured [[Killian Donnelly]], [[Lucy St. Louis]].
+cast included [[Judy Kaye]].
+cast included [[Judy Kaye]], [[Cris Groenendaal]], [[Nick Wyman|Nicholas Wyman]].
+cast included [[Ben Crawford (singer)|Ben Crawford]].
+cast included [[Ramin Karimloo]].
+cast included [[Ramin Karimloo]], [[Sierra Boggess]], [[Hadley Fraser]], [[Wynne Evans]], [[Barry James]], [[Liz Robertson]].
+starring [[Anthony Warlow]].
+starring [[Michael Cormick]].
+starring [[Ramin Karimloo]].
+starring [[Ivan Ozhogin]].
+starred [[Brent Barrett]].
+starring [[Gerard Butler]].
+starring [[Ben Lewis (Australian actor)|Ben Lewis]].
+starring [[Norm Lewis]].

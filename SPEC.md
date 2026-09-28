@@ -691,6 +691,238 @@ interface Festival {
 - **Header:** the chip is in the bar from 640px (a 📍-only button at 1100–1279px, where the desktop
   nav needs the room); below 640px the picker is a native `<select>` in the mobile menu.
 
+## 7c. Show & song catalog, smart suggestions, easy art/audio — added 2026-09-27
+
+Goal: when someone adds a song they **pick it from a comprehensive catalog first**; the form is then
+pre-filled with **suggestions** (each labelled with where it came from and how sure we are), and
+attaching **album art and audio** is one click or one drag-and-drop. The site is live: every schema
+change is an additive migration, the catalog loads itself on deploy, and community data is never
+touched by catalog loads.
+
+### Catalog data (built offline, shipped in the repo)
+Built by `npm run catalog:build` (root script → `tools/catalog/`, a separate maintainer tool
+with its OWN package.json/node_modules so it never touches server deps; network; raw responses
+cached in `tools/catalog/.cache/` (gitignored); deterministic output) from:
+- **Wikidata** (CC0) — every stage musical (instance/subclass of musical Q2743 and its stage-work
+  subclasses: rock musical, jukebox musical, sung-through, musical comedy, rock opera staged as a
+  musical, etc.; EXCLUDE musical films/TV) that has an English Wikipedia article: title, alt
+  titles, composer / lyricist / librettist, year of first performance, genres, short description.
+- **English Wikipedia** (CC BY-SA 4.0) — the song list of each show ("Musical numbers" / "Songs" /
+  "Song list" sections, act headings, tables or bullet lists, and "List of songs in …" sub-pages
+  when linked) with **who sings each song** (characters), reprise/instrumental flags; plus the
+  "Characters"/"Roles" section when present (character names, voice types if stated).
+Output: `server/seed/catalog/catalog.json.gz` (+ `server/seed/catalog/README.md` with sources,
+build date, counts and the data licence: Wikipedia-derived content CC BY-SA 4.0, Wikidata CC0 —
+the code stays MIT). Format (gzip of one JSON document):
+```jsonc
+{
+  "version": "2026-09-27.1",          // bump on every rebuild; the server reloads when it changes
+  "generatedAt": "ISO datetime",
+  "sources": { "wikidata": "...", "wikipedia": "..." },
+  "shows": [{
+    "key": "Q192111",                  // Wikidata QID (stable key); "wp:<enwiki title>" if no QID
+    "title": "Les Misérables",
+    "altTitles": ["Les Mis"],          // may be []
+    "wikiTitle": "Les Misérables (musical)",
+    "wikidataId": "Q192111" | null,
+    "composer": "Claude-Michel Schönberg" | null,
+    "lyricist": "Herbert Kretzmer" | null,   // English lyrics where the article says so
+    "bookWriter": "Alain Boublil, Claude-Michel Schönberg" | null,
+    "year": 1980 | null,               // first performance
+    "genres": ["sung-through"],        // lowercase free text from Wikidata/Wikipedia, may be []
+    "description": "musical" | null,   // Wikidata short description (CC0), not Wikipedia prose
+    "characters": [{ "name": "Jean Valjean", "voiceType": "Baritone" | null }],   // may be []
+    "songs": [{
+      "title": "Bring Him Home",
+      "act": 2 | null, "position": 17,           // order within the show list (1-based)
+      "singers": ["Jean Valjean"],               // parsed character names ([] if unknown)
+      "singersRaw": "Valjean",                   // text as written in the source ("" if none)
+      "ensemble": false,                          // chorus/company/ensemble/townspeople take part
+      "reprise": false, "instrumental": false    // overture, entr'acte, underscoring → instrumental
+    }]
+  }]
+}
+```
+Quality bar (verified by sampling against the live source pages): song titles ≥ 98% exact,
+singer attribution ≥ 95% correct where the source names singers, no instrumental tracks marked
+as sung, no duplicate songs within a show (reprises kept but flagged).
+
+### Database (migration v5, additive)
+```sql
+CREATE TABLE catalog_shows (
+  id INTEGER PRIMARY KEY, key TEXT NOT NULL UNIQUE, title TEXT NOT NULL, alt_titles TEXT NOT NULL DEFAULT '[]',
+  wiki_title TEXT, wikidata_id TEXT, composer TEXT, lyricist TEXT, book_writer TEXT, year INTEGER,
+  genres TEXT NOT NULL DEFAULT '[]', description TEXT, characters TEXT NOT NULL DEFAULT '[]',
+  itunes_collection_id INTEGER,          -- cast album found on demand, cached for everyone
+  song_count INTEGER NOT NULL DEFAULT 0
+);
+CREATE TABLE catalog_songs (
+  id INTEGER PRIMARY KEY, show_id INTEGER NOT NULL REFERENCES catalog_shows(id) ON DELETE CASCADE,
+  title TEXT NOT NULL, act INTEGER, position INTEGER, singers TEXT NOT NULL DEFAULT '[]', singers_raw TEXT,
+  ensemble INTEGER NOT NULL DEFAULT 0, reprise INTEGER NOT NULL DEFAULT 0, instrumental INTEGER NOT NULL DEFAULT 0,
+  source TEXT NOT NULL DEFAULT 'wikipedia' CHECK (source IN ('wikipedia','recording')),
+  UNIQUE (show_id, title COLLATE NOCASE, reprise)
+);
+CREATE VIRTUAL TABLE catalog_fts USING fts5(song_title, show_title, alt_titles, singers,
+  tokenize = 'unicode61 remove_diacritics 2');      -- rowid = catalog_songs.id; shows indexed via a
+                                                   -- separate catalog_show_fts(title, alt_titles, credits)
+CREATE TABLE catalog_meta (key TEXT PRIMARY KEY, value TEXT);   -- 'version', 'loadedAt', counts
+ALTER TABLE shows ADD COLUMN catalog_show_id INTEGER REFERENCES catalog_shows(id) ON DELETE SET NULL;
+ALTER TABLE songs ADD COLUMN catalog_song_id INTEGER REFERENCES catalog_songs(id) ON DELETE SET NULL;
+```
+- **Loader** (`server/src/lib/catalog.js`): at startup, if the seed file's `version` differs from
+  `catalog_meta.version` (or tables are empty), reload the catalog in one transaction (fast bulk
+  insert; must stay well under ~10 s for ~100k songs), preserving rows with `source='recording'`
+  and `itunes_collection_id` values by `key`, then re-link site shows/songs
+  (`catalog_show_id`/`catalog_song_id`) by accent/case-folded title (+ alt titles; songs within the
+  linked show, ignoring punctuation and "(Reprise)" differences). Never modifies community
+  rows' other fields. Missing seed file → log a warning and keep going (catalog features show an
+  empty state). Also `npm --prefix server run catalog:load` (force reload) for maintainers.
+- Adding/editing a site song sets `catalog_song_id` when the form came from the catalog (client
+  sends `catalogSongId`); new site shows created from the catalog get `catalog_show_id` and are
+  pre-filled with the catalog credits/year (and Wikipedia poster via the existing lookup flow).
+
+### API (public GETs + one logged-in write; lookup rate limits apply to anything that calls Apple)
+- `GET /api/catalog/search?q=&limit=20` → `{ results: CatalogHit[] }` — typeahead over songs AND
+  shows (FTS5 prefix search on every token, accent/case-insensitive; user input must be escaped
+  into safe FTS5 syntax — never passed raw to MATCH). Ranking: exact title > prefix > bm25; songs
+  from shows already on the site get a small boost. `q` < 2 chars → empty results.
+  ```ts
+  type CatalogHit =
+    | { type: 'song'; id: number; title: string; show: { id: number; title: string; year: number|null };
+        singers: string[]; reprise: boolean; ensemble: boolean; onSite: { songId: number } | null }
+    | { type: 'show'; id: number; title: string; year: number|null; composer: string|null; songCount: number;
+        onSite: { showId: number; slug: string } | null };
+  ```
+- `GET /api/catalog/shows/:id` → show details + `songs` (instrumentals excluded by default,
+  `?all=1` includes them), each with `onSite`. If the show has no songs, the response includes
+  `recordingTracksAvailable: true` when a cast album can be found.
+- `POST /api/catalog/shows/:id/recording-tracks` (logged in + CSRF header) → finds (and caches in
+  `itunes_collection_id`) the show's cast album on Apple via the existing iTunes album-scan logic and
+  returns its tracks as catalog songs, persisting them with `source='recording'` (singers unknown) so
+  later users get them instantly → `{ album, added, saved: true, songs }`. `GET` on the same path is
+  read-only: the saved tracks, or a preview (`saved: false`, songs with `id: null`) that saves nothing
+  (see "As built" below).
+- `GET /api/catalog/songs/:id/suggestions` → pre-fill data (fast, no Apple calls):
+  ```ts
+  interface Suggested<T> { value: T; source: string; confidence: 'high'|'medium'|'low'; note?: string; alternatives?: T[] }
+  interface CatalogSuggestions {
+    catalogSong: { id; title; act; singers: string[]; singersRaw: string; ensemble; reprise };
+    existingSong: { id: number; title: string; kind: Kind } | null;    // already on the site
+    show: { siteShow: { id; name; slug } | null; catalogShowId: number; name: string;
+            composer; lyricist; bookWriter; year; wikiTitle };
+    title: Suggested<string>;
+    kind: Suggested<Kind> | null;               // 1 singer → solo, 2 → duet; null + note if 0 or 3+/ensemble
+    parts: Suggested<{ character: string; vocalRange: string|null; rangeSource?: string }[]>;
+    genre: Suggested<string> | null; subGenre: Suggested<string> | null; mature: Suggested<boolean> | null;
+  }
+  ```
+  Sources, in priority order: vocal range ← same show+character already on the site (most common
+  value; 'high' if unanimous) ← catalog character voiceType ('medium') ← none. Genre/mood/mature
+  ← other site songs from the same show ('medium', alternatives = the others) ← catalog show genres
+  mapped (comedy→Comedy, tragedy/drama→Drama, romance→Romantic) ('low') ← none. Every `source`
+  string is human-readable, e.g. "from 3 other Les Misérables songs on the site", "from the
+  Wikipedia song list", "from the Original Broadway Cast Recording".
+- `GET /api/catalog/songs/:id/recordings` → `{ candidates: ItunesCandidate[] }` (best first; uses
+  the show's cached cast album first, falls back to song search; each candidate includes
+  `durationSeconds`, `artworkUrl`, `previewUrl`, album/artist) — the client derives the length
+  suggestion ("3:21 from <album>") from the chosen candidate.
+- `POST /api/songs` / `PUT /api/songs/:id` accept optional `catalogSongId` (must exist).
+- **Song artwork upload**: `POST /api/songs/:id/artwork` multipart `file` (jpeg/png/webp/gif ≤ 5 MB,
+  magic-byte checked, metadata stripped like other image uploads) → `Song`; stored under
+  `/uploads/art/`, replaces the previous uploaded art (old file deleted); `DELETE /api/songs/:id/artwork`
+  → `Song` (removes the uploaded image; falls back to the recording art if the song has one, else none).
+  Owner-or-admin, same CSRF/rate-limit/quota rules as audio uploads. `SongMedia` gains
+  `artworkSource: 'recording' | 'upload' | null`.
+
+### Client
+- **Add a song = "Find your song" first** (`/add`): a big catalog search (typeahead, keyboard
+  friendly; results show song title, show + year, singers, badges "Solo"/"Duet"/"Ensemble" guess,
+  "Already on the site ✓" with a link). Choosing a **song** → `/add?catalogSong=<id>`: the form opens
+  pre-filled; each pre-filled field shows a small suggestion chip ("✨ from the Wikipedia song list",
+  "✨ from 3 other songs in this show") with the confidence, and alternatives as one-tap chips; the
+  user can change anything. Choosing a **show** → a song list for that show to pick from (with
+  "Load songs from the cast album" when the catalog has none), plus "My song isn't listed" →
+  manual entry with the show pre-filled. "Can't find it? Enter it manually" always available.
+  If the chosen song is already on the site: friendly callout "Already in the songbook — open it"
+  (still allow adding a different kind, e.g. a duet version, if not a true duplicate).
+- **Recording picker** (reused on the form and on the song page for owners): loads
+  `/recordings` asynchronously after the form opens, auto-selects the best match (art + 30-sec
+  preview + suggested length), shows alternatives in a scrollable strip with ▶ preview, and "No
+  recording" option. Choosing one updates the length suggestion.
+- **Album art & audio made easy**: in the form's last step and on the song page (owner/admin) —
+  artwork: current image with "Use recording art" / "Upload my own" (drag-and-drop or click, image
+  preview, client-side type/size checks) / "Remove"; audio: drag-and-drop "Add your backing track
+  (no vocals)" with progress + remove, plus the audio link field. Song page shows friendly empty
+  states for owners ("Add album art", "Add a backing track") where media is missing.
+- Attribution: wherever catalog data is shown, a small "Song list from Wikipedia (CC BY-SA)"
+  credit; README gets a "Catalog data" section.
+
+**As built — deviations and decisions (2026-09-27)** (the rest of §7c holds as written):
+- **Catalog build** (`tools/catalog`): a version string is never issued twice for different content —
+  every version is recorded with the SHA-256 of its content in `tools/catalog/versions.json`
+  (+ `.cache/versions-issued.json`); identical content keeps its version. **Vandalism gate**
+  (`src/review-gate.js`): before the seed file is replaced the build writes a readable diff against it
+  (`.cache/diff-<version>.txt`) and stops (exit 2, nothing written) when new or changed text looks like
+  vandalism (strong profanity/slurs, "… is gay"-style phrases, links/e-mail/handles, keyboard mashing,
+  emoji, shouting) or a song list was mostly blanked / the catalog shrank by > 10%; `--accept-review`
+  after a human check. Songs that only a later production list has are added in place (the licensed
+  list stays primary); songs named in list notes likewise. The file has no `mature` field (mature is
+  suggested only from the site's own songs of the show). Measured on v2026-09-27.28 against 150 live
+  articles: titles 99.49% exact, singers 99.23% supported by the source text, 0 duplicates, 0
+  instrumentals marked as sung.
+- **Migration v6** (additive, after v5): `shows.catalog_link` / `songs.catalog_link`
+  (`NULL` = automatic, `'manual'` = chosen by someone who may edit the row, `'none'` = "not in the
+  catalog"), `catalog_shows.retired`, `itunes_collection_name` (v5), `itunes_checked_at`,
+  `itunes_check_found`, `itunes_saved_at`, `itunes_saved_by`, and
+  `catalog_rejected_albums(show_key, collection_id, rejected_at, rejected_by)`.
+- **Loader:** reloads when the file's **SHA-256** differs from the loaded one (`catalog_meta.fileHash`;
+  older databases without it compare version + `generatedAt`), not only the version. Refuses (keeps the
+  loaded catalog, logs a warning) a file with no shows, less than half the loaded shows or songs, many
+  keyless shows, > 50 MB packed or > 256 MB unpacked; `catalog:load -- --force` overrides. A show that
+  leaves the file but still holds site data (cast-album songs, a cached album, chosen links) is
+  **retired** (hidden from search and matching) instead of deleted. Cast-album songs of a show that now
+  has a Wikipedia list are removed (linked site songs move to the matching listed song).
+- **Linking:** ties between same-named catalog shows are broken by year, composer and the site show's
+  own songs — otherwise the show is left unlinked; a title and another show's alt title count equally.
+  Family names shared by several characters (Thénardier) never match a part on their own. Chosen links
+  (`catalog_link='manual'`) and "not in the catalog" (`'none'`) stick across reloads; `catalogSongId: null`
+  on a song sticks too. `PUT /api/shows/:id` accepts `catalogShowId`: a number (owners: a catalog show
+  with the same name; admins: any), `null` ("not in the catalog") or `'auto'`. "(Reprise 2)" only
+  matches "(Reprise 2)".
+- **Recording tracks:** saving is `POST` (above). For clients from before the POST, a logged-in user's
+  same-site `GET` still saves (deprecated). At most 60 tracks are saved, explicit albums and tracks are
+  skipped, an album that another same-named show may own is refused, and every save is logged with
+  the user id. Show pages (`GET /api/catalog/shows/:id`) never save an album: `recordingTracksAvailable`
+  comes from one CA-store check kept in the database for a week (a failure for 2 minutes), and is
+  `null` ("couldn't check") past the limits — never a 429. `castAlbum` is set only once an album is saved.
+- **Admin:** `GET /api/admin/catalog/recordings` lists saved cast albums / cast-album songs (who, when);
+  `DELETE /api/admin/catalog/shows/:id/recording` removes them and rejects that album for the show
+  (`?reject=0` to allow it again); `npm --prefix server run catalog:clear-recording -- <id|key>`
+  (`-- --list`) does the same from the shell. The client has an **Admin → Cast albums** tab, and the
+  Edit show modal a **Song catalog** field (keep / match by name / not in the catalog / link to another
+  catalog show).
+- **Apple budget:** every call to Apple's iTunes API shares one site-wide token bucket
+  (`STAR_APPLE_LIMIT`, default 20/min, short queue); when it's spent, lookups answer **503 +
+  Retry-After** (the client says how long to wait, and a background recording lookup retries once).
+- **Search:** its own limit (`STAR_SEARCH_LIMIT`, 120/min per user or IP); queries of only one-letter
+  words return nothing; very common words and a trailing single letter only filter; results are cached
+  (1,000 entries, cleared when the catalog changes). A show without a song list goes after the songs
+  unless its name is exactly the query ("frozen" → Frozen, its songs, then "Frozen – Live at the Hyperion").
+- **Suggestions** (extras beyond the interface above): `kindNote`, `existingSongs` (every site version
+  of the song), parts with `catalogName` / `rangeConfidence` / `rangeAlternatives`; the song itself is
+  never counted among "other" songs; duets are `'medium'` and, unless the site already has the song only
+  as a duet, offer `alternatives: ['solo']` with a note (the second listed singer may only have a line);
+  a group number takes the kind of the version already on the site. A new solo/duet that duplicates one
+  already in the show (same catalog song, or same title ignoring punctuation, same kind) → **409** with
+  the existing id.
+- **Recordings:** a candidate that isn't on a recognised recording of the show must score ≥ 60 and is
+  never a karaoke/cover/tribute or foreign-language cast album. The client auto-picks only a clear match
+  (a cast album, or ≥ 85 with an album label); weaker ones are "Possible matches — listen first".
+- **Images:** uploads (album art, posters, downloads) are limited to 8192 px a side, 25 megapixels, 300
+  animation frames / 50 MP total; PNG/WebP/GIF keep only the chunks needed to draw the image (C2PA and
+  private chunks go), JPEG also loses JFIF/JFXX thumbnails.
+
 ## 8. Root scripts (package.json at repo root)
 - `npm run setup` → install server + client deps, run import (creates `server/data/star.db`).
 - `npm run dev` → concurrently: server (`node --watch src/index.js`) + client (vite).

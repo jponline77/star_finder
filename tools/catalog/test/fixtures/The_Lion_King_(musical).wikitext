@@ -1,0 +1,327 @@
+{{Infobox Musical
+|name= The Lion King
+|image=The Lion King Musical.svg
+|caption=Broadway promotional poster
+|music=[[Elton John]]{{efn|Additional music by [[Lebo M]], [[Mark Mancina]], [[Jay Rifkin]], [[Tsidii Le Loka]], and [[Hans Zimmer]]}}
+|lyrics=[[Tim Rice]]{{efn|Additional lyrics by [[Lebo M]], [[Mark Mancina]], [[Jay Rifkin]], [[Tsidii Le Loka]], [[Julie Taymor]], and [[Hans Zimmer]]}}
+|book={{Plainlist|
+* [[Roger Allers]]
+* [[Irene Mecchi]]
+}}
+|basis={{Based on|''[[The Lion King]]''|Irene Mecchi|[[Jonathan Roberts (writer)|Jonathan Roberts]]|[[Linda Woolverton]]}}
+| premiere_date=July 8, 1997
+| premiere_location=[[Orpheum Theatre (Minneapolis)|Orpheum Theatre]], [[Minneapolis]]
+|productions= {{ubl|1997 [[Minneapolis]]|1997 [[Broadway theatre|Broadway]]|1999 [[West End theatre|West End]]|2002 [[North America]] tour|2003 North America tour|2012 [[United Kingdom|UK]] tour|2017 North America tour|2018 International tour|2019 UK & Ireland tour}}
+
+|awards= [[Tony Award for Best Musical]]
+}}
+==Production history==
+==Synopsis==
+===Act I===
+===Act II===
+==Songs==
+{| class="wikitable" style="text-align:center"
+|-
+! Song !! Written by !! Performed by 
+|-
+! colspan=3 | Act I
+|-
+! "[[Circle of Life]]"
+| [[Elton John]] and [[Tim Rice]] || Rafiki and Company
+|-
+! "Grasslands Chant"
+| [[Lebo M]] || Company
+|-
+! "The Morning Report" +
+| Elton John and Tim Rice || Zazu, Young Simba, and Mufasa 
+|-
+! "The Lioness Hunt"
+| Lebo M || Lionesses
+|-
+! "[[I Just Can't Wait to Be King]]"
+| rowspan="2" | Elton John and Tim Rice || Young Simba, Young Nala, Zazu, and Ensemble 
+|-
+! "Chow Down"
+| Shenzi, Banzai, and Ed 
+|-
+! "They Live in You"
+| [[Mark Mancina]], [[Jay Rifkin]], and Lebo M || Mufasa and Company
+|-
+! "[[Be Prepared (song)|Be Prepared]]"
+| Elton John and Tim Rice || Scar, Shenzi, Banzai, Ed, and Company
+|-
+! "The Stampede"
+| [[Hans Zimmer]] and Lebo M || Company
+|-
+! "Rafiki Mourns"
+| [[Tsidii Le Loka]]|| Rafiki, Sarabi, Young Nala, Ensemble
+|-
+! "[[Hakuna Matata (song)|Hakuna Matata]]"
+| Elton John and Tim Rice || Timon, Pumbaa, Young Simba, Simba, and Ensemble 
+|-
+! colspan=3 | Act II
+|-
+! "One by One"
+| Lebo M || Company
+|-
+! "[[The Madness of King Scar]]"
+| Elton John and Tim Rice || Scar, Zazu, Banzai, Shenzi, Ed and Nala 
+|-
+! "[[Shadowland (The Lion King)|Shadowland]]"
+| Hans Zimmer, Lebo M, and Mark Mancina || Nala and Company
+|-
+! "[[Endless Night (The Lion King song)|Endless Night]]"
+| [[Julie Taymor]], Lebo M, Hans Zimmer, and Jay Rifkin || Simba and Company
+|-
+! "[[Can You Feel the Love Tonight]]"
+| Elton John and Tim Rice || Timon, Pumbaa, Simba, Nala, and Company
+|-
+! "[[He Lives in You]]"
+| Mark Mancina, Jay Rifkin, and Lebo M || Rafiki, Simba and Company
+|-
+! "Simba Confronts Scar"
+| Mark Mancina and Robert Elhai || Instrumental 
+|-
+! "King of Pride Rock/Circle of Life (Reprise)"
+| Hans Zimmer and Lebo M/Elton John and Tim Rice || The Company
+|}
+
++ Cut from the show as of June 27, 2010
+
+==Differences between the musical and film==
+==Productions==
+===United States===
+===Canada===
+===Mexico===
+===South America===
+===Europe===
+====United Kingdom and Ireland====
+====Other countries====
+===Africa===
+===Asia===
+====Japan====
+====Other countries====
+===Australia===
+===International tour===
+== Characters ==
+
+* [[Simba]]: a male lion who is next in line to become king, son of Mufasa. Voice type: [[tenor]]
+**Young Simba: Voice type: [[boy soprano]]
+*[[Nala (The Lion King)|Nala]]: a lioness who later becomes Simba's love interest. Voice type: [[alto]]
+**Young Nala: Voice type: [[soprano]]
+* [[Scar (The Lion King)|Scar]]: a male lion, Simba's uncle and Mufasa's brother; he kills Mufasa in order to become king. Voice type: [[baritone]]
+*[[Rafiki (The Lion King)|Rafiki]]: a female mandrill who serves as narrator. Voice type: [[mezzo-soprano]]
+* [[Mufasa]]: a male, king of the Pridelands; Simba's father and Sarabi's husband. Voice type: [[Bass (voice)|bass]]
+* [[Timon and Pumbaa|Timon]]: a male meerkat who becomes a friend with Simba. Voice type: [[tenor]]
+* [[Timon and Pumbaa|Pumbaa]]: a male warthog who also becomes a friend with Simba. Voice type: [[baritone]]
+* [[Zazu (Disney character)|Zazu]]: a male hornbill, Mufasa's majordomo. Voice type: [[tenor]]
+* Shenzi: a female hyena; one of Scar's minions. Voice type: [[alto]]
+* Banzai: a male hyena; one of Scar's minions. Voice type: [[tenor]]
+* Ed: a male hyena who cannot speak; one of Scar's minions. Voice type: any male voice type
+*Sarabi: a lioness, Simba's mother and Mufasa's wife. voice type: any female voice type
+* The ensemble consists of a variety of African animals, Scar's hyenas, and plants
+
+==Original casts==
+
+The original principal casts of all major productions.
+
+{| class="wikitable" width="100%"
+|-
+! rowspan="2"|Character
+! Broadway
+! West End
+! Gazelle Tour<br>{{small|(1st U.S. Tour)}}
+! Cheetah Tour<br>{{small|(2nd U.S. Tour)}}
+! Rafiki Tour<br>{{small|(3rd U.S. Tour)}}
+|-
+! {{Small|1997}}
+! {{Small|1999}}
+! {{Small|2002}}
+! {{Small|2003}}
+! {{Small|2017}}
+|-
+! Scar
+| align="center" | [[John Vickery (actor)|John Vickery]]
+| align="center" | [[Rob Edwards (actor)|Rob Edwards]]
+| align="center" | [[Patrick Page]]
+| align="center" | Larry Yando
+| align="center" | Mark Campbell
+|-
+! Rafiki
+| align="center" | [[Tsidii Le Loka]]
+| align="center" | [[Josette Bushell-Mingo]]
+| align="center" | [[Fredi Walker|Fredi Walker-Browne]]
+| align="center" | Thandazile A. Soni
+| align="center" | Buyi Zama
+|-
+! Mufasa
+| align="center" | [[Samuel E. Wright]]
+| align="center" | [[Cornell John]]
+| align="center" | Alton Fitzgerald White
+| align="center" | Rufus Bonds Jr. 
+| align="center" | Gerald Ramsey
+|-
+! Young Simba
+| align="center" | [[Scott Irby-Ranniar]]
+| align="center" | [[Daniel Anthony (actor)|Daniel Anthony]]<hr/>Ross Coates<hr/>[[Luke Youngblood]]
+| align="center" | Akil I. Lugman<hr/>Christopher Warren Jr.
+| align="center" | Khaleel Mandel Carter
+| align="center" | Joziyah Jean-Felix<hr/>Ramon Reed
+|-
+! Young Nala
+| align="center" | Kajuana Shuford
+| align="center" | [[Pippa Bennett-Warner]]<hr/>[[Nathalie Emmanuel]]<hr/>[[Dominique Moore]]
+| align="center" | Paula Collins<hr/>Cajai Fellows Johnson
+| align="center" |
+| align="center" | Gloria Manning<hr/>Danielle W. Jalade
+|-
+! Simba
+| align="center"| [[Jason Raize]]
+| align="center"| Roger Wright
+| align="center"| Josh Tower
+| align="center"| [[Brandon Victor Dixon]]
+| align="center"| Gerald Caesar
+|-
+! Nala
+| align="center" | [[Heather Headley]]
+| align="center" | Paulette Ivory
+| align="center" | [[Kissy Simmons]]
+| align="center" | Adia Ginneh
+| align="center" | Nia Holloway
+|-
+! Timon
+| align="center"| [[Max Casella]]
+| align="center"| Simon Gregor
+| align="center"| John Plumpis
+| align="center"| Benjamin Clost
+| align="center"| Nick Cordileone
+|-
+! Pumbaa
+| align="center"| [[Tom Alan Robbins]]
+| align="center"| Martyn Ellis
+| align="center"| Blake Hammond
+| align="center"| Bob Amaral
+| align="center"| Ben Lipitz
+|-
+! Zazu
+| align="center"| [[Geoff Hoyle]]
+| align="center"| Gregory Gudgeon
+| align="center"| Jeffrey Binder
+| align="center"| Derek Hasenstab
+| align="center"| Greg Jackson
+|-
+! Shenzi
+| align="center"| [[Tracy Nicole Chapman]]
+| align="center"| Stephanie Charles
+| align="center"| Jacquelyn Hodges
+| align="center"| Shaullanda LaCombe
+| align="center"| Martina Sykes
+|-
+! Banzai
+| align="center"| [[Stanley Wayne Mathis]]
+| align="center"| [[Paul J. Medford]]
+| align="center"| James Brown-Orleans
+| align="center"| Melvin Abston
+| align="center"| Keith Bennett
+|-
+! Ed
+| align="center"| [[Kevin Cahoon]]
+| align="center"| Christopher Holt
+| align="center"| Wayne Pile
+| align="center"| Brian Sills
+| align="center"| Robbie Swift
+|-
+! Sarabi
+| align="center"| [[Gina Breedlove]]
+| align="center"| Dawn Michael
+| align="center"| Jean Michelle Grier
+| align="center"| 
+| align="center"| Kimber Sprawl
+|}
+
+The original production crew for the Broadway production:
+{| class="wikitable"
+|+
+!Title
+!Original Broadway 
+Production Crew
+|-
+|'''Director'''
+|[[Julie Taymor]]
+|-
+|'''Choreographer'''
+|[[Garth Fagan]]
+|-
+|'''Musical Director'''
+|[[Joseph Church]]
+|-
+|'''Scenic Design'''
+|[[Richard Hudson (stage designer)|Richard Hudson]]
+|-
+|'''Costume Design'''
+|Julie Taymor
+|-
+|'''Lighting Design'''
+|[[Donald Holder]]
+|-
+|'''Mask Design'''
+|Julie Taymor & [[Michael Curry (puppet designer)|Michael Curry]]
+|-
+|'''Puppet Design'''
+|Julie Taymor & Michael Curry
+|-
+|'''Sound Design'''
+|Tony Meola
+|-
+|'''Hair Design'''
+|Michael Ward
+|-
+|'''Make-up Design'''
+|Michael Ward
+|-
+|'''Projection Design'''
+|Geoff Puckett
+|-
+|'''Associate Scenic Design'''
+|Peter Eastman & Jonathan Fensom
+|-
+|'''Associate Costume Design'''
+|Mary Nemecek Peterson
+|-
+|'''Associate Lighting Design'''
+|Jeanne Koenig
+|}
+
+==Cast distinctions==
+==Recordings==
+===''The Lion King: Original Broadway Cast Recording''===
+====Instrumentation====
+==Awards and nominations==
+===Original Broadway production===
+{|
+|-
+| links || [[52nd Tony Awards|Tony Awards]] [[Tony Award for Best Musical|Best Musical]] [[Tony Award for Best Book of a Musical|Best Book of a Musical]] [[Roger Allers]] [[Irene Mecchi]] [[Tony Award for Best Original Score|Best Original Score]] [[Elton John]] [[Tim Rice]] [[Hans Zimmer]] [[Lebo M]] [[Mark Mancina]] [[Jay Rifkin]] [[Julie Taymor]] [[Tony Award for Best Performance by a Featured Actor in a Musical|Best Performance by a Featured Actor in a Musical]] [[Samuel E. Wright]] [[Tony Award for Best Performance by a Featured Actress in a Musical|Best Performance by a Featured Actress in a Musical]] [[Tsidii Le Loka]] [[Tony Award for Best Direction of a Musical|Best Direction of a Musical]] [[Tony Award for Best Choreography|Best Choreography]] [[Garth Fagan]] [[Tony Award for Best Orchestrations|Best Orchestrations]] [[Bruce Fowler]] [[Tony Award for Best Scenic Design|Best Scenic Design]] [[Richard Hudson (stage designer)|Richard Hudson]] [[Tony Award for Best Costume Design|Best Costume Design]] [[Tony Award for Best Lighting Design|Best Lighting Design]] [[Donald Holder]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Musical|Outstanding Musical]] [[Drama Desk Award for Outstanding Featured Actor in a Musical|Outstanding Featured Actor in a Musical]] [[Max Casella]] [[Geoff Hoyle]] [[Drama Desk Award for Outstanding Featured Actress in a Musical|Outstanding Featured Actress in a Musical]] [[Drama Desk Award for Outstanding Director|Outstanding Director]] [[Drama Desk Award for Outstanding Choreography|Outstanding Choreography]] [[Drama Desk Award for Outstanding Orchestrations|Outstanding Orchestrations]] [[Drama Desk Award for Outstanding Set Design|Outstanding Set Design]] [[Richard Hudson (musician)|Richard Hudson]] [[Drama Desk Award for Outstanding Costume Design|Outstanding Costume Design]] [[Drama Desk Award for Outstanding Lighting Design|Outstanding Lighting Design]] [[Drama Desk Award for Outstanding Sound Design|Outstanding Sound Design]] [[Tony Meola]] [[Drama Desk Award for Outstanding Puppet Design|Outstanding Puppet Design]] [[Michael Curry (puppet designer)|Michael Curry]] [[Theatre World Award]] [[New York Drama Critics' Circle|New York Drama Critics' Circle Awards]]
+|}
+===Original London production===
+{|
+|-
+| links || [[2000 Laurence Olivier Awards|Laurence Olivier Awards]] [[Laurence Olivier Award for Best New Musical|Best New Musical]] [[Laurence Olivier Award for Best Actor in a Musical|Best Actor in a Musical]] [[Rob Edwards (actor)|Rob Edwards]] [[Laurence Olivier Award for Best Actress in a Musical|Best Actress in a Musical]] [[Josette Bushell-Mingo]] [[Laurence Olivier Award for Best Director|Best Director]] [[Julie Taymor]] [[Laurence Olivier Award for Best Theatre Choreographer|Best Theatre Choreographer]] [[Garth Fagan]] [[Laurence Olivier Award for Best Set Design|Best Set Design]] [[Richard Hudson (stage designer)|Richard Hudson]] [[Laurence Olivier Award for Best Costume Design|Best Costume Design]] [[Laurence Olivier Award for Best Lighting Design|Best Lighting Design]] [[Donald Holder]]
+|}
+===Original French production===
+{|
+|-
+| links || [[Molière Award]] [[Julie Taymor]] [[Donald Holder]]
+|}
+=== Original Australian production ===
+{|
+|-
+| links || [[Helpmann Awards]] [[Helpmann Award for Best Musical|Best Musical]] [[Helpmann Award for Best Direction of a Musical|Best Direction of a Musical]] [[Julie Taymor]] [[Helpmann Award for Best Choreography in a Musical|Best Choreography in a Musical]] [[Garth Fagan]] [[Helpmann Award for Best Female Actor in a Musical|Best Female Actor in a Musical]] [[Helpmann Award for Best Male Actor in a Musical|Best Male Actor in a Musical]] [[Helpmann Award for Best Female Actor in a Supporting Role in a Musical|Best Female Actor in a Supporting Role in a Musical]] [[Helpmann Award for Best Male Actor in a Supporting Role in a Musical|Best Male Actor in a Supporting Role in a Musical]] [[Helpmann Award for Best Original Score|Best Original Score]] [[Tim Rice]] [[Elton John]] [[Lebo M]] [[Hans Zimmer]] [[Mark Mancina]] [[Jay Rifkin]] [[Donald Holder]]
+|}
+==Notes==
+==References==
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+portrayed by [[Tsidii Le Loka]].
+cast included [[Cornell John]].
+cast included [[Cornell John]], [[Luke Youngblood]], [[Dominique Moore]], [[Rob Edwards (actor)|Rob Edwards]], [[Paul J. Medford]], [[Josette Bushell-Mingo]].

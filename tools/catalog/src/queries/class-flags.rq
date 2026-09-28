@@ -1,0 +1,7 @@
+# STAR catalog - query C: flags for every distinct P31 class seen in query A (the placeholder below is filled with "wd:Qx wd:Qy ...", ~100 classes)
+SELECT ?c ?isFilm ?isTV ?isStage WHERE {
+  VALUES ?c { %CLASSES% }
+  BIND(EXISTS { ?c wdt:P279* wd:Q11424 } AS ?isFilm)      # film and all subclasses
+  BIND(EXISTS { ?c wdt:P279* wd:Q15416 } AS ?isTV)        # television program and all subclasses
+  BIND(EXISTS { ?c wdt:P279* wd:Q58483083 } AS ?isStage)  # dramatico-musical work and subclasses
+}

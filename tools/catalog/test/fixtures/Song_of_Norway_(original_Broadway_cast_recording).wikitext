@@ -1,0 +1,300 @@
+{{Infobox album
+| name     = Song of Norway
+| type     = cast
+| artist   = members of the original New York cast
+| cover    = Song of Norway (original Broadway cast recording).jpg
+| alt      = 
+| caption  = 
+| border   = 
+| released = {{Start date|1945||}}
+| recorded = 
+| studio   = 
+| genre    = [[Show tune]]
+| length   = 
+| label    = [[Decca Records|Decca]]
+| misc     = 
+}}
+== Release ==
+== Reception ==
+== Track listing ==
+'''Album of six 12-inch 78-rpm phonograph records''' (Decca DA-382)
+{{Track listing
+| headline      = Side 1
+| extra_column  = Artist(s)
+| total_length  =
+
+| all_writing   = Edvard Grieg and adapted by Robert Wright—George Forrest except "I Love You" ("Ich liebe dich") written by Edvard Grieg and arranged by Albert Sirmay
+| all_lyrics    = 
+| all_music     = 
+
+| title_width   = 
+| writing_width = 
+| music_width   = 
+| lyrics_width  =  
+| extra_width   = 
+
+| title1        = Prelude and Legend
+| note1         = <small>A Minor Concerto</small>)<br />(Act 1—Scene 1
+| writer1       = 
+| lyrics1       = 
+| music1        = 
+| extra1        = Robert Shafer with ''Song of Norway'' orchestra
+| length1       = 
+}}
+{{Track listing
+| headline      = Side 2
+| extra_column  = Artist(s)
+| total_length  =
+
+| all_writing   = 
+| all_lyrics    = 
+| all_music     = 
+
+| title_width   = 
+| writing_width = 
+| music_width   = 
+| lyrics_width  =  
+| extra_width   = 
+
+| title1        = Hill of Dreams
+| note1         = <small>A Minor Concerto</small>)<br />(Act 1—Scene 1
+| writer1       = 
+| lyrics1       = 
+| music1        = 
+| extra1        = Lawrence Brooks—Helena Bliss—Robert Shafer with ''Song of Norway '' orchestra
+| length1       = 
+}}
+{{Track listing
+| headline      = Side 3
+| extra_column  = Artist(s)
+| total_length  =
+
+| all_writing   = 
+| all_lyrics    = 
+| all_music     = 
+
+| title_width   = 
+| writing_width = 
+| music_width   = 
+| lyrics_width  =  
+| extra_width   = 
+
+| title1        = Freddy and His Fiddle
+| note1         = <small>Norwegian Dance No. 2, Op. 35</small>)<br />(Act 1—Scene 2
+| writer1       = 
+| lyrics1       = 
+| music1        = 
+| extra1        = Kent Edwards and Gwen Jones with ''Song of Norway'' chorus and orchestra
+| length1       = 
+}}
+{{Track listing
+| headline      = Side 4
+| extra_column  = Artist(s)
+| total_length  =
+
+| all_writing   = 
+| all_lyrics    = 
+| all_music     = 
+
+| title_width   = 
+| writing_width = 
+| music_width   = 
+| lyrics_width  =  
+| extra_width   = 
+
+| title1        = Now
+| note1         = <small>Waltz Op. 12 and Violin Sonata No. 2</small>)<br />(Act 1—Scene 2
+| writer1       = 
+| lyrics1       = 
+| music1        = 
+| extra1        = Kitty Carlisle with ''Song of Norway'' chorus and orchestra
+| length1       = 
+}}
+{{Track listing
+| headline      = Side 5
+| extra_column  = Artist(s)
+| total_length  =
+
+| all_writing   = 
+| all_lyrics    = 
+| all_music     = 
+
+| title_width   = 
+| writing_width = 
+| music_width   = 
+| lyrics_width  =  
+| extra_width   = 
+
+| title1        = Strange Music
+| note1         = <small>"Nocturne" and "Wedding Day in Troldhaugen"</small>)<br />(Act 1—Scene 2
+| writer1       = 
+| lyrics1       = 
+| music1        = 
+| extra1        = Lawrence Brooks and Helena Bliss with ''Song of Norway'' orchestra
+| length1       = 
+}}
+{{Track listing
+| headline      = Side 6
+| extra_column  = Artist(s)
+| total_length  =
+
+| all_writing   = 
+| all_lyrics    = 
+| all_music     = 
+
+| title_width   = 
+| writing_width = 
+| music_width   = 
+| lyrics_width  =  
+| extra_width   = 
+
+| title1        = (1)" "Midsummer's Eve"<br />(<small>"'Twas on a Lovely Eve in June" and "Scherzo in E Minor"</small>)<br />"(2)" "March of the Trollgers
+| note1         = <small>"Mountaneers' Song", "Halling in G Minor" and "March of the Dwarfs"</small>)<br />(Act 1—Scene 2
+| writer1       = 
+| lyrics1       = 
+| music1        = 
+| extra1        = Helena Bliss—Lawrence Brooks—Kitty Carlisle—Robert Shafer and ''Song of Norway'' chorus and orchestra
+| length1       = 
+}}
+{{Track listing
+| headline      = Side 7
+| extra_column  = Artist(s)
+| total_length  =
+
+| all_writing   = 
+| all_lyrics    = 
+| all_music     = 
+
+| title_width   = 
+| writing_width = 
+| music_width   = 
+| lyrics_width  =  
+| extra_width   = 
+
+| title1        = (1)" "Hymn of Bethrothal" (<small>"To Spring"</small>)<br />"(2)" "Finale of Act 1
+| note1         = 
+| writer1       = 
+| lyrics1       = 
+| music1        = 
+| extra1        = Ivy Scott—Helena Bliss—Lawrence Brooks—Kitty Carlisle—Robert Shafer with ''Song of Norway'' chorus and orchestra
+| length1       = 
+}}
+{{Track listing
+| headline      = Side 8
+| extra_column  = Artist(s)
+| total_length  =
+
+| all_writing   = 
+| all_lyrics    = 
+| all_music     = 
+
+| title_width   = 
+| writing_width = 
+| music_width   = 
+| lyrics_width  =  
+| extra_width   = 
+
+| title1        = Bon vivant
+| note1         = <small>"Water Lily"</small>)<br />(Act 2—Scene 1
+| writer1       = 
+| lyrics1       = 
+| music1        = 
+| extra1        = Sig Arno and Lawrence Brooks with ''Song of Norway'' chorus and orchestra
+| length1       = 
+}}
+{{Track listing
+| headline      = Side 9
+| extra_column  = Artist(s)
+| total_length  =
+
+| all_writing   = 
+| all_lyrics    = 
+| all_music     = 
+
+| title_width   = 
+| writing_width = 
+| music_width   = 
+| lyrics_width  =  
+| extra_width   = 
+
+| title1        = (1)" "Three Loves" (<small>"Albumbaitt" and "Poem Erotique"</small><br />"(2)" "Finaletto: Part 1
+| note1         = Act 2—Scene 1
+| writer1       = 
+| lyrics1       = 
+| music1        = 
+| extra1        = Kitty Carlisle—Lawrence Brooks with ''Song of Norway'' chorus and orchestra
+| length1       = 
+}}
+{{Track listing
+| headline      = Side 10
+| extra_column  = Artist(s)
+| total_length  =
+
+| all_writing   = 
+| all_lyrics    = 
+| all_music     = 
+
+| title_width   = 
+| writing_width = 
+| music_width   = 
+| lyrics_width  =  
+| extra_width   = 
+
+| title1        = '''Finaletto: Part 2'''"<br />"(1)" "Nordraak's Farewell" (<small>"Springtide"</small>)<br />"(2)" Reprise of "Three Loves
+| note1         = <small>"Albumbaitt" and "Poem Erotique"</small>)<br />(Act 2—Scene 1
+| writer1       = 
+| lyrics1       = 
+| music1        = 
+| extra1        = Robert Shafer—Helena Bliss—Lawrence Brooks—Kitty Carlisle with ''Song of Norway'' chorus and orchestra
+| length1       = 
+}}
+{{Track listing
+| headline      = Side 11
+| extra_column  = Artist(s)
+| total_length  =
+
+| all_writing   = 
+| all_lyrics    = 
+| all_music     = 
+
+| title_width   = 
+| writing_width = 
+| music_width   = 
+| lyrics_width  =  
+| extra_width   = 
+
+| title1        = (1)" "I Love You" (<small>"Ich liebe dich"</small>)<br />"(2)" "At Christmastime
+| note1         = <small>"Woodland Wanderings"</small>)<br />(Act 2—Scenes 3 and 4
+| writer1       = 
+| lyrics1       = 
+| music1        = 
+| extra1        = Helena Bliss—Walter Kingsford—Ivy Scott with ''Song of Norway'' chorus and orchestra
+| length1       = 
+}}
+{{Track listing
+| headline      = Side 12
+| extra_column  = Artist(s)
+| total_length  =
+
+| all_writing   = 
+| all_lyrics    = 
+| all_music     = 
+
+| title_width   = 
+| writing_width = 
+| music_width   = 
+| lyrics_width  =  
+| extra_width   = 
+
+| title1        = Song of Norway—Finale
+| note1         = Poem by Milton Lazarus
+| writer1       = 
+| lyrics1       = 
+| music1        = 
+| extra1        = Lawrence Brooks—Helena Bliss—Robert Shafer with ''Song of Norway'' chorus and orchestra
+| length1       = 
+}}
+
+== Charts ==
+== See also ==
+== References ==

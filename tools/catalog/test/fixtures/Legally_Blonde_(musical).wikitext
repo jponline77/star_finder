@@ -1,0 +1,328 @@
+{{Infobox Musical
+| name = Legally Blonde
+| image = LegallyBlondeTheMusical.jpg
+| caption = Original [[Broadway theatre|Broadway]] production
+| music = {{ubl|[[Nell Benjamin]]|[[Laurence O'Keefe (composer)|Laurence O'Keefe]]}}
+| lyrics = {{ubl|Nell Benjamin|Laurence O'Keefe}}
+| book = [[Heather Hach]]
+| basis = {{ubl|''[[Legally Blonde (novel)|Legally Blonde]]'' by [[Amanda Brown (novelist)|Amanda Brown]]|''[[Legally Blonde]]'' by [[Karen McCullah Lutz]] and [[Kirsten Smith (writer)|Kirsten Smith]]}}
+| premiere_date = January 23, 2007
+| premiere_location = [[Golden Gate Theatre]], [[San Francisco]]
+| productions = {{ubl|2007 [[Golden Gate Theatre|San Francisco]]|2007 [[Broadway theatre|Broadway]]|2010 [[West End theatre|West End]]|
+Various international/regional productions and tours|2027 [[West End theatre|West End]]}}
+| awards = {{ubl|[[Laurence Olivier Award for Best New Musical]]|[[Helpmann Award for Best Musical]]}}
+| image_size = 
+}}
+==Synopsis==
+===Act one===
+===Act two===
+==Musical numbers==
+{{col-begin}}
+† - Not featured on Original Broadway Cast Recording
+=== Act I ===
+* “Overture” †
+* "Omigod You Guys" – Elle, Serena, Margot, Pilar, Salesgirls, and Delta Nus
+* "Serious" – Warner and Elle
+* "Daughter of Delta Nu" – Serena, Margot, Pilar and Delta Nus †
+* "What You Want" – Elle, Serena, Margot, Pilar, Kate, Elle's Parents, Grandmaster Chad and Company
+* "The Harvard Variations" – Emmett, Aaron, Enid, Padamadan, Warner and Harvard Students
+* "Blood in the Water" – Callahan, Aaron, Enid, Elle, Vivienne and Harvard Students
+* "Positive" – Elle, Serena, Margot, Pilar and [[Greek Chorus]]
+* "Ireland" – Paulette
+* "Ireland" (Reprise) – Paulette
+* "Serious" (Reprise) – Elle and Warner
+* "Chip On My Shoulder" – Emmett, Elle, Greek Chorus
+* "Run Rufus Run/Elle Reflects"- Elle †
+* "So Much Better" – Elle, Greek Chorus and Company
+
+=== Act II ===
+* “Entr’acte” †
+* "Whipped into Shape" – Brooke, Callahan and Company
+* "Delta Nu Nu Nu" – Elle and Brooke †
+* "Take It Like a Man" – Elle, Emmett and Salespeople
+* "Bend and Snap" – Elle, Paulette, Serena, Margot, Pilar, Hairdressers, Kyle, and Company
+* "There! Right There!" – Elle, Callahan, Emmett, Brooke, Vivienne, Warner, Enid, Judge, Nikos, Carlos and Company
+* "Legally Blonde" – Elle and Emmett
+* "Legally Blonde Remix" – Vivienne, Elle, Paulette, Kyle, Enid, Elle's Parents, Margot, Serena, Pilar, Brooke and Company
+* "Scene of the Crime" – Elle, Judge, Serena, Margot, Pilar and Company †
+* "Omigod You Guys (Reprise)" – Elle, Brooke, Margot, Serena, Pilar, Judge, and Company †
+* "Find My Way/Finale" – Elle, Paulette, Emmett and Company
+{{col-end}}
+
+==Instrumentation==
+==Production history==
+===Broadway (2007–2008)===
+===North American tours===
+===West End (2010–2012)===
+===First UK tour (2011–2012)===
+===Curve Theatre Leicester (2016)===
+=== Second UK tour (2017–2018) ===
+=== Regent's Park Open Air Theatre (2022) ===
+===Third UK and Ireland tour (2026-present)===
+===International productions===
+==Principal roles==
+{| class="wikitable"
+! style="width:15%;" | Character
+! style="width:15%;" | [[Voice type]]
+! style="width:70%;"| Description
+|-
+! [[Elle Woods]]
+| [[Mezzo-Soprano]]
+G♭3 - G5
+| The president of the [[University of California, Los Angeles|UCLA]] Delta Nu sorority who finds herself at [[Harvard University]] studying to become a lawyer.
+|-
+! Emmett Forrest
+|[[Tenor]]
+A2 - A4
+| A hardworking teacher's assistant at Harvard who falls for Elle.
+|-
+! Warner Huntington III
+| [[Tenor]]
+A2 - A♭4
+| Elle's suave and opportunist ex-boyfriend.
+|-
+! Paulette
+| [[Mezzo-Soprano]]
+A3 - A5
+| A spunky hair stylist who becomes Elle's friend.
+|-
+! Vivienne Kensington
+| [[Mezzo-Soprano]]
+A3 - F5, optional G#5
+| A no-nonsense law student and Warner's new girlfriend.
+|-
+! Professor Callahan
+| [[Baritone]]
+A2 - G♭4
+| A cruel and intense law professor, and practicing attorney.
+|-
+! Brooke Wyndham
+| [[Mezzo-Soprano]]
+A3 - G5
+| An exercise queen on trial for the murder of her husband.
+|-
+! Margot
+| [[Soprano]]
+A♭3 - F5
+| One of Elle's sorority sisters who later serves as part of a "[[Greek chorus|Greek Chorus]]" in Elle's mind. She is dimwitted and bubbly.
+|-
+! Serena
+| [[Soprano]]
+A♭3 - F5
+| One of Elle's sorority sisters who later serves as part of a "[[Greek chorus|Greek Chorus]]" in Elle's mind. Captain of [[University of California, Los Angeles|UCLA]]'s cheer team.
+|-
+! Pilar
+| [[Soprano]]
+A♭3 - F5
+| One of Elle's sorority sisters who later serves as part of a "[[Greek chorus|Greek Chorus]]" in Elle's mind.
+|}
+
+==Casts==
+The principal original casts of the major productions of ''Legally Blonde''.
+{| class="wikitable"
+|+
+! rowspan="2" |Character
+!Broadway
+!First US Tour
+!West End
+!Second US Tour
+!First UK Tour
+!Second UK Tour
+!Third US Tour
+!London Revival
+!Fourth US Tour
+!Third UK Tour
+|-
+!<small>2007</small>
+!<small>2008</small>
+! colspan="2" |<small>2010</small>
+!<small>2011</small>
+!<small>2017</small>
+!<small>2019</small>
+! colspan="2" |<small>2022</small>
+!<small>2026</small>
+|-
+![[Elle Woods]]
+| align="center" |[[Laura Bell Bundy]]
+| align="center" |[[Becky Gulsvig]]
+| align="center" |[[Sheridan Smith]]
+| align="center" |[[Nikki Bohne]]
+| align="center" |[[Faye Brookes]]
+| align="center" |[[Lucie Jones]]
+| align="center" |Maris McCulley
+| align="center" |[[Courtney Bowman]]
+| align="center" |Hannah Bonnett
+| align="center" |[[Amber Davies]]
+|-
+!Emmett Forrest
+| align="center" |[[Christian Borle]]
+| align="center" |D.B. Bonds
+| align="center" |[[Alex Gaumond]]
+| align="center" |Nic Rouleau
+| align="center" |[[Iwan Lewis]]
+| align="center" |David Barrett
+| align="center" |Woody Minshew
+| align="center" |[[Michael Ahomka-Lindsay]]
+| align="center" |Aathaven Tharmarajah
+| align="center" |George Crawford
+|-
+!Paulette
+| align="center" |[[Orfeh]]
+| align="center" |[[Natalie Joy Johnson]]
+| align="center" |[[Jill Halfpenny]]
+| align="center" |Jillian Wallach
+| align="center" |[[Liz McClarnon]]
+| align="center" |[[Rita Simons]]
+| align="center" |Jill Taylor Anthony
+| align="center" |Nadine Higgin
+| align="center" |Ashley Morton
+| align="center" |Karen Mavundukure
+|-
+!Professor Callahan
+| align="center" |[[Michael Rupert]]
+| align="center" |Ken Land
+| align="center" |[[Peter Davison]]
+| align="center" |[[Kahlil Joseph]]
+| align="center" |[[Dave Willetts]]
+| align="center" |[[Bill Ward (actor)|Bill Ward]]
+| align="center" |Chris Carsten
+| align="center" |Eugene McCoy
+| align="center" |Chris Carsten
+| align="center" |Adam Cooper
+|-
+!Warner Huntington III
+| align="center" |[[Richard H. Blake]]
+| align="center" |Jeff Mclean
+| align="center" |[[Duncan James]]
+| align="center" |Matthew Ragas
+| align="center" |Neil Toon
+| align="center" |Liam Doyle
+| align="center" |James Oblak
+| align="center" |Alistair Toovey
+| align="center" |James Oblak
+| align="center" |Jamie Chatterton
+|-
+!Vivienne Kensington
+| align="center" |[[Katherine Shindle|Kate Shindle]]
+| align="center" |Megan Lewis
+| align="center" |[[Caroline Keiff]]
+| align="center" |Hannah Cruz
+| align="center" |Charlotte Harwood
+| align="center" |Laura Harrison
+| align="center" |Berlande Millus
+| align="center" |Vanessa Fisher
+| align="center" |Lea Sevola
+| align="center" |Annabelle Terry
+|-
+!Brooke Wyndham
+| align="center" |[[Nikki Snelson]]
+| align="center" |[[Coleen Sexton]]
+| align="center" |[[Aoife Mulholland]]
+| align="center" |Shannon Mullen
+| align="center" |Hannah Grover
+| align="center" |Helen Petrovna
+| align="center" |Megan Hoxie
+| align="center" |[[Lauren Drew]]
+| align="center" |Kaelee Albritton
+| align="center" |Jocasta Almgill
+|-
+!Enid
+| align="center" |[[Natalie Joy Johnson]]
+| align="center" |Gretchen Burghart
+| align="center" |Suzie McAdam
+| align="center" |Sarah Beth Pfeifer
+| align="center" |Gemma Baird
+| align="center" |Nancy Hill
+| align="center" |Nora Elkind
+| align="center" |Alžbeta Matyšáková
+| align="center" |Harley Barton
+| align="center" |Keanna Bloomfield
+|-
+!Kyle
+| align="center" |[[Andy Karl]]
+| align="center" |Ven Daniel
+| align="center" |Chris Ellis-Stanton
+| align="center" |Michael Milton
+| align="center" |Lewis Griffiths
+| align="center" |Ben Harlow
+| align="center" |Dorian Quinn
+| align="center" |Dominic Lamb
+| align="center" |Matthew Dean Hollis
+| align="center" |Ty-Reece Stewart
+|-
+!Serena
+| align="center" |[[Leslie Kritzer]]
+| align="center" |Cortney Wolfson
+| align="center" |[[Susan McFadden]]
+| align="center" |Nadia Vynnytsky
+| align="center" |Sinead Long
+| align="center" |Rachel Grundy
+| align="center" |Chelsea Lorraine Wargo
+| align="center" |Hannah Yun Chamberlain
+| align="center" |Taylor Lloyd
+| align="center" |Rosanna Harris
+|-
+!Margot
+| align="center" |[[Annaleigh Ashford]]
+| align="center" |Rhiannon Hansen
+| align="center" |[[Amy Lennox]]
+| align="center" |Maggie Taylor
+| align="center" |[[Sophie Isaacs]]
+| align="center" |Rebecca Stenhouse
+| align="center" |Andee Buccheri
+| align="center" |[[Iz Hesketh]]
+| align="center" |Jesse Lynn Harte
+| align="center" |[[Hannah Lowther]]
+|-
+!Pilar
+| align="center" |[[DeQuina Moore]]
+| align="center" |Crystal Joy
+| align="center" |[[Ibinabo Jack]]
+| align="center" |Brit West
+| align="center" |Micha Richardson
+| align="center" |Delycia Belgrave
+| align="center" |Kayla Jenerson
+| align="center" |[[Grace Mouat]]
+| align="center" |Rory Furey-King
+| align="center" |Remi Ferdinand
+|}
+* The cast for the TV airing, filmed in mid-September 2007, consisted of the entire original [[Broadway theatre|Broadway]] cast, except for Tracy Jai Edwards taking over for [[Leslie Kritzer]] as Serena and [[Asmeret Ghebremichael]] replacing DeQuina Moore as Pilar. Moore departed from the production in July 2007, and Kritzer left in August that same year.
+
+=== Notable Broadway replacements ===
+*Elle Woods: [[Bailey Hanks]]
+*Margot: [[Kate Rockwell (actress)|Kate Rockwell]]
+*Pilar: [[Asmeret Ghebremichael]]
+
+==Critical response==
+==Recordings==
+==Awards and nominations==
+===Original Broadway production===
+{|
+|-
+| links || [[Actors' Equity Association]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Musical|Outstanding Musical]] [[Drama Desk Award for Outstanding Book of a Musical|Outstanding Book of a Musical]] [[Heather Hach]] [[Drama Desk Award for Outstanding Actress in a Musical|Outstanding Actress in a Musical]] [[Laura Bell Bundy]] [[Drama Desk Award for Outstanding Featured Actor in a Musical|Outstanding Featured Actor in a Musical]] [[Christian Borle]] [[Drama Desk Award for Outstanding Featured Actress in a Musical|Outstanding Featured Actress in a Musical]] [[Orfeh]] [[Drama Desk Award for Outstanding Choreography|Outstanding Choreography]] [[Jerry Mitchell]] [[Drama Desk Award for Outstanding Director of a Musical|Outstanding Director of a Musical]] [[Drama Desk Award for Outstanding Lyrics|Outstanding Lyrics]] [[Laurence O'Keefe (composer)|Laurence O'Keefe]] [[Nell Benjamin]] [[Drama Desk Award for Outstanding Music|Outstanding Music]] [[Drama Desk Award for Outstanding Set Design|Outstanding Set Design of a Musical]] [[David Rockwell]] [[Drama League Award]] [[Outer Critics Circle Award]] [[Tony Award]] [[Tony Award for Best Book of a Musical|Best Book of a Musical]] [[Tony Award for Best Original Score|Best Original Score]] [[Tony Award for Best Actress in a Musical|Best Actress in a Musical]] [[Tony Award for Best Featured Actor in a Musical|Best Featured Actor in a Musical]] [[Tony Award for Best Featured Actress in a Musical|Best Featured Actress in a Musical]] [[Tony Award for Best Choreography|Best Choreography]] [[Tony Award for Best Costume Design in a Musical|Best Costume Design in a Musical]] [[Gregg Barnes]]
+|}
+===North American tour===
+{|
+|-
+| links || [[Helen Hayes Award]] [[Helen Hayes Awards Non-Resident Acting|Outstanding Performance in a Non-Resident Production]] [[Becky Gulsvig]] [[Touring Broadway Awards]] [[Jerry Mitchell]]
+|}
+===Original West End production===
+{|
+|-
+| links || [[Evening Standard Theatre Awards]] [[Sheridan Smith]] [[Laurence Olivier Award]] [[Laurence Olivier Award for Best New Musical|Best New Musical]] [[Laurence Olivier Award for Best Actor in a Musical|Best Actor in a Musical]] [[Alex Gaumond]] [[Laurence Olivier Award for Best Actress in a Musical|Best Actress in a Musical]] [[Laurence Olivier Award for Best Performance in a Supporting Role in a Musical|Best Performance in a Supporting Role in a Musical]] [[Jill Halfpenny]] [[Laurence Olivier Award for Best Theatre Choreographer|Best Theatre Choreographer]] [[Jerry Mitchell]]
+|}
+==Notes==
+==References==
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+cast included [[Laura Bell Bundy]].
+starring [[Hannah Bonnett]].
+cast included [[Sheridan Smith]].
+cast included [[Faye Brookes|Faye Brooks]].
+played by [[Matthew Kelly]].
+cast included [[The X Factor (British TV series)|X-Factor]].
+cast included [[Lucie Jones]].
+starring [[Courtney Bowman]].
+starring [[Amber Davies]].
+cast included [[Ania Bukstein]].

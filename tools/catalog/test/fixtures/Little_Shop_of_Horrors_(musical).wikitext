@@ -1,0 +1,213 @@
+{{Infobox musical
+|name=Little Shop of Horrors
+|image=LittleShopAlbum.jpg
+|alt = A thick, dark green border around an intricate drawing of the plant monster Audrey with a woman lying limp below it.
+|caption=Original Cast Album
+|music=[[Alan Menken]]
+|lyrics=[[Howard Ashman]]
+|book=Howard Ashman
+|basis={{based on|[[The Little Shop of Horrors]]|[[Charles B. Griffith]]}}
+|productions={{ubl|1982 [[Off-Broadway]]|1983 [[West End theatre|West End]]|2003 [[Broadway theatre|Broadway]]|2004 US tour|2007 West End revival|2009 UK tour|2016 UK tour|2019 Off-Broadway revival}}
+
+|awards={{ubl|[[Drama Desk Award for Outstanding Musical]]|[[Drama Desk Award for Outstanding Lyrics]]}}
+}}
+==Synopsis==
+===Act I===
+===Act II===
+==Early productions==
+===1982 Off-Broadway===
+===1983 West End===
+===1984 Australia and 1985 Canada===
+==Musical numbers==
+{{col-begin}}
+{{col-2}}
+; Act I
+* Prologue ("Little Shop of Horrors")&nbsp;– Chiffon, Crystal and Ronnette
+* "Skid Row (Downtown)"&nbsp;– Company
+* "Da-Doo"&nbsp;– Chiffon, Crystal and Ronnette (with Seymour speaking)
+* "Grow for Me"&nbsp;– Seymour
+* "Ya Never Know"&nbsp;– Mushnik, Chiffon, Crystal, Ronnette and Seymour
+* "Somewhere That's Green"&nbsp;– Audrey
+* "Closed for Renovation"&nbsp;– Seymour, Audrey and Mushnik
+* "Dentist!"&nbsp;– Orin, Chiffon, Crystal and Ronnette
+* "Mushnik and Son"&nbsp;– Mushnik and Seymour
+* "Sudden Changes"&nbsp;– Seymour
+* "Feed Me (Git It)"&nbsp;– Audrey II, Seymour, Chiffon, Crystal, Ronnette
+* "Now (It's Just the Gas)"&nbsp;– Orin and Seymour
+* "Coda (Act I Finale)"&nbsp;– Chiffon, Crystal, Ronnette and Audrey II
+{{col-break}}
+
+;Act II
+* "Call Back in the Morning"&nbsp;– Seymour and Audrey
+* "Suddenly, Seymour"&nbsp;– Seymour, Audrey, Chiffon, Crystal and Ronnette
+* "Suppertime"&nbsp;– Audrey II (with Seymour and Mushnik speaking)
+* "The Meek Shall Inherit"&nbsp;– Seymour, Chiffon, Crystal, Ronnette and three opportunists
+* "Sominex/Suppertime II"&nbsp;– Audrey and Audrey II
+* "Somewhere That's Green" (reprise)&nbsp;– Audrey (with Seymour speaking)
+* "Finale Ultimo (Don't Feed the Plants)"&nbsp;– Company
+{{col-end}}
+
+==Casts==
+
+{| class="wikitable"
+|+Casts for long-running productions of ''Little Shop of Horrors''
+|-
+! rowspan="2" scope="col" |Character
+! scope="col"|[[Off-Broadway]]
+! scope="col"|[[West End theatre|West End]]
+! scope="col"|[[Broadway theatre|Broadway]]
+! scope="col"|West End revival
+! scope="col" |Off-Broadway revival
+|-
+!<small>1982</small>
+!<small>1983</small>
+!<small>2003</small>
+!<small>2007</small>
+!<small>2019</small>
+|-
+!scope="row"| Seymour Krelborn
+| style="text-align:center;" | [[Lee Wilkof]]
+| style="text-align:center;" | [[Barry James]]
+| style="text-align:center;" | [[Hunter Foster]]
+| style="text-align:center;" | [[Paul Keating (actor)|Paul Keating]]
+| style="text-align:center;" | [[Jonathan Groff]]
+|-
+!scope="row"| Audrey
+| colspan="2" style="text-align:center;" | [[Ellen Greene]]
+| style="text-align:center;" | [[Kerry Butler]]
+| style="text-align:center;" | [[Sheridan Smith]]
+| style="text-align:center;" | [[Tammy Blanchard]]
+|-
+!scope="row"| Mr. Mushnik
+| style="text-align:center;" | [[Hy Anzell]]
+| style="text-align:center;" | [[Harry Towb]]
+| style="text-align:center;" | [[Rob Bartlett]]
+| style="text-align:center;" | [[Barry James]]
+| style="text-align:center;" | [[Tom Alan Robbins]]
+|-
+!scope="row"| Orin Scrivello & Others
+| style="text-align:center;" | [[Franc Luz]]
+| style="text-align:center;" | Terence Hillyer
+| style="text-align:center;" | [[Douglas Sills]]
+| style="text-align:center;" | [[Alistair McGowan]]
+| style="text-align:center;" | [[Christian Borle]]
+|-
+!scope="row"| Crystal
+| style="text-align:center;" | [[Jennifer Leigh Warren]]
+| style="text-align:center;" | [[Dawn Hope]]
+| style="text-align:center;" | Trisha Jeffrey
+| style="text-align:center;" | Melitsa Nicola
+| style="text-align:center;" | Salome Smith
+|-
+!scope="row"| Ronnette
+| style="text-align:center;" | Sheila Kay Davis
+| style="text-align:center;" | Shezwae Powell
+| style="text-align:center;" | Carla J. Hargrove
+| style="text-align:center;" | Jenny Fitzpatrick
+| style="text-align:center;" | Ari Groover
+|-
+!scope="row"| Chiffon
+| style="text-align:center;" | Marlene Danielle
+| style="text-align:center;" | Nicola Blackman
+| style="text-align:center;" | [[DeQuina Moore]]
+| style="text-align:center;" | Katie Kerr
+| style="text-align:center;" | [[Joy Woods]]
+|-
+!scope="row"| Audrey II (voice)
+| style="text-align:center;" | [[Ron Taylor (actor)|Ron Taylor]]
+| style="text-align:center;" | Michael James Leslie
+| style="text-align:center;" | [[Michael-Leon Wooley]]
+| style="text-align:center;" | [[Mike McShane]]
+| style="text-align:center;" | Kingsley Leggs
+|-
+!scope="row"| Audrey II (puppeteer)
+| style="text-align:center;" | [[Martin P. Robinson]]
+| style="text-align:center;" | [[Anthony Asbury]]
+| style="text-align:center;" | Martin P. Robinson<br>Anthony Asbury<br>Bill Remington<br>[[Matt Vogel (puppeteer)|Matt Vogel]]
+| style="text-align:center;" | Andy Heath
+| style="text-align:center;" |Eric Wright <br>Teddy Yudain
+|}
+
+=== Notable replacements ===
+'''Off-Broadway (1982–87)'''
+* '''Seymour:''' [[Stuart Zagnit]]
+* '''Audrey:''' [[Annie Golden]], [[Faith Prince]]
+* '''Chiffon:''' [[Leilani Jones]]
+* '''Mushnik:''' [[Fyvush Finkel]]
+
+'''West End (1984–85)'''
+* '''Audrey:''' [[Claire Moore (singer)|Claire Moore]], [[Sarah Payne (actress)|Sarah Payne]]
+* '''Orin & Others:''' [[David Burt (actor)|David Burt]], [[Bogdan Kominowski]]
+* '''Chiffon:''' [[Zeeteah Massiah]]
+
+'''Broadway (2003–04)'''
+* '''Seymour:''' [[Joey Fatone]]
+* '''Orin & Others:''' [[Rob Evan]], [[Darren Ritchie (actor)|Darren Ritchie]]
+
+'''Off-Broadway (2019– )'''
+* '''Seymour:''' [[Gideon Glick]], [[Jeremy Jordan (actor, born 1984)|Jeremy Jordan]], [[Conrad Ricamora]], [[Skylar Astin]], [[Rob McClure]], [[Matt Doyle (actor)|Matt Doyle]], [[Corbin Bleu]], [[Darren Criss]], [[Andrew Barth Feldman]], [[Nicholas Christopher (actor)|Nicholas Christopher]], [[Milo Manheim]], [[Graham Phillips (actor)|Graham Phillips]], [[Thomas Doherty (actor)|Thomas Doherty]], [[Joshua Bassett]], [[Jordan Fisher]], [[Ethan Slater]]
+* '''Audrey:''' [[Lena Hall]], [[Maude Apatow]], [[Joy Woods]], [[Constance Wu]], [[Evan Rachel Wood]], [[Jinkx Monsoon]], [[Sarah Hyland]], [[Sherie Rene Scott]], [[Elizabeth Gillies]], [[Madeline Brewer]], [[Nikki M. James]], [[Betsy Wolfe]]
+* '''Orin & Others:''' [[Bryce Pinkham]], [[Drew Gehling]], [[James Carpinello]], [[Jeremy Kushnier]], [[Andrew Durand]], [[Andy Karl]], [[Claybourne Elder]]
+* '''Mushnik:''' [[Stuart Zagnit]], [[Brad Oscar]], [[Stephen DeRosa]], [[Reg Rogers]]
+
+==Differences between the 1960 film and stage musical==
+==Subsequent productions==
+===2003 Florida tryout, Broadway revival and 2004 tour===
+===UK revivals===
+===2015 Encores!===
+===2016 Australian tour===
+=== US regional productions ===
+=== 2019 Off-Broadway revival ===
+==Audrey II puppets==
+==Adaptations==
+===1986 feature film===
+==Awards and nominations==
+===Original Off-Broadway production===
+{|
+|-
+| links || [[Drama Desk Awards]] [[Drama Desk Award for Outstanding Musical|Outstanding Musical]] [[Drama Desk Award for Outstanding Actress in a Musical|Outstanding Actress a Musical]] [[Ellen Greene]] [[Drama Desk Award for Outstanding Featured Actor in a Musical|Outstanding Featured Actor a Musical]] [[Franc Luz]] [[Drama Desk Award for Outstanding Director of a Musical|Outstanding Director of a Musical]] [[Howard Ashman]] [[Drama Desk Award for Outstanding Music|Outstanding Music]] [[Alan Menken]] [[Drama Desk Award for Outstanding Lyrics|Outstanding Lyrics]] [[Outer Critics Circle Awards]] [[Outer Critics Circle Award for Outstanding New Off-Broadway Musical|Best New Off-Broadway Musical]] [[Outer Critics Circle Award for Outstanding New Score|Outstanding New Score]] [[New York Drama Critics' Circle Award]] [[26th Annual Grammy Awards|Grammy Awards]] [[Grammy Award for Best Musical Theater Album|Best Musical Theater Album]]
+|}
+===Original West End production===
+{|
+|-
+| links || [[1983 Laurence Olivier Awards|Laurence Olivier Awards]] [[Laurence Olivier Award for Best New Musical|Musical of the Year]] [[Laurence Olivier Award for Best Actress in a Musical|Actress of the Year in a Musical]]
+|}
+===2003 Broadway revival===
+{|
+|-
+| links || [[58th Tony Awards|Tony Awards]] [[Tony Award for Best Actor in a Musical|Best Performance by a Leading Actor in a Musical]] [[Drama Desk Awards]] [[Drama Desk Award for Outstanding Actor in a Musical|Outstanding Actor in a Musical]] [[Outer Critics Circle Awards]] [[Outer Critics Circle Award for Outstanding Revival of a Musical|Outstanding Revival of a Musical]] [[Outer Critics Circle Award for Outstanding Actor in a Musical|Outstanding Actor in a Musical]] [[Outer Critics Circle Award for Outstanding Actress in a Musical|Outstanding Actress in a Musical]]
+|}
+===2007 West End revival===
+{|
+|-
+| links || [[2008 Laurence Olivier Awards|Laurence Olivier Awards]] [[Laurence Olivier Award for Best Musical Revival|Best Musical Revival]] [[Laurence Olivier Award for Best Actress in a Musical|Actress of the Year in a Musical]] [[Sheridan Smith]] [[Laurence Olivier Award for Best Performance in a Supporting Role in a Musical|Best Performance in a Supporting Role in a Musical]] [[Alistair McGowan]]
+|}
+===2018 Regent's Park Open Air Theatre production===
+{|
+|-
+| links || [[2019 Laurence Olivier Awards|Laurence Olivier Awards]] [[Laurence Olivier Award for Best Actor in a Musical|Actor of the Year in a Musical]] [[Marc Antolin]]
+|}
+===2019 Off-Broadway revival===
+{|
+|-
+| links || [[Lucille Lortel Awards]] [[Jonathan Groff]] [[Christian Borle]] [[Drama Desk Awards]] [[Drama Desk Award for Outstanding Revival of a Musical|Outstanding Revival of a Musical]] [[Drama Desk Award for Outstanding Actress in a Musical|Outstanding Actress in a Musical]] [[Tammy Blanchard]] [[Drama Desk Award for Outstanding Featured Actor in a Musical|Outstanding Featured Actor in a Musical]] [[Drama Desk Award for Outstanding Scenic Design of a Musical|Outstanding Scenic Design of a Musical]] [[Drama League Awards]] [[Drama League Distinguished Performance Award|Distinguished Performance]] [[Outer Critics Circle Awards]] [[Outer Critics Circle Award for Outstanding Revival of a Musical|Outstanding Revival of a Musical]] [[Outer Critics Circle Award for Outstanding Director of a Musical|Outstanding Director of a Musical]] [[Michael Mayer (director)|Michael Mayer]] [[Outer Critics Circle Award for Outstanding Actor in a Musical|Outstanding Actor in a Musical]] [[Outer Critics Circle Award for Outstanding Featured Actor in a Musical|Outstanding Featured Actor in a Musical]] [[63rd Annual Grammy Awards|Grammy Awards]] [[Grammy Award for Best Musical Theater Album|Best Musical Theater Album]]
+|}
+==Notes==
+==References==
+==Further reading==
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+starring [[Barry James]].
+starred [[Sheila McCarthy]].
+played by [[Bill Murray]].
+cast included [[Joey Fatone]].
+cast featured [[Paul Keating (actor)|Paul Keating]], [[Sheridan Smith]], [[Alistair McGowan]], [[Mike McShane]].
+starred [[Marc Antolin]].
+starred [[Jake Gyllenhaal]].
+starred [[Josh Radnor]].
+cast included [[George Salazar]].
+cast included [[George Salazar]], [[Michaela Jaé Rodriguez]], [[Amber Riley]], [[Kevin Chamberlin]], [[Matthew Wilkas]].
+starred [[Jonathan Groff]].
+played by [[Lena Hall]].
+starred [[Rick Moranis]].

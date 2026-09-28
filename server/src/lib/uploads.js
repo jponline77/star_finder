@@ -7,6 +7,7 @@
 //   audio/   practice tracks uploaded by users            (songs.audio_path)
 //   images/  show posters uploaded by users               (shows.image_path)
 //   art/     album art downloaded from Apple for a song   (songs.artwork_path)
+//            and album art the song's owner uploaded        (songs.custom_artwork_path)
 //   shows/   show posters downloaded from Wikipedia/Apple (shows.image_path)
 //   .incoming/  temp files of uploads in progress (not served; swept when stale)
 import crypto from 'node:crypto';
@@ -141,7 +142,7 @@ export async function deleteUploadedFile(uploadsDir, publicPath) {
 /** true if any song or show still points at `publicPath`. */
 export function isFileReferenced(db, publicPath) {
   return Boolean(db.prepare(`
-    SELECT 1 FROM songs WHERE audio_path = @p OR artwork_path = @p
+    SELECT 1 FROM songs WHERE audio_path = @p OR artwork_path = @p OR custom_artwork_path = @p
     UNION ALL SELECT 1 FROM shows WHERE image_path = @p LIMIT 1`).get({ p: publicPath }));
 }
 
@@ -156,6 +157,7 @@ export function referencedUploads(db) {
   const rows = db.prepare(`
     SELECT audio_path AS p FROM songs WHERE audio_path LIKE '/uploads/%'
     UNION SELECT artwork_path FROM songs WHERE artwork_path LIKE '/uploads/%'
+    UNION SELECT custom_artwork_path FROM songs WHERE custom_artwork_path LIKE '/uploads/%'
     UNION SELECT image_path FROM shows WHERE image_path LIKE '/uploads/%'`).all();
   return new Set(rows.map((r) => r.p));
 }
@@ -165,6 +167,7 @@ export function userUploadBytes(db, uploadsDir, userId) {
   const rows = db.prepare(`
     SELECT audio_path AS p FROM songs WHERE created_by = @u AND audio_path LIKE '/uploads/%'
     UNION SELECT artwork_path FROM songs WHERE created_by = @u AND artwork_path LIKE '/uploads/%'
+    UNION SELECT custom_artwork_path FROM songs WHERE created_by = @u AND custom_artwork_path LIKE '/uploads/%'
     UNION SELECT image_path FROM shows WHERE created_by = @u AND image_path LIKE '/uploads/%'`).all({ u: userId });
   let total = 0;
   for (const { p } of rows) {

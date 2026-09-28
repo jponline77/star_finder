@@ -1,0 +1,153 @@
+{{Infobox Musical
+| name = Beetlejuice
+| image = BeetlejuiceMusicalPlaybill.jpg
+| image_size = 
+| caption = [[Playbill]] from the show's original 2019–2020 Broadway run
+| subtitle = The Musical. The Musical. The Musical.
+| music = [[Eddie Perfect]]
+| lyrics = Eddie Perfect
+| book = {{Plainlist|
+* [[Scott Brown (writer)|Scott Brown]]
+* [[Anthony King (writer)|Anthony King]]
+}}
+| basis = {{based on|''[[Beetlejuice]]''|[[Michael McDowell (author)|Michael McDowell]]|[[Larry Wilson (screenwriter)|Larry Wilson]]}}
+| premiere_date = October 14, 2018
+| premiere_location = [[National Theatre (Washington, D.C.)|National Theatre]], [[Washington, D.C.]]
+| productions = 2018 [[Washington, D.C.]]<br> 2019 [[Broadway theatre|Broadway]]<br> 2022 US tour<br> 2026 US tour<br> 2026 West End
+}}
+== Background ==
+== Synopsis ==
+=== Act I ===
+=== Act II ===
+== Roles and principal casts ==
+
+{| class="wikitable" style="text-align:center;"
+|+
+! rowspan="2" |Character
+!Washington D.C
+!Broadway
+!US Tour
+!West End
+
+|-
+!<small>2018</small>
+!<small>2019</small>
+!<small>2022</small>
+!<small>2026</small>
+|-
+! Beetlejuice 
+| colspan="2" | [[Alex Brightman]]  
+|Justin Collette
+|[[David Fynn]]
+|-
+! Lydia Deetz
+| colspan="2" | [[Sophia Anne Caruso]]{{efn|Caruso was replaced by [[Elizabeth Teeter]] when the show reopened in 2022.}}
+|[[Isabella Esler]]
+|Hannah Nordberg
+|-
+! Adam Maitland
+| colspan="2" | [[Rob McClure]]
+|Will Burton
+|[[David Hunter (actor)|David Hunter]]
+|-
+! Barbara Maitland
+| colspan="2" | [[Kerry Butler]]
+|[[Britney Coleman]]{{efn|Coleman was replaced by [[Megan McGinnis]].}}
+|[[Chelsea Halfpenny]]
+|-
+! Delia Schlimmer 
+| colspan="2" |[[Leslie Kritzer]]
+|Kate Marilley{{efn|Marilley was replaced by [[Sarah Litzsinger]].}}
+|[[Aimie Atkinson]]
+|-
+! Miss Argentina{{efn|The character of Miss Argentina was made a principal role after tryouts in D.C. This role and Delia were both performed by Kritzer in the first Broadway version, but since the 2022 version, the roles are separate.}} 
+| style="background:#ddd;" | N/A
+| [[Leslie Kritzer]]
+|Danielle Marie Gonzalez
+|Vanessa Aurora Sierra
+|-
+! Charles Deetz
+| colspan="2" | Adam Dannheisser
+|Jesse Sharp
+|Alasdair Harvey
+|-
+! Maxie Dean
+| colspan="2" | [[Danny Rutigliano]]
+|Brian Vaughn
+|Irvine Iqbal
+|-
+! Maxine Dean / Juno{{efn|The role of Mrs. [[Shoggoth]] was renamed Juno during tryouts in D.C.}}
+| colspan="2" | Jill Abramovitz
+|[[Karmine Alers]]
+|Chasity Crisp
+|-
+! Otho
+| colspan="2" | Kelvin Moon Loh
+|Abe Goldfarb
+|Richard Frame
+|-
+! Skye the Girl Scout
+| colspan="2" | Dana Steingold
+|Jackera Davis
+|Rachel MacDougall
+|}
+'''Notes'''
+{{notelist}}
+
+== Musical numbers ==
+{{col-begin}}
+{{col-2}}
+'''Act I'''
+* "Prologue: Invisible" – Lydia and Ensemble
+* "The Whole 'Being Dead' Thing" – Beetlejuice and Ensemble
+* "Ready, Set, Not Yet" – Adam and Barbara
+* "The Whole 'Being Dead' Thing, Pt. 2" – Beetlejuice and Ensemble
+* "The Whole 'Being Dead' Thing, Pt. 3" – Beetlejuice†
+* "Dead Mom" – Lydia
+* "Fright of Their Lives" – Beetlejuice, Adam, Barbara and Ensemble
+* "Ready, Set, Not Yet" (reprise) – Barbara and Adam
+* "No Reason" – Delia and Lydia
+* "Invisible" (reprise)/"On the Roof" – Beetlejuice
+* "Say My Name" – Beetlejuice, Lydia, Barbara and Adam
+* "[[Day-O (The Banana Boat Song)]]" – Delia, Charles, Maxie, Maxine and Ensemble‡
+{{col-break}}
+{{col-2}}
+'''Act II'''
+* "Girl Scout" – Skye
+* "That Beautiful Sound" – Beetlejuice, Lydia and Ensemble
+* "That Beautiful Sound" (reprise) – Beetlejuice and Ensemble†
+* "Barbara 2.0" – Barbara and Adam
+* "The Whole 'Being Dead' Thing, Pt. 4" – Beetlejuice†
+* "Good Old Fashioned Wedding" – Beetlejuice†
+* "What I Know Now" – Miss Argentina and Ensemble
+* "Home" – Lydia
+* "Creepy Old Guy" – Lydia, Adam, Barbara, Beetlejuice, Charles, Delia and Ensemble
+* "[[Jump in the Line (Shake, Senora)]]" / "Dead Mom" (reprise) / "Home" (reprise) / "Day-O" (reprise) – Lydia, Barbara, Adam, Delia and Charles‡
+{{col-end}}
+
+'''Keys'''
+{{plainlist|
+*† Not included on the Cast Recording.
+*‡ Featured in the original 1988 film.
+}}
+
+== Productions ==
+=== Washington, D.C. (2018) ===
+=== Broadway (2019–2023, 2025–2026) ===
+=== U.S. national tours ===
+=== International ===
+===West End (2026)===
+== Critical response ==
+=== Recordings ===
+==Awards and nominations==
+=== Broadway production ===
+{|
+|-
+| links || [[73rd Tony Awards|Tony Awards]] [[Tony Award for Best Musical|Best Musical]] [[Tony Award for Best Book of a Musical|Best Book of a Musical]] [[Scott Brown (writer)|Scott Brown]] [[Anthony King (writer)|Anthony King]] [[Tony Award for Best Original Score|Best Original Score]] [[Eddie Perfect]] [[Tony Award for Best Actor in a Musical|Best Performance by an Actor in a Leading Role in a Musical]] [[Alex Brightman]] [[Tony Award for Best Scenic Design in a Musical|Best Scenic Design in a Musical]] [[David Korins]] [[Tony Award for Best Costume Design in a Musical|Best Costume Design in a Musical]] [[William Ivey Long]] [[Tony Award for Best Lighting Design in a Musical|Best Lighting Design in a Musical]] [[Kenneth Posner]] [[Peter Nigrini]] [[Tony Award for Best Sound Design|Best Sound Design of a Musical]] [[Peter Hylenski]] [[Outer Critics Circle Award]] [[Leslie Kritzer]] [[Drama League Award]] [[Alex Timbers]] [[Drama League Distinguished Performance Award|Distinguished Performance Award]] [[Drama Desk Awards]] [[Drama Desk Award for Outstanding Featured Actress in a Musical|Outstanding Featured Actress in a Musical]] [[Drama Desk Award for Outstanding Book of a Musical|Outstanding Book of a Musical]] [[Drama Desk Award for Outstanding Scenic Design of a Musical|Outstanding Scenic Design of a Musical]] [[Drama Desk Award for Outstanding Costume Design of a Musical|Outstanding Costume Design of a Musical]] [[Drama Desk Award for Outstanding Projection Design|Outstanding Projection Design]] [[Drama Desk Award for Outstanding Wig and Hair Design|Outstanding Wig and Hair Design]] [[Drama Desk Award for Outstanding Puppet Design|Outstanding Puppet Design]] [[Michael Curry (puppet designer)|Michael Curry]] [[Theatre World Awards]] [[Sophia Anne Caruso]]
+|}
+== In popular culture ==
+== References ==
+== External links ==
+
+== Actors mentioned in prose (fixture) ==
+starring [[Geena Davis]].

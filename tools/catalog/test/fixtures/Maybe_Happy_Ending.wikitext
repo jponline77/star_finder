@@ -1,0 +1,143 @@
+{{Infobox musical
+| name = Maybe Happy Ending
+| image = Maybe_Happy_Ending_2021_Promotional_Poster.jpeg
+| caption = Korean theatre poster (2021 revival)
+| music = [[Will Aronson]]
+| lyrics = [[Hue Park]] <br> Will Aronson
+| book = Hue Park <br> Will Aronson
+| productions = {{plainlist|
+* 2016 [[Seoul]]
+* 2020 Atlanta
+* 2024 [[Broadway theatre|Broadway]]}}
+| awards = {{plainlist|
+*[[Korea Musical Awards (2017)#Best Musical Award Small Theater|Korea Musical Award]] – Best Musical: Small Theater (2018)
+*[[Tony Award for Best Musical]]
+*[[Tony Award for Best Original Score]]
+*[[Tony Award for Best Book of a Musical]]
+}}
+| module = {{Infobox Korean name/auto
+|child=yes
+|hangul=^어쩌면 해피_엔딩
+}}
+| image_size = 
+}}
+== Inception and development ==
+== Setting==
+== Plot ==
+=== Differences between Korean and English versions ===
+== Casts ==
+
+{| class="wikitable" style="width:50;"
+! rowspan="2" width="20%" |Character
+! Seoul
+!Broadway
+|-
+!<small>2016</small>
+!<small>2024</small>
+|-
+! rowspan="3" align="center" |Oliver
+| colspan="1" align="center" | Jung Uk-jin
+| rowspan="3" colspan="1" align="center" |[[Darren Criss]]
+|-
+| colspan="1" align="center" |[[Jung Moon-sung]]
+|-
+| colspan="1" align="center" |Kim Jae-bum
+|-
+! rowspan="2" align="center" |Claire
+| colspan="1" align="center"|[[Jeon Mi-do]]
+| rowspan="2" colspan="1" align="center" |[[Helen J. Shen]]
+|-
+| colspan="1" align="center" | [[Choi Soo-jin]]
+|-
+! rowspan="2" align="center" |James/Junseo/others
+| colspan="1" align="center" |[[Forte di Quattro|Go Hoon-jung]]
+| rowspan="2" colspan="1" align="center" |Marcus Choi
+|-
+| colspan="1" align="center" |Seong Jong-wan
+|-
+! Gil Brentley{{efn|Gil Brentley is an expanded version of the jazz singer character that is part of the James/Multi-man role in the Korean version.}}
+| {{n/a}}
+| colspan="1" align="center" |Dez Duron
+|-
+! Suhan{{efn|name=prerecorded|A character only seen through prerecorded projections.}}
+| {{n/a}}
+| colspan="1" align="center" |[[Young Mazino]]
+|-
+! Jiyeon{{efn|name=prerecorded}}
+| {{n/a}}
+| colspan="1" align="center" |[[Arden Cho]]
+|-
+! HwaBoon{{efn|Hwaboon is a generic plant in the Korean production and an [[Aeonium]] Black Rose tree in the Broadway production. The Broadway production includes a bio for him in the show's website and the ''Playbill'' "Who's Who" section.}}
+| colspan="1" align="center" |N/A
+| colspan="1" align="center" |Himself
+|}
+{{Notelist}}
+
+=== Notable replacements ===
+
+==== Korea (after 2016) ====
+*Oliver: [[Jeon Sung-woo]], [[Jung Moon-sung]]
+*Claire: [[Park Ji-yeon]], [[Hong Ji-hee]], [[Park Jin-joo]], [[Bang Min-ah]]
+
+==== Broadway (2024–) ====
+*Oliver: [[Andrew Barth Feldman]]
+
+== Productions ==
+=== Korea ===
+=== United States ===
+==== Pre-Broadway ====
+==== Broadway (2024) ====
+==== US national tour (2026) ====
+=== Other international productions ===
+== Musical numbers ==
+{{col-begin}}
+{{col-2}}
+* "Why Love?" (Korean title: {{Korean|hangul=우린 왜 사랑했을까|labels=no|lit=Why Did We Love?}}) – Gil Brentley
+* "World Within My Room" ({{Korean|hangul=나의 방안에|labels=no|lit=In My Room}}) – Oliver
+* "The Way That It Has to Be" ({{Korean|hangul=끝까지 끝은 아니야|labels=no|lit=It's Not the End Until the End}}) – Claire & Company
+* "Charger Exchange Ballet" – Orchestra
+* "Where You Belong" ({{Korean|hangul=고맙다, 올리버|labels=no|lit=Thank You, Oliver}}) – Oliver & James
+* "Tell Me About Fireflies, Please – Instrumental" ({{Korean|hangul=반딧불, 그리고 제주도|labels=no|lit=Fireflies, and Jeju Island}})
+* "Hitting the Road, Part 1" ({{Korean|hangul=행운을 빌어줘, Part 1|labels=no|lit=Good Luck, Part 1}}) – Oliver & Claire
+* "Goodbye, My Room" ‡ – Oliver & Claire
+* "Hitting The Road, Part 2" ({{Korean|hangul=행운을 빌어줘, Part 2|labels=no|lit=Good Luck, Part 2}}) – Oliver & Claire
+* "The Rainy Day We Met" (Korean title: "My Favorite Love Story") – Oliver & Claire
+* "Jenny" † – Gil Brentley{{efn-num|In place of "Old Love Songs" ({{Korean|hangul=낡고 익숙한 사랑 노래|labels=no|lit=An Old and Familiar Love Song}}), a different song performed by the jazz singer character in the Korean version.}}
+* "How To Be Not Alone" ({{Korean|hangul=생각보다, 생각만큼|labels=no|lit=More Than I Thought, as Much as I Thought}}) – Claire
+* "Hitting The Road, Part 3" † – Oliver & Claire{{efn-num|In place of a song called "Driving" where Oliver and Claire describe their drive to Jeju Island through the [[Jeju Undersea Tunnel]], a planned underwater tunnel that, as of the time of the writing of the show, had recently been proposed to be built.}}
+* "What I Learned from People" ({{Korean|hangul=사람들로 부터 배운 것|labels=no}}) – Claire
+* "Goodbye Love" Piano Solo ({{Korean|hangul=우린 왜 사랑했을까 Piano Solo|labels=no|lit="Why Did We Love?" Piano Solo}}) – James
+* "Chasing Fireflies" ({{Korean|hangul=반딧불 쫓기|labels=no}}) – Orchestra
+* "Never Fly Away" ({{Korean|hangul=반딧불에게|labels=no|lit=To the Fireflies}}) – Oliver, Claire
+* "A Sentimental Person" † – Gil Brentley{{efn-num|In place of a wordless vocal duet called "Home Again".}}
+* "When You're In Love" ({{Korean|hangul=사랑이란|labels=no|lit=What Love Is}}) – Oliver & Claire
+* "Touch Sequence" ({{Korean|hangul=첫 입맞춤|labels=no|lit=First Kiss}}) – Orchestra
+* "Then I Can Let You Go" † – Oliver, Claire & Gil Brentley{{efn-num|In place of two songs depicting Oliver and Claire's relationship: "First Time in Love", depicting the start of their romance, and "Nevertheless" ({{Korean|hangul=그럼에도 불구하고|labels=no}}), where the two try to push through the pain of watching Claire literally fall apart.}}
+* "Goodbye, My Room" (reprise) ({{Korean|hangul=나의 방 안엔 & Goodbye, My Room (reprise).|labels=no}}) – Oliver & Claire
+* "Maybe Happy Ending" † – Oliver & Claire{{efn-num|In place of "You Can Remember That" ({{Korean|hangul=그것만은 기억해도 돼|labels=no}}); Claire gives Oliver permission to keep the memory of where to place his potted plant so it gets better sunlight.}}
+* "Memory Sequence" ({{Korean|hangul=기억을 지우기|labels=no|lit=Erase Memory}}) – Orchestra
+* "Why Love?" (reprise) ({{Korean|hangul=우린 왜 사랑했을까 Why Did We Love? (reprise)|labels=no}}) – Gil Brentley
+* "Finale" ({{Korean|hangul=사랑이란, 어쩌면|labels=no|lit=What Love Is, Maybe}}) – Company
+
+† Added for the English version.<br>
+‡ Song title is the same in Korean and English versions
+{{col-end}}
+
+;Notes
+{{notelist-num}}
+
+==Film adaptation==
+== Awards and nominations ==
+{|
+|-
+| links || [[Will Aronson]] [[Jeon Mi-do]] [[Kim Dong-yeon (director)|Kim Dong-yeon]] [[Hue Park]] [[Drama Desk Award for Outstanding Musical|Outstanding Musical]] [[Drama Desk Award for Outstanding Lead Performance in a Musical|Outstanding Lead Performance in a Musical]] [[Darren Criss]] [[Helen J. Shen]] [[Drama Desk Award for Outstanding Director of a Musical|Outstanding Director of a Musical]] [[Michael Arden]] [[Drama Desk Award for Outstanding Music|Outstanding Music]] [[Drama Desk Award for Outstanding Lyrics|Outstanding Lyrics]] [[Drama Desk Award for Outstanding Book of a Musical|Outstanding Book of a Musical]] [[Drama Desk Award for Outstanding Orchestrations|Outstanding Orchestrations]] [[Drama Desk Award for Outstanding Scenic Design of a Musical|Outstanding Scenic Design of a Musical]] [[Dane Laffrey]] [[Outer Critics Circle Award for Outstanding New Broadway Musical|Outstanding New Broadway Musical]] [[Outer Critics Circle Award for Outstanding Lead Performer in a Broadway Musical|Outstanding Lead Performer in a Broadway Musical]] [[Outer Critics Circle Award for Outstanding Book of a Musical|Outstanding Book of a Musical]] [[Outer Critics Circle Award for Outstanding New Score|Outstanding New Score]] [[Outer Critics Circle Award for Outstanding Orchestrations|Outstanding Orchestrations]] [[Outer Critics Circle Award for Outstanding Direction of a Musical|Outstanding Direction of a Musical]] [[Outer Critics Circle Award for Outstanding Scenic Design|Outstanding Scenic Design]] [[Outer Critics Circle Award for Outstanding Lighting Design|Outstanding Lighting Design]] [[Outer Critics Circle Award for Outstanding Sound Design|Outstanding Sound Design]] [[Peter Hylenski]] [[Tony Award for Best Musical|Best Musical]] [[Tony Award for Best Actor in a Musical|Best Leading Actor in a Musical]] [[Tony Award for Best Direction of a Musical|Best Direction of a Musical]] [[Tony Award for Best Book of a Musical|Best Book of a Musical]] [[Tony Award for Best Original Score|Best Original Score]] [[Tony Award for Best Orchestrations|Best Orchestrations]] [[Tony Award for Best Costume Design of a Musical|Best Costume Design of a Musical]] [[Tony Award for Best Lighting Design of a Musical|Best Lighting Design of a Musical]] [[Tony Award for Best Scenic Design of a Musical|Best Scenic Design of a Musical]] [[Tony Award for Best Sound Design of a Musical|Best Sound Design of a Musical]]
+|}
+=== Notes ===
+== References ==
+== External links ==
+
+== Actors mentioned in prose (fixture) ==
+cast included Kenny Tran as Oliver, [[Cathy Ang]].
+played by [[Seven (South Korean singer)|Choi Dong-wook]].
+starring [[Kenji Urai]].
+played by [[Lars Huang]].

@@ -1,0 +1,246 @@
+{{Infobox Musical
+| name = Evita
+| image = Evita 1978 Prince Edward Theatre.jpg
+| caption = Programme from the original West End Production at the [[Prince Edward Theatre]]
+| music = [[Andrew Lloyd Webber]]
+| lyrics = [[Tim Rice]]
+| book = Tim Rice
+| basis = The life of [[Eva Perón]]
+| premiere_date = 21 June 1978
+| premiere_location = [[Prince Edward Theatre]], London
+| productions = {{plainlist|
+* 1978 [[West End theatre|West End]]
+* 1979 [[Broadway theatre|Broadway]]
+* 2006 West End revival
+* 2012 Broadway revival
+* 2014 West End revival
+* 2017 West End revival
+* 2025 West End revival
+}}
+
+| awards = {{plainlist|
+* [[Olivier Award for Best New Musical|Laurence Olivier Award for Best New Musical]]
+* [[Tony Award for Best Musical]]
+* [[Tony Award for Best Book of a Musical]]
+* [[Tony Award for Best Original Score]]
+}}
+| image_size =
+}}
+==Synopsis==
+==Character roles==
+==Notable casts==
+{| class="wikitable" width="100%"
+! rowspan=2|Role
+! Concept album
+! West End
+! Broadway
+! West End revival
+! Broadway revival
+! West End revival
+! West End revival
+! West End revival
+|-
+!<small>1976</small>
+!<small>1978</small>
+!<small>1979</small>
+!<small>2006</small>
+!<small>2012</small>
+!<small>2014</small>
+!<small>2017</small>
+!<small>2025</small>
+|-
+! scope="row"| [[Eva Perón]]
+| align="center" | [[Julie Covington]]
+| align="center" | [[Elaine Paige]]
+| align="center" colspan="1" | [[Patti LuPone]]
+| align="center" colspan="2" | [[Elena Roger]]
+| align="center" | [[Madalena Alberto]]
+| align="center" | [[Emma Hatton]]
+| align="center" | [[Rachel Zegler]]
+|-
+! scope="row"| [[Che Guevara|Che]]
+| align="center" | [[Colm Wilkinson]]
+| align="center" | [[David Essex]]
+| align="center" | [[Mandy Patinkin]]
+| align="center" | [[Matt Rawle]]
+| align="center" | [[Ricky Martin]]
+| align="center" | [[Marti Pellow]]
+| align="center" | Gian Marco Schiaretti
+| align="center" | [[Diego Andres Rodriguez]]
+|-
+! scope="row"| [[Juan Perón]]
+| align="center" | [[Paul Jones (singer)|Paul Jones]]
+| align="center" | [[Joss Ackland]]
+| align="center" | [[Bob Gunton]]
+| align="center" | [[Philip Quast]]
+| align="center" | [[Michael Cerveris]]
+| align="center" | Matthew Cammelle
+| align="center" | Kevin Stephen-Jones
+| align="center" | James Olivas
+|-
+! scope="row"| [[Agustin Magaldi|Agustín Magaldi]]
+| align="center" | [[Tony Christie]]
+| align="center" | [[Mark Ryan (actor)|Mark Ryan]]
+| align="center" | [[Mark Hsu Syers|Mark Syers]] 
+| align="center" | Gary Milner
+| align="center" | [[Max von Essen]]
+| align="center" | [[Ben Forster (actor)|Ben Forster]]
+| align="center" | Oscar Balmaseda
+| align="center" | Aaron Lee Lambert 
+|-
+! scope="row"| Perón's Mistress
+| align="center" | [[Barbara Dickson]]
+| align="center" | [[Siobhán McCarthy]]
+| align="center" | Jane Ohringer
+| align="center" | [[Lorna Want]]
+| align="center" | [[Rachel Potter]]
+| align="center" | Sarah McNicholas
+| align="center" | Sarah O'Connor
+| align="center" | Bella Brown
+|}
+
+=== Notable replacements ===
+==== West End (1978–99) ====
+*'''Eva Perón:''' [[Marti Webb]], [[Stephanie Lawrence]], [[Siobhán McCarthy]], [[Kathryn Evans]]
+*'''Che:''' [[Gary Bond]], [[Mark Ryan (actor)|Mark Ryan]], [[Martin Smith (entertainer)|Martin Smith]]
+*'''Juan Perón:''' [[John Turner (actor)|John Turner]], [[Oz Clarke]], [[Daniel Benzali]]
+*'''Agustín Magaldi''': [[David Burt (actor)|David Burt]]
+*'''Mistress:''' [[Kelly Hunter]]
+
+==== Broadway (1979–83) ====
+*'''Eva Perón:''' [[Loni Ackerman]], [[Nancy Opel]], [[Pamela Blake]]
+*'''Che:''' [[Anthony Crivello]]
+*'''Juan Perón:''' [[David Cryer]]
+
+==== Broadway (2012–13) ====
+*'''Che:''' [[Max von Essen]]
+
+==Musical numbers==
+{{col-begin}}
+{{col-2}}
+
+===Act 1===
+
+* "A Cinema in Buenos Aires, 26 July 1952" – Crowd
+* "Requiem for Evita" – Chorus
+* "[[Oh What a Circus]]" – Che and Crowd
+* "On This Night of a Thousand Stars" – Magaldi
+* "Eva and Magaldi" / "Eva, Beware of the City" – Eva, Magaldi, Che and Evita's Family
+* "Buenos Aires" – Eva, Che and Crowd
+* "Goodnight and Thank You" – Che, Eva, Magaldi and Lovers
+* "The Lady's Got Potential" – Che
+* "The Art of the Possible" – Perón, Generals and Eva
+* "Charity Concert" – Perón, Che, Magaldi and Eva
+* "I'd Be Surprisingly Good for You" – Eva and Perón
+* "Hello and Goodbye" – Eva
+* "[[Another Suitcase in Another Hall]]" – Perón's Mistress and Men's Chorus
+* "Peron's Latest Flame" – Che, Aristocrats, Soldiers and Eva
+* "A New Argentina" – Eva, Che, Perón and Crowd
+{{col-break}}
+
+===Act 2===
+
+* Entr'acte
+* "On the Balcony of the Casa Rosada" – Perón, Che and Crowd
+* "[[Don't Cry for Me Argentina]]" – Eva
+* "High Flying, Adored" – Che and Eva
+* "Rainbow High" – Eva and Dressers
+* "Rainbow Tour" – Perón, Advisers and Che
+* "The Actress Hasn't Learned the Lines (You'd Like to Hear)" – Eva, Aristocrats and Che
+* "And the Money Kept Rolling In (And Out)" – Che and Crowd
+* "Santa Evita" – Children and Chorus
+* "Waltz for Eva and Che" – Eva and Che
+* "[[You Must Love Me]]" – Eva
+* "Peron's Latest Flame Playoff" – Soldiers
+* "She Is a Diamond" – Perón
+* "Dice Are Rolling" / "Eva's Sonnet" – Perón and Eva
+* "Eva's Final Broadcast" – Eva and Che
+* "Montage" – Eva, Che, Perón, Magaldi and Chorus
+* "Lament" – Eva, Embalmers and Che
+{{col-end}}
+
+'''Notes'''
+
+*"A Cinema in Buenos Aires, 26 July 1952" was replaced by "Junin, 26 July 1952" for the Japanese productions, London and Broadway revivals.
+*"The Lady's Got Potential" is usually cut from most of the productions and replaced with "The Art of the Possible," but a modified version has appeared in a number of stagings.  It was revived by [[Alan Parker]] for [[Evita (1996 film)|the film]], with modified lyrics by [[Tim Rice]] to remove the insecticide sub-plot.
+*"You Must Love Me", written for the 1996 film, was added to the 2006 London production and several other post-film productions; its placement varies from right after "Waltz for Eva and Che" to right before "Eva's Final Broadcast."
+*"Peron's Latest Flame Playoff" is often subsumed into the following song, "She is a Diamond".
+
+See ''[[Evita (1976 album)|Evita]]'' for the song list from the 1976 concept album.
+
+==History==
+==Musical analysis==
+==Historical accuracy==
+==Resident productions==
+===Original West End production===
+===Original Broadway production===
+=== Original Australian production ===
+===Spain (1980); Mexico (1981); Brazil (1983)===
+===2006 West End revival===
+===Stratford Shakespeare Festival (2010); Brazil (2011)===
+===2012 Broadway revival===
+===2013 Italy and 2017 Israel===
+===2025 West End revival===
+===2027 Broadway revival===
+===Further productions===
+==Touring productions==
+===Early 1980s US national tours===
+===1987 UK and Irish tour===
+===1988 European tour===
+===1989 world tour===
+===1992-1994 US tour===
+===1995–1996 UK tour===
+===1998 US 20th anniversary tour===
+===2004 US tour===
+===2008 UK tour===
+===2013 US tour===
+===2013–2014 UK tour===
+===2017 UK tour===
+===2017/2018 international tour===
+===2018 Australian tour===
+==Film adaptation==
+==Awards and nominations==
+===Original West End production===
+{|
+|-
+| links || [[1978 Laurence Olivier Awards|Laurence Olivier Awards]] [[Laurence Olivier Award for Best New Musical|Best New Musical]] [[Laurence Olivier Award for Best Performance in a Musical|Best Performance in a Musical]] [[Elaine Paige]] [[David Essex]] [[Laurence Olivier Award for Best Director|Director of the Year]] [[Harold Prince]]
+|}
+===Original Broadway production===
+{|
+|-
+| links || [[34th Tony Awards|Tony Award]] [[Tony Award for Best Musical|Best Musical]] [[Tony Award for Best Original Score|Best Original Score]] [[Tony Award for Best Book of a Musical|Best Book of a Musical]] [[Tony Award for Best Performance by a Leading Actress in a Musical|Best Actress in a Musical]] [[Tony Award for Best Performance by a Featured Actor in a Musical|Best Featured Actor in a Musical]] [[Tony Award for Best Direction of a Musical|Best Direction of a Musical]] [[Tony Award for Best Lighting Design|Best Lighting Design]] [[Tony Award for Best Scenic Design|Best Scenic Design]] [[Tony Award for Best Costume Design|Best Costume Design]] [[Tony Award for Best Choreography|Best Choreography]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Musical|Outstanding Musical]] [[Drama Desk Award for Outstanding Lyrics|Outstanding Lyrics]] [[Tim Rice]] [[Drama Desk Award for Outstanding Music|Outstanding Music]] [[Andrew Lloyd Webber]] [[Drama Desk Award for Outstanding Actor in a Musical|Outstanding Actor in a Musical]] [[Mandy Patinkin]] [[Drama Desk Award for Outstanding Actress in a Musical|Outstanding Actress in a Musical]] [[Patti LuPone]] [[Drama Desk Award for Outstanding Featured Actor in a Musical|Outstanding Featured Actor in a Musical]] [[Bob Gunton]] [[Drama Desk Award for Outstanding Director of a Musical|Outstanding Director of a Musical]] [[Harold Prince]] [[Drama Desk Award for Outstanding Choreography|Outstanding Choreography]] [[Larry Fuller (choreographer)|Larry Fuller]] [[Drama Desk Award for Outstanding Costume Design|Outstanding Costume Design]] [[Timothy O'Brien (theatre designer)|Timothy O'Brien]] [[Drama Desk Award for Outstanding Lighting Design|Outstanding Lighting Design]] [[David Hersey]] [[Outer Critics Circle Award]] [[New York Drama Critics' Circle|New York Drama Critics' Circle Award]]
+|}
+===2006 West End revival===
+{|
+|-
+| links || [[2007 Laurence Olivier Awards|Laurence Olivier Award]] [[Laurence Olivier Award for Best Musical Revival|Best Musical Revival]] [[Laurence Olivier Award for Best Actor in a Musical|Best Actor in a Musical]] [[Philip Quast]] [[Laurence Olivier Award for Best Actress in a Musical|Best Actress in a Musical]] [[Elena Roger]] [[Laurence Olivier Award for Best Theatre Choreographer|Best Theatre Choreographer]] [[Rob Ashford]]
+|}
+===2012 Broadway revival===
+{|
+|-
+| links || [[66th Tony Awards|Tony Award]] [[Tony Award for Best Revival of a Musical|Best Revival of a Musical]] [[Tony Award for Best Performance by a Featured Actor in a Musical|Best Performance by a Featured Actor in a Musical]] [[Michael Cerveris]] [[Tony Award for Best Choreography|Best Choreography]] [[Rob Ashford]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Revival of a Musical|Outstanding Revival of a Musical]] [[Drama Desk Award for Outstanding Actor in a Musical|Outstanding Actor in a Musical]] [[Ricky Martin]] [[Drama Desk Award for Outstanding Featured Actor in a Musical|Outstanding Featured Actor in a Musical]] [[Drama Desk Award for Outstanding Choreography|Outstanding Choreography]] [[Drama Desk Award for Outstanding Lighting Design|Outstanding Lighting Design]] [[Neil Austin (lighting designer)|Neil Austin]]
+|}
+===2019 Regent's Park Open Air Theatre production===
+{|
+|-
+| links || [[Critics' Circle Theatre Award|Critics’ Circle Theatre Award]] [[Critics' Circle Theatre Award#Best Director|Best Director]] [[Jamie Lloyd (director)|Jamie Lloyd]] [[Evening Standard Theatre Awards|Evening Standard Theatre Award]] [[Evening Standard Theatre Awards#Best Musical|Best Musical]] [[2020 Laurence Olivier Awards|Laurence Olivier Award]] [[Laurence Olivier Award for Best Musical Revival|Best Musical Revival]] [[Laurence Olivier Award for Best Theatre Choreographer|Best Theatre Choreographer]]
+|}
+===2025 West End revival===
+{|
+|-
+| links || [[Critics' Circle Theatre Awards]] [[Critics' Circle Theatre Award|Best Revival Of A Play Or Musical]] [[Critics' Circle Theatre Award#Best_Director|Best Director]] [[Jamie Lloyd (director)|Jamie Lloyd]] [[Critics' Circle Theatre Award#Best_Actress|Best Actress]] [[Rachel Zegler]] [[Critics' Circle Theatre Award#Best_Designer|Best Designer]] [[Soutra Gilmour]] [[Critics' Circle Theatre Award#Most_Promising_Newcomer|Best Newcomer]] [[Diego Andres Rodriguez]] [[2026 Laurence Olivier Awards|Laurence Olivier Awards]] [[Laurence Olivier Award for Best Musical Revival|Best Musical Revival]] [[Laurence Olivier Award for Best Actor in a Musical|Best Actor in a Musical]] [[Laurence Olivier Award for Best Actress in a Musical|Best Actress in a Musical]] [[Laurence Olivier Award for Best Theatre Choreographer|Best Theatre Choreographer]] [[Laurence Olivier Award for Best Lighting Design|Best Lighting Design]] [[Standard Theatre Awards]] [[Standard Theatre Award for Best Musical Performance|Best Musical Performance]]
+|}
+==Cultural impact==
+==Recordings==
+===English cast albums===
+==Notes==
+==References==
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+starring [[Cláudya|Cláudia]].
+played by [[Chilina Kennedy]].
+starred [[Samantha Pauly]].
+starring [[Auli'i Cravalho]].
+starred [[Natalie Toro (actress)|Natalie Toro]].
+starred [[Marti Pellow]].

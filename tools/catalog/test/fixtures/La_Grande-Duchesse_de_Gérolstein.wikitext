@@ -1,0 +1,252 @@
+==Background==
+==Performance history==
+===19th century===
+===20th century and beyond===
+==Roles==
+
+{| class="wikitable"
+!Role
+!Voice type
+!Premiere Cast, 12 April 1867,<br>(Conductor: Jacques Offenbach)
+|-
+|Grand Duchess
+|[[mezzo-soprano]]
+|[[Hortense Schneider]]
+|-
+|Fritz
+|[[tenor]]
+|[[José Dupuis]]
+|-
+|Wanda
+|soprano
+|Émilie Garait
+|-
+|General Boum
+|[[baritone]]
+|Henri Couderc
+|-
+|Prince Paul
+|tenor
+|[[Pierre-Eugène Grenier]]
+|-
+|Baron Puck
+|[[bass (vocal range)|bass]]
+|[[Jean-Laurent Kopp]]
+|-
+|Baron Grog
+|bass
+|[[Louis Baron]]
+|-
+|Népomuc, an aide-de-camp
+
+|tenor
+|Emmanuel Ronger, 'Gardel-Hervé'
+|-
+|Iza, a maid of honor
+|soprano
+|Berthe Legrand
+|-
+|Amélie, a maid of honor
+|[[mezzo-soprano]]
+|Véron
+|-
+|Olga, a maid of honor
+|soprano
+|Morosini
+|-
+|Charlotte, a maid of honor
+|mezzo-soprano
+|Marcourt
+|-
+|colspan="3"|'' Officers, Soldiers, Musiciens, Drummers, Peasants, Cantinières, Maids of Honour, Courtiers, Pages, Bailiffs ''
+|-
+|}
+
+==Synopsis==
+===Act 1===
+===Act 2===
+===Act 3===
+==Musical numbers==
+{{Clear}}
+=== Act 1 ===
+{| class="wikitable" style="text-align:center; font-size:95%; margin:1em auto;"
+!Number
+!Name
+!Character(s)
+|-
+| bgcolor="#ffffdd" style="font-size: 88%;"|0
+| bgcolor="#ffffdd" |Overture
+| align="left" bgcolor="#ffffdd" |Orchestra
+|-
+| bgcolor="#ffffdd" style="font-size: 88%;"|1 a)
+| bgcolor="#ffffdd" |''En attendant que l'heure sonne''
+| align="left" bgcolor="#ffffdd" |Chorus (soldiers, peasant girls)
+|-
+| bgcolor="#ffffdd" style="font-size: 88%;"|1 b)
+| bgcolor="#ffffdd" |Song and Waltz
+| align="left" bgcolor="#ffffdd" |Fritz and chorus (soldiers, peasant girls)
+|-
+| bgcolor="#ffffdd" style="font-size: 88%;"|1 c)
+| bgcolor="#ffffdd" |''Piff, paff, pouff''
+| align="left" bgcolor="#ffffdd" |General Boum and men's chorus (soldiers)
+|-
+| bgcolor="#ffffdd" style="font-size: 88%;"|2
+| bgcolor="#ffffdd" |''Me voici, me voici!''
+| align="left" bgcolor="#ffffdd" |Fritz and Wanda
+|-
+| bgcolor="#ffffdd" style="font-size: 88%;"|3 a)
+| bgcolor="#ffffdd" |''Portez armes''
+| align="left" bgcolor="#ffffdd" |Chorus
+|-
+| bgcolor="#ffffdd" style="font-size: 88%;"|3 b)
+| bgcolor="#ffffdd" |Rondo
+| align="left" bgcolor="#ffffdd" | Grand Duchess and chorus (soldiers)
+|-
+| bgcolor="#ffffdd" style="font-size: 88%;"|4
+| bgcolor="#ffffdd" |Regimental Song
+| align="left" bgcolor="#ffffdd" |Fritz, Grand Duchess and chorus
+|-
+| bgcolor="#ffffdd" style="font-size: 88%;"|5
+| bgcolor="#ffffdd" |Newspaper Report
+| align="left" bgcolor="#ffffdd" |Prince Paul and Grand-Duchess
+|-
+| bgcolor="#ffffdd" style="font-size: 88%;"|6 a)
+| bgcolor="#ffffdd" |''Ils vont tous partir''
+| align="left" bgcolor="#ffffdd" |Grand Duchess, Fritz, Wanda, Prince Paul, General Boum, Baron Puck and chorus
+|-
+| bgcolor="#ffffdd" style="font-size: 88%;"|6 b)
+| bgcolor="#ffffdd" |Couplets of the saber: ''Voici le sabre de mon père''
+| align="left" bgcolor="#ffffdd" |Grand Duchess and chorus
+|-
+| bgcolor="#ffffdd" style="font-size: 88%;"|6 c)
+| bgcolor="#ffffdd" |Finale
+| align="left" bgcolor="#ffffdd" |Grande Duchess, Fritz, Wanda, Prince Paul, General Boum, Baron Puck and chorus
+|-
+|}
+
+===Act 2===
+{| class="wikitable" style="text-align:center; font-size:95%; margin:1em auto;"
+!Number
+!Name
+!Character(s)
+|-
+| bgcolor="#ffffdd" style="font-size: 88%;"|7
+| bgcolor="#ffffdd" |Entracte
+| align="left" bgcolor="#ffffdd" |Orchestra
+|-
+| bgcolor="#ffffdd" style="font-size: 88%;"|8 a)
+| bgcolor="#ffffdd" |''Enfin la guerre est terminée''
+| align="left" bgcolor="#ffffdd" |Chorus (maids of honor)
+|-
+| bgcolor="#ffffdd" style="font-size: 88%;"|8 b)
+| bgcolor="#ffffdd" |Couplets of the letters: ''Je t'ai sur mon coeur''
+| align="left" bgcolor="#ffffdd" |Chorus (maids of honor), Iza, Olga, Amélie, Charlotte (maids of honor) and Népomuc
+|-
+| bgcolor="#ffffdd" style="font-size: 88%;"|9 a)
+| bgcolor="#ffffdd" |''Après la victoire''
+| align="left" bgcolor="#ffffdd" |Grand Duchess, Fritz and chorus (courtiers)
+|-
+| bgcolor="#ffffdd" style="font-size: 88%;"|9 b)
+| bgcolor="#ffffdd" |Rondo: ''En très bon ordre nous partîmes''
+| align="left" bgcolor="#ffffdd" |Fritz
+|-
+| bgcolor="#ffffdd" style="font-size: 88%;"|10
+| bgcolor="#ffffdd" |Declaration: ''Oui, général/Dites-lui qu'on l'a remarqué''
+| align="left" bgcolor="#ffffdd" |Grand Duchess and Fritz
+|-
+| bgcolor="#ffffdd" style="font-size: 88%;"|10 (reprise)
+| bgcolor="#ffffdd" |[[Melodrama#19th century: operetta, incidental music, and salon entertainment|Melodrama]]
+| align="left" bgcolor="#ffffdd" | Orchestra
+|-
+| bgcolor="#ffffdd" style="font-size: 88%;"|11
+| bgcolor="#ffffdd" |Trio of the plot
+| align="left" bgcolor="#ffffdd" |Prince Paul, General Boum, Baron Puck
+|-
+| bgcolor="#ffffdd" style="font-size: 88%;"|12
+| bgcolor="#ffffdd" |Melodrama
+| align="left" bgcolor="#ffffdd" |Orchestra
+|-
+|}
+
+===Act 3===
+{| class="wikitable" style="text-align:center; font-size:95%; margin:1em auto;"
+!Number
+!Name
+!Character(s)
+|-
+| bgcolor="#ffffdd" style="font-size: 88%;"|13
+| bgcolor="#ffffdd" |Entracte
+| align="left" bgcolor="#ffffdd" |Orchestra
+|-
+| bgcolor="#ffffdd" style="font-size: 88%;"|14
+| bgcolor="#ffffdd" |''O, grandes leçons du passé''
+| align="left" bgcolor="#ffffdd" |Grand Duchess and General Boum
+|-
+| bgcolor="#ffffdd" style="font-size: 88%;"|15 a)
+| bgcolor="#ffffdd" |Conspiracy scene
+| align="left" bgcolor="#ffffdd" |Men's chorus, Prince Paul, General Boum, Népomuc and Baron Puck
+|-
+| bgcolor="#ffffdd" style="font-size: 88%;"|15 b)
+| bgcolor="#ffffdd" |Song of the knife-sharpeners
+| align="left" bgcolor="#ffffdd" |Men's chorus, Baron Grog, Prince Paul, General Boum, Népomuc and Baron Puck
+|-
+| bgcolor="#ffffdd" style="font-size: 88%;"|9 (reprise)
+| bgcolor="#ffffdd" |Melodrama
+| align="left" bgcolor="#ffffdd" |Orchestra
+|-
+| bgcolor="#ffffdd" style="font-size: 88%;"|16
+| bgcolor="#ffffdd" |Nuptial song
+| align="left" bgcolor="#ffffdd" |Chorus
+|-
+| bgcolor="#ffffdd" style="font-size: 88%;"|17
+| bgcolor="#ffffdd" |''Bonne nuit''
+| align="left" bgcolor="#ffffdd" |Wanda, Fritz, Baron Puck, Prince Paul, Népomuc, General Boum, Baron Grog, chorus
+|-
+| bgcolor="#ffffdd" style="font-size: 88%;"|18 a)
+| bgcolor="#ffffdd" |Couplets of the newlyweds
+| align="left" bgcolor="#ffffdd" |Wanda and Fritz
+|-
+| bgcolor="#ffffdd" style="font-size: 88%;"|18 b)
+| bgcolor="#ffffdd" |''Ouvrez, ouvrez!''
+| align="left" bgcolor="#ffffdd" |Wanda, Fritz, Baron Puck, Prince Paul, General Boum, Baron Grog, chorus
+|-
+| bgcolor="#ffffdd" style="font-size: 88%;"|18 c)
+| bgcolor="#ffffdd" |''A cheval!''
+| align="left" bgcolor="#ffffdd" |Wanda, Fritz, Baron Puck, Prince Paul, Népomuc, General Boum, Baron Grog, chorus
+|-
+| bgcolor="#ffffdd" style="font-size: 88%;"|19
+| bgcolor="#ffffdd" |Entracte
+| align="left" bgcolor="#ffffdd" |Orchestra
+|-
+| bgcolor="#ffffdd" style="font-size: 88%;"|20 a)
+| bgcolor="#ffffdd" |Wedding chorus
+| align="left" bgcolor="#ffffdd" |Grand Duchess, Baron Puck, Prince Paul, Népomuc, General Boum, Baron Grog and chorus
+|-
+| bgcolor="#ffffdd" style="font-size: 88%;"|20 b)
+| bgcolor="#ffffdd" |Toasting couplets
+| align="left" bgcolor="#ffffdd" |Grand Duchess and chorus
+|-
+| bgcolor="#ffffdd" style="font-size: 88%;"|21
+| bgcolor="#ffffdd" |The General's Lament
+| align="left" bgcolor="#ffffdd" |Wanda, Fritz, General Boum, Baron Puck, Prince Paul, Baron Grog, Népomuc, Grand Duchess and chorus
+|-
+| bgcolor="#ffffdd" style="font-size: 88%;"|22
+| bgcolor="#ffffdd" |Finale
+| align="left" bgcolor="#ffffdd" |Wanda, Fritz, Baron Puck, Prince Paul, General Boum, Baron Grog, Grand Duchess and chorus
+|}
+
+==Recordings==
+==References==
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+starring [[Marie Geistinger]].
+starring [[Julia Matthews]].
+starred [[Mrs Howard Paul]].
+starring [[Alice May]].
+starring [[Florence St. John]].
+starring [[Patricia Routledge]].
+starring [[Régine Crespin]].
+starred [[Felicity Lott]].
+starring [[Stephanie Blythe]].
+starring [[Frederica von Stade]].

@@ -1,0 +1,100 @@
+{{Infobox Musical
+| name = Starmania
+| image = Starmania poster.jpg
+| caption = Promotional poster
+| music = [[Michel Berger]]
+| lyrics = [[Luc Plamondon]]
+| book = Luc Plamondon
+| basis = 
+| premiere_date = {{start date and age|df=yes|1979|4|10}}
+| premiere_location = [[Palais des congrès de Paris|Palais des Congrès]], [[Paris]], France
+| productions = 1979 Paris <br />  1980 [[Montreal]] <br /> 1986 [[Joliette, Quebec|Joliette]] <br /> 1988 Paris <br /> 1991 [[Essen]] <br /> 1993 Paris <br /> 1996 [[El Paso, Texas|El Paso]] <br /> 2022 Paris
+}}
+== Development ==
+==Productions==
+==Plot==
+==Musical numbers==
+Highlights from the original 1979 production, listed in order of performance, include:
+* "Quand on arrive en ville" ("When We Come to Town") – performed by Johnny Rockfort and Sadia
+* "Travesti" ("Transvestite") – performed by Sadia
+* "Banlieue nord" ("Northern Suburb") – performed by Johnny Rockfort
+* "La Complainte de la serveuse automate" ("The Lament of the Robotic Waitress") – performed by Marie-Jeanne
+* "Le Blues du businessman" ("The Businessman's Blues") – performed by Zéro Janvier
+* "[[Un garçon pas comme les autres]]" ("A Boy Like No Other") – performed by Marie-Jeanne
+* "La Chanson de Ziggy" ("Ziggy's Song") – performed by Ziggy
+* "Au secours, j'ai besoin d'amour" ("Help, I'm in Need of Love") – performed by Cristal
+* "Le rêve de Stella Spotlight" ("The Dream of Stella Spotlight") – performed by Stella Spotlight
+* "Les adieux d'un sex symbol" ("The Farewells of a Sex Symbol") – performed by Stella Spotlight
+* "[[:fr:S.O.S. d'un terrien en détresse|S.O.S. d'un terrien en détresse]]" ("S.O.S. of an Earthling in Distress") – performed by Johnny Rockfort
+* "Quand on n'a plus rien à perdre" ("When We Have Nothing Left to Lose") – performed by Johnny Rockfort and Cristal
+* "Les uns contre les autres" ("Against Each Other") – performed by Marie-Jeanne
+* "Ego trip" – performed by Ziggy
+* "Monopolis" – performed by Cristal
+* "Ce soir on danse à Naziland" ("Tonight We Dance at Naziland") – performed by Sadia
+* "[[Le monde est stone]]" ("The World is Stone") – performed by Marie-Jeanne
+
+== Characters ==
+* Johnny Rockfort: leader of the Black Stars gang.
+* Cristal: presenter of the television show ''Starmania''.
+* Sadia: a [[Cross-dressing|transvestite]] and the mastermind behind the Black Stars.
+* Zéro Janvier: a wealthy businessman and politician.
+* Stella Spotlight: a former [[sex symbol]] and Janvier's muse.
+* Marie-Jeanne: the "robotic" waitress at the Underground Café.
+* Ziggy: a gay record dealer who dreams of fame.
+* Gourou Marabout: Janvier's political opponent.
+* Roger-Roger: a news anchor.
+
+== Notable cast ==
+{| class="wikitable plainrowheaders" style="text-align: center;"
+! scope="col" |Character
+! scope="col" |1978
+! scope="col" |1979
+! scope="col" |1988
+! scope="col" |2022
+|-
+! scope="row" |Johnny Rockfort
+| colspan="2" |[[Daniel Balavoine]]
+|Norman Groulx
+|Côme 
+|-
+! scope="row" |Cristal
+| colspan="2" |[[France Gall]]
+|[[Martine St. Clair]]
+|Lilya Adad 
+|-
+! scope="row" |Sadia
+| colspan="2" |[[Nanette Workman]]
+|Dominique Wenta
+|Miriam Baghdassarian
+|-
+! scope="row" |Zéro Janvier
+|[[Claude Dubois]]
+|[[Étienne Chicot]]
+|Richard Groulx 
+|David Latulippe
+|-
+! scope="row" |Stella Spotlight
+| colspan="2" |[[Diane Dufresne]]
+|Sabrina Lory
+|Maag 
+|-
+! scope="row" |Marie-Jeanne
+| colspan="2" |[[Fabienne Thibeault]]
+|[[Maurane]]
+|Alex Montembault
+|-
+! scope="row" |Ziggy
+|[[Éric Estève]]
+|Grégory Ken
+|[[Renaud Hantson]]
+|Adrien Fruit
+|}
+
+==Recordings==
+=== Original cast recordings ===
+=== Other releases ===
+==References==
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+starring [[Kim Carnes]].

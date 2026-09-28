@@ -1,0 +1,323 @@
+{{Infobox Musical
+| name = SpongeBob SquarePants
+| subtitle = The Broadway Musical
+| image = SpongeBob Squarepants Playbill.jpeg
+| caption = ''Playbill'' of the Broadway production
+| music = Various
+| lyrics = Various
+| book = [[Kyle Jarrow]]
+| basis = ''[[SpongeBob SquarePants]]''<br/>by [[Stephen Hillenburg]]
+| premiere_date = {{Start date|2016|06|7}}
+| premiere_location = [[Nederlander Theatre (Chicago)|Oriental Theatre]], [[Chicago]]
+| productions = 2016 [[Theater in Chicago|Chicago]]<br /> 2017 [[Broadway theatre|Broadway]]<br />2019-2020 [[North American]] tour<br />2023 [[United Kingdom]] tour<br />2024 [[Israel]]
+| awards = [[Drama Desk Award for Outstanding Musical]], [[Outer Critics Circle Award|Outer Critics Circle Award for Outstanding New Broadway Musical]], [[Outer Critics Circle Award|Outer Critics Circle Award for Outstanding New Score]]
+}}
+==Development==
+==Synopsis==
+===Pre-Show===
+===Act One===
+===Act Two===
+==Musical numbers==
+{{col-begin}}
+{{col-2}}
+;Act I
+* "Bikini Bottom Day" by [[Jonathan Coulton]] – SpongeBob, Patrick, Squidward, Sandy, Mr. Krabs, Plankton, Karen & Company
+* "Bikini Bottom Day" (reprise) by Coulton – SpongeBob
+* "[[Outside (David Bowie album)|No Control]]" by [[David Bowie]] & [[Brian Eno]] – Perch Perkins, SpongeBob, Mr. Krabs, Pearl, Squidward, Patrick, Sandy, Plankton, Karen & Company<big>{{ref|2|2}}</big>
+* "BFF" by [[Plain White T's]] – SpongeBob & Patrick
+* "When the Going Gets Tough" by [[T.I.]] – Plankton, Karen, SpongeBob & Company
+* "(Just a) Simple Sponge" by [[Panic! at the Disco]] – SpongeBob & Ensemble
+* "Daddy Knows Best" by [[Alex Ebert]] – Mr. Krabs & Pearl<big>{{ref|2|2}}</big>
+* "Hero Is My Middle Name" by [[Cyndi Lauper]] & [[Rob Hyman]] – SpongeBob, Patrick & Sandy
+* "Super Sea Star Savior" by [[Yolanda Adams]] – Patrick & Sardines
+* "Tomorrow Is" by [[The Flaming Lips]] – Sandy, SpongeBob, Squidward, Mr. Krabs, Plankton, Karen & Company{{col-break}}
+
+;Act II
+* "Poor Pirates" by [[Sara Bareilles]] – Patchy & Pirates<big>{{ref|2|2}}</big>
+* "Bikini Bottom Day" (reprise II) by Coulton – SpongeBob<big>{{ref|1|1}}</big>
+* "Bikini Bottom Boogie" by [[Steven Tyler]] & [[Joe Perry (musician)|Joe Perry]] – The Electric Skates, Pearl & Company<big>{{ref|2|2}}</big>
+* "Chop to the Top" by [[Lady Antebellum]] – Sandy & SpongeBob
+* "(I Guess I) Miss You" by [[John Legend]] – Patrick & SpongeBob<big>{{ref|2|2}}</big>
+* "I'm Not a Loser" by [[They Might Be Giants]] – Squidward & Company
+* "(Just a) Simple Sponge" (reprise) by Panic! at the Disco – SpongeBob
+* "Best Day Ever" by [[Andy Paley]] & [[Tom Kenny]] – SpongeBob & Company
+* "Bikini Bottom Day" (reprise III) by Coulton – SpongeBob & Company
+* "''SpongeBob SquarePants'' Theme Song" by [[Derek Drymon]], Mark Harrison, [[Stephen Hillenburg]] & Blaise Smith – SpongeBob & Company
+{{col-end}}
+{{refbegin}}
+# {{note|1}} Cut from the original airing of the TV special
+# {{note|2}} Cut from abbreviated airings of the TV special
+{{refend}}
+
+===Instrumentation===
+
+===''SpongeBob SquarePants'' Original Cast recording===
+{{Infobox album
+| name         = SpongeBob SquarePants: Original Cast Recording
+| type         = soundtrack
+| longtype     = cast recording
+| artist       = Original Cast of ''SpongeBob SquarePants''
+| cover        = 
+| alt          = 
+| released     = {{Start date|2017|09|22}}
+| recorded     = August 2016
+| venue        = 
+| studio       = 
+| genre        = {{flatlist|
+* [[Show tune]]
+* [[comedy music|musical comedy]]
+* [[indie rock]]
+* [[alternative rock]]
+}}
+| length       = {{duration|m=57|s=19}}
+| label        = [[Masterworks Broadway]]
+| producer     = 
+| prev_title   = 
+| prev_year    = 
+| next_title   = 
+| next_year    = 
+}}
+
+{{Track listing
+| extra_column = 
+| title1 = Prologue
+| length1 = 1:04
+| title2 = Bikini Bottom Day
+| note2 = [[Jonathan Coulton]]
+| length2 = 6:12
+| title3 = No Control
+| note3 = [[David Bowie]] and [[Brian Eno]]
+| length3 = 3:17
+| title4 = BFF
+| note4 = [[Plain White T's]]
+| length4 = 2:41
+| title5 = When the Going Gets Tough
+| note5 = [[T.I.]]
+| length5 = 2:47
+| title6 = (Just a) Simple Sponge
+| note6 = [[Panic! at the Disco]]
+| length6 = 3:57
+| title7 = Daddy Knows Best
+| note7 = [[Alex Ebert]]
+| length7 = 2:53
+| title8 = Hero Is My Middle Name
+| note8 = [[Cyndi Lauper]] and [[Rob Hyman]]
+| length8 = 3:15
+| title9 = Super Sea Star Savior
+| note9 = [[Yolanda Adams]]
+| length9 = 4:44
+| title10 = Tomorrow Is
+| note10 = [[The Flaming Lips]]
+| length10 = 3:31
+| title11 = Poor Pirates
+| note11 = [[Sara Bareilles]]
+| length11 = 3:49
+| title12 = Bikini Bottom Boogie
+| note12 = [[Steven Tyler]] and [[Joe Perry (musician)|Joe Perry]]
+| length12 = 2:11
+| title13 = Chop to the Top
+| note13 = [[Lady A]]ntebellum
+| length13 = 2:26
+| title14 = (I Guess I) Miss You
+| note14 = [[John Legend]]
+| length14 = 3:41
+| title15 = I'm Not a Loser
+| note15 = [[They Might Be Giants]]
+| length15 = 4:38
+| title16 = Best Day Ever
+| note16 = [[Andy Paley]] and [[Tom Kenny]]
+| length16 = 4:19
+| title17 = Bikini Bottom Day (Reprise)
+| note17 = Jonathan Coulton
+| length17 = 2:04
+| title18 = ''SpongeBob SquarePants'' Theme Song
+| note18 = [[Derek Drymon]], Mark Harrison, [[Stephen Hillenburg]] and Blaise Smith
+| length18 = 0:47
+| total_length = 57:19
+}}
+
+==Productions==
+=== Chicago try-out (2016) and Broadway (2017–18) ===
+=== National tours ===
+===''The SpongeBob Musical: Live On Stage!''===
+=== German Tour 2022 ===
+=== UK Tour 2023 ===
+=== Israeli Production 2024 ===
+==Cast and characters==
+{| class="wikitable" width="100%"
+|-
+! rowspan="2" | Character
+! Chicago try-out
+! Broadway
+! TV special
+! North American tour
+! German tour
+! UK Tour
+! Israel tour
+|-
+! {{Small|2016}}
+! {{Small|2017}}
+! colspan="2" |{{Small|2019}}
+! {{Small|2022}}
+! {{Small|2023}}
+! {{Small|2024}}
+|-
+! [[SpongeBob SquarePants (character)|SpongeBob SquarePants]]
+| colspan="3" align="center" | [[Ethan Slater]]
+| align="center" | Lorenzo Pugliese
+| align="center" | Michiel Janssens
+| align="center" | Lewis Cornay
+| align="center" | [[Ido Mosseri]]
+|-
+! [[Patrick Star]]
+| colspan="3" align="center" | Danny Skinner
+| align="center" | Beau Bradshaw
+| align="center" | Benjamin Eberling
+| align="center" | Irfan Damani
+| align="center" | Liron Barnes
+|-
+! [[Sandy Cheeks]]
+| colspan="2" align="center" | [[Lilli Cooper]]
+| align="center" | Christina Sajous
+| align="center" | Daria Pilar Redus
+| align="center" | Sarah Kornfeld / Mariyama Ebel
+| align="center" | Chrissie Bhima
+| align="center" | Amit Yagur
+|-
+! [[Squidward Tentacles|Squidward Q. Tentacles]]
+| colspan="3" align="center" | [[Gavin Lee]]
+| align="center" | Cody Cooley
+| align="center" | Martijn Smids
+| align="center" | [[Gareth Gates]]<hr>[[Tom Read Wilson]]
+| align="center" | [[Gilad Kleter]]
+|-
+! [[Plankton and Karen#Plankton|Sheldon J. Plankton]]
+| align="center" | Nick Blaemire
+| colspan="2" align="center" | [[Wesley Taylor]]
+| align="center" | Tristan McIntyre
+| align="center" | Maximilian Vogel
+| align="center" | [[Divina de Campo]]
+| align="center" | Nir Sheaber
+|-
+! [[Plankton and Karen#Karen|Karen Plankton]]
+| colspan="2" align="center" | [[Stephanie Hsu]]
+| align="center" | Katie Lee Hill
+| align="center" | Caitlin Ort
+| align="center" | Pauline Schubert
+| align="center" | [[Hannah Lowther]]
+| align="center" | Yael Dover
+|-
+! [[Mr. Krabs|Eugene Krabs]]
+| align="center" | Carlos Lopez
+| colspan="2" align="center" | Brian Ray Norris
+| align="center" | Zach Kononov
+| align="center" | Richard McCowen
+| align="center" | Richard J Hunt
+| align="center" | Asaf Segev
+|-
+! [[Pearl Krabs]]
+| align="center" | [[Emmy Raver-Lampman]]
+| colspan="2" align="center" | Jai'len Christine Li Josey
+| align="center" | Méami Maszewski
+| align="center" | Helena Lenn
+| align="center" | Sarah Freer
+| align="center" | Ariel Dimant
+|-
+! Patchy the Pirate
+| align="center" | Jason Michael Snow
+| align="center" | [[Jon Rua]]
+| align="center" | [[Tom Kenny]] 
+| align="center" | Morgan Blanchard
+| align="center" | Dani Spampinato
+|
+!''Cut''
+|-
+! The Mayor
+| colspan="2" align="center" | [[Gaelen Gilliland]]
+| align="center" | Bryonha Parham
+| align="center" | Helen Regula
+| align="center" | Mareike Heyen
+| align="center" | Rebecca Lisewski
+| align="center" | Gabriella Sternfeld
+|-
+! Perch Perkins
+| colspan="3" align="center" | Kelvin Moon Loh
+| align="center" | Richie Dupkin
+| align="center" | Dominik Müller
+|
+| align="center" | [[Danny Kushmaro]] (prerecorded)<big>{{ref|3|1}}</big>
+|-
+! [[Mrs. Puff]]
+| colspan="3" align="center" | Abby C. Smith
+| align="center" | Natalie L. Chapman
+| align="center" | Ellie van Gele
+| align="center" | Eloise Davies
+|
+|-
+! [[Gary the Snail]]
+| align="center" | [[Tom Kenny]] (prerecorded)
+| colspan="2" align="center" | Allan K. Washington
+| align="center" | Dorian O'Brien
+| align="center" | Marvin Klopfer / Ronja Geburzky
+|
+| align="center" | Tom Kenny (prerecorded)
+|-
+! Old Man Jenkins
+| align="center" | Mark Ledbetter
+| colspan="2" align="center" | JC Schuster
+| align="center" | Stephen C. Kallas
+| align="center" | Niels Bouwmeester
+| align="center" | Reece Kerridge
+|
+|-
+! Larry the Lobster
+| colspan="3" align="center" | Allan K. Washington
+| align="center" | Dorian O'Brien
+| align="center" | Mathias Boeryd
+|
+|
+|-
+! The Electric Skates
+| align="center" | Curtis Holbrook<br />L'ogan J'ones<br />JC Schuster
+| colspan="2" align="center" | Curtis Holbrook<br />L'ogan J'ones<br/>Kyle Matthew Hamilton
+| align="center" | Joshua Bess<br />Stefan Miller<br/>Miles Davis Tillman
+| align="center" | Dani Spampinato<br/>Ronja Geburzky<br/>Niels Bouwmeester
+| align="center" | Eleanor Turiansky
+|
+|-
+! French Narrator
+| align="center" | Mark Ledbetter
+| colspan="2" align="center" | Tom Kenny (prerecorded)
+| align="center" | Kenneth Ferrone
+| align="center" | Hans Rose
+| align="center" | [[Alex Gaumond]] (pre-recorded)
+| align="center" | [[Ido Mosseri]] (prerecorded)
+|-
+! Sardine Corps
+| colspan="3" align="center" | Oneika Phillips, Jon Rua, Lauralyn McClelland, Robert Taylor Jr.
+| align="center" | Elle-May Patterson, Sydney Simone, Ayana Strutz, Rico Velazquez
+| align="center" | Carina Fitzi, Ronja Geburzky, Dani Spampinato, Pauline Schubert
+|
+|
+|}
+
+{{refbegin}}
+# {{note|3}} [[Danny Kushmaro]] has pre-recorded clips in the [[Channel 12 (Israel)|Channel 12]] news studios delivering Perch Perkins' lines, and those clips were shown on screen in the live performances of the musical. However, he was not playing the character of Perch Perkins; he was playing himself, being a known news anchor in Israel. The ensemble actor leading "No Control" was referred to as Perch Perkins in the show.
+{{refend}}
+
+;Notable replacements
+*[[Catherine Ricafort]] replaced Stephanie Hsu as Karen Plankton on June 19, 2018.
+*Christina Sajous replaced Lilli Cooper as Sandy Cheeks on July 24, 2018.
+
+==Critical response==
+== Awards and nominations ==
+=== Original Broadway production ===
+{|
+|-
+| links || [[Outer Critics Circle Award]] [[Kyle Jarrow]] [[Yolanda Adams]] [[Steven Tyler]] [[Joe Perry (musician)|Joe Perry]] [[Sara Bareilles]] [[Jonathan Coulton]] [[Alex Ebert]] [[The Flaming Lips]] [[Lady Antebellum]] [[Cyndi Lauper]] [[Rob Hyman]] [[John Legend]] [[Panic! At the Disco]] [[Plain White T's]] [[They Might Be Giants]] [[T.I.]] [[Lil' C]] [[David Bowie]] [[Brian Eno]] [[Andy Paley]] [[Tom Kenny]] [[Derek Drymon]] [[Stephen Hillenburg]] [[Tina Landau]] [[Ethan Slater]] [[Gavin Lee]] [[Christopher Gattelli]] [[David Zinn]] [[Drama League Awards]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Musical|Outstanding Musical]] [[Drama Desk Award for Outstanding Actor in a Musical|Outstanding Actor in a Musical]] [[Drama Desk Award for Outstanding Featured Actor in a Musical|Outstanding Featured Actor in a Musical]] [[Drama Desk Award for Outstanding Director of a Musical|Outstanding Director of a Musical]] [[Drama Desk Award for Outstanding Choreography|Outstanding Choreography]] [[Drama Desk Award for Outstanding Book of a Musical|Outstanding Book of a Musical]] [[Drama Desk Award for Outstanding Orchestrations|Outstanding Orchestrations]] [[Drama Desk Award for Outstanding Scenic Design of a Musical|Outstanding Set Design for a Musical]] [[Drama Desk Award for Outstanding Costume Design of a Musical|Outstanding Costume Design for a Musical]] [[Drama Desk Award for Outstanding Projection Design|Outstanding Projection Design]] [[Drama Desk Award for Outstanding Wig and Hair Design|Outstanding Wig and Hair Design]] [[Chita Rivera Awards for Dance and Choreography]] [[72nd Tony Awards|Tony Awards]] [[Tony Award for Best Musical|Best Musical]] [[Tony Award for Best Leading Actor in a Musical|Best Performance by an Actor in a Leading Role in a Musical]] [[Tony Award for Best Featured Actor in a Musical|Best Performance by an Actor in a Featured Role in a Musical]] [[Tony Award for Best Book of a Musical|Best Book of a Musical]] [[Tony Award for Best Original Score|Best Original Score]] [[Lil' C (record producer)|Lil'C]] [[Panic! at the Disco]] [[Tony Award for Best Direction of a Musical|Best Direction of a Musical]] [[Tony Award for Best Orchestrations|Best Orchestrations]] [[Tom Kitt (musician)|Tom Kitt]] [[Tony Award for Best Choreography|Best Choreography]] [[Tony Award for Best Sound Design of a Musical|Best Sound Design of a Musical]] [[Tony Award for Best Scenic Design of a Musical|Best Scenic Design of a Musical]] [[Tony Award for Best Costume Design of a Musical|Best Costume Design of a Musical]] [[Tony Award for Best Lighting Design of a Musical|Best Lighting Design of a Musical]] [[Theatre World Award]]
+|}
+==References==
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+portrayed by [[Ido Mosseri]].

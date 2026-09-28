@@ -1,0 +1,263 @@
+{{Infobox Musical
+| name = The Book of Mormon
+| image = The Book of Mormon poster.jpg
+| alt = Poster illustrates a man mid-jump, clad in a uniform common to Mormon missionaries.
+| image_size = 
+| caption = Broadway promotional poster
+| music = [[Trey Parker]]<br />[[Robert Lopez]]<br />[[Matt Stone]]
+| lyrics = Trey Parker<br />Robert Lopez<br />Matt Stone
+| book = Trey Parker<br />Robert Lopez<br />Matt Stone
+| premiere_date = March 24, 2011
+| premiere_location = [[Eugene O'Neill Theatre]], New York City
+| productions = {{Plain list |
+* 2011 [[Broadway theatre|Broadway]]
+* 2012 1st North American tour
+* 2012 2nd North American tour
+* 2013 [[West End theatre|West End]]
+* 2019 1st UK tour
+* 2022 US non-equity tour
+* 2024 2nd UK tour
+}}
+| awards = {{Collapsible list
+  | title = List of awards
+  | [[Tony Award for Best Musical]] 
+  | [[Tony Award for Best Book of a Musical]]
+  | [[Tony Award for Best Original Score]]
+  | [[Grammy Award for Best Musical Theater Album]] 
+  | [[Drama Desk Award for Outstanding Musical]] 
+  | [[Drama Desk Award for Outstanding Music]] 
+  | [[Drama Desk Award for Outstanding Lyrics]] 
+  | [[Laurence Olivier Award for Best New Musical]] 
+  | [[Helpmann Award for Best Musical]]
+  }}
+}}
+== History ==
+=== Development ===
+=== Song alterations ===
+=== Workshops ===
+=== Broadway premiere ===
+=== 2020 revisions ===
+== Synopsis ==
+=== Act I ===
+=== Act II ===
+== Characters and cast members ==
+The principal cast members of all major productions of ''The Book of Mormon''.
+
+===Original casts===
+Sources:
+{| class="wikitable" style = "text-align:center;"
+|-
+! rowspan=2|Characters
+! Broadway
+! First US tour
+! Second US tour
+! West End
+! First Australian tour
+! First UK tour
+! Third US tour
+! Second UK tour
+! Second Australian tour
+|-
+!<small>2011</small>
+!colspan=2|<small>2012</small>
+!<small>2013</small>
+!<small>2017</small>
+!<small>2019</small>
+!<small>2022</small>
+!<small>2024</small>
+!<small>2025</small>
+|-
+|'''Elder Price'''
+|[[Andrew Rannells]]
+|[[Gavin Creel]]
+|Nic Rouleau
+|[[Gavin Creel]]
+|Ryan Bondy
+|Kevin Clay
+|Sam McLellan
+|Adam Bailey
+|Sean Johnston
+|-
+|'''Elder Cunningham'''
+|[[Josh Gad]]
+|[[Jared Gertner]]
+|[[Ben Platt]]
+|[[Jared Gertner]]
+|[[A. J. Holmes|A.J. Holmes]]
+|Conner Peirson
+|Sam Nackman
+|Sam Glen
+|Nick Cox
+|-
+|'''Nabulungi'''
+|[[Nikki M. James]]
+|[[Samantha Marie Ware]]
+|[[Syesha Mercado]]
+|[[Alexia Khadime]]
+|Zahra Newman
+|Nicole-Lily Baisden
+|Berlande
+|Nyah Nish
+|Paris Leveque
+|-
+|'''Elder McKinley'''
+|[[Rory O'Malley]]
+|[[Grey Henson]]
+|Pierce Cassedy
+|[[Stephen Ashfield]]
+|[[Rowan Witt]]
+|Will Hawksworth
+|Sean Casey Flanagan
+|Tom Bales
+|Tom Struik
+|-
+|'''Mafala Hatimbi'''
+|[[Michael Potts (actor)|Michael Potts]]
+|[[Kevin Mambo]]
+|James Vincent Meredith
+|[[Giles Terera]]
+|Bert LaBonté
+|Ewen Cummins
+|Lamont J. Whitaker
+|Kirk Patterson
+|Simbarashe Matshe
+|-
+|'''General'''
+|[[Brian Tyree Henry]]
+|Derrick Williams
+|[[David Aron Damane]]
+|[[Chris Jarman]]
+|Augustin Aziz Tchantcho
+|Thomas Vernal
+|Dewight Braxton Jr.
+|Rodney Earl Clarke
+|Augie Tchantcho
+|-
+|'''Joseph Smith / Mission President'''
+|[[Lewis Cleale]]
+|Mike McGowan
+|[[Christopher Shyer]]
+|Haydn Oakley
+|Andrew Broadbent
+|Johnathan Tweedie
+|Trevor Dorner
+|Will Barratt
+|Matthew Hamilton
+|}
+
+===Notable replacements===
+====Broadway (2011–present)====
+*Elder Price: [[Gavin Creel]], [[Matt Doyle (actor)|Matt Doyle]], [[Kyle Selig]]
+*Elder Cunningham: [[Jon Bass (actor)|Jon Bass]], [[Jared Gertner]], [[Christopher John O'Neill]], [[Ben Platt]]
+*Nabulungi: [[Asmeret Ghebremichael]], [[Syesha Mercado]], [[Samantha Marie Ware]]
+*Elder McKinley: [[Stephen Ashfield]], [[Grey Henson]]
+*Mafala Hatimbi: [[Daniel Breaker]], [[Sterling Jarvis]], [[Stanley Wayne Mathis]]
+*General: [[David Aron Damane]]
+
+====First North America tour (2012–2016)====
+*Elder Price: [[Mark Evans (actor)|Mark Evans]]
+*Elder Cunningham: [[A.J. Holmes]], [[Christopher John O'Neill]]
+*Mafala Hatimbi: [[Stanley Wayne Mathis]]
+*Joseph Smith / Mission President: [[Ron Bohmer]]
+
+====Second North America tour (2012–2020)====
+*Elder Price: [[David Larsen]]
+*Elder Cunningham: [[A.J. Holmes]]
+*Nabalungi: [[Denée Benton]], [[Alyah Chanelle Scott]]
+*Mafala Hatimbi: [[Sterling Jarvis]]
+*Joseph Smith / Mission President: [[Ron Bohmer]]
+*Elder White: [[Dylan Mulvaney]]
+
+====West End (2013–present)====
+*Elder Cunningham: [[A.J. Holmes]]
+*Nabulungi: [[Denée Benton]], [[Asmeret Ghebremichael]]
+*Elder McKinley: [[Steven Webb]]
+
+==Music==
+=== Musical numbers ===
+{{col-begin}}
+{{col-2}}
+; Act I
+* "Hello!" – Mormons
+* "Two by Two" – Price, Mormons
+* "You and Me (But Mostly Me)" – Price, Cunningham
+* "Hasa Diga Eebowai" – Mafala, Price, Cunningham, and Ugandans
+* "Turn It Off" – McKinley, Mormons
+* "I Am Here for You" – Cunningham, Price
+* "All-American Prophet" – Price, Cunningham, [[Joseph Smith]], [[Angel Moroni]] and Company
+* "Sal Tlay Ka Siti" – Nabulungi
+* "I Am Here for You" (Reprise)† – Cunningham
+* "Man Up" – Cunningham, Nabulungi, Price, Doctor, Mormons, Ugandans
+{{col-2}}
+; Act II
+* "Making Things Up Again" – Cunningham, Cunningham's Dad, Joseph Smith, Mormon, Moroni, Uhura, Darth Vader, Hobbits, Ugandans
+* "Spooky Mormon Hell Dream" – Price, Lucifer, Hitler, Genghis Khan, Jeffrey Dahmer/Epstein, Johnnie Cochran, Skeletons, Devils
+* "I Believe" – Price, Ensemble
+* "Baptize Me" – Cunningham and Nabulungi
+* "I Am Africa" – McKinley, Cunningham, Doctor, Mormons, Ugandans
+* "Orlando"† – Price
+* "Joseph Smith American Moses" – Ugandans
+* "Hasa Diga Eebowai" (Reprise)† – Nabulungi
+* "You and Me (But Mostly Me)" (Reprise)† – Price and Cunningham
+* "Tomorrow Is a Latter Day"†† – Price, Cunningham, McKinley, Nabulungi, Mormons, Ugandans
+* "Hello!"†† (Reprise) – Company
+* "Encore"†† – Company
+{{col-end}}
+
+† This song is not on the cast album.
+
+†† These three songs are appended to one another and appear as one track.
+
+===Instrumentation===
+''The Book of Mormon'' uses a nine-member orchestra:
+
+* Woodwinds ([[Flute]], [[Piccolo]], [[Alto Saxophone|Alto]] and [[Tenor Saxophone]]s, [[Clarinet]], [[Oboe]], [[Bansuri]], Soprano and Alto [[Recorder (musical instrument)|Recorders]]) †
+* [[Trumpet]] (doubling [[Piccolo Trumpet]] and [[Flugelhorn]])
+* [[Trombone]] (doubling [[Bass Trombone]])
+* Drums/Percussion/[[Electronic percussion]]
+* Keyboard I
+* Keyboard II
+* [[Violin]]/[[Viola]]
+* Guitars ([[Electric guitar|Electric]], [[Acoustic Guitar|Acoustic]], [[Classical Guitar|Classical]] and [[Archtop]])
+* Basses ([[Bass guitar|Electric]], [[Fretless Bass|Fretless]] and [[Double Bass|Upright]])
+
+==Themes and references==
+== Productions ==
+=== Broadway (2011–present) ===
+===First North American tour (2012–2016)===
+===Chicago and second North American tour (2012–2020)===
+===West End (2013–present)===
+===Australia (2017–2020)===
+===First UK and Ireland tour (2019–2022)===
+===US non-equity tour (2022–present)===
+=== Second UK and international tour (2024–2025) ===
+=== International productions===
+== Response ==
+=== Critical reception ===
+=== Accusations of racism and script revisions ===
+=== Latter-day Saint response ===
+==Awards and honors==
+===Broadway production===
+{|
+|-
+| links || [[65th Tony Awards|Tony Award]] [[Tony Award for Best Musical|Best Musical]] [[Tony Award for Best Book of a Musical|Best Book of a Musical]] [[Robert Lopez]] [[Trey Parker]] [[Matt Stone]] [[Tony Award for Best Original Score|Best Original Score]] [[Tony Award for Best Actor in a Musical|Best Actor in a Musical]] [[Andrew Rannells]] [[Josh Gad]] [[Tony Award for Best Featured Actor in a Musical|Best Featured Actor in a Musical]] [[Rory O'Malley]] [[Tony Award for Best Featured Actress in a Musical|Best Featured Actress in a Musical]] [[Nikki M. James]] [[Tony Award for Best Direction of a Musical|Best Direction of a Musical]] [[Casey Nicholaw]] [[Tony Award for Best Choreography|Best Choreography]] [[Tony Award for Best Orchestrations|Best Orchestrations]] [[Larry Hochman]] [[Stephen Oremus]] [[Tony Award for Best Scenic Design|Best Scenic Design]] [[Scott Pask]] [[Tony Award for Best Costume Design|Best Costume Design]] [[Ann Roth]] [[Tony Award for Best Lighting Design|Best Lighting Design]] [[Brian MacDevitt]] [[Tony Award for Best Sound Design|Best Sound Design]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Musical|Outstanding Musical]] [[Drama Desk Award for Outstanding Lyrics|Outstanding Lyrics]] [[Drama Desk Award for Outstanding Music|Outstanding Music]] [[Drama Desk Award for Outstanding Book of a Musical|Outstanding Book of a Musical]] [[Drama Desk Award for Outstanding Actor in a Musical|Outstanding Actor in a Musical]] [[Drama Desk Award for Outstanding Featured Actor in a Musical|Outstanding Featured Actor in a Musical]] [[Drama Desk Award for Outstanding Featured Actress in a Musical|Outstanding Featured Actress in a Musical]] [[Drama Desk Award for Outstanding Choreography|Outstanding Choreography]] [[Drama Desk Award for Outstanding Director of a Musical|Outstanding Director of a Musical]] [[Drama Desk Award for Outstanding Costume Design|Outstanding Costume Design]] [[Drama Desk Award for Outstanding Sound Design|Outstanding Sound Design of a Musical]] [[Drama Desk Award for Outstanding Orchestrations|Outstanding Orchestrations]] [[Outer Critics Circle Award]] [[New York Drama Critics' Circle|New York Drama Critics' Circle Award]] [[54th Annual Grammy Awards|Grammy Award]] [[Grammy Award for Best Musical Theater Album|Best Musical Theater Album]]
+|}
+===London production===
+{|
+|-
+| links || [[2014 Laurence Olivier Awards|Laurence Olivier Award]] [[Laurence Olivier Award for Best New Musical|Best New Musical]] [[Laurence Olivier Award for Best Actor in a Musical|Best Actor in a Musical]] [[Gavin Creel]] [[Jared Gertner]] [[Laurence Olivier Award for Best Performance in a Supporting Role in a Musical|Best Performance in a Supporting Role in a Musical]] [[Laurence Olivier Award for Best Theatre Choreographer|Best Theatre Choreographer]] [[Casey Nicholaw]] [[Laurence Olivier Award for Outstanding Achievement in Music|Outstanding Achievement in Music]] [[Robert Lopez]] [[Trey Parker]] [[Matt Stone]]
+|}
+=== Melbourne production ===
+{|
+|-
+| links || [[Helpmann Awards]]
+|}
+== Recordings ==
+=== Original Broadway cast recording ===
+== See also ==
+== References ==
+== Further reading ==
+== External links ==
+
+== Actors mentioned in prose (fixture) ==
+cast of [[Marionette|marionettes]].

@@ -1,0 +1,48 @@
+{{Infobox Musical
+|name= The Amorous Flea
+|subtitle=
+|image= 
+|music= [[Bruce Montgomery (entertainer)|Bruce Montgomery]]
+|lyrics= [[Bruce Montgomery (entertainer)|Bruce Montgomery]]
+|book= [[Jerry Devine]]
+|basis= [[Molière]]'s 1662 [[comedy]] ''[[The School for Wives]]''
+|productions= 1964 [[Off-Broadway]]
+
+|awards= 
+}}
+==Principal cast==
+*Arnolphe - [[Lew Parker]] - [[Baritone]]
+*Chrysalde - David C. Jones - Baritone
+*Alain - Jack Fletcher - Baritone
+*Georgette - [[Ann Mitchell]] - [[Contralto|Alto]]
+*Agnes - Imelda De Martin - [[Mezzo-soprano]]
+*Horace - [[Philip Proctor]] - [[Tenor]]
+
+==Synopsis==
+==Songs==
+{{col-begin}}
+{{col-3}}
+===Act I===
+* All About Me
+* All About He
+* All About Him
+* Learning Love
+* There Goes a Mad Old Man
+* Dialogue on Dalliance
+{{col-break}}
+===Act II===
+* March of the Vigilant Vassals
+* Lessons on Life
+* Man is Man's Best Friend
+* The Other Side of the Wall
+* Closeness Begets Closeness
+{{col-break}}
+===Act III===
+* It's a Stretchy Day
+* When Time Takes Your Hand
+* The Amorous Flea
+* Learning Love (Reprise)
+* Finale
+{{col-end}}
+
+==References==

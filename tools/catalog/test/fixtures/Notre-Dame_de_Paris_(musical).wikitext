@@ -1,0 +1,370 @@
+{{Infobox Musical
+
+|name = Notre-Dame de Paris
+|image = Notre_Dame_de_Paris_-_English_version.jpg
+|caption = ''Notre-Dame de Paris'' – English version (CD cover)
+|subtitle = 
+|music = [[Riccardo Cocciante]]
+|lyrics = [[Luc Plamondon]] (French lyrics)<br />[[Will Jennings]] (English lyrics)
+|book         = [[Luc Plamondon]]
+|basis = Victor Hugo's novel ''[[The Hunchback of Notre-Dame|The Hunchback of Notre Dame]]''
+|productions = 1998 [[Paris]]<br />1999 International tour<br />2000 [[Las Vegas Strip|Las Vegas]]<br />2000 [[West End theatre|West End]]<br />2001 [[Paris]]<br />2001 [[Barcelona]]<br />2002 Italy tour<br />2002 [[Moscow]]<br />2005 International tour<br />2005 [[Montreal]]<br />2007 [[South Korea]] tour<br />2010 [[Antwerp]]<br />2010 Concert tour<br />2011 Italy tour<br />2012 International tour<br />2013 [[Seoul]]<br />2014 International tour<br />2016 Italy tour<br />2016 [[Seoul]]<br />2016 [[Gdynia]]<br />2016 [[Paris]]<br />2017 International tour<br />2018 [[Astana]]<br />2022 Italy tour
+|awards = [[Guinness World Records]]
+}}
+==Synopsis==
+===Act I===
+===Act II===
+==Musical numbers==
+{| class="wikitable plainrowheaders" 
+! colspan=4 align="center" | Act I 
+|- 
+! #
+! Original French Title<sup>1</sup>
+! English Version Title<sup>2</sup>
+! Performed by
+|-
+| 1 || Ouverture
+| Overture
+| Orchestra  
+|-
+| 2 || Le temps des cathédrales
+| The Age of the Cathedrals
+| Gringoire
+|-
+| 3 || Les sans-papiers
+| The Refugees
+| Clopin, Chorus
+|-
+| 4 || Intervention de Frollo
+| Frollo's Intervention
+| Frollo, Phoebus
+|-
+| 5 || Bohémienne
+| The Bohemian Song
+| Esmeralda
+|-
+| 6 || Esmeralda tu sais
+| Esmeralda, You See
+| Clopin, Esmeralda
+|-
+| 7 || Ces diamants-là
+| So Look No More for Love
+| Fleur-de-Lys, Phoebus
+|-
+| 8 || La fête des fous
+| The Feast of Fools
+| Gringoire, Chorus
+|-
+| 9 || Le pape des fous
+| The King of Fools
+| Quasimodo
+|-
+| 10 || La sorcière
+| The Sorceress
+| Frollo, Quasimodo
+|-
+| 11 || L'enfant trouvé
+| The Foundling
+| Quasimodo
+|-
+| 12 || Les portes de Paris
+| The Doors of Paris
+| Gringoire
+|-
+| 13 || Tentative d'enlèvement
+| Kidnap Attempt
+| Phoebus, Esmeralda
+|-
+| 14 || La cour des miracles
+| The Court of the Miracles
+| Clopin, Esmeralda, Chorus
+|-
+| 15 || Le mot Phoebus
+| The Word Phoebus
+| Esmeralda, Gringoire
+|- 
+| 16 || Beau comme le soleil
+| Shining Like the Sun
+| Esmeralda, Fleur-de-Lys
+|- 
+| 17 || Déchiré
+| Torn Apart
+| Phoebus
+|- 
+| 18 || Anarkia
+| Anarchy
+| Frollo and Gringoire
+|- 
+| 19 || A boire
+| Water, Please!
+| Frollo, Quasimodo, Chorus
+|- 
+| 20 || [[Belle (Patrick Fiori, Daniel Lavoie and Garou song)|Belle]]
+| Beauty
+| Quasimodo, Frollo, Phoebus
+|- 
+| 21 || Ma maison c'est ta maison
+| Home in the Sky
+| Quasimodo and Esmeralda
+|- 
+| 22 || Ave Maria païen
+| Pagan Ave Maria
+| Esmeralda
+|- 
+| 23 || Si tu pouvais voir en moi
+| If You Could See Inside Me
+| Quasimodo
+|- 
+| 24 || Tu vas me détruire
+| Your Love Will Kill Me
+| Frollo
+|- 
+| 25 || L'ombre
+| The Shadow
+| Phoebus and Frollo
+|- 
+| 26 || Le val d'amour
+| At Val d'Amour
+| Gringoire, Phoebus, Chorus
+|- 
+| 27 || La volupté
+| The Voluptary
+| Phoebus and Esmeralda
+|- 
+| 28 || Fatalité
+| Destiny
+| Gringoire, Frollo, Quasimodo, Clopin, Fleur-de-Lys
+|-
+! colspan=4 align="center" | Act II
+|-
+! #
+! Original French Title<sup>1</sup>
+! English Version Title<sup>2</sup>
+! Performed by
+|- 
+| 29 || Florence
+| Talk to Me of Florence
+| Frollo and Gringoire
+|- 
+| 30 || Les cloches
+| The Bells
+| Gringoire, Frollo, Quasimodo, Chorus
+|- 
+| 31 || Où est-elle?
+| Where Is She?
+| Frollo, Gringoire, Clopin
+|- 
+| 32 || Les oiseaux qu'on met en cage
+| The Birds They Put in Cages
+| Esmeralda and Quasimodo
+|- 
+| 33 || Condamnés
+| Castaway
+| Clopin and Chorus
+|- 
+| 34 || Le procès
+| The Trial
+| Frollo and Esmeralda
+|- 
+| 35 || La torture
+| Torturer
+| Frollo and Esmeralda
+|- 
+| 36 || Etre prêtre et aimer une femme
+| I'm a Priest
+| Frollo
+|- 
+| 37 || Phoebus
+| Phoebus, If You Can Hear Me
+| Esmeralda
+|- 
+| 38 || Je reviens vers toi
+| To Get Back to You
+| Phoebus
+|- 
+| 39 || La monture
+| My Heart If You Will Swear
+| Fleur-de-Lys
+|- 
+| 40 || Visite de Frollo à Esmeralda
+| Frollo's Visit to Esmeralda
+| Frollo and Esmeralda
+|- 
+| 41 || Un matin tu dansais
+| One Bright Morning You Danced
+| Frollo and Esmeralda
+|- 
+| 42 || Libérés
+| Free Today
+| Quasimodo, Clopin, Esmeralda, Gringoire, Chorus
+|- 
+| 43 || Lune
+| Moon
+| Gringoire
+|- 
+| 44 || Je te laisse un sifflet
+| This Small Whistle I Leave You
+| Quasimodo and Esmeralda
+|- 
+| 45 || Dieu que le monde est injuste
+| God, You Made the World All Wrong
+| Quasimodo
+|- 
+| 46 || [[Vivre (Notre-Dame de Paris song)|Vivre]]
+| Live for the One I Love
+| Esmeralda
+|- 
+| 47 || L'attaque de Notre-Dame
+| Attack of Notre-Dame
+| Clopin, Frollo, Phoebus, Esmeralda, Gringoire, Chorus
+|- 
+| 48 || Déportés
+| By Royal Law
+| Phoebus and Chorus
+|- 
+| 49 || Mon maître, mon sauveur
+| My Master, My Savior
+| Quasimodo and Frollo
+|- 
+| 50 || Donnez-la moi
+| Give Her to Me
+| Quasimodo
+|- 
+| 51 || Danse mon Esmeralda
+| Dance My Esmeralda
+| Quasimodo
+|}
+<sup>1</sup>These titles follow French-language capitalization conventions (sentence case / init caps instead of title case)<br />
+<sup>2</sup>English titles shown here are the title of the song in the English-language version of the production, and not necessarily a direct translation of the original song title.
+
+==Staging==
+==Production history==
+==Critical response==
+==Casts==
+{{unreferenced section|date=October 2018}}
+
+===Original Paris cast===
+* [[Hélène Ségara]]: [[Esméralda (The Hunchback of Notre-Dame)|Esmeralda]]
+* [[Garou (singer)|Garou]]: [[Quasimodo]]
+* [[Daniel Lavoie]]: [[Claude Frollo|Frollo]]
+* [[Bruno Pelletier]]: [[Pierre Gringoire|Gringoire]]
+* [[Patrick Fiori]]: [[Captain Phoebus|Phoebus]]
+* [[Luck Mervil]]: [[Clopin]]
+* [[Julie Zenatti]]: Fleur-de-Lys
+
+===Original Las Vegas cast===
+* Janien Masse: Esmeralda
+* Doug Storm: Quasimodo
+* Francis Ruivivar, T. Eric Hart: Frollo
+* [[Deven May]]: Gringoire
+* Mark W Smith: Phoebus
+* David Jennings: Clopin
+* Jessica Grové: Fleur-de-Lys
+
+===Original Canadian French cast===
+* [[France D'Amour]]: Esmeralda
+* [[Mario Pelchat]]: Quasimodo
+* [[Robert Marien]]: Frollo
+* [[Sylvain Cossette]]: Gringoire
+* Pierre Bénard-Conway: Phoebus
+* Charles Biddle Jr.: Clopin
+* [[Natasha St-Pier]]: Fleur-de-Lys
+
+=== Original Canadian English cast ===
+* Alessandra Ferrari:  Esmeralda
+* Matt Laurent: Quasimodo
+* [[Robert Marien]]: Frollo
+* Richard Charest: Gringoire
+* Yvan Pedneault: Phoebus
+* Ian Carlyle: Clopin
+* Myriam Brousseau: Fleur-de-Lys
+
+===Original London cast ===
+* [[Tina Arena]]:  Esmeralda
+* [[Garou (singer)|Garou]]: Quasimodo
+* [[Daniel Lavoie]]: Frollo
+* [[Bruno Pelletier]]: Gringoire
+* [[Steve Balsamo]]: Phoebus
+* [[Luck Mervil]]: Clopin
+* [[Natasha St-Pier]]: Fleur-de-Lys
+
+===Theatre Mogador cast===
+* Shirel: Esmeralda
+* Adrian Devil: Quasimodo
+* Michel Pascal: Frollo
+* Cyril Niccolai: Gringoire
+* Richard Charest: Phoebus
+* Roddy Julienne: Clopin
+* Claire Cappelletti: Fleur-de-Lys
+
+===Original Spanish cast===
+* Thais Ciurana: Esmeralda 
+* Albert Martínez: Quasimodo
+* Enrique Sequero: Frollo
+* [[:es:Daniel Anglès|Daniel Anglès]]: Gringoire
+* [[Lisardo Guarinos]]: Phoebus
+* Paco Arrojo: Clopin
+* [[:es:Elvira Prado|Elvira Prado]]: Fleur-de-Lys
+
+===Original Italian cast===
+* [[Lola Ponce]]: Esmeralda
+* [[Giò Di Tonno]]: Quasimodo
+* {{interlanguage link|Vittorio Matteucci|it}}: Frollo
+* Matteo Setti: Gringoire
+* {{interlanguage link|Graziano Galatone|it}}: Phoebus
+* {{interlanguage link|Marco Guerzoni|it}}: Clopin
+* Claudia d'Ottavi:  Fleur-de-Lys
+
+===Original Russian cast===
+* [[Teona Dolnikova]]: Esmeralda
+* [[Vyacheslav Petkun]]: Quasimodo
+* [[Alexander Marakulin]]: Frollo
+* [[Vladimir Dybsky]]: Gringoire
+* [[Anton Makarsky]]: Phoebus
+* [[Sergey Li]]: Clopin
+* [[Anastasia Stotskaya]]: Fleur-de-Lys
+
+===Original Korean cast===
+* [[Bada (singer)|Bada]], Oh Jin-yeong, {{interlanguage link|Mun Hye-won|ko|3=문혜원}}: Esmeralda
+* {{interlanguage link|Yun Hyeong-ryeol|ko|3=윤형렬}}, {{interlanguage link|Kim Beop-rae|ko|3=김법래}}: Quasimodo
+* {{interlanguage link|Seo Beom-seok|ko|3=서범석 (배우)}}, {{interlanguage link|Ryu Chang-woo|ko|3=류창우}}: Frollo
+* Kim Tae-hoon, {{interlanguage link|Park Eun-tae|ko|3=박은태}}, Jeon Dong-Suk: Gringoire
+* Kim Seong-min, Kim Tae-hyeong: Phoebus
+* {{interlanguage link|Lee Jeong-yeol|ko|3=이정열 (배우)}}, {{interlanguage link|Mun Jong-won|ko|3=문종원}}: Clopin
+* Kim Jeong-hyeon, Gwak Sun-young: Fleur-de-Lys
+
+=== Original Belgian cast ===
+* {{interlanguage link|Sandrine Van Handenhoven|nl||fr|}}: Esmeralda
+* {{interlanguage link|Gunther Thomas|nl|Gene Thomas}}: Quasimodo
+* {{interlanguage link|Wim Van Den Driessche|nl}}: Frollo
+* {{interlanguage link|Dennis ten Vergert|nl}}: Gringoire
+* [[Tim Driesen]]: Phoebus
+* {{interlanguage link|Clayton Peroti|nl}}: Clopin
+* Jorien Zeevaart: Fleur-de-Lys
+
+===Original Polish cast===
+* Maja Gadzińska, Ewa Kłosowicz: Esmeralda
+* {{interlanguage link|Michał Grobelny|pl}}, {{interlanguage link|Janusz Kruciński|pl}}: Quasimodo
+* Artur Guza, Piotr Płuska: Frollo
+* Jan Traczyk, Maciej Podgórzak: Gringoire
+* Przemysław Zubowicz, Maciej Podgórzak, {{ill|Rafał Szatan|pl}}: Phoebus
+* Krzysztof Wojciechowski, {{interlanguage link|Łukasz Zagrobelny|pl}}: Clopin
+* {{interlanguage link|Kaja Mianowana|pl}}, Weronika Walenciak: Fleur-de-Lys
+
+=== Original Ukrainian cast===
+* Olha Zhmuryn - Esmeralda
+* Zinoviy Karach - Quasimodo
+* Anton Kopytin - Frollo
+* Viktoriia Vasalatii - Fleur-de-Lys
+* Viktor Romanchenko - Clopin
+* Mykhailo Dimov - Gringoire
+* Arkadii Voitiuk - Phoebus
+
+==Recordings==
+=== Cast albums ===
+=== Instrumental albums ===
+=== Video recordings ===
+==See also==
+==References==
+==Further reading==
+==External links==

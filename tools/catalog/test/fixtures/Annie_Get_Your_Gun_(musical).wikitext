@@ -1,0 +1,266 @@
+{{Infobox musical
+| name        = Annie Get Your Gun
+| image       = Annie_Merman.jpg
+| caption     = [[Broadway theatre|Broadway]] 1946 Original Cast Album
+| music       = [[Irving Berlin]]
+| lyrics      = Irving Berlin
+| book        = {{unbulleted list|[[Dorothy Fields]]|[[Herbert Fields]] }}
+| basis       = 
+| productions =  {{collapsible list| 1946 [[Broadway theatre|Broadway]]| 1947 [[West End theatre|West End]]| 1947 U.S. Tour| 1947 [[Melbourne]]| 1950 [[Annie Get Your Gun (film)|Film]]| 1958 Broadway [[revival (theatre)|revival]]| 1966 Broadway revival| 1975 [[Mexico]]| 1986 [[United Kingdom|UK]] tour and London revival| 1992 West End revival| 1999 Broadway revival| 2000 U.S. Tour| 2009 London revival| 2014 UK Tour| 2023 London Palladium Concert | }}
+| awards      = 1999 [[Tony Award for Best Revival of a Musical|Tony Award for Best Revival]]
+}}
+==History and background==
+==Plot summary==
+===Act I===
+===Act II===
+== Notable casts ==
+{| class="wikitable"
+|+
+!Character
+!Original Broadway
+(1946)
+!Original West End
+(1947)
+!First U.S. Tour
+(1947)
+!First Broadway Revival
+(1958)
+!Second Broadway Revival
+(1966)
+![[Annie Get Your Gun – 1986 London Cast|First West End Revival]]
+[[Annie Get Your Gun – 1986 London Cast|(1986)]]
+!Third Broadway Revival
+(1999)
+!Second U.S. Tour
+(2000)
+|-
+![[Annie Oakley]]
+|[[Ethel Merman]]
+|[[Dolores Gray]]
+|[[Mary Martin]]
+|[[Betty Jane Watson]]
+|[[Ethel Merman]]
+|[[Suzi Quatro]]
+|[[Bernadette Peters]]
+|[[Marilu Henner]]
+|-
+![[Frank E. Butler|Frank Butler]]
+|[[Ray Middleton (actor)|Ray Middleton]]
+|Bill Johnson 
+|Earl Covert
+|[[David Atkinson (baritone)|David Atkinson]]
+|[[Bruce Yarnell]]
+|[[Eric Flynn]]
+|[[Tom Wopat]]
+|[[Rex Smith]]
+|-
+!Dolly Tate/Davenport
+|Lea Penman
+|Barbara Babington
+|Jean Cleveland
+|[[Margaret Hamilton (actress)|Margaret Hamilton]]
+|[[Benay Venuta]]
+|Maureen Scott
+|Valerie Wright
+|Susann Fletcher
+|-
+![[Buffalo Bill]]
+|William O'Neal
+|Ellis Irving
+|Jack Rutherford
+|[[James Rennie (actor)|James Rennie]]
+|Rufus Smith
+|[[Edmund Hockridge]]
+|[[Ron Holgate]]
+|George McDaniel
+|-
+![[Sitting Bull|Chief Sitting Bull]]
+|[[Harry Bellaver]]
+|John Garside
+|Zachary A. Charles
+|[[Harry Bellaver]]
+|[[Harry Bellaver]]
+|[[Berwick Kaler]] 
+|Gregory Zaragoza
+|[[Larry Storch]]
+|-
+!Tommy Keeler
+|Kenneth Bowers
+|[[Irving Davies]]
+|Tommy Wonder
+|Richard France
+|x{{Efn|Characters Tommy Keeler and Winnie Tate were cut in both this production and the 1986 West End revival cast|name=|group=}}
+|x
+|Andrew Palermo
+|Eric Sciotto
+|-
+!Charlie Davenport
+|Marty May
+|Hal Bryan
+|Donald Burr
+|[[Jack Whiting (actor)|Jack Whiting]]
+|[[Jerry Orbach]]
+|[[Matt Zimmerman (actor)|Matt Zimmerman]]
+|Peter Marx
+|Joe Hart
+|-
+!Winnie Tate
+|Betty Anne Nyman
+|[[Wendy Toye]]
+|[[Billie Worth]]
+|Rain Winslow
+|x
+|x
+|Nicole Ruth Snelson
+|Claci Miller
+|-
+![[Pawnee Bill]]
+|George Lipton
+|Edmund Dalby
+|[[Bern Hoffman]]
+|[[William LeMassena]]
+|Jack Dabdoub
+|Michael G. Jones
+|[[Ronn Carroll]]
+|Charles Goff
+|}
+'''Notes'''
+{{notelist}}
+
+==Characters==
+*[[Annie Oakley]]—a sharpshooter in the Wild West show
+*[[Frank E. Butler|Frank Butler]]—the Wild West show's star
+*Dolly Tate—Frank's flamboyant assistant; Winnie's sister (Charlie's sister in the 1966 version and the 1986 version as Dolly Davenport)
+*[[Buffalo Bill]]—owner of the Wild West show
+*Chief [[Sitting Bull]]—Sioux chief and holy man; Annie's protector
+*Tommy Keeler§—knife-thrower in the Wild West show; Winnie's boyfriend; part Native American (not in the 1966 version nor the 1986 version)
+*Charlie Davenport—manager of the Wild West show 
+*Winnie Tate§—Dolly's sister; Tommy's girlfriend and his assistant in the knife-throwing act (not in the 1966 version nor the 1986 version)
+*[[Pawnee Bill]]—owner of a competing western show
+*Foster Wilson—hotel owner
+* Little Boy-show opens on him
+*Annie's brothers and sisters: Jessie, Nellie, Little Jake, and Minnie (Minnie was written out of the 1999 revival)
+
+''Notes''
+*§Tommy and Winnie and their songs were written out of the film & 1966 revision. The 1999 revival restored their characters and songs.
+
+==Musical numbers==
+
+===Original 1946 production===
+{{col-begin}}
+{{col-2}}
+;Act I
+* Overture — Orchestra
+*"Colonel Buffalo Bill" — Charlie Davenport, Dolly Tate, and ensemble
+*"I'm a Bad, Bad Man" — Frank Butler
+*"[[Doin' What Comes Natur'lly]]" — Annie Oakley and her siblings
+*"[[The Girl That I Marry]]" — Frank and Annie
+*"[[You Can't Get a Man with a Gun]]" — Annie
+*"[[There's No Business Like Show Business]]" — Frank, Buffalo Bill, Charlie, Annie, and ensemble
+*"[[They Say It's Wonderful]]" — Annie and Frank
+*"[[Moonshine Lullaby]]" § — Annie and siblings
+*"I'll Share It All With You" — Winnie Tate and Tommy Keeler
+*"Ballyhoo" — Riding Mistress and Show People
+*"There's No Business Like Show Business" (Reprise) — Annie
+*"My Defenses Are Down" — Frank and ensemble
+*"Wild Horse Ceremonial Dance" — Wild Horse, Indian Braves and Maidens
+*"[[I'm an Indian, Too]]" — Annie and ensemble
+*Adoption Dance — Annie, Wild Horse and Braves
+{{col-break}}
+;Act II
+* Entr'acte — Orchestra
+*"[[I Got Lost In His Arms]]" § — Annie
+*"[[Who Do You Love, I Hope?]]" — Winnie and Tommy
+*"[[I Got the Sun in the Mornin' (and the Moon at Night)|I Got the Sun in the Morning]]" — Annie and ensemble
+*"They Say It's Wonderful" (Reprise) — Annie and Frank
+*"The Girl That I Marry" (Reprise) — Frank
+*"[[Anything You Can Do (song)|Anything You Can Do]]" — Annie and Frank
+*"There's No Business Like Show Business" (Reprise) — Ensemble
+{{col-end}}
+;''Notes''
+
+*§: omitted from the 1950 film version
+*"Let's Go West Again" was written by Berlin for the 1950 film but was not used. However, there are recordings by both [[Betty Hutton]] and [[Judy Garland]].
+*"Take It in Your Stride" was a solo for Annie written for the original production. It was replaced by a reprise of "There's No Business Like Show Business" when Merman found the number too difficult. It was recorded by [[Liz Larsen]] for the album ''Lost in Boston''.
+
+===1999 revival===
+{{col-begin}}
+{{col-2}}
+;Act I
+*"[[There's No Business Like Show Business]]" - Frank, Dolly, Winnie and Company
+*"[[Doin' What Comes Natur'lly]]" — Annie, Kids and Foster Wilson
+*"[[The Girl That I Marry]]" — Frank and Annie
+*"[[You Can't Get a Man with a Gun]]" — Annie
+*"[[There's No Business Like Show Business]]" (Reprise) — Frank, Buffalo Bill, Charlie and Annie
+*"I'll Share It All With You" — Tommy, Winnie and Company
+*"[[Moonshine Lullaby]]" — Annie, Kids, Ensemble Trio
+*"There's No Business Like Show Business" (Reprise) — Annie
+*"[[They Say It's Wonderful]]" — Annie and Frank
+*"My Defenses Are Down" — Frank and Young Men
+* Finale: "You Can't Get a Man with a Gun (Reprise)" - Annie
+{{col-break}}
+;Act II
+*Entr'acte: The European Tour — Annie and Company
+*"[[I Got Lost In His Arms]]" — Annie
+*"Who Do You Love, I Hope" — Tommy, Winnie and Company
+*"[[I Got the Sun in the Mornin' (and the Moon at Night)|I Got the Sun in the Morning]]" — Annie and Company
+*"An Old-Fashioned Wedding" — Annie and Frank
+*"The Girl That I Marry" (Reprise) — Frank
+*"[[Anything You Can Do (song)|Anything You Can Do]]" — Annie and Frank
+*"They Say It's Wonderful" (Reprise) — Annie, Frank and Company
+{{col-end}}
+
+==Productions==
+===Original productions===
+===1958 Broadway revival===
+===1966 Broadway revival===
+===1973 Shady Grove Music Fair production===
+=== 1976 Mexican production ===
+===1977 Los Angeles Civic Light Opera production===
+===1986 UK tour and London revival===
+===1992 London revival===
+===1999 Broadway revival===
+====Notable replacements====
+===2000 U.S. tour===
+===2006 Prince Music Theater production===
+===2009 London revival===
+===2010 Ravinia Festival concert===
+===Other major productions===
+==Film and television versions==
+==Recordings==
+==Reception==
+=== Native American criticism ===
+==Awards and nominations==
+===1966 Broadway revival===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Direction of a Musical|Best Direction of a Musical]] [[Tony Award for Best Choreography|Best Choreography]] [[Danny Daniels]]
+|}
+===1999 Broadway revival===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Revival of a Musical|Best Revival of a Musical]] [[Tony Award for Best Actor in a Musical|Best Actor in a Musical]] [[Tom Wopat]] [[Tony Award for Best Actress in a Musical|Best Actress in a Musical]] [[Bernadette Peters]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Revival of a Musical|Outstanding Revival of a Musical]] [[Drama Desk Award for Outstanding Actor in a Musical|Outstanding Actor in a Musical]] [[Drama Desk Award for Outstanding Actress in a Musical|Outstanding Actress in a Musical]] [[Grammy Award]] [[Grammy Award for Best Musical Show Album|Best Musical Show Album]] [[Drama Desk Special Award|Special Award]] [[Reba McEntire]] [[Theatre World Award]]
+|}
+===2009 London revival===
+{|
+|-
+| links || [[Laurence Olivier Award]] [[Laurence Olivier Award for Best Musical Revival|Best Musical Revival]]
+|}
+==Notes==
+==References==
+== External links ==
+
+== Actors mentioned in prose (fixture) ==
+starred [[Ethel Merman]].
+starred [[Evie Hayes]].
+starring [[Marcel Merkes]].
+starring [[Barbara Eden]].
+starring [[Debbie Reynolds]].
+cast featured [[Art Lund]], [[Gavin MacLeod]].
+starred [[Bernadette Peters]].
+starred  [[Andrea McArdle]].
+starred [[Patti LuPone]].
+starring [[Judy Kaye]].
+starring [[Megan Hilty]].
+starring [[Rachel Tucker]].
+starring [[Mary Martin]].

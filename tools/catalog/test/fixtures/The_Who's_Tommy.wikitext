@@ -1,0 +1,274 @@
+{{Infobox Musical
+| name = The Who's Tommy
+| image = Tommy-poster.png
+| caption = Broadway promotional poster
+| music = [[Pete Townshend]]
+| lyrics = Pete Townshend
+| book = Pete Townshend <br />[[Des McAnuff]]
+| basis = ''[[Tommy (The Who album)|Tommy]]''<br />by [[The Who]]
+| premiere_date = 1 July 1992
+| premiere_location = [[La Jolla Playhouse]], [[San Diego]]
+| productions = 1992 [[San Diego]]<br />1993 [[Broadway theatre|Broadway]]<br />1996 [[West End theatre|West End]]<br />2015 Off-West End Revival<br />
+2024 Broadway Revival
+| awards = {{hidden|List of awards|[[Tony Award for Best Direction of a Musical]]<br />[[Tony Award for Best Original Score]]<br />[[Drama Desk Award for Outstanding Director of a Musical]]<br />[[Grammy Award for Best Musical Show Album]]<br />[[Laurence Olivier Award for Best Musical Revival]]<br />[[Laurence Olivier Award for Best Director]]}}
+| image_size = 
+}}
+==Productions==
+==Plot==
+===Prologue===
+===Act I===
+===Act II===
+===Plot differences between the three versions===
+==Characters==
+; Principals
+* Tommy, age 16–25, A young pinball genius. [[Tenor]]. 
+* Captain Walker age: 25–35, Tommy's guilty father. Tenor.
+* Mrs. Walker, age: 18–30, Tommy's weary mum.  Pop [[Mezzo-soprano]].
+
+; Other Tommys
+* Tommy, age 3–7: child Tommy 
+* Tommy, age 8–12: preadolescent Tommy
+
+; Supporting roles
+* Cousin Kevin, age: 15–20, Tommy's evil babysitting cousin. A young, loutish nuisance. [[Baritone]].
+* Uncle Ernie, age: 30–45, Tommy's perverted uncle.  A lecherous bachelor. Tenor.
+* The Lover, age: 25–30, Mrs. Walker's lover, killed by Captain Walker
+* The Hawker, age: 20–50, An unsavory street man. Baritone
+* The Gypsy, age: 20–35, A drug dealer and prostitute. Rock [[Mezzo-soprano]]
+* The Specialist, age: 30–50, A very modern doctor who has new theories on how to cure Tommy.  Baritone.
+* Sally Simpson, age: 13–20, A typical teenybopper. [[Soprano]].
+
+==Notable casts==
+{| class="wikitable"
+|-
+! rowspan="2" | Character
+! San Diego
+! Broadway
+! US National Tour
+! Toronto
+! Frankfurt
+! Non-Equity Tour
+! West End
+! Stratford Festival
+! Washington D.C.
+!Chicago
+! Broadway Revival
+|-
+!<small>1992</small>
+! colspan="2" |<small>1993</small>
+! colspan="3" |<small>1995</small>
+!<small>1996</small>
+!<small>2013</small>
+!<small>2019</small>
+!<small>2023</small>
+!<small>2024</small>
+|-
+! Tommy
+| colspan="2" align=center|[[Michael Cerveris]]
+| align=center|[[Steve Isaacs]]
+| align=center|[[Tyley Ross]]
+| align=center|[[Michael Cerveris]]
+| align=center|Michael Seelbach
+| align=center|[[Paul Keating (actor)|Paul Keating]]
+| align=center|Robert Markus
+| align=center|[[Casey Cott]]
+| colspan="2" align=center|[[Ali Louis Bourzgui]]
+|-
+! Mrs. Walker
+| colspan="2" align=center|[[Marcia Mitzman Gaven]]
+| align=center|[[Jessica Molaskey]]
+| align=center|Jennifer Lyon
+| align=center|Helen Hobson
+| align=center|Erika Greene
+| align=center|[[Kim Wilde]]
+| align=center|Kira Guloien
+| align=center|[[Mandy Gonzalez]]
+| colspan="2" align=center|[[Alison Luff]]
+|-
+! Captain Walker
+| colspan="2" align=center|[[Jonathan Dokuchitz]]
+| align=center|Jason Workman
+| align=center|David Rogers
+| align=center|Joe Lutton
+| align=center|Michael J. Vergoth
+| align=center|Alistair Robins
+| align=center|[[Jeremy Kushnier]]
+| align=center|[[Christian Borle]]
+| colspan="2" align=center|[[Adam Jacobs]]
+|-
+! Uncle Ernie
+| colspan="2" align=center|[[Paul Kandel]]
+| align=center|[[William Youmans]]
+| align=center|[[Frank Moore (Canadian actor)|Frank Moore]]
+| align=center|Bill Kocis
+| align=center|Rob Krahenbuhl
+| align=center|[[Ian Bartholomew]]
+| align=center|Steve Ross
+| align=center|[[Manu Narayan]]
+| colspan="2" align=center|John Ambrosino
+|-
+! Cousin Kevin
+| colspan="2" align=center|[[Anthony Barrile]]
+| align=center|[[Roger Bart]]
+| align=center|[[Ted Dykstra]]
+| align=center|[[Roger Bart]]
+| align=center|Peter Connelly
+| align=center|Hal Fowler
+| align=center|[[Paul Alexander Nolan]]
+| align=center|[[Wesley Taylor]]
+| colspan="2" align=center|Bobby Conte
+|-
+! The Gypsy
+| colspan="2" align=center|Cheryl Freeman
+| align=center|Kennya Ramsey
+| align=center|Jinky Llamanzares
+| align=center|Linda Dorsey
+| align=center|Tracey Lee
+| align=center|[[Nicola Hughes (actress)|Nicola Hughes]]
+| align=center|Jewelle Blackman
+| align=center|Kimberly Nichole
+| colspan="2" align=center|Christina Sajous
+|-
+! Hawker
+| rowspan="2" align=center|Rick Fitts
+| align=center|[[Michael McElroy (actor)|Michael McElroy]]
+| rowspan="2" align=center|Destan Owens
+| align=center|[[Thom Allison]]
+| rowspan="2" align=center|Destan Owens
+| align=center| Keith Bocklet
+| align=center|[[Shaun Escoffery]]
+| align=center|Lee Siegel
+| align=center|[[Mykal Kilgore]]
+| colspan="2" rowspan="2" align=center|Sheldon Henry
+|-
+! Specialist
+| align=center|[[Norm Lewis]]
+| align=center|Rudy Webb
+| align=center|Tony Oakley
+| align=center|Gregg Brown
+| align=center|Matthew G. Brown
+| align="center" |Charl Brown
+|-
+! Lover
+| rowspan="2" colspan="2" align=center|Lee Morgan
+| rowspan="2" align=center|Alec Timerman
+| rowspan="2" align=center|Daniel Nathan Kramer
+| rowspan="2" align=center|[[Tim Talman]]
+| align=center|Keith Bocklet
+| rowspan="2" align=center|[[John Partridge (actor)|John Partridge]]
+| rowspan="2" align=center|Sean Alexander Hauk
+| rowspan="2" align=center|Rory Donovan
+| colspan="2" align=center|Nathan Lucrezio
+|-
+! Harmonica Player
+| align=center|Kevin Ray
+| colspan="2" align=center|Daniel Quadrino
+|-
+! Pinball Lads
+| colspan="2" align=center|Donnie Kehr<br>[[Christian Hoff]]
+| align=center|Anthony Galde<br>Clarke Thorell
+| align=center|[[Tim Howar]]<br>[[Jeremy Kushnier]]
+| align=center|Anthony Galde<br>Scott Pattison
+| align=center|Jason Reiff<br>John Houfe
+| align=center|Adrian Smith<br>[[James Gillan (actor)|James Gillan]]
+| align=center|Gabriel Antonacci<br>Matthew Armet
+| align=center|Nick Martinez<br>Kaleb Wells
+| colspan="2" align=center|Mia Mitrano<br>Jeremiah Alsop
+|-
+! Sally Simpson
+| align=center|Hilary Morse
+| align=center|[[Sherie Rene Scott]]
+| align=center|Hilary Morse
+| align=center|Jennifer Copping
+| align=center|Jackie Crawford
+| align=center|Shorey Walker
+| align=center|Gail Easdale
+| align=center|Jennifer Rider-Shaw
+| align=center|[[Taylor Iman Jones]]
+| colspan="2" align=center|Haley Gustafson
+|}
+
+=== Notable cast replacements ===
+
+====Broadway====
+* Young Tommy – [[Emily Hart]]
+* Mrs. Walker – [[Laura Dean (actress)|Laura Dean]], [[Jessica Molaskey]], [[Alice Ripley]]
+* Captain Walker – [[Jim Newman (actor)|Jim Newman]]
+* The Gypsy – [[Tracy Nicole Chapman]]
+
+====US National Tour====
+* Young Tommy – [[John Francis Daley]]
+* Cousin Kevin – [[Tim Talman]]
+* The Gypsy – [[Carla Renata]]
+* Pinball Lad – [[Stephen Bienskie]]
+
+==Song list==
+{{col-begin}}
+{{col-2}}
+; Act One
+* "[[Overture (The Who song)|Overture]]" – Company
+* "Captain Walker" – Officers
+* "It's a Boy" / "We've Won" – Nurses and Mrs. Walker / Captain Walker and Allied Soldiers
+* "Twenty-One" / "What About the Boy?" – Mrs. Walker and Boyfriend / Captain Walker and Mrs. Walker
+* "Amazing Journey" – Tommy
+* "Courtroom Scene" – Judge
+* "Sparks" – Instrumental
+* "Amazing Journey" (Reprise) – Tommy
+* "[[Christmas (The Who song)|Christmas]]" / "[[See Me, Feel Me]]" – Captain Walker, Mrs. Walker, Minister, Minister's Wife and Ensemble / Tommy
+* "Do You Think It's Alright?" – Captain Walker and Mrs. Walker
+* "Fiddle About" (''music and lyrics by [[John Entwistle]]'') – Uncle Ernie and Ensemble
+* "See Me, Feel Me" (Reprise) – Tommy
+* "Cousin Kevin" (''music and lyrics by John Entwistle'') – Cousin Kevin and Ensemble
+* "Sensation" – Tommy and Ensemble
+* "Sparks (Reprise)"
+* "[[Eyesight to the Blind]]" (''lyrics by [[Sonny Boy Williamson II]], music and additional lyrics by Pete Townshend'') – Hawker, Harmonica Player and Ensemble
+* "[[The Acid Queen]]" – The Gypsy
+* "[[Pinball Wizard]]" – Local Lads, Cousin Kevin and Ensemble
+{{col-2}}
+; Act Two
+* "Underture (Entr'acte)" – Ensemble
+* "It's a Boy (Reprise)" / "There's a Doctor" – Captain Walker and Mrs. Walker
+* "[[Go to the Mirror!]]" / "Listening to You"  – Specialist, Specialist's Assistant, Captain Walker and Mrs. Walker / Tommy, Tommy (Age 10) and Tommy (Age 4)
+* "Tommy, Can You Hear Me?" – Local Lads
+* "I Believe My Own Eyes" – Captain Walker and Mrs. Walker
+* "Smash the Mirror" – Mrs. Walker
+* "[[I'm Free (The Who song)|I'm Free]]" – Tommy
+* "Streets of London 1961–3 (Miracle Cure)" – News Vendor and Local Lads
+* "Sensation (Reprise)" – Tommy and Ensemble
+* "I'm Free" (Reprise) / "Pinball Wizard" (Reprise) – Tommy and Company
+* "Tommy's Holiday Camp" (''music and lyrics by [[Keith Moon]]'') – Uncle Ernie †
+* "Sally Simpson" – Cousin Kevin, Security Guards, Sally Simpson, Mr. Simpson and Mrs. Simpson
+* "Welcome" – Tommy and Ensemble
+* "Sally Simpson's Question" – Sally Simpson, Tommy
+* "[[We're Not Gonna Take It (The Who song)|We're Not Gonna Take It]]" – Tommy and Ensemble
+* "See Me, Feel Me" (Final Reprise) / "Listening to You" (Reprise) – Tommy and Company
+{{col-end}}
+
+† Cut from the 2024 Broadway Revival
+
+== Recordings ==
+==Awards and nominations==
+===Original Broadway production===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Musical|Best Musical]] [[Tony Award for Best Book of a Musical|Best Book of a Musical]] [[Pete Townshend]] [[Des McAnuff]] [[Tony Award for Best Performance by a Featured Actor in a Musical|Best Performance by a Featured Actor in a Musical]] [[Michael Cerveris]] [[Paul Kandel]] [[Tony Award for Best Performance by a Featured Actress in a Musical|Best Performance by a Featured Actress in a Musical]] [[Marcia Mitzman]] [[Tony Award for Best Direction of a Musical|Best Direction of a Musical]] [[Tony Award for Best Choreography|Best Choreography]] [[Wayne Cilento]] [[Tony Award for Best Original Score|Best Original Score]] [[Tony Award for Best Scenic Design|Best Scenic Design]] [[Tony Award for Best Costume Design|Best Costume Design]] [[Tony Award for Best Lighting Design|Best Lighting Design]] [[Chris Parry (lighting designer)|Chris Parry]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Musical|Outstanding Musical]] [[Drama Desk Award for Outstanding Orchestrations|Outstanding Orchestrations]] [[Drama Desk Award for Outstanding Director of a Musical|Outstanding Director of a Musical]] [[Drama Desk Award for Outstanding Choreography|Outstanding Choreography]] [[Drama Desk Award for Outstanding Set Design|Outstanding Set Design]] [[Wendall K. Harrington]] [[Drama Desk Award for Outstanding Costume Design|Outstanding Costume Design]] [[Drama Desk Award for Outstanding Lighting Design|Outstanding Lighting Design]] [[Drama Desk Award for Outstanding Sound Design|Outstanding Sound Design]] [[Grammy Award]] [[Grammy Award for Best Musical Show Album|Best Musical Show Album]] [[Sir George Martin]] [[Theatre World Award]]
+|}
+===Original London production===
+{|
+|-
+| links || [[Laurence Olivier Award]] [[Laurence Olivier Award for Best Musical Revival|Best Musical Revival]] [[Laurence Olivier Award for Best Actor in a Musical|Best Actor in a Musical]] [[Paul Keating (actor)|Paul Keating]] [[Laurence Olivier Award for Best Performance in a Supporting Role in a Musical|Best Performance in a Supporting Role in a Musical]] [[James Gillan (actor)|James Gillan]] [[Laurence Olivier Award for Best Director|Best Director]] [[Des McAnuff]] [[Laurence Olivier Award for Best Theatre Choreographer|Best Theatre Choreographer]] [[Wayne Cilento]] [[Laurence Olivier Award for Best Set Design|Best Set Design]] [[Laurence Olivier Award for Best Costume Design|Best Costume Design]] [[Laurence Olivier Award for Best Lighting Design|Best Lighting Design]] [[Chris Parry (lighting designer)|Chris Parry]]
+|}
+=== 2024 Broadway revival ===
+{|
+|-
+| links || [[Tony Awards]] [[Tony Award for Best Revival of a Musical|Best Revival of a Musical]] [[Drama League Award|Drama League Awards]] [[Des McAnuff]] [[Drama League Distinguished Performance Award|Distinguished Performance]] [[Ali Louis Bourzgui]] [[Outer Critics Circle Awards]] [[Lorin Latarro]] [[Gareth Owen (sound designer)|Gareth Owen]] [[Peter Nigrini]] [[Drama Desk Award|Drama Desk Awards]] [[Theatre World Award]] [[Chita Rivera Awards for Dance and Choreography|Chita Rivera Awards]]
+|}
+==References==
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+cast included [[Michael Cerveris]].
+cast included [[Michael Cerveris]], [[Marcia Mitzman]].
+played by [[Tyley Ross]].
+Cast included [[Michael Cerveris]].
+starred [[Casey Cott]].

@@ -1,0 +1,202 @@
+{{Infobox musical
+| name = Cabaret
+| image = Cabaret 1966 Musical Poster.jpg
+| imagesize = 200px
+| caption = Original Broadway promotional poster by [[Tom Morrow (artist)|Tom Morrow]]
+| music = [[John Kander]]
+| lyrics = [[Fred Ebb]]
+| book = [[Joe Masteroff]]
+| basis = {{Plainlist|
+* {{Based on|''[[I Am a Camera]]''|[[John Van Druten]]}}
+* {{Based on|''[[Goodbye to Berlin]]''|[[Christopher Isherwood]]}}
+}}
+| premiere_date = October 10, 1966
+| premiere_location = [[Shubert Theatre (Boston)|Shubert Theatre]], [[Boston]]
+| productions = {{hidden|See list|
+{{unbulleted list|item_style=margin-top:auto;margin-bottom:auto
+|1966 [[Boston]]
+|1966 [[Broadway theatre|Broadway]]
+|1967 US tour
+|1968 [[West End theatre|West End]]
+|1969 US tour
+|1986 West End [[revival (theatre)|revival]]
+|1987 US tour
+|1987 Broadway revival
+|1989 US tour
+|1998 Broadway revival
+|1999 North American tour
+|2006 West End revival
+|2008 UK tour
+|2012 UK tour
+|2012 West End revival
+|2013 UK tour
+|2014 Broadway revival
+|2016 North American tour
+|2017 UK tour
+|2019 UK tour
+|2021 West End revival
+|2024 Broadway revival
+}}}}
+| awards = {{Plainlist}}
+* 1967 [[Tony Award for Best Musical]]
+* 1967 [[Tony Award for Best Original Score]]
+* 1998 [[Tony Award for Best Revival of a Musical|Tony Award for Best Musical Revival]]
+* 2022 [[Laurence Olivier Award for Best Musical Revival|Olivier Award for Best Musical Revival]]
+{{Endplainlist}}
+}}
+== Background ==
+=== Historical basis ===
+=== Musical development ===
+== Synopsis ==
+=== Act I ===
+=== Act II ===
+== Musical numbers ==
+{{col-begin}}
+{{col-2}}
+'''Act I'''{{sfn|Masteroff|1967|loc=Musical Numbers}}{{sfnm|1a1=Bloom|1a2=Vlastnik|1y=2004|1p=48|2a1=Kander|2a2=Ebb|2y=1999|2pp=3–4}}
+* "[[Willkommen]]"{{snd}}Emcee and Company
+* "So What?"{{snd}}Fräulein Schneider
+* "Telephone Song"/"Telephone Dance"{{efn|name=Telephone Song|Cut in the 1993, 1998, 2012, 2014 and 2021 revivals, replaced by "Mein Herr".}}{{snd}}Cliff and Company
+* "Don't Tell Mama"{{snd}}Sally and the Girls
+* "Mein Herr"{{snd}}Sally and the Girls
+* "Perfectly Marvelous"{{snd}}Sally and Cliff
+* "Two Ladies"{{efn|name=Two Ladies|The character Bobby replaced one of the ladies in the song for the 1998 and 2014 revivals.}}{{snd}}Emcee and Two Ladies{{efn|name=Rosie and Frenchie|Typically they are "Rosie" and "Frenchie".}}
+* "It Couldn't Please Me More (A Pineapple)"{{snd}}Fräulein Schneider and Herr Schultz
+* "[[Tomorrow Belongs to Me]]"{{snd}}Emcee and Waiters{{efn|name=Tomorrow Belongs to Me|Changed, in the 1998 and 2014 revivals, to a [[gramophone]] solo recording of a [[boy soprano]], with the Emcee speaking the last words.{{sfn|Garebian|2011|pp=167, 200}} Sung, in the 2021 and 2024 revivals, by the Emcee.}}
+* "Why Should I Wake Up?"{{snd}}Cliff
+* "Don't Go"{{efn|name=Don't Go|Replaced "Why Should I Wake Up?" in the 1987 revival but removed from the score afterwards.}}{{snd}}Cliff
+* "[[Maybe This Time (Kander and Ebb song)|Maybe This Time]]"{{efn|name=Maybe This Time|Popularized by the 1972 film and added to the stage revivals in 1998, 2012, 2014, and 2021.}}{{snd}}Sally
+* "Sitting Pretty"{{efn|name=Sitting Pretty|"Money, Money", a song from the 1972 film, was blended with "Sitting Pretty" in the 1987 revival. It replaced "Sitting Pretty" in the 1998, 2014 and 2021 revivals.}}{{snd}}Emcee and Kit Kats
+* "Money"{{snd}}Emcee and the Cabaret Girls
+* "Married"{{efn|name=Married|In the 1998 revival, Fräulein Kost sang the film's German translation of "Married" after two English verses.}}{{snd}}Fräulein Schneider and Herr Schultz
+* "Meeskite"{{efn|name=Meeskite|Cut in the 1993 1987, 1998, 2012, 2014 and 2021 revivals.}}{{snd}}Herr Schultz and Sally
+* "Tomorrow Belongs to Me" (reprise){{snd}}Fräulein Kost, Ernst Ludwig and Guests
+{{col-2}}
+'''Act II'''{{sfn|Masteroff|1967|loc=Musical Numbers}}{{sfnm|1a1=Bloom|1a2=Vlastnik|1y=2004|1p=48|2a1=Kander|2a2=Ebb|2y=1999|2pp=3–4}}
+* "{{lang|fr|Entr'acte}}"/"Kickline"{{snd}}Emcee and the Girls
+* "Married" (reprise){{efn|name=Married reprise|Cut in the 2012 revival.}}{{snd}}Herr Schultz
+* "[[If You Could See Her|If You Could See Her (The Gorilla Song)]]"{{snd}}Emcee
+* "What Would You Do?"{{snd}}Fräulein Schneider
+* "I Don't Care Much"{{efn|name=I Don't Care Much|Added for the 1987, 1993, 1998, 2012, 2014 and 2021 revivals.{{sfn|Garebian|2011|p=71}}}}{{snd}}Emcee
+* "[[Cabaret (Cabaret song)|Cabaret]]"{{snd}}Sally
+* "Willkommen" (reprise)/"Finale Ultimo"{{snd}}Emcee, Cliff, and Company
+{{col-end}}
+
+=== Song modifications ===
+
+== Productions ==
+=== Original Broadway production ===
+=== Original West End production ===
+=== 1986 West End revival ===
+=== 1987 Broadway revival ===
+=== 1993 London revival ===
+=== 1998 Broadway revival ===
+=== 2006 West End revival ===
+=== 2012 West End revival ===
+=== 2014 Broadway revival ===
+=== 2021 West End revival ===
+=== 2024 Broadway revival ===
+=== Other productions ===
+== Cast and characters ==
+
+{| class="wikitable"
+! width="130" |Character
+! width="120" |Original Broadway Cast
+! width="800" |Other notable performers in long-running, noteworthy productions
+|-
+
+|[[Sally Bowles]]
+|[[Jill Haworth]]
+|[[Judi Dench]], [[Kelly Hunter]], [[Alyson Reed]], [[Jane Horrocks]], [[Natasha Richardson]], [[Anna Maxwell Martin]], [[Michelle Ryan]], [[Michelle Williams (actress)|Michelle Williams]], [[Jessie Buckley]], [[Gayle Rankin]], [[Anita Gillette]], [[Melissa Hart (actress)|Melissa Hart]], [[Susan Egan]], [[Joely Fisher]], [[Lea Thompson]], [[Gina Gershon]], [[Brooke Shields]], [[Molly Ringwald]], [[Jane Leeves]], [[Debbie Gibson]], [[Milena Govich]], [[Jennifer Jason Leigh]], [[Melina Kanakaredes]], [[Teri Hatcher]], [[Kim Medcalf]], [[Amy Nuttall]], [[Emma Stone]], [[Sienna Miller]], [[Amy Lennox]], [[Madeline Brewer]], [[Aimee Lou Wood]], [[Maude Apatow]], [[Rebecca Lucy Taylor]], [[Cara Delevingne]], [[Rhea Norwood]], [[Auli'i Cravalho]], [[Katherine Langford]], [[Marisha Wallace]], [[Eva Noblezada]], [[Hannah Dodd (actress)|Hannah Dodd]], [[Katie Hall (actress)|Katie Hall]], [[Joy Woods]]
+|-
+|The Emcee{{efn|name=Emcee|The phonetic term "Emcee" is specifically used by playwright [[Joe Masteroff]] in the musical's script.{{sfn|Masteroff|1967|pp=1–10, 44–42}}}}
+|[[Joel Grey]]
+|[[Barry Dennen]], [[Wayne Sleep]], [[Alan Cumming]], [[James Dreyfus]], [[Will Young]], [[Eddie Redmayne]], [[Michael C. Hall]], [[Norbert Leo Butz]], [[Raúl Esparza]], [[John Stamos]], [[Neil Patrick Harris]], [[Jon Secada]], [[Adam Pascal]], [[Julian Clary]], [[Alistair McGowan]], [[Randy Harrison]], [[Fra Fee]], [[Callum Scott Howells]], [[John McCrea (actor)|John McCrea]], [[Mason Alexander Park]], [[Jake Shears]], [[Luke Treadaway]], [[Layton Williams]], [[Adam Lambert]], [[Billy Porter]], [[Orville Peck]], [[Rob Madge]], [[Reeve Carney]], [[Matt Willis]], [[Jamie Muscato]]
+|-
+|Clifford Bradshaw
+|[[Bert Convy]]
+|[[Kevin Colson]], [[Peter Land]], [[Gregg Edelman]], [[Adam Godley]], [[John Benjamin Hickey]], [[Michael Hayden (actor)|Michael Hayden]], [[Matt Rawle]], [[Omari Douglas]], [[Ken Kercheval]], [[Larry Kert]], [[Boyd Gaines]], [[Rick Holmes]]
+|-
+|[[Fräulein]] Schneider
+|[[Lotte Lenya]]
+|[[Lila Kedrova]], [[Regina Resnik]], [[Sara Kestelman]], [[Mary Louise Wilson]], [[Sheila Hancock]], [[Siân Phillips]], [[Linda Emond]], [[Liza Sadovy]], [[Bebe Neuwirth]], [[Blair Brown]], [[Carole Shelley]], [[Polly Bergen]], [[Alma Cuervo]], [[Mariette Hartley]], [[Honor Blackman]], [[Angela Richards]], [[Ruthie Henshall]]
+|-
+|Herr Schultz
+|[[Jack Gilford]]
+|[[Peter Sallis]], [[Werner Klemperer]], [[Ron Rifkin]], [[Danny Burstein]], [[Elliot Levey]], [[Laurence Luckinbill]], [[Dick Latessa]], [[Hal Linden]], [[Tom Bosley]], [[Tony Roberts (actor)|Tony Roberts]], [[Steven Skybell]]
+|-
+|Ernst Ludwig
+|[[Edward Winter (actor)|Edward Winter]]
+|[[Denis O'Hare]], [[Martin Moran (actor)|Martin Moran]]
+|-
+|Fräulein Kost
+|[[Peg Murray]]
+|[[Michele Pawk]], [[Harriet Thorpe]], [[Gayle Rankin]], [[Anna-Jane Casey]]
+|}
+
+== Recordings ==
+== Awards and nominations ==
+=== Original Broadway production ===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Musical|Best Musical]] [[Tony Award for Best Original Score|Best Original Score]] [[John Kander]] [[Fred Ebb]] [[Tony Award for Best Actor in a Musical|Best Actor in a Musical]] [[Jack Gilford]] [[Tony Award for Best Actress in a Musical|Best Actress in a Musical]] [[Lotte Lenya]] [[Tony Award for Best Featured Actor in a Musical|Best Featured Actor in a Musical]] [[Joel Grey]] [[Edward Winter (actor)|Edward Winter]] [[Tony Award for Best Featured Actress in a Musical|Best Featured Actress in a Musical]] [[Peg Murray]] [[Tony Award for Best Direction of a Musical|Best Direction of a Musical]] [[Harold Prince]] [[Tony Award for Best Choreography|Best Choreography]] [[Ron Field]] [[Tony Award for Best Scenic Design|Best Scenic Design]] [[Boris Aronson]] [[Tony Award for Best Costume Design|Best Costume Design]] [[Patricia Zipprodt]] [[New York Drama Critics' Circle|New York Drama Critics' Circle Award]] [[Outer Critics Circle Award]]
+|}
+=== 1987 Broadway revival ===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Revival of a Musical|Best Revival of a Musical]] [[Tony Award for Best Featured Actor in a Musical|Best Featured Actor in a Musical]] [[Werner Klemperer]] [[Tony Award for Best Featured Actress in a Musical|Best Featured Actress in a Musical]] [[Alyson Reed]] [[Regina Resnik]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Revival of a Musical|Outstanding Revival of a Musical]] [[Drama Desk Award for Outstanding Actor in a Musical|Outstanding Actor in a Musical]] [[Joel Grey]] [[Drama Desk Award for Outstanding Director of a Musical|Outstanding Director of a Musical]] [[Harold Prince]]
+|}
+=== 1993 London revival ===
+{|
+|-
+| links || [[Laurence Olivier Award]] [[Laurence Olivier Award for Best Musical Revival|Best Musical Revival]] [[Laurence Olivier Award for Best Actor in a Musical|Best Actor in a Musical]] [[Alan Cumming]] [[Laurence Olivier Award for Best Performance in a Supporting Role in a Musical|Best Performance in a Supporting Role in a Musical]] [[Sara Kestelman]] [[Laurence Olivier Award for Best Director of a Musical|Best Director of a Musical]] [[Sam Mendes]]
+|}
+=== 1998 Broadway revival ===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Revival of a Musical|Best Revival of a Musical]] [[Tony Award for Best Actor in a Musical|Best Actor in a Musical]] [[Alan Cumming]] [[Tony Award for Best Actress in a Musical|Best Actress in a Musical]] [[Natasha Richardson]] [[Tony Award for Best Featured Actor in a Musical|Best Featured Actor in a Musical]] [[Ron Rifkin]] [[Tony Award for Best Featured Actress in a Musical|Best Featured Actress in a Musical]] [[Mary Louise Wilson]] [[Tony Award for Best Direction of a Musical|Best Direction of a Musical]] [[Sam Mendes]] [[Rob Marshall]] [[Tony Award for Best Choreography|Best Choreography]] [[Tony Award for Best Orchestrations|Best Orchestrations]] [[Michael Gibson (musician)|Michael Gibson]] [[Tony Award for Best Costume Design|Best Costume Design]] [[William Ivey Long]] [[Tony Award for Best Lighting Design|Best Lighting Design]] [[Peggy Eisenhauer]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Revival of a Musical|Outstanding Revival of a Musical]] [[Drama Desk Award for Outstanding Actor in a Musical|Outstanding Actor in a Musical]] [[Drama Desk Award for Outstanding Actress in a Musical|Outstanding Actress in a Musical]] [[Drama Desk Award for Outstanding Featured Actress in a Musical|Outstanding Featured Actress in a Musical]] [[Michele Pawk]] [[Drama Desk Award for Outstanding Director|Outstanding Director]] [[Drama Desk Award for Outstanding Choreography|Outstanding Choreography]] [[Drama Desk Award for Outstanding Orchestrations|Outstanding Orchestrations]] [[Drama Desk Award for Outstanding Set Design|Outstanding Set Design]] [[Drama Desk Award for Outstanding Costume Design|Outstanding Costume Design]] [[Drama Desk Award for Outstanding Lighting Design|Outstanding Lighting Design]] [[Drama League Award]] [[New York Drama Critics' Circle|New York Drama Critics' Circle Award]] [[Outer Critics Circle Award]] [[Theatre World Award]]
+|}
+=== 2006 West End revival ===
+{|
+|-
+| links || [[Laurence Olivier Award]] [[Laurence Olivier Award for Best Musical Revival|Best Musical Revival]] [[Laurence Olivier Award for Best Performance in a Supporting Role in a Musical|Best Performance in a Supporting Role in a Musical]] [[Sheila Hancock]] [[Laurence Olivier Award for Best Theatre Choreographer|Best Theatre Choreographer]] [[Javier de Frutos]]
+|}
+=== 2012 West End revival ===
+{|
+|-
+| links || [[Laurence Olivier Award]] [[Laurence Olivier Award for Best Musical Revival|Best Musical Revival]] [[Laurence Olivier Award for Best Actor in a Musical|Best Actor in a Musical]] [[Will Young]] [[Laurence Olivier Award for Best Performance in a Supporting Role in a Musical|Best Performance in a Supporting Role in a Musical]] [[Siân Phillips]]
+|}
+=== 2014 Broadway revival ===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Featured Actor in a Musical|Best Featured Actor in a Musical]] [[Danny Burstein]] [[Tony Award for Best Featured Actress in a Musical|Best Featured Actress in a Musical]] [[Linda Emond]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Featured Actor in a Musical|Outstanding Featured Actor in a Musical]] [[Outer Critics Circle Award]] [[Michelle Williams (actress)|Michelle Williams]] [[Fred and Adele Astaire Award]] [[Rob Marshall]]
+|}
+=== 2021 West End revival ===
+{|
+|-
+| links || [[2022 Laurence Olivier Awards|Laurence Olivier Award]] [[Laurence Olivier Award for Best Musical Revival|Best Musical Revival]] [[Laurence Olivier Award for Best Actor in a Musical|Best Actor in a Musical]] [[Eddie Redmayne]] [[Laurence Olivier Award for Best Actress in a Musical|Best Actress in a Musical]] [[Jessie Buckley]] [[Laurence Olivier Award for Best Actress in a Supporting Role in a Musical|Best Actress in a Supporting Role in a Musical]] [[Liza Sadovy]] [[Laurence Olivier Award for Best Actor in a Supporting Role in a Musical|Best Actor in a Supporting Role in a Musical]] [[Elliot Levey]] [[Laurence Olivier Award for Best Director|Best Director]] [[Rebecca Frecknall]] [[Laurence Olivier Award for Best Costume Design|Best Costume Design]] [[Tom Scutt]] [[Laurence Olivier Award for Best Set Design|Best Set Design]] [[Laurence Olivier Award for Best Sound Design|Best Sound Design]] [[Laurence Olivier Award for Best Theatre Choreographer|Best Theatre Choreographer]] [[Julia Cheng]] [[Laurence Olivier Award for Best Lighting Design|Best Lighting Design]] [[Critics' Circle Theatre Award]] [[Critics' Circle Theatre Award#Best Actress|Best Actress]] [[Critics' Circle Theatre Award#Best Director|Best Director]] [[Critics' Circle Theatre Award#Best Designer|Best Designer]]
+|}
+===2024 Broadway revival===
+{|
+|-
+| links || [[Tony Awards]] [[Tony Award for Best Revival of a Musical|Best Revival of a Musical]] [[Tony Award for Best Actor in a Musical|Best Actor in a Musical]] [[Eddie Redmayne]] [[Tony Award for Best Actress in a Musical|Best Actress in a Musical]] [[Gayle Rankin]] [[Tony Award for Best Featured Actor in a Musical|Best Featured Actor in a Musical]] [[Steven Skybell]] [[Tony Award for Best Featured Actress in a Musical|Best Featured Actress in a Musical]] [[Bebe Neuwirth]] [[Tony Award for Best Scenic Design in a Musical|Best Scenic Design in a Musical]] [[Tom Scutt]] [[Tony Award for Best Costume Design in a Musical|Best Costume Design in a Musical]] [[Tony Award for Best Lighting Design in a Musical|Best Lighting Design in a Musical]] [[Tony Award for Best Sound Design|Best Sound Design in a Musical]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Revival of a Musical|Outstanding Revival of a Musical]] [[Drama Desk Award for Outstanding Lead Performance in a Musical|Outstanding Lead Performance in a Musical]] [[Drama Desk Award for Outstanding Featured Performance in a Musical|Outstanding Featured Performance in a Musical]] [[Drama Desk Award for Outstanding Director of a Musical|Outstanding Direction of a Musical]] [[Rebecca Frecknall]] [[Drama Desk Award for Outstanding Sound Design in a Musical|Outstanding Sound Design of a Musical]] [[Outer Critics Circle Award]] [[Chita Rivera Awards for Dance and Choreography|Chita Rivera Awards]] [[Julia Cheng]] [[Drama League Award]] [[Dorian Awards|Dorian Theater Awards]]
+|}
+== References ==
+=== Notes ===
+=== Citations ===
+=== Works cited ===
+==== Print sources ====
+==== Online sources ====
+== External links ==
+
+== Actors mentioned in prose (fixture) ==
+starring [[Laurence Harvey]].
+cast featured [[Jill Haworth]], [[Bert Convy]], [[Lotte Lenya]], [[Jack Gilford]], [[Joel Grey]], [[Edward Winter (actor)|Edward Winter]], [[Peg Murray]].
+starring [[Kelly Hunter]].
+starred [[Jane Horrocks]].
+played by [[Joel Grey]].
+starring [[Anna Maxwell Martin]].
+with a cast that included [[Wayne Sleep]], [[Samantha Barks]], [[Siobhan Dillon]].
+starring [[John Partridge (actor)|John Partridge]].
+starred [[Clare Burt]].
+starring [[Paul Capsis]].

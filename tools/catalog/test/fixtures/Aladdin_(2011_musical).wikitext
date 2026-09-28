@@ -1,0 +1,215 @@
+{{Infobox Musical
+|name=  Aladdin
+|image= Aladdin-Bposter.png
+|image_size= 220px
+|caption= Broadway promotional poster
+|music= [[Alan Menken]]
+|lyrics=[[Howard Ashman]]<br/>[[Tim Rice]]<br/>[[Chad Beguelin]]
+|book= Chad Beguelin
+| premiere_date     = July 7, 2011
+| premiere_location = [[5th Avenue Theatre]], [[Seattle]]
+|basis= ''[[Aladdin (1992 Disney film)|Aladdin]]''<br>by [[Ron Clements]]<br />[[John Musker]]<br />[[Ted Elliott (screenwriter)|Ted Elliott]]<br />[[Terry Rossio]]
+|productions= 2011 [[Seattle]]<br />2014 [[Broadway theatre|Broadway]]<Br />2016 [[West End theatre|West End]]<br />2016 Australian tour <br />2017 [[United States|US]] Tour<br />2022 [[North America]]n tour<br />2023 UK & Ireland tour
+|awards= 
+}}
+==Production history==
+===Early productions===
+===Toronto tryout (2013–2014)===
+===Broadway (2014–present)===
+===Germany (2015–2023)===
+===Japan (2015–present)===
+===West End (2016–2019)===
+===Australia, New Zealand, and Singapore (2016–2019)===
+=== US tour (2017–2020) ===
+=== The Netherlands (2021–2023) ===
+=== Mexico (2021–2023) ===
+=== North American tour (2022–2024) ===
+===Spain (2023–2025)===
+=== UK & Ireland tour (2023–2025) ===
+=== South Korea (2024–2025) ===
+==Plot==
+===Act I===
+===Act II===
+==Casting controversy==
+==Roles and principal cast members==
+===Original casts===
+{| class="wikitable" width="100%"
+|-
+! rowspan="2" | Character
+! Broadway
+! West End
+! Australian tour
+! North American tour
+! North American tour
+! UK Tour
+|-
+!<small>2014</small>
+!<small>2016</small>
+!<small>2016</small>
+!<small>2017</small>
+!<small>2022</small>
+!<small>2023</small>
+|-
+! [[Aladdin (Disney character)|Aladdin]]
+| style="text-align:center" | [[Adam Jacobs]]
+| style="text-align:center" | [[Dean John-Wilson]]
+| style="text-align:center" | [[Ainsley Melham]]
+| style="text-align:center" | [[Adam Jacobs]]
+| style="text-align:center" | Adi Roy
+| style="text-align:center" | Gavin Adams
+|-
+! [[Genie (Disney)|Genie]]
+| style="text-align:center" | [[James Monroe Iglehart]]
+| style="text-align:center" | [[Trevor Dion Nicholas]]
+| style="text-align:center" | [[Michael James Scott]]
+| style="text-align:center" | Anthony Murphy
+| style="text-align:center" | Marcus M. Martin
+| style="text-align:center" | Yeukayi Ushe
+|-
+![[Jasmine (Aladdin)|Jasmine]]
+| style="text-align:center" | [[Courtney Reed]]
+| style="text-align:center" | [[Jade Ewen]]
+| style="text-align:center" | [[Arielle Jacobs]]
+| style="text-align:center" | [[Isabelle McCalla]]
+| style="text-align:center" | Senzel Ahmady
+| style="text-align:center" | Desmonda Cathabel
+|-
+! [[Jafar (Aladdin)|Jafar]]
+| style="text-align:center" | [[Jonathan Freeman (actor)|Jonathan Freeman]]
+| style="text-align:center" | Don Gallagher
+| style="text-align:center" | Adam Murphy
+| style="text-align:center" | Jonathan Weir
+| style="text-align:center" | Anand Nagraj
+| style="text-align:center" | Adam Strong
+|-
+! [[Iago (Aladdin)|Iago]]
+| style="text-align:center" | Don Darryl Rivera
+| style="text-align:center" | Peter Howe
+| style="text-align:center" | Aljin Abella
+| style="text-align:center" | Reggie De Leon
+| style="text-align:center" | Aaron Choi
+| style="text-align:center" | Angelo Paragoso
+|-
+! [[List of Disney's Aladdin characters#The Sultan|Sultan]]
+| style="text-align:center" | [[Clifton Davis]]
+| style="text-align:center" | Irvine Iqbal
+| style="text-align:center" | [[George Henare]]
+| style="text-align:center" | J. C. Montgomery
+| style="text-align:center" | Sorab Wadia
+| style="text-align:center" | Jo Servi
+|-
+! Babkak
+| style="text-align:center" | Brian Gonzales
+| style="text-align:center" | Nathan Amzi
+| style="text-align:center" | Troy Sussman
+| style="text-align:center" | Zach Bencal
+| style="text-align:center" | Jake Letts
+| style="text-align:center" | Nelson Bettencourt
+|-
+! Omar
+| style="text-align:center" | Jonathan Schwartz
+| style="text-align:center" | Rachid Sabitri
+| style="text-align:center" | Robert Tripolino	
+| style="text-align:center" | [[Philippe Arroyo]]
+| style="text-align:center" | Ben Chavez
+| style="text-align:center" | Adam Taylor
+|-
+! Kassim
+| style="text-align:center" | Brandon O'Neill
+| style="text-align:center" | Stephen Rahman-Hughes
+| style="text-align:center" | Adam Jon Fiorentino
+| style="text-align:center" | Mike Longo
+| style="text-align:center" | Colt Prattes
+| style="text-align:center" | Nay-Nay
+|}
+
+===Notable cast replacements===
+{{no sources |section|date=May 2025}} 
+;Broadway
+* Aladdin: [[Telly Leung]], [[Michael Maliakel]], [[Ainsley Melham]], [[Josh Dela Cruz]] 
+* Genie: [[Michael James Scott]], [[Sherri Shepherd]]
+* Jasmine: [[Arielle Jacobs]], [[Isabelle McCalla]]
+* Iago: [[Alan Muraoka]]
+
+; US tour
+* Aladdin: [[Ainsley Melham]]
+* Genie: [[Michael James Scott]], [[Trevor Dion Nicholas]]
+* Jasmine: [[Courtney Reed]]
+
+; West End
+* Genie: [[Michael James Scott]]
+* Jasmine: [[Courtney Reed]]
+
+==Musical numbers==
+
+{{col-begin}}
+{{col-2}}
+; Act I
+* "Overture"
+* "Arabian Nights" (Ashman/Rice) *** – <small>Genie, Company</small> *****
+* "One Jump Ahead" (Rice) – <small>Aladdin, Ensemble</small>
+* "One Jump Ahead (Reprise)" (Rice) – <small>Aladdin</small>
+* "Proud of Your Boy" (Ashman) * – <small>Aladdin</small>
+* "These Palace Walls" (Beguelin) ** – <small>Jasmine, Attendants  </small>
+* "Babkak, Omar, Aladdin, Kassim" (Ashman)* – <small>Babkak, Omar, Aladdin, Kassim, Ensemble</small>
+* "A Million Miles Away" (Beguelin) ** – <small>Aladdin, Jasmine</small>
+* "Diamond in the Rough" (Beguelin) ** – <small>Jafar, Iago, Aladdin</small>
+* "Friend Like Me" (Ashman) – <small>Genie, Aladdin, Ensemble</small>
+* Act One Finale (Friend Like Me (Reprise) (Ashman)/Proud of Your Boy (Reprise I)) (Beguelin) ** – <small>Genie, Aladdin</small>
+{{col-2}}
+
+; Act II
+* "Prince Ali" (Ashman) **** – <small>Genie, Babkak, Omar, Kassim, Ensemble</small>
+* "A Whole New World" (Rice) – <small>Aladdin, Jasmine</small>
+* "High Adventure" (Ashman)* – <small>Babkak, Omar, Kassim, Ensemble</small>
+* "Somebody's Got Your Back" (Beguelin) ** – <small>Aladdin, Genie, Babkak, Omar, Kassim</small>
+* "Proud of Your Boy (Reprise II)" (Beguelin) ** – <small>Aladdin</small>
+* "Prince Ali (Sultan Reprise)" (Beguelin) ** – <small>Sultan, Ensemble</small>
+* "Prince Ali (Jafar Reprise)" (Rice) – <small>Jafar</small>
+* Finale Ultimo ("Arabian Nights (Reprise)" (Ashman/Beguelin) * / "A Whole New World (Reprise)" (Rice)) – <small>Genie, Aladdin, Jasmine, Company ****</small>
+{{col-end}}
+
+<small>(*) This song was cut from the movie and restored for the musical.<br>
+(**) This is a new song written for the musical.<br>
+
+; Cut Songs
+* "Arabian Nights (Reprise 1)", "Arabian Nights (Reprise 2)", "Arabian Nights (Reprise 3)" (Ashman**/Beguelin***) – <small>Babkak, Omar, Kassim</small>
+* "Call Me a Princess" (Ashman**) – <small>Jasmine and Attendants</small>
+* "Call Me a Princess (Reprise)" (Beguelin***) – <small>Jasmine</small>
+* "High Adventure (Reprise)" (Beguelin***) – <small>Babkak, Omar, Kassim</small>
+* "Somebody's Got Your Back (Reprise)" (Beguelin***) – <small>Genie</small>
+* "Why Me" (Rice/Beguelin*) – <small>Jafar and Iago</small>
+
+<small>(*) This song was cut from the movie, restored for the musical, but later cut from the Seattle production.<br>
+
+== Instrumentation ==
+==Recordings==
+===Cast recording===
+===Filmed West End stage production===
+==Reception==
+===Toronto tryout===
+===Broadway===
+==Awards and nominations==
+===Original Broadway production===
+{|
+|-
+| links || [[68th Tony Awards|Tony Award]] [[Tony Award for Best Musical|Best Musical]] [[Tony Award for Best Book of a Musical|Best Book of a Musical]] [[Chad Beguelin]] [[Tony Award for Best Original Score|Best Original Score]] [[Alan Menken]] [[Howard Ashman]] [[Tim Rice]] [[Tony Award for Best Featured Actor in a Musical|Best Performance by a Featured Actor in a Musical]] [[James Monroe Iglehart]] [[Tony Award for Best Choreography|Best Choreography]] [[Casey Nicholaw]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Musical|Outstanding Musical]] [[Drama Desk Award for Outstanding Book of a Musical|Outstanding Book of a Musical]] [[Drama Desk Award for Outstanding Music|Outstanding Music]] [[Drama Desk Award for Outstanding Lyrics|Outstanding Lyrics]] [[Drama Desk Award for Outstanding Actor in a Musical|Outstanding Actor in a Musical]] [[Drama Desk Award for Outstanding Featured Actor in a Musical|Outstanding Featured Actor in a Musical]] [[Drama Desk Award for Outstanding Choreography|Outstanding Choreography]] [[Outer Critics Circle Award]] [[57th Annual Grammy Awards|Grammy Award]] [[Grammy Award for Best Musical Theater Album|Best Musical Theater Album]]
+|}
+===Original London production===
+{|
+|-
+| links || [[2017 Laurence Olivier Awards|Laurence Olivier Awards]]
+|}
+===Original Australian production===
+{|
+|-
+| links || [[Helpmann Awards]] [[Helpmann Award for Best Musical|Best Musical]] [[Helpmann Award for Best Choreography in a Musical|Best Choreography in a Musical]] [[Helpmann Award for Best Direction of a Musical|Best Direction of a Musical]] [[Helpmann Award for Best Male Actor in a Musical|Best Male Actor in a Musical]] [[Helpmann Award for Best Male Actor in a Supporting Role in a Musical|Best Male Actor in a Supporting Role in a Musical]]
+|}
+==See also==
+==References==
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+cast included [[James Monroe Iglehart]].
+starred [[Tom Rodriguez]].
+starring [[Dean John-Wilson]].

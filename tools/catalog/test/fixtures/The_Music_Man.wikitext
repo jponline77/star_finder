@@ -1,0 +1,242 @@
+{{Infobox musical
+| name        = The Music Man
+| image       = The Music Man poster, 1957.jpg
+| caption     = Original Broadway poster
+| music       = [[Meredith Willson]]
+| lyrics      = Meredith Willson
+| book        = Meredith Willson <br> [[Franklin Lacey]]
+| productions = 1957 [[Broadway theatre|Broadway]] <br /> 1961 [[West End theatre|West End]] <br/> 1980 Broadway revival<br /> 2000 Broadway revival<br /> 2022 Broadway revival
+
+| awards      = [[Tony Award for Best Musical]]
+}}
+==Background==
+==Productions==
+===Original Broadway production===
+===First Australian and UK productions===
+===Subsequent productions===
+===2022 Broadway revival===
+==Synopsis==
+===Act I===
+===Act II===
+==Music==
+
+===Musical numbers===
+{{col-begin}}
+{{col-2}}
+; Act I                                                            
+* "Rock Island" – Charlie and Salesmen
+* "[[Iowa Stubborn]]" – Townspeople
+* "[[Ya Got Trouble|(Ya Got) Trouble]]" – Harold Hill and Townspeople
+* "Piano Lesson" – Marian, Mrs. Paroo and Amaryllis
+* "Goodnight, My Someone" – Marian
+* "[[Seventy-Six Trombones]]" – Harold, Boys and Girls
+* "Sincere" – Barbershop quartet (Olin, Oliver, Ewart, Jacey)
+* "The Sadder-But-Wiser Girl" – Harold and Marcellus
+* "Pickalittle (Talk-a-Little)" – Eulalie, Maud, Ethel, Alma, Mrs. Squires and Ladies of River City
+* "[[Goodnight, Ladies]]" – Quartet
+* "Marian The Librarian" – Harold, Boys and Girls
+* "My White Knight" – Marian
+* "The Wells Fargo Wagon" – Winthrop and Townspeople
+{{col-break}}
+
+; Act II
+* "It's You" – The Quartet, Eulalie, Maud, Ethel, Alma and Mrs. Squires
+* "[[Shipoopi]]" – Marcellus, Harold, Marian and townspeople
+* "Pickalittle (Talk-a-Little)" (reprise) – Eulalie, Maud, Ethel, Alma, Mrs. Squires and Ladies
+* "Lida Rose" – Quartet
+* "Will I Ever Tell You" – Marian
+* "Gary, Indiana" – Winthrop, Mrs. Paroo, Marian
+* "It's You" (reprise) – Townspeople, Boys and Girls
+* "[[Till There Was You]]" – Marian, Harold
+* "Seventy-six Trombones/Goodnight, My Someone" (reprise) – Harold and Marian
+* "Till There Was You" (reprise) – Harold
+* "Finale" – Company
+{{col-end}}
+
+''Notes:''<br>
+
+==Casts and characters==
+
+===Casts===
+{| class="wikitable" style="width:10; text-align:center;"
+|-
+! rowspan=2 style="width:10%;" | Character
+! style="width:10%;" | Broadway
+! style="width:10%;" | West End
+! style="width:10%;" | Broadway revival
+! style="width:10%;" | Broadway revival
+! style="width:10%;" | Broadway revival
+
+|-
+!{{Small|1957}}
+!{{Small|1961}}
+!{{Small|1980}}
+!{{Small|2000}}
+!{{Small|2022}}
+|-
+! Prof. Harold Hill 
+| style="text-align:center;" | [[Robert Preston (actor)|Robert Preston]]
+| style="text-align:center;" | [[Van Johnson]]
+| style="text-align:center;" | [[Dick Van Dyke]]
+| style="text-align:center;" | [[Craig Bierko]]
+| style="text-align:center;" | [[Hugh Jackman]]
+|-
+! Marian Paroo
+| style="text-align:center;" | [[Barbara Cook]]
+| style="text-align:center;" | Patricia Lambert
+| style="text-align:center;" | [[Meg Bussert]]
+| style="text-align:center;" | [[Rebecca Luker]]
+| style="text-align:center;" | [[Sutton Foster]]
+|-
+! Marcellus Washburn
+| style="text-align:center;" | [[Iggie Wolfington]]
+| style="text-align:center;" | [[Bernard Spear]]
+| style="text-align:center;" | Richard Warren Pugh
+| style="text-align:center;" | [[Max Casella]]
+| style="text-align:center;" | [[Shuler Hensley]]
+|-
+! Mayor Shinn
+| style="text-align:center;" | [[David Burns (actor)|David Burns]]
+| style="text-align:center;" | [[C. Denier Warren]]
+| style="text-align:center;" | [[Iggie Wolfington]]
+| style="text-align:center;" | [[Paul Benedict]]
+| style="text-align:center;" | [[Jefferson Mays]]
+|-
+! Eulalie Mackecknie Shinn
+| style="text-align:center;" | [[Helen Raymond]]
+| style="text-align:center;" | [[Nan Munro]]
+| style="text-align:center;" | Jen Jones
+| style="text-align:center;" | Ruth Williamson
+| style="text-align:center;" | [[Jayne Houdyshell]]
+|-
+! Mrs. Paroo
+| style="text-align:center;" | [[Pert Kelton]]
+| style="text-align:center;" | [[Ruth Kettlewell]]
+| style="text-align:center;" | [[Carol Arthur]]
+| style="text-align:center;" | [[Katherine McGrath]]
+| style="text-align:center;" | [[Marie Mullen]]
+|-
+! Winthrop Paroo
+| style="text-align:center;" | [[Eddie Hodges]]
+| style="text-align:center;" | [[Dennis Waterman]]
+| style="text-align:center;" | [[Christian Slater]]
+| style="text-align:center;" | Michael Phelan
+| style="text-align:center;" | [[Benjamin Pajak]]
+|-
+|}
+
+=== Notable replacements ===
+==== 2022 Broadway revival ====
+*Mayor Shinn: [[Mark Linn-Baker]]
+
+=== Main characters ===
+{| class="wikitable sortable" style="width:90%;"
+|-
+! scope="col" | Character
+! scope="col" class="unsortable" | Description
+|-
+! scope="row"| Harold Hill
+| A [[Confidence trick|confidence]] man who pretends to be a traveling salesman and professor of music
+|-
+! scope="row"| Marian Paroo
+| The town librarian and part-time piano teacher
+|-
+! scope="row"| Marcellus Washburn
+| Harold's old friend and former [[shill]], who now lives in River City
+|-
+! scope="row"| Mayor George Shinn
+| A pompous politician who is suspicious of Hill
+|-
+! scope="row"| Eulalie Mackecknie Shinn
+| The mayor's wife
+|-
+! scope="row"| Mrs. Paroo
+| Marian's widowed, Irish immigrant mother
+|-
+! scope="row"| Winthrop Paroo
+| Marian's shy, younger brother who [[lisp]]s
+|}
+
+===Secondary characters===
+{| class="wikitable sortable" style="width:90%;"
+|-
+! scope="col" | Character
+! scope="col" class="unsortable" | Description
+! scope="col" class="unsortable" | Original Broadway performer
+|-
+! scope="row"| The School Board (Barbershop Quartet)
+| Four bickering local businessmen united as singers by Hill (Olin Britt, Oliver Hix, Ewart Dunlop and Jacey Squires)
+| Bill Spangenberg, Wayne Ward, Al Shea and Vern Reed ([[Buffalo Bills (quartet)|The Buffalo Bills]])
+|-
+! scope="row"| Pickalittle Ladies
+| Eulalie's four gossipy friends (Alma Hix, Mrs. Squires, Ethel Toffelmier and Maud Dunlop)
+| Adnia Rice, Martha Flynn, [[Peggy Mondo]] and Elaine Swann
+|-
+! scope="row"| Tommy Djilas
+| A young man "from the wrong side of town"; secretly dating Zaneeta Shinn
+| Danny Carroll
+|-
+! scope="row"| Zaneeta Shinn
+| The mayor's oldest daughter; secretly dating Tommy Djilas
+| Dusty Worrall
+|-
+! scope="row"| Charlie Cowell
+| An anvil salesman who tries to expose Hill as a fraud and con man
+| [[Paul Reed (actor)|Paul Reed]]
+|-
+! scope="row"| Constable Locke
+| The town peace officer
+| Carl Nicholas
+|-
+! scope="row"| Amaryllis
+| Marian's young piano student
+| Marilyn Siegel
+|}
+
+==Setting and popular culture references==
+==Recordings==
+==Adaptations==
+==Reception==
+==In popular culture==
+===Television===
+===Film===
+===Music===
+
+==Awards and honors==
+===Original Broadway production===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Musical|Best Musical]] [[Tony Award for Best Actor in a Musical|Best Actor in a Musical]] [[Robert Preston (actor)|Robert Preston]] [[Tony Award for Best Featured Actress in a Musical|Best Featured Actress in a Musical]] [[Barbara Cook]] [[Tony Award for Best Featured Actor in a Musical|Best Featured Actor in a Musical]] [[David Burns (actor)|David Burns]] [[Iggie Wolfington]] [[Tony Award for Best Direction of a Musical|Best Direction of a Musical]] [[Morton DaCosta]] [[Tony Award for Best Choreography|Best Choreography]] [[Onna White]] [[Tony Award for Best Conductor and Musical Director|Best Conductor and Musical Director]] [[Tony Award for Best Stage Technician|Best Stage Technician]] [[Theatre World Award]] [[Eddie Hodges]] [[New York Drama Critics' Circle|New York Drama Critics' Circle Awards]]
+|}
+===1980 Broadway revival===
+{|
+|-
+| links || [[Theatre World Award]] [[Meg Bussert]]
+|}
+===2000 Broadway revival===
+{|
+|-
+| links || [[54th Tony Awards|Tony Award]] [[Tony Award for Best Revival of a Musical|Best Revival of a Musical]] [[John F. Kennedy Center for the Performing Arts|The John F. Kennedy Center]] [[Tony Award for Best Actor in a Musical|Best Actor in a Musical]] [[Craig Bierko]] [[Tony Award for Best Actress in a Musical|Best Actress in a Musical]] [[Rebecca Luker]] [[Tony Award for Best Direction of a Musical|Best Direction of a Musical]] [[Susan Stroman]] [[Tony Award for Best Choreography|Best Choreography]] [[Tony Award for Best Orchestrations|Best Orchestrations]] [[Doug Besterman]] [[Tony Award for Best Scenic Design|Best Scenic Design]] [[Tony Award for Best Costume Design|Best Costume Design]] [[William Ivey Long]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Revival of a Musical|Outstanding Revival of a Musical]] [[Drama Desk Award for Outstanding Actor in a Musical|Outstanding Actor in a Musical]] [[Drama Desk Award for Outstanding Actress in a Musical|Outstanding Actress in a Musical]] [[Drama Desk Award for Outstanding Director of a Musical|Outstanding Director of a Musical]] [[Drama Desk Award for Outstanding Choreography|Outstanding Choreography]] [[Drama Desk Award for Outstanding Orchestrations|Outstanding Orchestrations]] [[Drama Desk Award for Outstanding Set Design|Outstanding Set Design]] [[Drama Desk Award for Outstanding Costume Design|Outstanding Costume Design]] [[Theatre World Award]]
+|}
+===2022 Broadway revival===
+{|
+|-
+| links || [[75th Tony Awards|Tony Awards]] [[Tony Award for Best Revival of a Musical|Best Revival of a Musical]] [[Tony Award for Best Actor in a Musical|Best Actor in a Musical]] [[Hugh Jackman]] [[Tony Award for Best Actress in a Musical|Best Actress in a Musical]] [[Sutton Foster]] [[Tony Award for Best Featured Actress in a Musical|Best Featured Actress in a Musical]] [[Jayne Houdyshell]] [[Tony Award for Best Costume Design of a Musical|Best Costume Design of a Musical]] [[Santo Loquasto]] [[Tony Award for Best Choreography|Best Choreography]] [[Warren Carlyle]] [[Drama Desk Awards]] [[Drama Desk Award for Outstanding Costume Design of a Musical|Outstanding Costume Design of a Musical]] [[Drama League Award]] [[Jerry Zaks]] [[Outer Critics Circle Award]] [[Theatre World Award]] [[Chita Rivera Awards for Dance and Choreography|Chita Rivera Awards]]
+|}
+== Notes ==
+== Citations ==
+== Sources ==
+==Further reading==
+== External links ==
+
+== Actors mentioned in prose (fixture) ==
+cast included [[Robert Preston (actor)|Robert Preston]].
+starring [[Forrest Tucker]].
+starring [[Van Johnson]].
+starring [[Bert Parks]].
+cast included [[Dick Van Dyke]].
+starring [[Bob Gunton]].
+cast included [[Craig Bierko]].
+starring [[Brian Conley]].
+starred [[Norm Lewis]].
+starred [[Hugh Jackman]].

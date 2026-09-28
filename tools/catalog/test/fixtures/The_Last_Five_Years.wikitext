@@ -1,0 +1,129 @@
+{{Infobox Musical
+| name = The Last Five Years
+| image = The Last Five Years Playbill.jpeg
+| caption = Original Off-Broadway playbill
+| music = [[Jason Robert Brown]]
+| lyrics = Jason Robert Brown
+| book = Jason Robert Brown
+| productions = 2001 [[Chicago]]<br /> 2002 [[Off-Broadway]]<br />2013 Off-Broadway [[revival (theatre)|revival]]<br />2015 [[Ireland]]<br />2016 [[Off West End|Off-West End]]<br />2021 [[West End theatre|West End]]<br />2025 [[Broadway theatre|Broadway]]
+| image_size = 
+| premiere_date = May 23, 2001
+| premiere_location = [[Northlight Theatre]]
+| awards = [[Drama Desk Award for Outstanding Music]]<br />[[Drama Desk Award for Outstanding Lyrics]]
+}}
+==Background==
+==Synopsis==
+==Music==
+{{Listen
+| filename     = The Next Ten Minutes - L5Y 2002.ogg
+| title        = "The Next Ten Minutes"
+| description  = The duet between Jamie and Cathy in "The Next Ten Minutes", as performed by Sherie Rene Scott and Norbert Leo Butz on the 2002 Off-Broadway cast recording.
+| format       = [[Ogg]]
+}}
+
+* "Still Hurting" - Cathy
+* "Shiksa Goddess" - Jamie
+* "See I'm Smiling" - Cathy
+* "Moving Too Fast" - Jamie
+* "A Part of That" - Cathy
+* "The Schmuel Song" - Jamie
+* "A Summer in Ohio" - Cathy
+* "The Next Ten Minutes" - Jamie & Cathy
+* "A Miracle Would Happen/When You Come Home to Me" - Jamie/Cathy
+* "Climbing Uphill/Audition Sequence" - Cathy
+* "If I Didn't Believe in You" - Jamie
+* "I Can Do Better Than That" - Cathy
+* "Nobody Needs to Know" - Jamie
+* "Goodbye Until Tomorrow/I Could Never Rescue You" - Jamie & Cathy
+
+===Cast album===
+''The Last Five Years'' cast album was released by [[Sh-K-Boom Records]] in April 2002.
+
+== Casts ==
+
+{| class="wikitable" style="width:1000px;"
+|-
+! rowspan="2" | Character
+! Chicago
+! Off-Broadway
+! Off-Broadway Revival
+! Town Hall NYC Concert
+! Off-West End
+!West End
+!Broadway
+!25th Anniversary Concert Tour
+|-
+!{{Small|2001}}
+!{{Small|2002}}
+!{{Small|2013}}
+! colspan="2" | {{Small|2016}}
+!{{Small|2021}}
+!{{Small|2025}}
+!{{Small|2026}}
+|-
+! Jamie Wellerstein
+| colspan="2" style="text-align:center;"|[[Norbert Leo Butz]]
+| style="text-align:center;"|[[Adam Kantor]]
+| style="text-align:center;"|[[Joshua Henry]]
+| style="text-align:center;"|[[Jonathan Bailey]]
+| align=center | [[Oli Higginson]]
+| align=center | [[Nick Jonas]]
+| align=center | [[Ben Platt]]
+|-
+! Cathy Hiatt
+| style="text-align:center;"|[[Lauren Kennedy]]
+| style="text-align:center;"|[[Sherie Rene Scott]]
+| style="text-align:center;"|[[Betsy Wolfe]]
+| style="text-align:center;"|[[Cynthia Erivo]]
+| style="text-align:center;"|[[Samantha Barks]]
+| align=center | [[Molly Lynch]]
+| align=center | [[Adrienne Warren]]
+| align=center | [[Rachel Zegler]]
+|}
+
+==Production history==
+===Chicago (2001)===
+===Off-Broadway (2002)===
+===Off-Broadway revival (2013)===
+=== Off-West End (2016) ===
+=== West End (2021) ===
+=== Broadway (2025) ===
+=== 25th Anniversary Concert Tour (2026) ===
+===Other productions===
+==Film adaptation==
+==Awards and nominations==
+===Chicago production===
+{|
+|-
+| links || [[Jeff Awards]] [[Norbert Leo Butz]]
+|}
+===Original Off-Broadway production===
+{|
+|-
+| links || [[Drama Desk Award]] [[Drama Desk Award for Outstanding Musical|Outstanding Musical]] [[Drama Desk Award for Outstanding Actress in a Musical|Outstanding Actress in a Musical]] [[Sherie Rene Scott]] [[Drama Desk Award for Outstanding Actor in a Musical|Outstanding Actor in a Musical]] [[Norbert Leo Butz]] [[Drama Desk Award for Outstanding Music|Outstanding Music]] [[Jason Robert Brown]] [[Drama Desk Award for Outstanding Lyrics|Outstanding Lyrics]] [[Drama Desk Award for Outstanding Orchestrations|Outstanding Orchestrations]] [[Drama Desk Award for Outstanding Set Design|Set Design of a Musical]] [[Beowulf Boritt]] [[Lucille Lortel Award]] [[Outer Critics Circle Award]] [[Outer Critics Circle Award for Outstanding New Off-Broadway Musical|Outstanding New Off-Broadway Musical]]
+|}
+===2016 Off West End production===
+{|
+|-
+| links || [[WhatsOnStage Awards]]
+|}
+===2021 West End production===
+{|
+|-
+| links || [[WhatsOnStage Award]]
+|}
+===2025 Broadway production===
+{|
+|-
+| links || [[Drama League Awards]] [[Drama League Distinguished Performance Award|Distinguished Performance]] [[Nick Jonas]] [[Adrienne Warren]]
+|}
+==References==
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+starred [[Lauren Kennedy]].
+starring [[Oli Higginson]].
+starring [[Nick Jonas]].
+starred [[Fra Fee]].
+starring [[:pt:Beto Sargentelli|Beto Sargentelli]].
+starring [[Anna Kendrick]].

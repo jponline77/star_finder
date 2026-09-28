@@ -1,0 +1,267 @@
+{{Infobox musical
+| name              = Everybody's Talking About Jamie
+| image             = Everybody's Talking About Jamie.png
+| caption           = West End promotional poster
+| music             = [[Dan Gillespie Sells]]
+| lyrics            = [[Tom MacRae]]
+| book              = Tom MacRae
+| basis             = ''Jamie: Drag Queen at 16''<br />by Jenny Popplewell<br />[[Jamie Campbell (personality)|Jamie Campbell]] 
+| premiere_date     = 8 February 2017
+| premiere_location = [[Crucible Theatre]], [[Sheffield]]
+| productions       = 2017 [[Sheffield]]<br />2017 [[West End theatre|West End]]<br />2020 UK tour<br /> 2022 Los Angeles<br /> 2023 2nd UK Tour<br  /> 2023 Mexico<br /> 2024 [[West End theatre|West End]] Revival     
+}}
+== Plot ==
+=== Act One ===
+=== Act Two ===
+== Roles and principal casts ==
+{| class="wikitable"
+! rowspan="2" |Character
+!Sheffield
+!West End
+!UK tour
+!Los Angeles
+!UK tour and London
+|-
+! colspan="2" |<small>(2017)</small>
+!<small>(2021)</small>
+!<small>(2022)</small>
+!<small>(2023/24)</small>
+|-
+!Jamie New
+| colspan="2" align="center" |[[John McCrea (actor)|John McCrea]]
+| colspan="2" align="center" |[[Layton Williams]]
+| align="center" |Ivano Turco
+|-
+!Margaret New
+| colspan="2" align="center" |[[Josie Walker]]
+| align="center" |Amy Ellen Richardson
+| align="center" |Melissa Jacques
+| align="center" |[[Rebecca McKinnis]]
+|-
+!Pritti Pasha
+| colspan="2" align="center" |[[Lucie Shorthouse]]
+| align="center" |Sharan Phull
+| align="center" |[[Hiba Elchikhe]]
+| align="center" |Talia Palamathanan
+|-
+!Leigh/Ray†
+| colspan="2" align="center" |[[Mina Anwar]]
+| align="center" |Sasha Latoya<br>[[Shobna Gulati]]<br>
+| align="center" |[[Shobna Gulati]]
+| align="center" |[[Shobna Gulati]]
+|-
+|-
+!Hugo Battersby / Loco Chanelle
+| align="center" |[[Charles Dale]]
+| align="center" |[[Phil Nichol]]
+| align="center" |[[Shane Richie]]<br>[[Bianca Del Rio]]<br>(Roy Haylock)
+| align="center" |[[Bianca Del Rio]]<br>(Roy Haylock)
+| align="center" |[[John Partridge (actor)|John Partridge]]<br>[[Kevin Clifton]]<br>[[Darren Day]]
+|-
+!Miss Hedge
+| colspan="2" align="center" |[[Tamsin Carroll]]
+| align="center" |Lara Denning
+| align="center" |Gillian Ford
+| align="center" |[[Hayley Tamaddon]]<br>[[Giovanna Fletcher]]<br>[[Sam Bailey]]
+|-
+!Dean Paxton
+| colspan="2" align="center" |Luke Baker
+| colspan="2" align="center" |[[George Sampson]]
+| align="center" |Jordan Ricketts
+|-
+!Laika Virgin
+| rowspan="2" align="center" |Spencer Stafford
+| align="center" |Vileda Moppe<br>(Alex Anstey)
+| align="center" |Mary Mac<br>(John Paul McCue)
+| align="center" |David O’Reilly
+| align="center" |Ky Kelly<br>(Anthony Glyde)
+|-
+!Jamie's Dad (Wayne New)
+| align="center" |Ken Christiansen
+| colspan="2" align="center" |Cameron Johnson
+| align="center" |Akshay St Clair
+|-
+!Sandra Bollock
+| align="center" |[[Raj Ghatak]]
+| align="center" |[[Vinegar Strokes]]<br>(Daniel Jacob)
+| align="center" |Cameron Johnson
+| align="center" |Leon Craig
+| align="center" |Garry Lee
+|-
+!Tray Sophisticay
+| colspan="2" align="center" |[[James Gillan (actor)|James Gillan]]
+| align="center" |Rhys Taylor
+| align="center" |[[James Gillan (actor)|James Gillan]]
+| align="center" |David Mcnair
+|-
+!Becca
+| align="center" |[[Gabrielle Brooks]]
+| align="center" |Lauran Rae
+| colspan="2" align="center" |Talia Palamathanan
+| align="center" |Annabelle Laing
+|-
+!Bex
+| colspan="2" align="center" |Harriet Payne
+| align="center" |Jessica Meegan
+| align="center" |Harriet Payne
+| align="center" |Jessica Daugirda
+|-
+!Fatimah
+| colspan="2" align="center" |[[Courtney Bowman]]
+| colspan="2" align="center" |Jodie Knight
+| align="center" |Rhiannon Bacchus
+|-
+!Vicki
+| colspan="2" align="center" |Kirstie Skivington
+| colspan="2" align="center" |Kazmin Borrer
+| align="center" |Liv Ashman
+|-
+!Mickey
+| align="center" |Barney Hudson
+| align="center" |Ryan Hughes
+| align="center" |Ellis Brownhill
+| align="center" |Ryan Hughes
+| align="center" |Thomas Walton
+|-
+!Sayid
+| align="center" |Kush Khanna
+| align="center" |Jordan Cunningham
+| colspan="2" align="center" |Adam Taylor
+| align="center" |Geoff Berrisford
+|-
+!Cy
+| colspan="2" align="center" |Shiv Rabheru
+| colspan="2" align="center" |Richard Appiah-Sarpong
+| align="center" |Joshian Angelo Omana
+|-
+!Levi
+| colspan="2" align="center" |Daniel Davids
+| align="center" |Simeon Beckett
+| align="center" |Zion Battles
+| align="center" |Luca Moscardini
+|-
+|}
+†The character Leigh in the Sheffield production was renamed Ray for the West End transfer.
+
+=== Notable West End replacements ===
+*'''Jamie:''' [[Layton Williams]], Noah Thomas 
+*'''Margaret:''' [[Rebecca McKinnis]]
+*'''Ray:''' [[Shobna Gulati]]
+* '''Hugo:''' [[Lee Ross (actor)|Lee Ross]], [[Shane Richie]], [[Bianca Del Rio]], [[Bill Ward (actor)|Bill Ward]], [[Rufus Hound]]
+* '''Miss Hedge:''' [[Michelle Visage]], [[Hayley Tamaddon]], [[Faye Tozer]], [[Rita Simons]], [[Preeya Kalidas]], [[Katy Brand]]
+
+== Musical numbers ==
+{{col-begin}}
+{{col-2}}
+'''Act One'''
+* "And You Don't Even Know It" – Jamie, Miss Hedge & Year 11
+* "And You Don't Even Know It Tag" - Jamie
+* "The Wall in My Head" – Jamie
+* "Spotlight" – Pritti & Year 11 Girls
+* "Spotlight (Reprise) (Star of the Show)" – Jamie & Pritti
+* "The Legend of Loco Chanelle (and the Blood Red Dress)" – Hugo & the Legs Eleven Girls
+* "The Legend of Loco Chanelle (and the Blood Red Dress)" (Reprise) – Hugo
+* "If I Met Myself Again" – Margaret
+* "Work of Art" – Miss Hedge, Jamie, Dean & Year 11
+* "Over the Top" – Hugo & the Legs Eleven Girls
+* “Out Of The Darkness” - Offstage Ensemble
+{{col-2}}
+'''Act Two'''
+* "Everybody's Talking About Jamie" – Year 11
+* "Limited Edition Prom Night Special" – Jamie, Ray & Margaret
+* "It Means Beautiful" – Pritti
+* "It Means Beautiful" (Reprise) – Pritti
+* "Ugly in This Ugly World" – Jamie
+* "He's My Boy" – Margaret
+* "And You Don't Even Know It" (Bus Station Reprise) – Jamie
+* "My Man, Your Boy" – Jamie & Margaret
+* "The Prom Song" – Year 11
+* "Finale" – Company
+* "Out of the Darkness (A Place Where We Belong)" – Company
+{{col-end}}
+
+=== Orchestration ===
+
+* Piano-Conductor (keyboard 1)
+* Bass/Synth bass
+* Guitar/Keys 2/Mandolin 
+* Tenor Saxophone
+* Trumpet/Flugelhorn/Piccolo
+* Trombone † 
+* Percussion
+* Drums
+
+=== Recordings ===
+====Concept album (2017)====
+
+{{Track listing
+| extra_column = 
+| title1 = Don't Even Know it
+| note1 = [[Betty Boo]]
+| length1 = 4:23
+| title2 = Wall in My Head
+| note2 = 
+| length2 = 4:06
+| title3 = Spotlight
+| note3 = 
+| length3 = 2:57
+| title4 = The Legend of Loco Chanel (And the Blood Red Dress)
+| note4 = 
+| length4 = 4:12
+| title5 = If I Met Myself Again
+| length5 = 3:26
+| note5 = Josie Walker
+| title6 = Work of Art
+| length6 = 2:20
+| note6 = [[Sophie Ellis Bextor]]
+| title7 = Over the Top
+| length7 = 3:07
+| note7 = 
+| title8 = Everybody's Talking About Jamie
+| length8 = 3:36
+| note8 = 
+| title9 = At 16
+| length9 = 2:44
+| note9 =
+| title10 = It Means Beautiful
+| length10 = 2:32
+| note10 = 
+| title11 = He's My Boy
+| length11 = 5:08
+| note11 = Josie Walker
+| title12 = My Man, Your Boy
+| length12 = 2:30
+| note12 = Josie Walker & John McCrea
+| total_length =41:01
+}}
+
+====Original West End cast album (2018)====
+
+== Productions ==
+=== Sheffield and West End (2017–2021) ===
+=== UK tour (2020–2022) ===
+=== Seoul (2020) ===
+=== Japan (2021) ===
+=== Los Angeles (2022) ===
+=== Australian tour (TBA) ===
+=== Italy (2022–2023) ===
+=== UK tour and London (2023–2024) ===
+=== Mexico (2023) ===
+=== Sweden (2023) ===
+=== San Francisco (2024) ===
+=== Poland (2026) ===
+==Critical reception and accolades==
+=== Awards and nominations ===
+===Original West End production===
+{|
+|-
+| links || [[Attitude (magazine)|Attitude]] [[Critics' Circle Theatre Award]] [[Critics' Circle Theatre Award#The Jack Tinker Award for Most Promising Newcomer (other than a playwright)|Most Promising Newcomer]] [[WhatsOnStage Awards]] [[WhatsOnStage Award for Best Actor in a Musical|Best Actor in a Musical]] [[Lucie Shorthouse]] [[2018 Laurence Olivier Awards|Laurence Olivier Awards]] [[Laurence Olivier Award for Best New Musical|Best New Musical]] [[Laurence Olivier Award for Best Actor in a Musical|Best Actor in a Musical]] [[Laurence Olivier Award for Best Actress in a Musical|Best Actress in a Musical]] [[Laurence Olivier Award for Best Theatre Choreographer|Best Theatre Choreographer]] [[Kate Prince]] [[Laurence Olivier Award for Outstanding Achievement in Music|Outstanding Achievement in Music]] [[Dan Gillespie Sells]]
+|}
+==Live stage recording and film adaptation==
+===Film adaptation===
+==See also==
+==References==
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+starring [[Layton Williams]].

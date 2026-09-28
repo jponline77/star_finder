@@ -1,0 +1,82 @@
+{{Infobox Musical
+| name    = The Cradle Will Rock
+| image   = The-Cradle-Will-Rock-1938-FE.jpg
+| caption = First edition 1938
+| music   = [[Marc Blitzstein]]
+| lyrics  = Marc Blitzstein
+| book    = Marc Blitzstein
+| productions = 1937 [[Broadway theatre|Broadway]] <br> 1947 Broadway [[revival (theatre)|revival]] <br> 1964 [[Off-Broadway]] revival <br> 1983 Off-Broadway revival<br> 1985 [[West End theatre|West End]]
+}}
+==History==
+==Synopsis==
+==Musical numbers==
+
+{| class="wikitable"
+
+|-
+! Scene
+! Title + Performer
+! References
+|-
+| 1: Streetcorner
+| "I'm Checkin' Home Now"{{spaced ndash}}Moll ([[mezzo-soprano|mezzo]])
+| 
+|-
+| 2: Nightcourt
+|
+|
+|-
+| 3: Mission
+| "Mission Scene"{{spaced ndash}}Mrs. Mister (mezzo), Reverend Salvation ([[baritone]])
+| 
+|-
+| 4: Lawn of Mr. Mister's Home
+| "Croon Spoon"{{spaced ndash}}Junior Mister ([[tenor]]), Sister Mister (mezzo)<br>"The Freedom of the Press"{{spaced ndash}}Editor Daily (tenor), Mr. Mister (baritone)<br>"Honolulu"{{spaced ndash}}Editor Daily, Junior Mister, Mr. Mister, Sister Mister
+| {{Rp| 53–56}}<br><br>{{Rp|65–70}}
+|-
+| 5: Drugstore
+| "Drugstore Scene"{{spaced ndash}}Harry Druggist (baritone), Steve<br>"Gus and Sadie Love Song"{{spaced ndash}}Gus Polock (baritone), Sadie Polock ([[soprano]])
+| <br>{{Rp|83–84}}
+|-
+| 6: Hotellobby
+| "The Rich"{{spaced ndash}}Yasha (baritone), Dauber (baritone)<br>"Ask Us Again"{{spaced ndash}}Yasha, Dauber, Mrs. Mister<br>"Art for Art's Sake"{{spaced ndash}}Yasha, Dauber
+| <br><br>
+|-
+| 7: Nightcourt
+| "Nickel Under the Foot"{{spaced ndash}}Moll<br>"Leaflets"{{spaced ndash}}Larry Foreman (baritone)<br>"The Cradle Will Rock"{{spaced ndash}}Larry Foreman
+| {{Rp|99–102}}<br><br>{{Rp|109–112}}
+|-
+| 8: Facultyroom
+|
+|
+|-
+| 9: Dr. Specialist's Office
+| "Doctor and Ella"{{spaced ndash}}Ella Hammer ([[alto]]), Doctor Specialist<br>"Joe Worker"{{spaced ndash}}Ella Hammer
+| <br>{{Rp|133–136}}
+|-
+| 10: Nightcourt
+| "Finale"{{spaced ndash}}Ensemble
+| 
+|}
+
+==Original production==
+===Federal Theatre Project===
+===Private sponsorship===
+===Mercury Theatre===
+==Later productions==
+===Broadway and Off-Broadway===
+===Other productions===
+==Response==
+===Cultural references===
+====''The Cradle Will Rock''====
+====''Cradle Will Rock'' ====
+==Recordings==
+===Discography===
+==References==
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+cast included Will Geer, Howard da Silva, [[Hiram Sherman]].
+with a cast that included [[Alfred Drake]], [[Vivian Vance]].
+starring [[Jerry Orbach]].
+starring [[Patti LuPone]].

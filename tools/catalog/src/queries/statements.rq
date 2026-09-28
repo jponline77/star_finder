@@ -1,0 +1,20 @@
+# STAR catalog - query B: statements for selected items (long format: one row per value). Run in chunks of <= 500 QIDs.
+SELECT ?item ?prop ?v ?vLabel ?precision ?rank WHERE {
+  VALUES ?item { %QIDS% }
+  VALUES (?prop ?p ?ps ?psv) {
+    ("composer"      p:P86   ps:P86   psv:P86)
+    ("lyricist"      p:P676  ps:P676  psv:P676)
+    ("librettist"    p:P87   ps:P87   psv:P87)
+    ("firstPerf"     p:P1191 ps:P1191 psv:P1191)
+    ("published"     p:P577  ps:P577  psv:P577)
+    ("inception"     p:P571  ps:P571  psv:P571)
+    ("genre"         p:P136  ps:P136  psv:P136)
+    ("form"          p:P7937 ps:P7937 psv:P7937)
+    ("character"     p:P674  ps:P674  psv:P674)
+    ("instanceOf"    p:P31   ps:P31   psv:P31)
+  }
+  ?item ?p ?st . ?st ?ps ?v ; wikibase:rank ?rank .
+  FILTER(?rank != wikibase:DeprecatedRank)
+  OPTIONAL { ?st ?psv ?vn . ?vn wikibase:timePrecision ?precision . }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en,mul". ?v rdfs:label ?vLabel . }
+}

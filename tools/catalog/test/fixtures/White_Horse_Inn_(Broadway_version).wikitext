@@ -1,0 +1,104 @@
+{{Infobox opera
+| name              = White Horse Inn
+| genre             = [[Operetta]]
+| librettist        = [[David Freedman]]
+| composer          = [[Ralph Benatzky]]
+| based_on          = ''[[The White Horse Inn (operetta)|Im weißen Rößl]]''
+| premiere_date     = {{Start date|1936|10|01|df=y}}
+| premiere_location = [[Center Theatre (New York City)]]
+}}
+==Background==
+==Plot==
+==Americanization of the names==
+==Cast==
+* Leopold Brandmeyer, the Head Waiter: William Gaxton
+* Katarina Vogelhuber, Proprietress of the White Horse Inn: [[Kitty Carlisle]]
+* William McGonigle: Billy House
+* Natalie, his daughter: Carol Stone
+* Donald Hutton: Robert Halliday
+* Professor Hinzelman: Frederick Graham
+* Gretel, his Daughter: Melissa Mason
+* Sylvester S. Somerset, Jr.: Buster West
+* The Emperor: Arnold Korff
+
+==Musical numbers==
+
+{| class="wikitable"
+|-
+! English version (1931) !! American version (1936)
+|-
+! colspan="2"|Act 1
+|-
+| Yodel Song ||
+|-
+| O’er Valley and Hill ||
+|-
+| Touring Number||
+|-
+|Entrance of Tourists (Benatzky)|| Arrival of Tourists (Benatzky)
+|-
+| || *Leave it to Katarina (Jara Benes)
+|-
+| It Would Be Wonderful (Benatzky)|| I Cannot Live without Your Love (Benatzky)
+|-
+| Entrance of Steamer (Benatzky) || Arrival of Steamboat (Benatzky)
+|-
+| White Horse Inn (Benatzky) || White Horse Inn (Benatzky)
+|-
+| Happy Cows || *Cowshed Rhapsody (Gelbtrunk)
+|-
+| Spade Number – Specialty Dance (Benatzky) || Spade Ballet (Benatzky)
+|-
+| Your Eyes (Stolz) || Blue Eyes (Stolz)
+|-
+| It Would Be Wonderful (reprise) ||
+|-
+| Rain Finale (Benatzky) || Rain Finale (Benatzky)
+|-
+! colspan="2"|Act 2
+|-
+| Opening chorus (Benatzky) || Market Day in the Village (Benatzky)
+|-
+| Good-Bye (Stolz) ||*Goodbye, Au Revoir, Auf Wiedersehn (Coates)
+|-
+| You Too (Stolz)||
+|-
+| Salzkammergut (Benatzky))|| High Up on the Hills (Benatzky)
+|-
+| Bathing||
+|-
+| Fairies||
+|-
+| || *I Would Love to Have You Love Me (Caesar-Lerner-Marks)
+|-
+| Alpine Number || *Alpine Symphony (Gelbtrunk)
+|-
+| Why Should We Cry for the Moon ||
+|-
+| Procession (Finale) || Welcome on the Landing Stage (Benatzky)
+|-
+! colspan="2"|Act 3
+|-
+| Softly ||
+|-
+| In This Fickle World (Benatzky) ||Serenade to the Emperor (Benatzky)
+|-
+| White Horse Inn (reprise)||
+|-
+|In This Fickle World (reprise)|| We Prize Most the Things We Miss (Benatzky)
+|-
+|On the Trail||
+|-
+| My Song of Love (Stolz)|| *The Waltz of Love (Leo Fall)
+|-
+| Sigismund (reprise)) ||
+|-
+| Good-Bye (reprise) ||
+|-
+| Finale || Finale
+|}
+
+==Critical reaction==
+==Recordings==
+== Notes ==
+=== References ===

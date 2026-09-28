@@ -1,0 +1,511 @@
+{{Infobox musical
+| name        = Anything Goes
+| image       = Anything Goes original 1934 sheet music.jpg
+| imagesize   = 
+| caption     = Sheet music from original Broadway production
+| music       = [[Cole Porter]]
+| lyrics      = Cole Porter
+| book        = [[Guy Bolton]] <br /> [[P. G. Wodehouse]] <br /> [[Howard Lindsay]] <br /> [[Russel Crouse]] <br /> [[John Weidman]] (1987 revival) <br /> [[Timothy Crouse]] (1987 revival)
+| basis       = 
+| productions = 1934 [[Broadway theatre|Broadway]] <br /> 1935 [[West End Theatre|West End]] <br /> 1987 Broadway [[revival (theatre)|Revival]] <br /> 1989 West End revival <br /> 2003 West End revival <br /> 2011 Broadway revival <br /> 2012 US tour <br /> 2015 UK tour <br /> 2021/2022 London revival <br /> 2022 UK tour
+
+| awards      = 1987 [[Tony Award for Best Revival]]<br />2002 [[Laurence Olivier Award for Best Musical Revival]]<br />2011 [[Tony Award for Best Revival of a Musical]]
+}}
+==History==
+== Plot summary ==
+===Original version (1934)===
+====Act I====
+====Act II====
+===Current version (1987, with minor changes in 2011)===
+====Act I====
+====Act II====
+==Characters==
+* Reno Sweeney — a sultry [[evangelism|evangelist]] turned nightclub singer and an old friend of Billy
+* Billy Crocker — a young Wall Street broker in love with Hope
+* Moonface Martin  — a second-rate [[gangster]], "[[Public enemy|Public Enemy]] No. 13"
+* Hope Harcourt — an American [[debutante]]
+* Lord Evelyn Oakleigh — Hope's wealthy and eccentric English fiancé
+* Bonnie/Erma — Moonface's girlfriend <small>(1934 original)</small>, Snake Eyes' girlfriend and Moonface's friend <small>(2011 revival)</small>
+* Elisha J. Whitney — an [[Ivy League]] [[Wall Street]] banker, Billy's boss
+* Mrs. Evangeline Harcourt  — Hope's haughty and overbearing mother
+* Cheeky — Mrs. Harcourt's small companion dog, usually portrayed as a [[Pekingese]]
+* Captain, steward, purser on the ship
+* Ching and Ling <small>("Luke" and "John" in the 1987 revival and 2002 concert)</small> — two Chinese "converts" and reformed gamblers who accompany Bishop Henry T. Dobson
+* Ritz Quartette <small>(1934 original)</small> / Lady Fair Quartet <small>(1987 revival)</small>
+* The Right Reverend Bishop Henry T. Dobson
+* Reno's Angels (Purity, Chastity, Charity and Virtue) <small>(1934 original and 1962 revival / 2002 concert and 2011 revival)</small> — Reno's backing singers
+* Ship's crew, passengers, reporters, photographers and F.B.I. agents
+
+==Notable casts==
+{| class="wikitable"
+! rowspan="2" |Character
+!Broadway
+!West End
+!Off-Broadway Revival
+!First Broadway Revival
+!First U.S. National Tour
+!First West End Revival
+!Second U.S. National Tour
+!Second West End Revival
+!Second Broadway Revival
+!Third U.S. National Tour
+!First UK National Tour
+!Third London Revival
+!Second UK Tour 
+|-
+!<small>1934</small>
+!<small>1935</small>
+!<small>1962</small>
+!<small>1987</small>
+!<small>1988</small>
+! colspan="2" |<small>1989</small>
+!<small>2002</small>
+!<small>2011</small>
+!<small>2012</small>
+!<small>2015</small>
+!<small>2021</small>
+!<small>2022</small>
+|-
+!Reno Sweeney
+|[[Ethel Merman]]
+|[[Jeanne Aubert]]
+|[[Eileen Rodgers]]
+|[[Patti LuPone]]
+|[[Leslie Uggams]]
+|[[Elaine Paige]]
+|[[Mitzi Gaynor]]
+|[[Sally Ann Triplett]]
+|[[Sutton Foster]]
+|[[Rachel York]]
+|[[Debbie Kurup]]
+|[[Sutton Foster]]
+|[[Kerry Ellis]]
+|-
+!Billy Crocker
+|[[William Gaxton]]
+|[[Jack Whiting (actor)|Jack Whiting]]
+|[[Hal Linden]]
+|[[Howard McGillin]]
+|[[Rex Smith]]
+|[[Howard McGillin]]
+|Scott Stevensen
+|[[John Barrowman]]
+|[[Colin Donnell]]
+|[[Erich Bergen]]
+|[[Matt Rawle]]
+|colspan='2' align=center|Samuel Edwards
+|-
+!Moonface Martin
+|[[Victor Moore]]
+|[[Sydney Howard]]
+|Mickey Deems
+|[[Bill McCutcheon]]
+|[[Rip Taylor]]
+|[[Bernard Cribbins]]
+|[[Robert Nichols (actor)|Robert Nichols]]
+|[[Martin Marquez]]
+|[[Joel Grey]]
+|[[Fred Applegate (actor)|Fred Applegate]]
+|[[Hugh Sachs]]
+|[[Robert Lindsay (actor)|Robert Lindsay]]
+|[[Denis Lawson]]
+|-
+!Hope Harcourt
+|Bettina Hall
+|[[Adele Dixon]]
+|Barbara Lang
+|Kathleen Mahony-Bennett
+|Rebecca Baxter
+|Ashleigh Sendin
+|Donna English
+|[[Mary Stockley]]
+|[[Laura Osnes]]
+|Alex Finke
+|Zoë Rainey 
+|colspan='2' align=center|Nicole-Lily Baisden
+|-
+!Lord Evelyn Oakleigh
+|Leslie Barrie
+|[[Peter Haddon]]
+|[[Kenneth Mars]]
+|[[Anthony Heald]]
+|Paul V. Ames
+|[[Martin Turner (actor)|Martin Turner]]
+|Richard Sabellico
+|[[Simon Day]]
+|[[Adam Godley]]
+|[[Edward Staudenmayer]]
+|Stephen Matthews
+|colspan='2' align=center|Haydn Oakley
+|-
+!Bonnie/Erma{{Efn|The name of Moonface's girlfriend's character has changed throughout the production's history|name=|group=}}
+|Vera Dunn
+|Betty Kean
+|[[Sheldon Harnick|Margery Gray]]
+|[[Linda Hart]]
+|Susan Terry
+|[[Kathryn Evans]]
+|Dorothy Kiara
+|Annette McLauglin
+|[[Jessica Stone]]
+|Joyce Chittick
+|Alex Young
+|colspan='2' align=center|[[Carly Mercedes Dyer]]
+|-
+!Elisha J. Whitney
+|Paul Everton
+|Richard Clarke
+|Warren Wade
+|[[Rex Everhart]]
+|[[Gordon Connell (actor)|Gordon Connell]]
+|[[Harry Towb]]
+|[[Gordon Connell (actor)|Gordon Connell]]
+|[[Denis Quilley]]
+|[[John McMartin]]
+|[[Dennis Kelly (actor)|Dennis Kelly]]
+|[[Simon Rouse]]
+|[[Gary Wilmot]]
+|[[Simon Callow]]
+|-
+!Evangeline Harcourt
+|May Abbey
+|Diana Wilson
+|Mildred Chandler
+|[[Anne Francine]]
+|Julie Kurnitz
+|Ursula Smith
+|Evelyn Page
+|Susan Tracy
+|[[Jessica Walter]]
+|Sandra Shipley
+|[[Jane Wymark]]
+|[[Felicity Kendal]]
+|[[Bonnie Langford]]
+|-
+!Captain
+|John C. King
+|Henry Thompson
+|Neal Patrick
+|David Pursley
+|Kenneth Kantor
+|David Bacon
+|Kenneth Kantor
+|Paul Grunert
+|[[Walter Charles]]
+|[[Chuck Wagner]]
+|Bob Harms
+|colspan='2' align=center|Clive Hayward
+|-
+!Purser
+|Val Vestoff
+|Lance Lister
+|D. Bruce Rabbino
+|Gerry Vichi
+|Dale O'Brien
+|David Bexon
+|Dale O'Brien
+|Robin Soans
+|Robert Creighton
+|Jeff Brooks
+|Adam Dutton
+|Martin Callaghan
+|Cornelius Clarke
+|-
+!Bishop Dobson
+|Pacie Ripple
+|Frank Foster
+|Neal Patrick
+|Richard Korthaze
+|George Riddle
+|Brian Ellis
+|David Beckett
+|Anthony Cable
+|William Ryall
+|Gary Lindemann
+|Rohan Richards
+|Marc Akinfolarin
+|Eu Jin Hwang
+|-
+!Ching / Luke
+|Richard Wang
+|Ley On
+|Jeff Siggins
+|Stanford Egi
+|[[Alan Muraoka]]
+|Hi Ching
+|Marc C. Oka
+|Raymond Chai
+|Andrew Cao
+|[[Vincent Rodriguez III]]
+|Nick Len
+|Alistair So
+|Carl Au
+|-
+!Ling / John
+|Charlie Fang
+|Ah Woo Sing
+|Martin J. Cassidy
+|Toshi Toda
+|Ronald Yamamoto
+|John Shin
+|[[Alan Muraoka]]
+|Vao Chin
+|Raymond J. Lee
+|Marcus Shane
+|Andy Yau
+|Jon Chew
+|Trev Neo
+|}
+'''Notes'''
+{{notelist}}
+
+==Musical numbers==
+{{col-begin}}
+{{col-2}}
+
+===Act I===
+* "[[Overture]]" – Orchestra
+* "[[I Get a Kick Out of You]]" <small>(follows "Friendship" in 1962)</small> – Reno Sweeney
+* "There's No Cure Like Travel <small>(reinstated for 1987, 2011)</small> / Bon Voyage" – Sailor, Girl and Ship's Crew and Company
+* "[[All Through the Night (Cole Porter song)|All Through the Night]]" <small>(follows "Blow, Gabriel, Blow" in 1962 and "Be Like The Bluebird" in 1987, 2011)</small> – Billy Crocker, Hope Harcourt and Men
+* "[[It's De-Lovely]]" <small>(added in 1962, follows "Friendship" in 1987, 2011)</small> – Billy Crocker and Hope Harcourt
+* "[[You'd Be So Easy to Love|Easy to Love]]" <small>(reinstated for 1987, 2011)</small> – Billy Crocker
+* "Easy to Love (Reprise)" <small>(added in 1987, 2011)</small> - Hope Harcourt
+* "I Want to Row on the Crew (The Crew Song)" <small>(added in 1987, 2011)</small> – Elisha J. Whitney
+* "Sailor's Shanty (There'll Always Be A Lady Fair)" <small>(cut in 1962, precedes "Friendship" in 1987, 2011)</small> – The Foursome
+* "Where Are the Men?" <small>(only in 1934)</small> – Bonnie and Girls
+* "Heaven Hop" <small>(only in 1962)</small> - Bonnie and Girls
+* "[[You're the Top]]" <small>(precedes "Bon Voyage" in 1962 while following it in 1987, 2011)</small> – Reno Sweeney and Billy Crocker
+* "Sailor's Shanty (Reprise)" <small>(only in 1934)</small> - The Foursome
+* "[[Friendship (Cole Porter song)|Friendship]]" <small>(added in 1962, no Billy in 1987, 2011)</small> – Reno Sweeney, Moonface Martin, and Billy Crocker
+* "[[Anything Goes (Cole Porter song)|Anything Goes]]" – Reno Sweeney, the Foursome and Company
+* "You're the Top (Reprise)" <small>(only in 1934)</small> - Reno Sweeney, Moonface Martin, and Billy Crocker
+{{col-break}}
+
+===Act II===
+* "[[Entr'acte]]" – Orchestra
+* "Public Enemy Number One" – Captain, Purser, Company
+* "Let's Step Out" <small>(only in 1962)</small> – Bonnie and Company
+* "[[Let's Misbehave]]" <small>(only in 1962)</small> – Reno Sweeney and Lord Evelyn Oakleigh
+* "Blow, Gabriel, Blow" – Reno Sweeney and Company 
+* "Goodbye, Little Dream, Goodbye" <small>(added in 1987, 2011)</small> – Hope Harcourt
+* "Be Like the Bluebird" – Moonface Martin
+* "All Through the Night (Reprise)" <small>(cut in 1987, 2011)</small> – Billy Crocker and Hope Harcourt
+* "I Get a Kick Out of You (Reprise)" <small>(only in 1934)</small> - Reno Sweeney
+* "The Gypsy in Me" <small>(cut in 1962, sung by Lord Evelyn Oakleigh in 1987, 2011)</small> – Hope Harcourt and Girls
+* "Take Me Back to Manhattan" <small>(only in 1962)</small> – Reno Sweeney and Angels
+* "Buddie, Beware" <small>(reinstated for 1987, 2011)</small> – Erma Latour and Sailors
+* "Finale (You're the Top / Anything Goes)" <small>("You're the Top" replaced by "I Get a Kick Out of You" in 1987 and "It's De-Lovely" in 2011)</small> – Reno Sweeney and Ensemble
+{{col-end}}
+
+;''This chart shows all songs that were performed; placement of the songs varied. Source: Internet Broadway Database listing''
+
+{| class="wikitable" width="90%"
+|-
+! width="30%"| 1934 Original
+! width="30%"| 1962 off-Broadway Revival
+! width="30%"| 1987 and 2011 Revivals
+|-
+! colspan="3"| "[[I Get a Kick Out of You]]"
+|-
+| Reno expresses her love to Billy in the bar at the beginning of Scene 1, reprised later near the show's end.
+| The song is sung towards the end of Act 1, when Reno realizes she is in love with Evelyn.
+| Same as 1934.
+|-
+! colspan="3"| "(There's No Cure Like Travel) Bon Voyage"
+|-
+| The Sailors and guests board the ship, ready to depart, singing the "Bon Voyage" section of the song, but with no "There's No Cure Like Travel" portion.
+| Same as 1934.
+| The complete song is sung. ("There's No Cure Like Travel" was written for 1934, but later cut).
+|-
+! colspan="3"| "[[You'd Be So Easy to Love]]"
+|-
+| Written for 1934, but cut during rehearsals.
+| {{n/a}}
+| Here, Billy makes an advance on Hope. Although she turns him away, she secretly agrees with him.
+|-
+! colspan="3"| "The Crew Song"
+|-
+| {{n/a}}
+| {{n/a}}
+| Originally written for a 1914 college show, ''Paranoia''. Elisha J. Whitney prepares for a date with Mrs. Evangeline Harcourt and sings about his Yale days.
+|-
+! colspan="3"| "Sailor's Chanty (There'll Always Be A Lady Fair)"
+|-
+| Sung by sailors during a scene change, and later reprised.
+| {{n/a}} (however, an instrumental version of the song can be heard in the overture)
+| Same as 1934, with fewer verses and no reprise.
+|-
+! colspan="3"| "Heaven Hop"
+|-
+| {{n/a}}
+| Originally written for ''Paris'', Bonnie attracts a group of sailors.
+| {{n/a}}
+|-
+! colspan="3"| "Where Are the Men?"
+|-
+| Bonnie attracts a group of sailors.
+| Replaced by "Heaven Hop".
+| {{n/a}}
+|-
+! colspan="3"| "[[You're the Top]]"
+|-
+| Billy convinces Reno to help him win Hope's heart (where "Friendship" would go in the revivals). There is also an encore of the song, totaling approximately six minutes.
+| Sung at the beginning of the show in place of "[[I Get a Kick Out of You]]" with fewer verses.
+| Sung as a pep-talk from Reno to a discouraged Billy.
+|-
+! colspan="3"| "[[Friendship (Cole Porter song)|Friendship]]"
+|-
+| {{n/a}}
+| Originally written for ''[[DuBarry Was a Lady]]''; Reno, Billy, and Moonface sing about their strong bond
+| Similar to 1962, but only Reno and Moonface sing, and some alternate lyrics
+|-
+! colspan="3"| "[[It's De-Lovely]]"
+|-
+| {{n/a}}
+| Originally written for ''[[Red, Hot and Blue]]''; Billy and Hope have a romantic moment where "All Through the Night" was in 1934 and "[[You'd Be So Easy to Love]]" was in 1987. They are joined by the sailors and women of the ship.
+| Sung later in the musical, near the Act I Finale. The sailors and women do not join in, and there is an extended dance sequence in the middle.
+|-
+! colspan="3"| "[[Anything Goes (Cole Porter song)|Anything Goes]]"
+|-
+| Sung by Reno before the Act I Finale when she considers marrying Evelyn.
+| Ended Act I and sung about Billy as Snake Eyes, as well as Evelyn. Contained alternate lyrics.
+| Similar to 1962, but only about Billy as Snake Eyes, with more alternate lyrics. The 2011 version adds a verse not heard since 1962: "They think he's gangster number one, so they've made him their favorite son, and that goes to show: Anything Goes!"
+|-
+! colspan="3"| "Act I Finale"
+|-
+| Whereas the revivals ended the act with "[[Anything Goes (Cole Porter song)|Anything Goes]]", the 1934 original had a scene where Hope rejects Billy, who is posing as Snake Eyes. Reno and Moonface try to cheer him up with a reprise of "[[You're the Top]]", to no avail. Billy is the hero of the ship to everyone but the girl he really wants.
+| Replaced by "[[Anything Goes (Cole Porter song)|Anything Goes]]".
+| Replaced by "[[Anything Goes (Cole Porter song)|Anything Goes]]".
+|-
+! colspan="3"| "Public Enemy Number One"
+|-
+| After a marching-style intro by the sailor quartet, the song turns into a mock-hymn to Billy.
+| The opening verse is cut, leaving only the hymn, sung [[a cappella]] style with no instrumentals, unlike the other versions.
+| The introduction is back, sung by the Captain and Purser instead of the sailors, and also shortened a bit.
+|-
+! colspan="3"| "Let's Step Out"
+|-
+| {{n/a}}
+| Originally written for ''[[Fifty Million Frenchmen]]''. Bonnie arouses the passengers after the "Public Enemy Number One" with a dance number.
+| {{n/a}}
+|-
+! colspan="3"| "[[Let's Misbehave]]"
+|-
+| {{n/a}}
+| Originally written for ''Paris''; realizing Billy is beyond her reach Reno sets her sights on Evelyn as he realizes he's not in love with Hope.
+| {{n/a}}
+|-
+! colspan="3"| "Blow, Gabriel, Blow"
+|-
+| Sung by Reno to cheer everyone up after Billy is arrested as an impostor.
+| Same as 1934.
+| Sung before Billy is arrested, as part of Reno's "sermon".
+|-
+! colspan="3"| "Goodbye, Little Dream, Goodbye"
+|-
+| {{n/a}}
+| {{n/a}}
+| Originally written for ''[[Born to Dance]]'', dropped from ''[[Red, Hot and Blue]]'', first appears in ''O Mistress Mine''. Sung by Hope after Billy is arrested, in which she realizes she's in love too late.  An introductory verse absent in the 1987 revival was reinstated for the 2011 revival.
+|-
+! colspan="3"| "Be Like the Bluebird"
+|-
+| Sung by Moonface to cheer up Billy in the brig.
+| Same as 1934 (missing a verse), but sung after "All Through the Night".
+| Same as 1934 (missing a verse).
+|-
+! colspan="3"| "[[All Through the Night (Cole Porter song)|All Through the Night]]"
+|-
+| Sung by Billy and Hope on deck early in the show, where "[[It's De-Lovely]]" and "[[You'd Be So Easy to Love]]" went in revivals, with a chorus. Reprised when Hope visits Billy in the brig.
+| Same as the 1934 reprise.
+| Same as 1962, but with only Billy singing, complete with chorus.
+|-
+! colspan="3"| "The Gypsy in Me"
+|-
+| Sung by Hope, letting her wild side out after Reno tells her that Billy will fight for her.
+| {{n/a}}
+| Now sung by Evelyn to Reno, turning into a comedic song and dance number, wooing her with his wild side, and adding to the plot about his family's disturbing secret.
+|-
+! colspan="3"| "Take Me Back to Manhattan"
+|-
+| {{n/a}}
+| Originally written for ''[[The New Yorkers]]''. Sung by a homesick Reno and her Angels.
+| {{n/a}}
+|-
+! colspan="3"| "Buddie Beware"
+|-
+| Sung by Reno during a scene change about her problems with men, replaced in later runs with a reprise of "[[I Get a Kick Out of You]]".
+| {{n/a}}
+| Sung by Erma to the sailors who are in love with her. Fewer verses.
+|-
+! colspan="3"| "Finale"
+|-
+| Reprises of "[[You're the Top]]" and "[[Anything Goes (Cole Porter song)|Anything Goes]]".
+| Same as 1934
+| Reprises of "[[I Get a Kick Out of You]]" and "[[Anything Goes (Cole Porter song)|Anything Goes]]". In the 2011 revival, the cast sings reprises of "[[It's De-Lovely]]" and "Anything Goes".
+|}
+
+'''Cut songs'''
+*"Waltz Down the Aisle" [dropped before the Boston tryout, later reworked by Porter as "Wunderbar" for ''[[Kiss Me, Kate]]''] - Sir Evelyn and Hope Harcourt
+*"What a Joy to Be Young" [dropped before the New York opening; alternate title: "To Be in Love and Young"] - Hope Harcourt
+*"Kate the Great" [unused] - Reno Sweeney and Angels 
+
+==Notable productions==
+===Broadway===
+===West End===
+=== 1962 Off-Broadway revival to 1987 Broadway revival ===
+===1989 West End revival and Australia===
+===2002–2003 Concert, London, and West End revivals===
+===2011 Broadway revival===
+===2012 U.S. national tour===
+===2015 U.K. tour===
+===2015 Australian revival===
+=== 2021 London revival and tour ===
+===Regional revivals===
+==Film versions==
+==Television versions==
+==Awards and nominations==
+===1987 Broadway revival===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Revival|Best Revival]] [[Tony Award for Best Performance by a Leading Actor in a Musical|Best Performance by a Leading Actor in a Musical]] [[Howard McGillin]] [[Tony Award for Best Performance by a Leading Actress in a Musical|Best Performance by a Leading Actress in a Musical]] [[Patti LuPone]] [[Tony Award for Best Performance by a Featured Actor in a Musical|Best Performance by a Featured Actor in a Musical]] [[Bill McCutcheon]] [[Anthony Heald]] [[Tony Award for Best Direction of a Musical|Best Direction of a Musical]] [[Jerry Zaks]] [[Tony Award for Best Choreography|Best Choreography]] [[Michael Smuin]] [[Tony Award for Best Scenic Design|Best Scenic Design]] [[Tony Walton]] [[Tony Award for Best Costume Design|Best Costume Design]] [[Tony Award for Best Lighting Design|Best Lighting Design]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Revival of a Musical|Outstanding Revival of a Musical]] [[Drama Desk Award for Outstanding Actor in a Musical|Outstanding Actor in a Musical]] [[Drama Desk Award for Outstanding Actress in a Musical|Outstanding Actress in a Musical]] [[Drama Desk Award for Outstanding Featured Actor in a Musical|Outstanding Featured Actor in a Musical]] [[Drama Desk Award for Outstanding Director of a Musical|Outstanding Director of a Musical]] [[Drama Desk Award for Outstanding Choreography|Outstanding Choreography]] [[Drama Desk Award for Outstanding Orchestrations|Outstanding Orchestrations]] [[Cole Porter]] [[Drama Desk Award for Outstanding Costume Design|Outstanding Costume Design]] [[Drama Desk Award for Outstanding Set Design|Outstanding Set Design]] [[Drama Desk Award for Outstanding Lighting Design|Outstanding Lighting Design]]
+|}
+===1989 West End revival===
+{|
+|-
+| links || [[Laurence Olivier Award]] [[Laurence Olivier Award for Best Actress in a Musical|Best Actress in a Musical]] [[Elaine Paige]]
+|}
+===2002 London revival===
+{|
+|-
+| links || [[Laurence Olivier Award]] [[Laurence Olivier Award for Best Musical Revival|Outstanding Musical Production]]
+|}
+===2011 Broadway revival===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Revival of a Musical|Best Revival of a Musical]] [[Tony Award for Best Performance by a Leading Actress in a Musical|Best Performance by a Leading Actress in a Musical]] [[Sutton Foster]] [[Tony Award for Best Performance by a Featured Actor in a Musical|Best Performance by a Featured Actor in a Musical]] [[Adam Godley]] [[Tony Award for Best Direction of a Musical|Best Direction of a Musical]] [[Kathleen Marshall]] [[Tony Award for Best Choreography|Best Choreography]] [[Tony Award for Best Scenic Design|Best Scenic Design]] [[Derek McLane]] [[Tony Award for Best Costume Design in a Musical|Best Costume Design]] [[Martin Pakledinaz]] [[Tony Award for Best Lighting Design|Best Lighting Design]] [[Peter Kaczorowski]] [[Tony Award for Best Sound Design|Best Sound Design]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Revival of a Musical|Outstanding Revival of a Musical]] [[Drama Desk Award for Outstanding Actor in a Musical|Outstanding Actor in a Musical]] [[Colin Donnell]] [[Drama Desk Award for Outstanding Actress in a Musical|Outstanding Actress in a Musical]] [[Drama Desk Award for Outstanding Featured Actor in a Musical|Outstanding Featured Actor in a Musical]] [[Drama Desk Award for Outstanding Featured Actress in a Musical|Outstanding Featured Actress in a Musical]] [[Laura Osnes]] [[Drama Desk Award for Outstanding Director of a Musical|Outstanding Director of a Musical]] [[Drama Desk Award for Outstanding Choreography|Outstanding Choreography]] [[Drama Desk Award for Outstanding Costume Design|Outstanding Costume Design]] [[Drama Desk Award for Outstanding Sound Design|Outstanding Sound Design]] [[Drama Desk Award for Outstanding Set Design|Outstanding Set Design]] [[Outer Critics Circle Award]] [[John McMartin]] [[Astaire Award]] [[Grammy Award]] [[Grammy Award for Best Musical Show Album|Best Musical Show Album]]
+|}
+===2021 London revival===
+{|
+|-
+| links || [[Laurence Olivier Awards|Laurence Olivier Award]] [[Laurence Olivier Award for Best Musical Revival|Best Musical Revival]] [[Laurence Olivier Award for Best Actor in a Musical|Best Actor in a Musical]] [[Robert Lindsay (actor)|Robert Lindsay]] [[Laurence Olivier Award for Best Actress in a Musical|Best Actress in a Musical]] [[Sutton Foster]] [[Laurence Olivier Award for Best Actor in a Supporting Role in a Musical|Best Actor in a Supporting Role in a Musical]] [[Gary Wilmot]] [[Laurence Olivier Award for Best Actress in a Supporting Role in a Musical|Best Actress in a Supporting Role in a Musical]] [[Carly Mercedes Dyer]] [[Laurence Olivier Award for Best Director|Best Director]] [[Kathleen Marshall]] [[Laurence Olivier Award for Best Theatre Choreographer|Best Theatre Choreographer]] [[Laurence Olivier Award for Best Costume Design|Best Costume Design]] [[Laurence Olivier Award for Best Original Score or New Orchestrations|Best Original Score or New Orchestrations]] [[Bill Elliott (musician)|Bill Elliott]] [[WhatsOnStage Awards|WhatsOnStage Award]]
+|}
+==Recordings==
+==References==
+===Sources===
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+cast included [[Jeanne Aubert]].
+starred [[Patti LuPone]].
+starred [[Howard McGillin]].
+starring [[Geraldine Turner]].
+starred [[Sally Ann Triplett]].
+starred [[Debbie Kurup]].
+starred [[Robert Lindsay (actor)|Robert Lindsay]].
+starred [[Andrea McArdle]].
+starred [[Jeanna de Waal]].
+starred [[Ethel Merman]].
+starring [[Martha Raye]].
+starring [[Frank Sinatra]].
+starring [[Per Asplin]].

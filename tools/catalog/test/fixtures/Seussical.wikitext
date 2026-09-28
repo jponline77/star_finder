@@ -1,0 +1,212 @@
+{{Infobox Musical
+| name        = Seussical
+| image       = Seussical (logo).png
+| music       = [[Stephen Flaherty]]
+| lyrics      = [[Lynn Ahrens]]
+| book        = Lynn Ahrens<br />Stephen Flaherty 
+| basis       = The works of [[Dr. Seuss]]
+| productions = 2000 [[Boston]] tryout <br />2000 [[Broadway theatre|Broadway]] <br />2002 1st US Tour<br /> 2003 2nd US Tour<br /> 2007 [[Off-Broadway]]<br /> 2012 [[West End theatre|West End]]<br /> 2016 [[Off-off-Broadway]] <br /> 2018 [[Off West End]] <br /> 2025 [[Off-Broadway]]
+
+| awards      = 
+}}
+==Plot==
+===Act I===
+===Act II===
+==Cast==
+{|class="wikitable" style="width:1000;"
+|-
+! rowspan=2 scope="col"| Character
+! scope="col"| Boston 
+! scope="col"| Broadway 
+! scope="col"| 1st US tour 
+! scope="col"| Off-Broadway 
+! scope="col"| West End 
+! scope="col"| Off-Off Broadway
+! scope="col"| Off West End 
+|-
+!colspan=2|{{Small|2000}}
+!{{Small|2001}}
+!{{Small|2007}}
+!{{Small|2012}}
+!{{Small|2016}}
+!{{Small|2018}}
+|-
+![[The Cat in the Hat]]
+|colspan="2" style="text-align: center;"|[[David Shiner (clown)|David Shiner]]
+| align="center" | [[Cathy Rigby]]
+| align="center" | Shorey Walker
+| align="center" | Joe Morrow
+| align="center" | Jesse Manocherian
+| align="center" | Marc Pickering
+|-
+! The Boy/[[Horton Hears a Who!|Jojo]]
+| align="center" | [[Andrew Keenan-Bolger]]
+| align="center" | Anthony Blair Hall <br />[[Andrew Keenan-Bolger]]†
+| align="center" | Drake English <br /> Richard Miron†
+| align="center" | Michael Wartella
+| align="center" | Clark Devlin
+| align="center" | Marc Winski
+| align="center" | Anna Barnes
+|-
+! [[Horton the Elephant]]
+| colspan="2" style="text-align: center;"|[[Kevin Chamberlin]]
+| align="center" | Eric Leviton
+| align="center" | Brian Michael Hoffman
+| align="center" | David Hunter
+| align="center" | Adrian Rifat
+| align="center" | Scott Paige
+|-
+! [[Gertrude McFuzz]]
+| colspan="2" style="text-align: center;"| [[Janine LaManna]]
+| align="center" | Garret Long
+| align="center" | Karen Weinburg
+| align="center" | Kirsty Marie Ayers
+| align="center" | [[Alyson Leigh Rosenfeld]]
+| align="center" | Amy Perry
+|- 
+! Mayzie La Bird
+| colspan="2" style="text-align: center;"| [[Michele Pawk]]
+| align="center" | [[Gaelen Gilliland]]
+| align="center" | Kelly Felthous
+| align="center" | Jessica Parker
+| align="center" | Ashley Harris
+| align="center" | Katie Paine
+|- 
+! The Mayor of Whoville
+| colspan="2" style="text-align: center;"| [[Stuart Zagnit]]
+| align="center" | Don Stitt
+| align="center" | Josh Walden
+| align="center" | Philip Scutt
+| align="center" | Stephen Foster Harris
+| align="center" | Adam Dawson
+|- 
+! Mrs. Mayor
+| rowspan="2" style="text-align: center;"| [[Alice Playten]]
+| align=center | [[Alice Playten]]
+| align="center" | Amy Griffin
+| align="center" | Amelia Morgan-Rothschild
+| align="center" | Tanya Shields
+| align="center" | Nikki Yarnell
+| align="center" | Daisy Steere
+|- 
+! [[The Lorax]]
+! colspan=6 {{N/a}}
+|-
+! General Genghis Khan Schmitz
+| colspan="2" style="text-align: center;"| Erick Devine
+| align="center" | Stuart Marland
+! colspan="4" {{N/a}}
+|- 
+! Sour Kangaroo
+|colspan="2" style="text-align:center;"| [[Sharon Wilkins]]
+| align="center" | Natasha Yvette Williams
+| align="center" | Ebony Marshall-Oliver
+| align="center" | Natalie Green
+| align="center" | Paula Galloway
+| align="center" | Ngozi Ugoh
+|-
+! The Once-ler
+| align=center | [[Eddie Korbich]]‡
+! colspan=7 {{N/a}}
+|-
+|}
+
+=== Notable Broadway replacements ===
+* '''The Cat in the Hat:''' [[Rosie O'Donnell]], [[Cathy Rigby]]
+* '''Jojo:''' [[Aaron Carter]], Cameron Bowen, [[Andrew Keenan-Bolger]]
+
+==Characters==
+===Major===
+* [[The Cat in the Hat]] is a [[trickster]] who serves as the narrator of the story and also plays many small roles throughout.
+* Jojo is the imaginative and misunderstood young son of the mayor. In touring and licensed productions, the actor who plays Jojo begins as an unnamed boy whom the Cat brings into the story.
+* [[Horton the Elephant|Horton]] is an [[elephant]] whose compassion and determination lead him to follow through on any task.
+* [[Yertle the Turtle and Other Stories#Gertrude McFuzz|Gertrude McFuzz]] is Horton's next-door neighbor, a shy [[bird]] with a short tail who falls in love with Horton and seeks to have her tail made longer to catch his attention.
+* Mayzie LaBird is a bird neighbor of Horton and Gertrude with an extravagant tail. She becomes single mother to an unwanted egg that she ultimately gives up to Horton.
+* Sour [[Kangaroo]] is a mother who seeks to protect her jungle community from strange ideas like Horton's.
+* Mr. and Mrs. Mayor are Jojo's parents and the community leaders of Whoville who don't know how to deal with their overimaginative son.
+* General Genghis Khan Schmitz is an overbearing military academy instructor who leads his cadets into combat in [[The Butter Battle Book|The Butter Battle]] (though his original book appearance was in [[I Had Trouble in Getting to Solla Sollew]]).
+
+===Minor===
+* Bird Girls are a group of female birds who act as a Greek chorus.
+* Wickersham Brothers are a gang of monkeys who mock Horton and steal the clover.
+* [[The Grinch]] is a notable resident of Who-ville who is responsible for organizing the Christmas pageant based on [[How the Grinch Stole Christmas!|the tale of his own redemption]].
+* Young Kangaroo is the Sour Kangaroo's young [[joey (marsupial)|joey]] (often portrayed by a puppet).
+* Yertle the Turtle is the judge who presides over the Jungle of Nool's court.
+* Vlad Vladikoff, an [[eagle]] ally of the Wickershams.
+*Citizens of Who-ville, Jungle Creatures, Fish, Cadets, Hunches, Circus Animals, Hunters
+
+==Musical numbers==
+{{col-begin}}
+{{col-2}}
+
+===Act I===
+* "Overture" – <small>Orchestra/The Boy Who Thinks</small> 		
+* "Oh, the Thinks You Can Think!" – <small>The Cat in the Hat and Company</small>
+* "Horton Hears a Who"  – <small>Bird Girls, Horton the Elephant, and Citizens of the Jungle of Nool</small>
+* "Biggest Blame Fool" – <small>Sour Kangaroo, Young Kangaroo, Horton the Elephant, Wickersham Brothers, Bird Girls, Gertrude McFuzz, Mayzie LaBird, Citizens of the Jungle, the Boy and The Cat</small>
+* “Biggest Blame Fool Playoff/Gertrude McFuzz” - <small>Gertrude, Wickershams, Bird Girls</small>
+* "Here on Who" – <small>The Mayor, Mrs. Mayor, The Grinch, Whos, Schmitz and Horton</small>
+* "It's Possible"  – <small>JoJo, The Cat in the Hat and Fish</small>
+* "How to Raise a Child" – <small>The Mayor and Mrs. Mayor</small>
+* "The Military" – <small>General Genghis Khan Schmitz, The Mayor, Mrs. Mayor, JoJo, and Cadets</small>
+* "Alone in the Universe" – <small>Horton the Elephant and JoJo</small>
+* "The One Feather Tail of Miss Gertrude McFuzz" – <small>Gertrude</small>
+* "Amazing Mayzie" – <small>Mayzie LaBird, Gertrude and the Bird Girls</small>
+* "Amazing Gertrude" – <small>Gertrude and Bird Girls</small>
+* "Monkey Around" – <small>Wickersham Brothers and Horton the Elephant</small>
+* "Chasing the Whos"  – <small>Horton the Elephant, Sour Kangaroo, Young Kangaroo, Bird Girls, Wickersham Brothers, The Cat in the Hat, Vlad Vladikoff and Whos</small>
+* "How Lucky You Are" – <small>The Cat in the Hat and Whos</small>
+* "Notice Me, Horton" – <small>Gertrude McFuzz and Horton</small>
+* "How Lucky You Are" (Reprise) – <small>Mayzie LaBird and Horton the Elephant</small>
+* "Horton Sits on the Egg / Act I Finale" – <small>Full Company</small>
+
+{{col-2}}
+
+===Act II===
+* "Entr'acte"  – <small>Cat, Orchestra</small>
+*"Egg, Nest, and Tree"  – <small>Sour Kangaroo, Bird Girls, Wickersham Brothers, The Cat in the Hat and Hunters</small>
+* "The Circus McGurkus"  – <small>The Cat in the Hat, Horton and Circus Animals</small>
+* "The Circus on Tour"  – <small>Horton</small>
+* "Mayzie in Palm Beach" – <small>Mayzie LaBird, The Cat Jose the Pool Boy and Horton</small>
+* "Amazing Horton" – <small>Mayzie LaBird and Horton</small>
+* "Alone in the Universe" (Reprise) – <small>Horton the Elephant</small>
+* "Solla Sollew" – <small>Horton, The Mayor, Mrs. Mayor, JoJo, and Circus McGurkus Animals and Performers</small>
+* "The Butter Battle" - <small> Genghis Khan-Schmitz, Jojo, Cadets </small>
+* "Christmas Pageant/A Message from the Front"   - <small>The Grinch, Mr. Mayor, Mrs. Mayor, Genghis Khan-Schmitz, Whos</small>
+* "Solla Sollew" (Reprise) - <small>Mr. Mayor and Mrs. Mayor</small>
+* "Havin' a Hunch" - <small>Cat, Jojo, Hunches </small>
+* "All for You" – <small>Gertrude, Horton, Cat, and Bird Girls</small>
+* "The People Versus Horton the Elephant"  – <small>Horton, Gertrude, Sour Kangaroo, Wickershams, Bird Girls, Cat, Mr. Mayor, Mrs. Mayor, Jojo, Ensemble</small>
+* "Alone in the Universe" (Reprise 2) - <small>Horton, Gertrude </small>
+* "Finale" / "Oh, the Thinks You Can Think!" (Reprise) – <small>Full Company</small>
+* "Curtain Call" / "Green Eggs and Ham" – <small>Full Company</small>
+{{col-end}}
+
+{{Reflist|group=note}}
+
+==Contributing Dr. Seuss books==
+==Productions==
+===Pre-Broadway===
+===Broadway===
+===US tours===
+===Off-Broadway===
+===West End (London)===
+===Off West End (London)===
+=== South Africa ===
+==One-act versions==
+==Awards and honors==
+===Original Broadway production===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Actor in a Musical|Best Actor in a Musical]] [[Kevin Chamberlin]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Actor in a Musical|Outstanding Actor in a Musical]] [[Drama Desk Award for Outstanding Featured Actress in a Musical|Outstanding Featured Actress in a Musical]] [[Janine LaManna]] [[Drama Desk Award for Outstanding Music|Outstanding Music]] [[Stephen Flaherty]]
+|}
+===Original Off-Broadway production===
+{|
+|-
+| links || [[Lucille Lortel Award]] [[Marcia Milgrom Dodge]] [[Drama League Award]]
+|}
+==References==
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+played by [[Eddie Korbich]].

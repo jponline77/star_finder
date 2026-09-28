@@ -1,0 +1,173 @@
+{{Infobox Musical
+| name = Jesus Christ Superstar
+| image = Jcs_us_cover.png
+| caption = Album cover for the 1970 American release of ''Jesus Christ Superstar''
+| music = [[Andrew Lloyd Webber]]
+| lyrics = [[Tim Rice]]
+| productions = {{Plainlist|
+* 1970 [[Jesus Christ Superstar (album)|Concept album]]
+* 1971 [[Broadway theatre|Broadway]]
+* 1972 [[West End theatre|West End]]
+* 1976 [[United States|US]] Tour
+* 1977 Broadway revival
+* 1996 West End revival
+* 2000 Broadway revival
+* 2012 Broadway revival
+* 2012 UK tour
+* 2016 Regent's Park Open Air
+* 2017 Regent's Park Open Air
+* 2019 US tour
+* 2020 Regent's Park Open Air
+* 2023 UK tour
+* 2025 The Netherlands tour
+* 2026 West End revival
+* 2027 UK and Ireland tour
+}}
+| awards = 
+| premiere_date = {{start date|1971|10|12|df=yes}}
+| premiere_location = [[Mark Hellinger Theatre]]
+| image_size = 
+}}
+== Plot ==
+===Act I===
+===Act II===
+==Principal roles==
+{| class="wikitable"
+|-
+!Character!![[Voice type]]!!Description
+|- valign="top"
+| style="text-align: left; vertical-align:middle;"|[[Jesus|Jesus Christ]]
+| style="text-align: left; vertical-align:middle;"|[[baritenor]] ([[Scientific pitch notation|A{{flat}}<sub>2</sub>]]–C<sub>5</sub>, [[falsetto]] to G<sub>5</sub>)
+| Title role, leader of the [[Twelve Disciples|twelve disciples]], called the "Son of God" and the "King of the Jews".
+|- valign="top"
+| style="text-align: left; vertical-align:middle;"|[[Judas Iscariot]]
+| style="text-align: left; vertical-align:middle;"|[[tenor]] (B<sub>2</sub>–D<sub>5</sub>, falsetto E<sub>5</sub>)
+| One of Jesus' twelve apostles; concerned for the poor and the consequences of Jesus's fame.
+|- valign="top"
+| style="text-align: left; vertical-align:middle;"|{{nowrap|[[Mary Magdalene]]}}
+| style="text-align: left; vertical-align:middle;"|{{nowrap|[[mezzo-soprano]] (F<sub>3</sub>–E{{flat}}<sub>5</sub>)}}
+| A follower of Jesus who finds herself falling in love with him.
+|- valign="top"
+| style="text-align: left; vertical-align:middle;"|[[Pontius Pilate]]
+| style="text-align: left; vertical-align:middle;" |[[baritenor]] (A<sub>2</sub>–B{{flat}}<sub>4</sub>)
+| Roman Governor of Judea who foresees the events of Jesus's crucifixion from beginning to aftermath in a dream and finds himself being presented with that very situation.
+|- valign="top"
+| style="text-align: left; vertical-align:middle;"|[[Caiaphas]]
+| style="text-align: left; vertical-align:middle;"|[[Bass (voice type)|bass]]-[[baritone]] (C{{sharp}}<sub>2</sub>–F<sub>4</sub>)
+| High priest and leader of the Pharisees who sees Jesus as a threat to the nation.
+|- valign="top"
+| style="text-align: left; vertical-align:middle;"|[[Annas]]
+| style="text-align: left; vertical-align:middle;"|[[countertenor]] (G<sub>3</sub>–D<sub>5</sub>)
+| Fellow priest at the side of Caiaphas who is persuaded by Caiaphas into seeing Jesus as a threat.
+|- valign="top"
+| style="text-align: left; vertical-align:middle;"|[[Saint Peter|Peter]]
+| style="text-align: left; vertical-align:middle;"|[[baritone]] (A<sub>2</sub>–G<sub>4</sub>)
+| One of Jesus's twelve apostles; denies Jesus three times upon the night of Jesus's arrest to save himself.
+|- valign="top"
+| style="text-align: left; vertical-align:middle;"|[[Simon the Zealot|Simon Zealotes]]
+| style="text-align: left; vertical-align:middle;"|[[tenor]] (G<sub>3</sub>–B<sub>4</sub>)
+| One of Jesus's twelve apostles; urges Jesus to lead his followers into battle against the Romans.
+|- valign="top"
+| style="text-align: left; vertical-align:middle;"|[[Herod Antipas|King Herod]]
+| style="text-align: left; vertical-align:middle;"|[[baritone]] (B<sub>2</sub>–G<sub>4</sub>)
+| The King of Galilee; Jesus is brought to him for judgment after first being taken to Pilate.
+|}
+
+== Musical numbers ==
+{{col-begin}}
+{{col-2}}
+'''Act One'''
+* "Overture" – Orchestra
+* "Heaven on Their Minds" – [[Judas Iscariot|Judas]]
+* "What's the Buzz/Strange Thing, Mystifying" – [[Jesus Christ|Jesus]], Judas, [[Mary Magdalene|Mary]] and [[Twelve Apostles|Apostles]]
+* "[[Everything's Alright (Jesus Christ Superstar song)|Everything's Alright]]" – Mary, Judas, Jesus, Women and Apostles
+* "[[This Jesus Must Die]]" – [[Caiaphas]], [[Annas]], and [[High Priest of Israel#In Christianity|High Priests]]
+* "Hosanna" – Jesus, Caiaphas and Company
+* "Simon Zealotes/Poor Jerusalem" – [[Simon Zealotes|Simon]], Jesus and Company
+* "Pilate's Dream" – [[Pontius Pilate|Pilate]]
+* "The Temple" – Jesus and Ensemble
+* "Everything's Alright (Reprise)" – Mary and Jesus
+* "[[I Don't Know How to Love Him]]" – Mary
+* "Damned for All Time/Blood Money" – Judas, Caiaphas, Annas, and Ensemble
+{{col-2}}
+'''Act Two'''
+* "The Last Supper" – Jesus, Judas, and Apostles
+* "Gethsemane (I Only Want to Say)" – Jesus
+* "The Arrest" – Judas, Jesus, [[Saint Peter|Peter]], Apostles, Caiaphas, Annas, and Ensemble
+* "Peter's Denial" – Maid by the Fire, Peter, Soldier, Old Man, and Mary
+* "Pilate and Christ" – Pilate, Jesus, Soldier, and Ensemble
+* "King Herod's Song" – [[Herod Antipas|Herod]]
+* "Could We Start Again Please?" – Mary, Peter, Apostles, and Women
+* "Judas' Death" – Judas, Caiaphas, Annas, and Ensemble
+* "Trial Before Pilate" – Pilate, Caiaphas, Jesus, and Ensemble
+* "[[Superstar (Jesus Christ Superstar song)|Superstar]]" – Judas, Soul Sisters, and Angels
+* "The Crucifixion" – Jesus and Ensemble
+* "John Nineteen: Forty-One" – Orchestra
+{{col-end}}
+
+==Production==
+=== Original Broadway production ===
+=== Controversy ===
+=== Other 1970s and 1980s productions ===
+=== 1990s and 2000s ===
+===2010s and 2020s===
+===Notable international productions===
+== Recordings and radio broadcasts ==
+==Adaptations==
+===Films===
+===Live recordings===
+===Television===
+==Casting history==
+{|
+|-
+| links || [[Jesus Christ Superstar (album)|Concept album]] [[Broadway theatre|Broadway]] [[West End theatre|West End]] [[Jesus Christ Superstar (film)|Film]] [[Jesus Christ Superstar (1996 London Cast)|West End revival]] [[Ian Gillan]] [[Jeff Fenholt]] [[Paul Nicholas]] [[Ted Neeley]] [[Steve Balsamo]] [[Glenn Carter]] [[Paul Alexander Nolan]] [[Ben Forster (actor)|Ben Forster]] [[John Legend]] [[Sam Ryder]] [[Murray Head]] [[Ben Vereen]] [[Stephen Tate]] [[Carl Anderson (singer)|Carl Anderson]] [[Zubin Varla]] [[Tony Vincent]] [[Jérôme Pradon]] [[Josh Young]] [[Tim Minchin]] [[Brandon Victor Dixon]] [[Tyrone Huntley]] [[Yvonne Elliman]] [[Dana Gillespie]] [[Joanna Ampil]] [[Chilina Kennedy]] [[Melanie C]] [[Sara Bareilles]] [[Barry Dennen]] [[David Burt (actor)|David Burt]] [[Kevin Gray (actor)|Kevin Gray]] [[Tom Hewitt (actor)|Tom Hewitt]] [[Alexander Hanson (actor)|Alexander Hanson]] [[Ben Daniels]] [[David Thaxton]] [[Victor Brox]] [[Bob Bingham]] [[George Harris (actor)|George Harris]] [[Norm Lewis]] [[Plastic Penny|Brian Keith]] [[Kurt Yaghjian]] [[Michael Shaeffer]] [[Aaron Walpole]] [[Jin Ha]] [[Gracious!|Paul Davis]] [[Richard Barnes (musician)|Richard Barnes]] [[Paul Thomas (director)|Paul Thomas]] [[Rodney Hicks]] [[Jason Tam]] [[John Gustafson (musician)|John Gustafson]] [[Larry Marshall (actor)|Larry Marshall]] [[Michael K. Lee]] [[Giovanni Spano (singer)|Giovanni Spano]] [[Erik Grönwall]] [[Mike d'Abo]] [[Paul Jabara]] [[Josh Mostel]] [[Mark Hsu Syers|Mark Syers]] [[Paul Kandel]] [[Rik Mayall]] [[Bruce Dow]] [[Chris Moyles]] [[Alice Cooper]] [[Jesse Tyler Ferguson]] [[Richard Armitage (actor)|Richard Armitage]] [[Layton Williams]] [[Julian Clary]] [[Matt Bomer]] [[Rob Brydon]] [[Reece Shearsmith]] [[Bob the Drag Queen]] [[Michael Ball]] [[Simon Russell Beale]] [[Omid Djalili]]
+|}
+==Awards and nominations==
+===Original Broadway production===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Performance by a Featured Actor in a Musical|Best Performance by a Featured Actor in a Musical]] [[Ben Vereen]] [[Tony Award for Best Original Score|Best Original Score]] [[Andrew Lloyd Webber]] [[Tim Rice]] [[Tony Award for Best Scenic Design|Best Scenic Design]] [[Robin Wagner (designer)|Robin Wagner]] [[Tony Award for Best Costume Design|Best Costume Design]] [[Randy Barceló]] [[Tony Award for Best Lighting Design|Best Lighting Design]] [[Jules Fisher]] [[Drama Desk Award]] [[Drama Desk Award|Most Promising Composer]] [[Theatre World Award]]
+|}
+===1996 West End revival===
+{|
+|-
+| links || [[Laurence Olivier Award]] [[Laurence Olivier Award for Best Musical Revival|Best Musical Revival]]
+|}
+===2000 Broadway revival===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Revival of a Musical|Best Revival of a Musical]]
+|}
+===2012 Broadway revival===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Revival of a Musical|Best Revival of a Musical]] [[Tony Award for Best Performance by a Featured Actor in a Musical|Best Performance by a Featured Actor in a Musical]] [[Josh Young]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Revival of a Musical|Outstanding Revival of a Musical]] [[Drama Desk Award for Outstanding Sound Design|Outstanding Sound Design]] [[Theatre World Award]]
+|}
+===2016 Regent's Park Open Air Theatre revival===
+{|
+|-
+| links || [[Evening Standard Theatre Awards|Evening Standard Theatre Award]] [[Evening Standard Theatre Awards#Best Musical|Best Musical]] [[Evening Standard Theatre Awards#Emerging Talent|Emerging Talent]] [[Tyrone Huntley]] [[2017 Laurence Olivier Awards|Laurence Olivier Award]] [[Laurence Olivier Award for Best Musical Revival|Best Musical Revival]] [[Laurence Olivier Award for Best Actor in a Musical|Best Actor in a Musical]] [[Laurence Olivier Award for Best Theatre Choreographer|Best Theatre Choreographer]] [[Laurence Olivier Award for Best Lighting Design|Best Lighting Design]] [[Laurence Olivier Award for Best Sound Design|Best Sound Design]] [[Laurence Olivier Award for Outstanding Achievement in Music|Outstanding Achievement in Music]]
+|}
+== Notes ==
+=== Explanatory notes ===
+=== Citations ===
+==Further reading==
+== External links ==
+
+== Actors mentioned in prose (fixture) ==
+starred [[Jeff Fenholt]].
+starring [[Paul Nicholas]].
+played by [[Korni Grupa]].
+cast included [[Doug Parkinson]].
+starring [[John Farnham]].
+starred [[Steve Balsamo]].
+starring [[Glenn Carter]].
+starred [[Sebastian Bach]].
+starred [[Paul Alexander Nolan|Paul Nolan]].
+starred [[Tim Minchin]].
+starring [[Cynthia Erivo]].
+played by [[Rocío Banquells]].
+starring [[Drew Sarich]].
+starred [[Igor Rickli]].
+starred [[Tony Hadley]].
+starred [[Glenn Carter]].

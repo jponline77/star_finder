@@ -1,0 +1,140 @@
+{{Infobox musical
+| name = Anastasia
+| image = Anastasia musical poster.jpg
+| image_size = 
+| caption = Vocal Selections artwork
+| music = [[Stephen Flaherty]]
+| lyrics = [[Lynn Ahrens]]
+| book = [[Terrence McNally]]
+| basis = ''[[Anastasia (1997 film)|Anastasia]]''<br/>by [[Don Bluth]]<br/>[[Gary Goldman]]<br/>Susan Gauthier<br/>Bruce Graham<br/>[[Bob Tzudiker]]<br/>[[Noni White]]<br/>[[Eric Tuchman]]
+| premiere_date = May 27, 2016
+| premiere_location = Hartford Stage, [[Hartford, Connecticut|Hartford]]
+| productions = 2016 [[Hartford, Connecticut|Hartford]] (tryout)<br/>2017 [[Broadway theatre|Broadway]]<br/>2018 [[North America]] tour<br/>2018 Spain<br/>2018 Germany<br/>2019 Netherlands<br/>2020 Japan<br/>2022 Brazil<br/>2023 Mexico<br/> 2024 Denmark<br/>2024 Italy<br/>2025 Australia<br/>2026 Argentina
+| awards = 
+}}
+==Plot==
+===Prologue===
+===Act I===
+===Act II===
+==Background==
+==Productions==
+=== World premiere ===
+===Broadway===
+===North America tours===
+===International productions===
+==Musical numbers==
+''Titles of songs which appeared in the original 1997 animated film are in '''bold'''.''<br/>
+''Renamed from the Hartford production (#)''<br/>
+''Not featured in the cast recordings (+)''<br/>
+''Features the melody of "[[In the Dark of the Night]]", song from the film (±)''<br/>
+{{col-begin}}
+{{col-2}}
+; Act I
+''Saint Petersburg, 1907, 1917, and 1927''
+* '''"Prologue: Once Upon a December"''' – Dowager Empress and Little Anastasia
+* "The Last Dance of the Romanovs" – Ensemble #+
+* '''"A Rumor in St. Petersburg"''' – Dmitry, Vlad and Ensemble
+* "In My Dreams" – Anya
+* "The Rumors Never End" – Gleb and Ensemble +
+* '''"Learn to Do It"''' – Vlad, Anya, and Dmitry
+* "The Neva Flows" – Gleb #
+* "The Neva Flows (Reprise)" – Men +
+* "My Petersburg" – Dmitry and Anya
+* '''"[[Once Upon a December]]"''' – Anya and Ensemble
+* "A Secret She Kept" – Anya # +
+* "Stay, I Pray You" – Count Ipolitov, Anya, Dmitry, Vlad, and Ensemble ±
+* "We'll Go From There" – Vlad, Anya, Dmitry, and Ensemble
+* "Traveling Sequence" – Gleb, Gorlinsky, Anya, Dmitry, and Vlad +
+* "Still" – Gleb
+* "'''[[Journey to the Past]]'''" – Anya
+{{col-break}}
+; Act II
+''Paris, 1927''
+* "'''Paris Holds the Key (To Your Heart)'''" – Vlad, Dmitry, Anya and Ensemble
+* "Crossing a Bridge" – Anya ∞
+* "Close the Door" – Dowager Empress
+* "Land of Yesterday" – Lily and Ensemble
+* "The Countess and the Common Man" – Vlad and Lily
+* "Land of Yesterday (Reprise)" – Gleb +
+* "A Nightmare" – Romanov Children, Tsar and Tsarina +
+* "In a Crowd of Thousands" – Dmitry and Anya
+* "'''Meant to Be'''" – Vlad #
+* "Quartet at the Ballet" – Anya, Dmitry, Dowager Empress, and Gleb
+* "Everything to Win" – Dmitry
+* "'''Once Upon a December (Reprise)'''" – Anya and Dowager Empress
+* "The Press Conference" – Lily, Vlad, and Ensemble
+* "Everything to Win (Reprise)" – Anya
+* "Still/The Neva Flows (Reprise)" – Gleb and Ensemble #
+* "Finale" – Company{{col-end}}
+
+==Main characters and casts==
+{| class="wikitable" style="width:100%;"
+|-
+! rowspan="2" | Character
+! Hartford
+! Broadway
+! North American tour
+! Australian tour
+|-
+!<small>2016</small>
+!<small>2017</small>
+!<small>2018</small>
+!<small>2025</small>
+|-
+! [[Anya (Anastasia)|Anya]] / [[Grand Duchess Anastasia Nikolaevna of Russia|Anastasia]]
+| colspan="2" align="center" |[[Christy Altomare]]
+| align="center" |Lila Coogan 
+| align="center" |Georgina Hopson
+|-
+! Dmitry Sudayev
+| colspan='2' align=center|[[Derek Klena]]
+| align="center" |Stephen Brower
+| align="center" |Robert Tripolino
+|-
+! Vladimir "Vlad" Popov
+| colspan="2" align="center" |[[John Bolton (actor)|John Bolton]]
+| align="center" |[[Edward Staudenmayer]]
+| align="center" |Rodney Dobson
+|-
+! Deputy Commissioner Gleb Vaganov
+| colspan="1" align="center" |[[Manoel Felciano]]
+| colspan='1' align=center|[[Ramin Karimloo]]
+| align="center" |Jason Michael Evans
+| align="center" |Joshua Robson
+|-
+! Countess Lily Malevsky-Malevitch
+| colspan='2' align=center|[[Caroline O'Connor (actress)|Caroline O'Connor]]
+| align="center" |[[Tari Kelly]]
+| align="center" |[[Rhonda Burchmore]]
+|-
+! [[Maria Feodorovna (Dagmar of Denmark)|Dowager Empress Maria Feodorovna]]
+| colspan='2' align=center|[[Mary Beth Peil]]
+| align="center" |[[Joy Franz]]
+| align="center" |[[Nancye Hayes]]
+|}
+
+===Notable Broadway cast replacements===
+* '''Dmitry:''' [[Cody Simpson]]
+* '''Gleb Vaganov:''' [[Max von Essen]]
+* '''Countess Lily:''' [[Vicki Lewis]]
+* '''Dowager Empress:''' [[Judy Kaye]], [[Penny Fuller]]
+
+==Critical response==
+==Awards and honors==
+===2016 Hartford Stage production===
+{|
+|-
+| links || [[Christy Altomare]] [[John Bolton (actor)|John Bolton]] [[Caroline O'Connor (actress)|Caroline O'Connor]] [[Mary Beth Peil]] [[Linda Cho]] [[Donald Holder]]
+|}
+===2017 Broadway production===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Featured Actress in a Musical|Best Featured Actress in a Musical]] [[Tony Award for Best Costume Design in a Musical|Best Costume Design in a Musical]] [[Linda Cho]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Musical|Outstanding Musical]] [[Drama Desk Award for Outstanding Actress in a Musical|Outstanding Actress in a Musical]] [[Drama Desk Award for Outstanding Featured Actress in a Musical|Outstanding Featured Actress in a Musical]] [[Drama Desk Award for Outstanding Book of a Musical|Outstanding Book of a Musical]] [[Drama Desk Award for Outstanding Music|Outstanding Music]] [[Drama Desk Award for Outstanding Costume Design of a Musical|Outstanding Costume Design for a Musical]] [[Drama Desk Award for Outstanding Orchestrations|Outstanding Orchestrations]] [[Drama Desk Award for Outstanding Projection Design|Outstanding Projection Design]] [[Aaron Rhyne]] [[Drama Desk Award for Outstanding Sound Design in a Musical|Outstanding Sound Design in a Musical]] [[Peter Hylenski]] [[Drama League Award]] [[Outer Critics Circle Award]] [[Theatre World Award]] [[Christy Altomare]] [[Chita Rivera Awards for Dance and Choreography]]
+|}
+== Notes ==
+==References==
+== Bibliography ==
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+cast included [[Demy (singer)|Demy]].

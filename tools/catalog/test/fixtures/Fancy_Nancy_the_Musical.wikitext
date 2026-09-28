@@ -1,0 +1,43 @@
+{{Infobox Musical
+|name= Fancy Nancy The Musical
+|subtitle=
+|image= Fancy Nancy The Musical promotional art.jpg
+|caption= 
+|music=  [[Danny Abosch]]
+|lyrics= [[Susan DiLallo]] and [[Danny Abosch]]
+|book= [[Susan DiLallo]]
+|basis= Based on the [[Fancy Nancy]] books by Jane O'Connor and [[Robin Preiss Glasser]]
+|productions= 2012 [[Off-Broadway]]
+
+|awards= 
+}}
+==Productions==
+==Plot synopsis==
+==Original Cast==
+*Nancy - Aly Bloom
+*Bree - Darilyn Castillo
+*Wanda - Jes Dugger
+*Lionel - Kyle Motsinger
+*Mom - Amanda Savan
+*Rhonda - Tricia Giordano
+
+==Song list==
+{{col-begin}}
+{{col-2}}
+* Overture
+* Anyone Can Be Fancy
+* What I'll Be
+* I'm A Tree
+* You'll Always Feel Much Better After Tea
+* On My Team
+* Something Terrible
+* You'll Always Be My Star
+* The Deep Sea Dances Ballet
+* A Fancier Place
+
+{{col-end}}
+
+==Recording==
+==Awards and nominations==
+== References ==
+==External links==

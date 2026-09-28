@@ -1,0 +1,13 @@
+# STAR catalog - query E: basic facts for extra items (Wikipedia-category fallback candidates and
+# manual overrides) so the same include/exclude rules can be applied to them. The placeholder below is filled with "wd:Qx wd:Qy ...".
+SELECT ?item ?enwiki ?desc
+       (GROUP_CONCAT(DISTINCT STRAFTER(STR(?c), "entity/"); separator=" ") AS ?p31)
+       (GROUP_CONCAT(DISTINCT STRAFTER(STR(?f), "entity/"); separator=" ") AS ?forms)
+WHERE {
+  VALUES ?item { %QIDS% }
+  OPTIONAL { ?art schema:about ?item ; schema:isPartOf <https://en.wikipedia.org/> ; schema:name ?enwiki . }
+  OPTIONAL { ?item schema:description ?desc . FILTER(LANG(?desc) = "en") }
+  OPTIONAL { ?item wdt:P31 ?c }
+  OPTIONAL { { ?item wdt:P7937 ?f } UNION { ?item wdt:P136 ?f } }
+}
+GROUP BY ?item ?enwiki ?desc

@@ -1,0 +1,259 @@
+{{Infobox musical
+| name = Merrily We Roll Along
+| image = MerrilyWeRollAlong.jpg
+| caption = Windowcard for the original Broadway production
+| music = [[Stephen Sondheim]]
+| lyrics = Stephen Sondheim
+| book = [[George Furth]]
+| basis = {{based on|''[[Merrily We Roll Along (play)|Merrily We Roll Along]]''|[[George S. Kaufman]]|[[Moss Hart]]}}
+| premiere_date = November 16, 1981
+| premiere_location = [[Alvin Theatre]], New York City, New York
+| productions = {{Plainlist|
+* 1981 [[Broadway theatre|Broadway]]
+* 1985 [[San Diego]]
+* 1994 Off-Broadway
+* 2000 [[Off-West End]]
+* 2012 Off-West End revival
+* 2013 [[West End theatre|West End]]
+* 2019 Off-Broadway revival
+* 2022 Off-Broadway revival
+* 2023 Broadway revival
+}}
+| awards = {{Plainlist|
+* [[Drama Desk Award for Outstanding Lyrics]]
+* [[Laurence Olivier Award for Best New Musical]]
+* [[Laurence Olivier Award for Best Musical Revival]]
+* [[Tony Award for Best Revival of a Musical]]}}
+| image_size = 
+}}
+==Synopsis==
+===Act I===
+===Act II===
+===Differences from the original Broadway version===
+==Musical numbers==
+
+=== Current songlist ===
+{{col-begin}}
+{{col-2}}
+'''Act I'''
+* Overture – Orchestra
+* "Merrily We Roll Along" – Company
+* "That Frank" – Franklin Shepard, Mary Flynn and Guests
+* "First Transition" – Company
+* "Old Friends" (Part I) – Mary and Charley Kringas
+* "Like It Was" – Mary
+* "Franklin Shepard, Inc." – Charley
+* "Second Transition" – Company
+* "Old Friends" (Part II) – Mary, Franklin and Charley
+* "Growing Up" (Part I) – Franklin
+* "Growing Up" (Part II) - Gussie
+* "Third Transition" – Company
+* "Not a Day Goes By" – Beth
+* "Now You Know" – Mary and Company
+
+{{col-2}}
+'''Act II'''
+* Entr'acte – Orchestra
+* "Act Two Opening" – Gussie
+* "It's a Hit" – Franklin, Charley, Mary, Joe and Beth
+* "Fourth Transition" – Company
+* "The Blob" – Gussie and Company
+* "Growing Up" (Part II) – Gussie
+* "Good Thing Going" – Charley
+* "The Blob" (Part II) – Company
+* "Fifth Transition" – Company
+* "Bobby and Jackie and Jack" – Charley, Beth, Franklin and Pianist
+* "Not a Day Goes By" (Reprise) – Beth, Franklin and Mary
+* "Sixth Transition" – Company
+* "Opening Doors" – Franklin, Charley, Mary, Joe and Beth
+* "Seventh Transition" – Franklin Shepard Jr., Beth and Mrs. Spencer
+* "Our Time" – Franklin, Charley, Mary and Company
+* Exit Music – Orchestra
+{{col-end}}
+
+=== Original Broadway songlist (1981) ===
+Source:
+{{col-begin}}
+{{col-2}}
+'''Act I'''
+
+* "The Hills of Tomorrow" &ndash; Company
+* "Merrily We Roll Along" – Company
+* "Rich and Happy" – Franklin Shepard and Guests
+* "Merrily We Roll Along" – Company
+* "Old Friends" – Mary, Charley
+* "Like It Was" – Mary
+* "Franklin Shepard, Inc." – Charley Kringas
+* "Merrily We Roll Along," (Reprise) – Company
+* "Old Friends" (Reprise) – Franklin, Charley and Mary
+* "Merrily We Roll Along" (Reprise) – Company
+* "Not a Day Goes By" – Franklin
+* "Now You Know" – Mary and Company
+
+{{col-2}}
+'''Act II'''
+* "It's a Hit!" – Franklin, Mary, Charley and Joe
+* "Merrily We Roll Along" (Reprise) – Company
+* "Good Thing Going" – Charley and Franklin
+* "Merrily We Roll Along" (Reprise) – Company
+* "Bobby and Jackie and Jack" – Charley, Beth, Franklin and Ted
+* "Not a Day Goes By" (Reprise) – Franklin and Mary
+* "Opening Doors" – Franklin, Charley, Mary, Joe and Beth
+* "Our Time" – Franklin, Charley, Mary and Company
+* "The Hills of Tomorrow" (Reprise) – Company
+{{col-end}}
+
+==Background and original production==
+==Subsequent production history==
+===Off-Broadway===
+===San Diego and Washington D.C.===
+===United Kingdom===
+===Reunion concert===
+===Encores!===
+===2022 Off-Broadway revival===
+=== 2023 Broadway revival ===
+===Other major productions===
+== Notable casts ==
+{| class="wikitable"
+!rowspan=2|Character
+! Broadway
+! San Diego
+! Washington DC
+! Off-West End
+! Kennedy Center
+! NYCC <br/> Encores!
+! West End
+! Los Angeles
+! Broadway Revival
+|-
+! <small>1981</small>
+! <small>1985</small>
+! <small>1990</small>
+! <small>2000</small>
+! <small>2002</small>
+! <small>2012</small>
+! <small>2013</small>
+! <small>2016</small>
+! <small>2023</small>
+|-
+!Franklin Shepard
+|align=center|[[Jim Walton (actor)|Jim Walton]]
+|align=center|[[John Rubinstein]]
+|align=center|[[Victor Garber]]
+|align=center|[[Julian Ovenden]]
+|align=center|[[Michael Hayden (actor)|Michael Hayden]]
+|align=center|[[Colin Donnell]]
+|align=center|[[Mark Umbers]]
+|align=center|[[Aaron Lazar]]
+| colspan="1" align="center" |[[Jonathan Groff]]
+|-
+!Charley Kringas
+| align="center" |[[Lonny Price]]
+| align=center | [[Chip Zien]]
+|align=center|[[David Garrison]]
+|align=center|[[Daniel Evans (actor)|Daniel Evans]]
+| align="center" |[[Raúl Esparza]]
+| align="center" |[[Lin-Manuel Miranda]]
+| align="center" |[[Damian Humbley]]
+|align=center| [[Wayne Brady]]
+| colspan="1" align="center" |[[Daniel Radcliffe]]
+|-
+!Mary Flynn
+|align=center|[[Ann Morrison]]
+|align=center|[[Heather MacRae]]
+|align=center|[[Becky Ann Baker]]
+|align=center|[[Samantha Spiro]]
+| align="center" |[[Miriam Shor]]
+|align=center|[[Celia Keenan-Bolger]]
+|align=center|[[Jenna Russell]]
+|align=center|[[Donna Vivino]]
+| colspan="1" align="center" |[[Lindsay Mendez]]
+|-
+!Gussie Carnegie
+|align=center|[[Terry Finn]]
+|colspan=2 align=center| [[Mary Gordon Murray]]
+|align=center|[[Anna Francolini]]
+| align="center" |[[Emily Skinner (actress, born 1970)|Emily Skinner]]
+|align=center|[[Elizabeth Stanley (actress)|Elizabeth Stanley]]
+| align=center|[[Josefina Gabrielle]]
+|align=center|[[Saycon Sengbloh]]
+| colspan="1" align="center" |[[Krystal Joy Brown]]
+|-
+!Beth Spencer
+|align=center|Sally Klein
+|colspan=2 align=center|[[Marin Mazzie]]
+|align=center|[[Mary Stockley]]
+|align=center|[[Anastasia Barzee]]
+|align=center|[[Betsy Wolfe]]
+|align=center|[[Clare Foster]]
+|align=center| Whitney Bashor
+| colspan="1" align="center" |[[Katie Rose Clarke]]
+|-
+!Joe Josephson
+|align=center|[[Jason Alexander]]
+|align=center| Merwin Goldsmith
+|align=center|[[Richard Bauer]]
+|align=center|James Millard
+|align=center|Adam Heller
+|align=center|Adam Grupper
+|align=center|[[Glyn Kerslake]]
+|align=center| Amir Talai
+| colspan="1" align="center" |[[Reg Rogers]]
+|-
+|}
+
+==Cast recordings==
+==Documentary==
+==Film adaptation==
+==In popular culture==
+==Awards and nominations==
+===Original Broadway production===
+{|
+|-
+| links || [[Tony Awards]] [[Tony Award for Best Original Score|Best Original Score]] [[Stephen Sondheim]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Music|Outstanding Music]] [[Drama Desk Award for Outstanding Lyrics|Outstanding Lyrics]] [[Theatre World Award]] [[Ann Morrison]]
+|}
+===1994 Off-Broadway production===
+{|
+|-
+| links || [[Drama Desk Award]] [[Drama Desk Award for Outstanding Musical|Outstanding Musical]] [[Drama Desk Award for Outstanding Actor in a Musical|Outstanding Actor in a Musical]] [[Malcolm Gets]]
+|}
+===Original London production===
+{|
+|-
+| links || [[Laurence Olivier Awards]] [[Laurence Olivier Award for Best New Musical|Best New Musical]] [[Laurence Olivier Award for Best Actor in a Musical|Best Actor in a Musical]] [[Daniel Evans (actor)|Daniel Evans]] [[Laurence Olivier Award for Best Actress in a Musical|Best Actress in a Musical]] [[Samantha Spiro]] [[Laurence Olivier Award for Best Theatre Choreographer|Best Theatre Choreographer]] [[Peter Darling]]
+|}
+===2012 London production===
+{|
+|-
+| links || [[Critics' Circle Theatre Award]] [[Critics' Circle Theatre Award#The Peter Hepple Award for Best Musical|Best Musical]]
+|}
+=== 2013 West End production ===
+{|
+|-
+| links || [[Evening Standard Theatre Awards|''Evening Standard'' Theatre Awards]] [[Evening Standard Theatre Awards#Best Musical|Best Musical]] [[2014 Laurence Olivier Awards|Laurence Olivier Awards]] [[Laurence Olivier Award for Best Musical Revival|Best Musical Revival]] [[Laurence Olivier Award for Best Actress in a Musical|Best Actress in a Musical]] [[Jenna Russell]] [[Laurence Olivier Award for Best Performance in a Supporting Role in a Musical|Best Supporting Role in a Musical]] [[Josefina Gabrielle]] [[Laurence Olivier Award for Best Director|Best Director]] [[Maria Friedman]] [[Laurence Olivier Award for Best Sound Design|Best Sound Design]] [[Gareth Owen (sound designer)|Gareth Owen]] [[Laurence Olivier Award for Best Costume Design|Best Costume Design]] [[Soutra Gilmour]] [[Laurence Olivier Award for Outstanding Achievement in Music|Outstanding Achievement in Music]]
+|}
+===2022 Off-Broadway revival===
+{|
+|-
+| links || [[Drama Desk Award]] [[Drama Desk Award for Outstanding Revival of a Musical|Outstanding Revival of a Musical]] [[Drama Desk Award for Outstanding Lead Performance in a Musical|Outstanding Lead Performance in a Musical]] [[Jonathan Groff]] [[Lindsay Mendez]] [[Drama Desk Award for Outstanding Featured Performance in a Musical|Outstanding Featured Performance in a Musical]] [[Daniel Radcliffe]] [[Drama Desk Award for Outstanding Director of a Musical|Outstanding Director of a Musical]] [[Maria Friedman]] [[Lucille Lortel Awards]] [[Lucille Lortel Award for Outstanding Revival|Outstanding Revival]] [[Lucille Lortel Award for Outstanding Lead Performer in a Musical|Outstanding Lead Performer in a Musical]] [[Lucille Lortel Award for Outstanding Featured Performer in a Musical|Outstanding Featured Performer in a Musical]] [[Krystal Joy Brown]] [[Reg Rogers]] [[Outer Critics Circle Award]] [[Outer Critics Circle Award for Outstanding Revival of a Musical|Outstanding Revival of a Musical]] [[Outer Critics Circle Award for Outstanding Lead Performer in an Off-Broadway Musical|Outstanding Lead Performer in an Off-Broadway Musical]] [[Outer Critics Circle Award for Outstanding Featured Performer in an Off-Broadway Musical|Outstanding Featured Performer in an Off-Broadway Musical]] [[Outer Critics Circle Award for Outstanding Director of a Musical|Outstanding Director of a Musical]] [[Outer Critics Circle Award for Outstanding Orchestrations|Outstanding Orchestrations]] [[Jonathan Tunick]]
+|}
+===2023 Broadway revival===
+{|
+|-
+| links || [[Drama League Award]] [[Drama League Award for Outstanding Revival of a Musical|Outstanding Revival of a Musical]] [[Drama League Award for Outstanding Direction of a Musical|Outstanding Direction of a Musical]] [[Maria Friedman]] [[Drama League Distinguished Performance Award|Distinguished Performance]] [[Jonathan Groff]] [[Lindsay Mendez]] [[Daniel Radcliffe]] [[77th Tony Awards|Tony Awards]] [[Tony Award for Best Revival of a Musical|Best Revival of a Musical]] [[Tony Award for Best Actor in a Musical|Best Actor in a Musical]] [[Tony Award for Best Featured Actor in a Musical|Best Featured Actor in a Musical]] [[Tony Award for Best Featured Actress in a Musical|Best Featured Actress in a Musical]] [[Tony Award for Best Direction of a Musical|Best Direction of a Musical]] [[Tony Award for Best Sound Design|Best Sound Design of a Musical]] [[Kai Harada (sound designer)|Kai Harada]] [[Tony Award for Best Orchestrations|Best Orchestrations]] [[Jonathan Tunick]] [[New York Drama Critics' Circle|New York Drama Critics' Circle Awards]] [[Dorian Award]] [[Dorian Award for Outstanding Broadway Musical Revival|Outstanding Broadway Musical Revival]] [[Dorian Award for Outstanding Lead Performance in a Broadway Musical|Outstanding Lead Performance in a Broadway Musical]] [[Dorian Award for Outstanding Featured Performance in a Broadway Musical|Outstanding Featured Performance in a Broadway Musical]] [[Dorian Award for Outstanding Broadway Ensemble|Outstanding Broadway Ensemble]] [[The Dorian Broadway Showstopper Award|Broadway Showstopper Award]] [[Grammy Awards]] [[Grammy Award for Best Musical Theater Album]]
+|}
+==References==
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+cast included [[Jim Walton (actor)|Jim Walton]].
+cast included [[Malcolm Gets]].
+cast included [[Manu Narayan]].
+cast included [[John Rubinstein]].
+cast included [[Victor Garber]].
+starred [[Mark Umbers]].
+starred [[Colin Donnell]].
+starring [[Jonathan Groff]].
+starred [[Hugh Panaro]].
+starring [[Glyn Kerslake]].
+starred [[Aaron Lazar]].

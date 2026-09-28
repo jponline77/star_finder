@@ -27,6 +27,7 @@ import { AboutShowCard, CastSection, DirectorsNote, MatureNote, RehearsalKit, Ti
 import { ListenSection } from './song-detail/ListenSection';
 import { SongDetailSkeleton, SongNotFound } from './song-detail/SongDetailStates';
 import { SongHero } from './song-detail/SongHero';
+import { SongMediaPanel } from './song-detail/SongMediaPanel';
 import { StarChecklist } from './song-detail/StarChecklist';
 import './SongDetailPage.css';
 
@@ -68,7 +69,7 @@ export default function SongDetailPage() {
 
   return (
     <div className="song-detail" data-testid="song-detail" data-song-id={current.id}>
-      <SongHero song={current} show={showInfo} showLoading={showLoading} commentCount={commentCount} onDelete={handleDelete} />
+      <SongHero song={current} show={showInfo} showLoading={showLoading} commentCount={commentCount} onDelete={handleDelete} canManage={manage} />
 
       {error && !refreshing && (
         <div className="container">
@@ -111,6 +112,7 @@ export default function SongDetailPage() {
             </h2>
             <ListenSection song={current} canManage={manage} onSongUpdated={setSong} />
           </section>
+          {manage && <SongMediaPanel song={current} onUpdated={setSong} />}
           <RehearsalKit song={current} />
           <section className="sd-section" aria-labelledby="sd-slate-title" id="slate">
             <h2 id="sd-slate-title" className="section-title">

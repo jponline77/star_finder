@@ -1,0 +1,168 @@
+{{Infobox musical
+| name         = Roald Dahl's Matilda
+| subtitle     = The Musical
+| image        = Matildawestend.jpg
+| image_size   = 250px
+| caption      = West End promotional poster
+| music        = [[Tim Minchin]]
+| lyrics       = Tim Minchin
+| book         = [[Dennis Kelly]]
+| basis        = {{Based on|''[[Matilda (novel)|Matilda]]''|[[Roald Dahl]]}}
+| productions  = {{ubl|2010 [[Stratford-upon-Avon]]|2011 [[West End theatre|West End]]|2013 [[Broadway theatre|Broadway]]|2015 US tour|2018 UK tour|2025 UK tour}}
+| awards       = [[Critics' Circle Theatre Award]] for Best Musical<br/>UK Theatre Award for Best Musical Production<br/>[[Laurence Olivier Award for Best New Musical]]<br/>[[New York Drama Critics' Circle]] for Best Musical<br/>[[Drama Desk Award for Outstanding Musical]]<br/>[[Tony Award for Best Book of a Musical]]
+|premiere_location=[[Courtyard Theatre]], [[Stratford-upon-Avon]] |premiere_date={{start date|df=yes|2010|12|09}}}}
+== Background ==
+==Productions==
+===Stratford-upon-Avon (2010–11)===
+=== London (2011–present) ===
+===Broadway (2013–17)===
+===US national tour (2015–17)===
+===Australian and New Zealand tour (2015–17)===
+=== Toronto (2016–17) ===
+=== UK and Ireland tour (2018–19) ===
+=== Philippines (2017) ===
+=== US regional productions (2018–19) ===
+=== Korea (2018–19, 2022–23) ===
+=== International tour (2018–20, 2023) ===
+===Spanish-speaking countries (2022–24)===
+=== Japan (2023) ===
+=== UK and Ireland tour (2025–27) ===
+=== German-speaking countries (2025-27) ===
+==Synopsis==
+===Act I===
+===Act II===
+==Musical numbers==
+{{col-begin}}
+{{col-2}}
+; Act I
+* "Overture" – Orchestra{{efn|group=OST|name=London|Not present on the original London cast recording}}
+* "Miracle" – Children, Party Entertainer, Doctor, Mrs. Wormwood, Mr. Wormwood, Matilda, Ensemble
+* "Naughty" – Matilda
+* "Story 1: Once Upon a Time" – Matilda, Mrs Phelps, Acrobat, Escapologist{{efn|name=London}}
+* "School Song" – Ensemble 
+* "Pathetic" – Miss Honey
+* "The Hammer" – Miss Trunchbull, Miss Honey, Children, Ensemble
+* "Naughty" (Reprise) – Matilda{{efn|name=London}}{{efn|group=OST|name=Broadway|Not present on the original Broadway cast recording}}
+* "The Chokey Chant" – Ensemble{{efn|name=London}}
+* "Loud" – Mrs Wormwood, Rudolpho
+* "This Little Girl" – Miss Honey
+* "Story 2: The Great Day Arrived" – Matilda, Mrs Phelps, Acrobat, Escapologist, Acrobat's Sister{{efn|name=London}}
+* "Bruce" – Company
+{{col-2}}
+; Act II
+* "Telly" – Mr Wormwood, Michael
+* "Entr'acte" – Orchestra{{efn|name=Broadway}}
+* "[[When I Grow Up (Matilda song)|When I Grow Up]]" – Children, Miss Honey, Matilda, Company
+* "Story 3: The Trick Started Well..." – Matilda, Mrs Phelps, Acrobat, Escapologist{{efn|name=London}}
+* "I'm So Clever" – Mr Wormwood{{efn|name=London}}{{efn|name=Broadway}}
+* "Story 4: I'm Here" – Matilda, Escapologist
+* "The Smell of Rebellion" – Miss Trunchbull, Children
+* "Quiet" – Matilda
+* "My House" – Miss Honey, Escapologist
+* "Chalk Writing" – Miss Trunchbull, Children{{efn|name=London}}
+* "[[Revolting Children]]" – Bruce, Children, Ensemble
+* "This Little Girl" (Reprise) – Sergei{{efn|name=London}}{{efn|name=Broadway}}
+* Finale: "When I Grow Up" (Reprise)/"Naughty" (Reprise) – Company
+{{col-end}}
+
+{{notelist|group=OST}}
+
+==Recordings==
+==Roles and cast==
+{| class="wikitable" width="100%"
+|-
+! rowspan="2" scope="col" | Character
+! scope="col" class="unsortable" | Stratford-upon-Avon<br>
+! scope="col" class="unsortable" | West End<br>
+! scope="col" class="unsortable" | Broadway<br>
+! scope="col" class="unsortable" | US tour<br>
+! scope="col" class="unsortable" | UK tour<br/>
+! scope="col" class="unsortable" | UK tour<br/>
+|-
+!<small>2010</small>
+!<small>2011</small>
+!<small>2013</small>
+!<small>2015</small>
+!<small>2018</small>
+!<small>2025</small>
+|-
+! scope="row"| [[Matilda Wormwood|Matilda]]
+| align="center" colspan="1"| [[Adrianna Bertola]]<hr> [[Josie Griffiths]]<hr> [[Kerry Ingram]]
+| align="center" colspan="1"| [[Cleo Demetriou]]<hr> [[Eleanor Worthington-Cox]]<hr> [[Kerry Ingram]]<hr> [[Sophia Kiely]]
+| align="center" colspan="1"| [[Sophia Gennusa]]<hr> [[Oona Laurence]]<hr> [[Bailey Ryon]]<hr> [[Milly Shapiro]]
+| align="center" colspan="1"| [[Gabrielle Gutierrez|Gabby Gutierrez]]<hr> [[Mia Sinclair Jenness]]<hr> Mabel Tyler
+| align="center" colspan="1"| Annalise Bradbury <hr> Lara Cohen <hr> Poppy Jones <hr> Nicola Turner
+| align="center" colspan="1"| Madison Davis<hr>Mollie Hutton<hr>Olivia Ironmonger<hr>Sanna Kurihara
+|-
+! scope="row"| [[Miss Trunchbull]]
+| align="center" colspan="3"| [[Bertie Carvel]]
+| align="center" colspan="1"| Bryce Ryness
+| align="center" colspan="1"| Craige Els
+| align="center" colspan="1"| Richard Hurst
+|-
+! scope="row"| Miss Honey
+| align="center" colspan="3"|[[Lauren Ward]]
+| align="center" colspan="1"| Jennifer Blood
+| align="center" colspan="1"| Carly Thoms
+| align="center" colspan="1"| Tessa Kadler
+|-
+! scope="row"| Mr. Wormwood
+| align="center" colspan="2"| [[Paul Kaye]]
+| align="center" colspan="1"| [[Gabriel Ebert]]
+| align="center" colspan="1"| Quinn Mattfeld
+| align="center" colspan="1"| Sebastien Torkia
+| align="center" colspan="1"| Adam Stafford
+|-
+! scope="row"| Mrs. Wormwood
+| align="center" colspan="2"| [[Josie Walker]]
+| align="center" colspan="1"| [[Lesli Margherita]]
+| align="center" colspan="1"| Cassie Silva
+| align="center" colspan="2"| Rebecca Thornhill
+|-
+! scope="row"| Mrs. Phelps
+| align="center" colspan="2"| [[Melanie La Barrie]]
+| align="center" colspan="1"| [[Karen Aldridge]]
+| align="center" colspan="1"| Ora Jones 
+| align="center" colspan="1"| Michelle Chantelle Hopewell
+| align="center" colspan="1"| Esther Niles
+|}
+
+;Notable West End replacements
+* Matilda&nbsp;– [[Isobelle Molloy]], [[Chloe Hawthorn]], [[Lara Wollington]], [[Lara McDonnell]], [[Arabella Stanton]]
+* Miss Trunchbull – [[Alex Gaumond]], [[Hayden Tee]], [[Jon Robyns]]
+*Miss Honey – [[Gina Beck]], [[Remember Monday|Lauren Byrne]]
+*Mr Wormwood&nbsp;– [[Steve Furst]], [[Neil McDermott]]
+*Mrs Phelps - [[Sharlene Whyte]], [[Lisa Davina Phillip]]
+
+;Notable Broadway replacements
+* Matilda - [[Gabriella Pizzolo]], [[Brooklyn Shuck]], [[Fina Strazza]]
+* Miss Trunchbull&nbsp;– [[Craig Bierko]], [[Christopher Sieber]]
+* Miss Honey&nbsp;– [[Jill Paice]], [[Alison Luff]]
+* Mr Wormwood&nbsp;– [[Matt Harrington (actor)|Matt Harrington]], [[Rick Holmes]]
+* Mrs Wormwood&nbsp;– [[Amy Spanger]] 
+* Mrs Phelps&nbsp;– [[Natalie Venetia Belcon]]
+
+==Film adaptation==
+==Critical reception==
+===2010 RSC Stratford production===
+===Original London production===
+===Original Broadway production===
+==Awards and nominations==
+===London production===
+{|
+|-
+| links || [[Critics' Circle Theatre Award]] [[TMA Awards|UK Theatre Awards]] [[Bertie Carvel]] [[Evening Standard Theatre Award]] [[Matthew Warchus]] [[British Academy of Songwriters, Composers and Authors|British Composer Awards]] [[Tim Minchin]] [[Laurence Olivier Award]] [[Laurence Olivier Award for Best New Musical|Best New Musical]] [[Laurence Olivier Award for Best Actor in a Musical|Best Actor in a Musical]] [[Laurence Olivier Award for Best Actress in a Musical|Best Actress in a Musical]] [[Cleo Demetriou]] [[Kerry Ingram]] [[Eleanor Worthington-Cox]] [[Sophia Kiely]] [[Laurence Olivier Award for Best Performance in a Supporting Role in a Musical|Best Performance in a Supporting Role in a Musical]] [[Paul Kaye]] [[Laurence Olivier Award for Best Director|Best Director]] [[Laurence Olivier Award for Best Theatre Choreographer|Best Theatre Choreographer]] [[Peter Darling]] [[Laurence Olivier Award for Best Set Design|Best Set Design]] [[Laurence Olivier Award for Best Costume Design|Best Costume Design]] [[Laurence Olivier Award for Best Lighting Design|Best Lighting Design]] [[Hugh Vanstone]] [[Laurence Olivier Award for Best Sound Design|Best Sound Design]]
+|}
+===Broadway production===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Musical|Best Musical]] [[Tony Award for Best Book of a Musical|Best Book of a Musical]] [[Dennis Kelly]] [[Tony Award for Best Original Score|Best Original Score]] [[Tim Minchin]] [[Tony Award for Best Actor in a Musical|Best Actor in a Musical]] [[Bertie Carvel]] [[Tony Award for Best Featured Actor in a Musical|Best Featured Actor in a Musical]] [[Gabriel Ebert]] [[Tony Award for Best Featured Actress in a Musical|Best Featured Actress in a Musical]] [[Lauren Ward]] [[Tony Award for Best Direction of a Musical|Best Direction of a Musical]] [[Matthew Warchus]] [[Tony Award for Best Choreography|Best Choreography]] [[Peter Darling]] [[Tony Award for Best Orchestrations|Best Orchestrations]] [[Tony Award for Best Scenic Design|Best Scenic Design of a Musical]] [[Tony Award for Best Costume Design|Best Costume Design of a Musical]] [[Tony Award for Best Lighting Design|Best Lighting Design of a Musical]] [[Hugh Vanstone]] [[Tony Honors for Excellence in Theatre]] [[Sophia Gennusa]] [[Oona Laurence]] [[Bailey Ryon]] [[Milly Shapiro]] [[Outer Critics Circle Awards]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Musical|Outstanding Musical]] [[Drama Desk Award for Outstanding Book of a Musical|Outstanding Book of a Musical]] [[Drama Desk Award for Outstanding Featured Actor in a Musical|Outstanding Featured Actor in a Musical]] [[Drama Desk Award for Outstanding Director of a Musical|Outstanding Director of a Musical]] [[Drama Desk Award for Outstanding Choreography|Outstanding Choreography]] [[Drama Desk Award for Outstanding Lyrics|Outstanding Lyrics]] [[Drama Desk Award for Outstanding Set Design|Outstanding Set Design]] [[New York Drama Critics' Circle|New York Drama Critics' Circle Award]] [[New York Drama Critics' Circle#Best Musical|Best Musical]] [[Theatre World Award]] [[Grammy Award]] [[Grammy Award for Best Musical Theater Album|Best Musical Theater Album]]
+|}
+=== Australian production ===
+{|
+|-
+| links || [[Helpmann Awards]] [[Helpmann Award for Best Musical|Best Musical]] [[Helpmann Award for Best Original Score|Best Original Score]] [[Helpmann Award for Best Direction of a Musical|Best Direction of a Musical]] [[Helpmann Award for Best Female Actor in a Musical|Best Female Actor in a Musical]] [[Helpmann Award for Best Male Actor in a Musical|Best Male Actor in a Musical]] [[Helpmann Award for Best Choreography in a Musical|Best Choreography in a Musical]] [[Helpmann Award for Best Male Actor in a Supporting Role in a Musical|Best Male Actor in a Supporting Role in a Musical]] [[Helpmann Award for Best Female Actor in a Supporting Role in a Musical|Best Female Actor in a Supporting Role in a Musical]] [[Green Room Awards]] [[17th Helpmann Awards|Helpmann Awards]]
+|}
+==References==
+==Further reading==
+==External links==

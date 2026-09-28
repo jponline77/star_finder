@@ -1,0 +1,314 @@
+{{Infobox musical
+| name              = Disaster!
+| subtitle          = A 70s Disaster Movie Musical!
+| image             = Disaster-Broadway-Key-Art.jpg
+| caption           = Key art of the 2016 Broadway Production
+| music             = Various
+| lyrics            = Various
+| book              = [[Jack Plotnick]]<br />[[Seth Rudetsky]]
+| basis             = 
+| setting           = New York City, 1979
+| premiere_date     = {{Start date|2011|05|23}}
+| premiere_location = The Box, [[New York City]]
+| productions       = 2011 Off-Off-Broadway<br />2012 Off-Broadway<br />2013 Off-Broadway<br />2016 Broadway
+| awards            = 
+}}
+==Development and productions==
+==Plot==
+===Act One===
+===Act Two===
+==Characters==
+Main named characters.
+*'''Ted Scheider''': A professor and "disaster expert" who tries to warn the others of the impending doom.
+*'''Tony Delvecchio''': The deceitful owner of the casino.
+*'''Chad Rubik''': A flirtatious caterer at the casino who was previously engaged to Marianne.
+*'''Scott''': Friend of Chad's and also a caterer at the casino.
+*'''Marianne Wilson''': Reporter and ex-fiancée of Chad.  She left him to pursue her career.
+*'''Jackie Noelle''': Lounge singer and mother. She is hoping that Tony will propose.
+*'''Ben and Lisa Noelle''': Jackie's twins. Played by one male actor.
+*'''Levora Verona''': A washed up singer hoping to hit it big in the casino.
+*'''Sister Mary Downey''': A nun with a gambling addiction.
+*'''Maury''': The devoted husband of Shirley.
+*'''Shirley''': The wife of Maury.
+*'''Jake''': The personal bodyguard of Tony.
+
+==Cast==
+{| class="wikitable"
+|-
+! '''Character''' !! '''Triad Theater<br />2012''' !! '''St. Luke's Theatre<br />previous cast<br />2013-2014''' !! '''St. Luke's Theatre<br />cast Spring<br />2014''' !! '''[[Nederlander Theatre]]<br />2016''' 
+|-
+! Marianne Wilson 
+| colspan="1" align="center" | [[Carrie Manolakos]] ||  colspan="1" align="center"| Haven Burton || colspan="1" align="center"| Maggie McDowell || colspan="1" align="center"| [[Kerry Butler]]
+|-
+! Levora Verona 
+| colspan="1" align="center" | [[Lacretta|Lacretta Nicole]] || colspan="2" align="center"| Charity Dawson || colspan="1" align="center"| Lacretta Nicole
+|-
+! Tony Delvecchio 
+| colspan="1" align="center" | Clif Thorn || colspan="1" align="center"| [[John Treacy Egan]]<br />[[Jack Plotnick]] || colspan="1" align="center" | Paul Castree<br />[[David Hibbard (stage actor)|David Hibbard]] || colspan="1" align="center"| [[Roger Bart]]†
+|-
+! Chad Rubick 
+| colspan="1" align="center" | Zak Resnick || colspan="2" align="center"|Matt Farcher || colspan="1" align="center"| [[Adam Pascal]]
+|-
+! Maury
+| colspan="3" align="center" | Tom Riis Farrell || colspan="1" align="center"| [[Kevin Chamberlin]]
+|-
+! Jackie Noelle 
+| colspan="1" align="center" | [[Lauren Kennedy]] || colspan="1" align="center"| [[Michele Ragusa]]<br />[[Mary Birdsong]] || colspan="1" align="center" | [[Stacey Oristano]]<br />Sarah Litzsinger || colspan="1" align="center"| [[Rachel York]]
+|-
+! Professor Ted Scheider 
+| colspan="4" align="center" |[[Seth Rudetsky]]
+|-
+! Scott 
+| colspan="1" align="center" | Paul Castree || colspan="1" align="center"| [[Robb Sapp]] ||  colspan="2" align="center"| [[Max Crumm]]
+|-
+! Sister Mary Downey 
+| colspan="1" align="center" | [[Anika Larsen]]|| colspan="3" align="center" | [[Jennifer Simard]]
+|-
+! Ben/Lisa Noelle 
+| colspan="1" align="center" | Clark Kelley Oliver || colspan="2" align="center"| Jonah Verdon|| colspan="1" align="center"| [[Baylee Littrell]]
+|-
+! Shirley
+| colspan="1" align="center" | Kathy Fitzgerald<br />[[Annie Golden]]|| colspan="1" align="center"| [[Mary Testa]]<br />Annie Golden || colspan="1" align="center"| [[Judy Gold]] || colspan="1" align="center"| [[Faith Prince]]
+|-
+! Wealthy Husband/Taxi Driver/<br />Security Guard/Chef 
+| colspan="3" align="center" | Saum Eskandani || [[Manoel Felciano]]<br />Paul Castree
+|-
+! Woman Who Screams 
+| colspan="3" align="center" | Sherz Aletaha || Olivia Philip
+|-
+! Wealthy Wife 
+| colspan="1" align="center" | Spring Groove ||  colspan="1" align="center"| Maggie McDowell || colspan="1" align="center"| Kristy Cavanaugh || Maggie McDowell
+|}
+
+==Musical numbers==
+Sources:
+{{col-begin}}
+{{col-3}}
+;Act I
+{| class="wikitable"
+|-
+! Song
+! Original artist
+! Songwriter(s)
+! Performer(s)
+|-
+| "[[Hot Stuff (Donna Summer song)|Hot Stuff]]"
+| [[Donna Summer]]
+| Summer, [[Giorgio Moroder]] and [[Pete Bellotte]]
+| Chad, Scott, Scheider, Tony and Ensemble
+|-
+| "[[The Lord's Prayer (Sister Janet Mead song)|The Lord's Prayer]]"
+| [[Janet Mead|Sister Janet Mead]]
+| Traditional; arranged by Arnold Strals
+| Sister Mary
+|-
+| "[[Theme from Mahogany (Do You Know Where You're Going To)]]"
+| [[Diana Ross]]
+| [[Michael Masser]] and [[Gerry Goffin]]
+| Levora
+|-
+| "[[Saturday Night (Bay City Rollers song)|Saturday Night]]"
+| [[Bay City Rollers]]
+| [[Bill Martin (songwriter)|Bill Martin]] and [[Phil Coulter]]
+| Jackie and Ensemble
+|-
+| "[[Do You Wanna Make Love]]"
+| [[Peter McCann]]
+| McCann
+| Tony and Marianne
+|-
+| "[[Without You (Badfinger song)|Without You]]"
+| [[Badfinger]]
+| [[Pete Ham]] and [[Tom Evans (musician)|Tom Evans]]
+| Chad
+|-
+| "[[I Am Woman]] /<br />[[That's the Way I've Always Heard It Should Be]]"
+| [[Helen Reddy]] /<br />[[Carly Simon]]
+| Reddy and Ray Burton /<br />Simon and [[Jacob Brackman]]
+| Marianne and Lisa
+|-
+| "[[Mockingbird (Inez & Charlie Foxx song)|Mockingbird]]"
+| [[Inez & Charlie Foxx]]
+| Inez and Charlie Fox
+| Jackie and Scheider
+|-
+| "[[Still the One]]"
+| [[Orleans (band)|Orleans]]
+| [[John Hall (New York politician)|John Hall]] and Johanna Hall
+| Shirley and Maury
+|-
+| "[[Never Can Say Goodbye]] /<br />[[Torn Between Two Lovers (song)|Torn Between Two Lovers]]"
+| [[The Jackson 5]] /<br />[[Mary MacGregor]]
+| [[Clifton Davis]] /<br />[[Peter Yarrow]] and Phillip Jarrell
+| Sister Mary
+|-
+| "[[Feelings (Morris Albert song)|Feelings]]"
+| [[Morris Albert]]
+| [[Loulou Gasté|Louis Gasté]] and Albert
+| Scheider, Marianne and Chad
+|-
+| "[[Feels So Good (composition)|Feels So Good]]"
+| [[Chuck Mangione]]
+| Mangione
+| (Instrumental)
+|-
+| "[[Knock on Wood (Eddie Floyd song)|Knock on Wood]]"
+| [[Eddie Floyd]]
+| Floyd and [[Steve Cropper]]
+| Levora and Ensemble
+|-
+| "[[Hawaii Five-O (song)|Hawaii Five-O]]"
+| [[The Ventures]]
+| [[Morton Stevens]]
+| (Instrumental)
+|}
+
+;Act II
+{| class="wikitable"
+|-
+! Song
+! Original artist
+! Songwriter(s)
+! Performer(s)
+|-
+| "[[All Right Now]]"
+| [[Free (band)|Free]]
+| [[Andy Fraser]] and [[Paul Rodgers]]
+| (Instrumental)
+|-
+| "[[You're My Best Friend (Queen song)|You're My Best Friend]]"
+| [[Queen (band)|Queen]]
+| [[John Deacon]]
+| Chad and Scott
+|-
+| "[[Three Times a Lady]]"
+| [[Commodores|The Commodores]]
+| [[Lionel Richie]]
+| Chad and Wealthy Husband
+|-
+| "[[Ben (song)|Ben]]"
+| [[Michael Jackson]]
+| [[Walter Scharf]] and [[Don Black (lyricist)|Don Black]]
+| Ben, Lisa, Maury, Shirley and Sister Mary
+|-
+| "[[Baby Hold On]]"
+| [[Eddie Money]]
+| Money and [[Jimmy Lyon (guitarist)|Jimmy Lyon]]
+| Marianne
+|-
+| "[[25 or 6 to 4]]"
+| [[Chicago (band)|Chicago]]
+| [[Robert Lamm]]
+| Cast
+|-
+| "[[Sky High (song)|Sky High]]"
+| [[Jigsaw (British band)|Jigsaw]]
+| Clive Scott and Des Dyer
+| Cast
+|-
+| "[[When Will I Be Loved (song)|When Will I Be Loved]]"
+| [[Linda Ronstadt]]
+| [[Phil Everly]]
+| Ben, Lisa and Jackie
+|-
+| "[[Nadia's Theme]]"
+| [[Barry DeVorzon]] and [[Perry Botkin Jr.]]
+| DeVorzon and Botkin Jr.
+| (Instrumental)
+|-
+| "[[Don't Cry Out Loud (song)|Don't Cry Out Loud]]"
+| [[Melissa Manchester]]
+| [[Peter Allen (musician)|Peter Allen]] and [[Carole Bayer Sager]]
+| Tony
+|-
+| "[[Come to Me (France Joli song)|Come to Me]]"
+| [[France Joli]]
+| Tony Green
+| Levora and Sister Mary
+|-
+| "[[I'd Really Love to See You Tonight]]"
+| [[England Dan and John Ford Coley]]
+| [[Parker McGee]]
+| Chad and Marianne
+|-
+| "[[Knock Three Times]]"
+| [[Tony Orlando and Dawn]]
+| [[Irwin Levine]] and [[L. Russell Brown]]
+| (Instrumental)
+|-
+| "[[I Will Survive]]"
+| [[Gloria Gaynor]]
+| [[Dino Fekaris]] and [[Freddie Perren]]
+| Jackie and Tony
+|-
+| "[[A Fifth of Beethoven]]"
+| [[Walter Murphy]]
+| [[Ludwig van Beethoven]] and Murphy
+| Shirley and Cast
+|-
+| "[[Reunited (song)|Reunited]]"
+| [[Peaches and Herb]]
+| Fekaris and Perren
+| Chad, Marianne and Scheider
+|-
+| "[[Daybreak (Barry Manilow song)|Daybreak]]"
+| [[Barry Manilow]]
+| Manilow and [[Adrienne Anderson]]
+| Cast
+|-
+| "[[Hooked on a Feeling (song)|Hooked on a Feeling]] /<br />Daybreak"
+| [[Blue Swede]] /<br />Manilow
+| [[Mark James (songwriter)|Mark James]] /<br />Manilow and Anderson
+| Cast
+|}
+
+;Cut songs
+{| class="wikitable"
+|-
+! Song
+! Original artist
+! Songwriter(s)
+|-
+| "[[Signed, Sealed, Delivered I'm Yours]]"
+| [[Stevie Wonder]]
+| Wonder, [[Lula Mae Hardaway]], [[Lee Garrett]] and [[Syreeta Wright]]
+|-
+| "[[He Ain't Heavy, He's My Brother]]"
+| [[The Hollies]]
+| [[Bobby Scott (musician)|Bobby Scott]] and [[Bob Russell (songwriter)|Bob Russell]]
+|-
+| "[[Alone Again (Naturally)]]"
+| [[Gilbert O'Sullivan]]
+| O'Sullivan
+|-
+| "[[Muskrat Love]]"
+| [[Captain and Tennille]]
+| [[Willis Alan Ramsey]]
+|-
+| "[[I'm Still Standing]]"
+| [[Elton John]]
+| John and [[Bernie Taupin]]
+|-
+| "[[Call Me (Come Back Home)]]"
+| [[Al Green]]
+| Green, [[Al Jackson Jr.]] and [[Willie Mitchell (musician)|Willie Mitchell]]
+|}
+{{col-end}}
+
+==Critical reception==
+==Awards and nominations==
+===2013 Off-Broadway Production===
+{|
+|-
+| links || [[Drama Desk Awards]] [[Drama League Awards]]
+|}
+===2016 Broadway Production===
+{|
+|-
+| links || [[Tony Awards]] [[Tony Award for Best Featured Actress in a Musical|Best Featured Actress in a Musical]] [[Drama League Awards]] [[Drama Desk Awards]] [[Baylee Littrell]]
+|}
+==References==
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+played by [[Will Swenson (actor)|Will Swenson]].

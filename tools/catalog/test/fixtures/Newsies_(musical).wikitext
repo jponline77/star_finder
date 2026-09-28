@@ -1,0 +1,167 @@
+{{Infobox musical
+| name = Newsies
+| subtitle = The Musical
+| image = Newsies (musical) poster.jpg
+| caption = Original Broadway artwork
+| music = [[Alan Menken]]
+| lyrics = [[Jack Feldman (songwriter)|Jack Feldman]]
+| book = [[Harvey Fierstein]]
+| basis = ''[[Newsies]]''<br>by [[Bob Tzudiker]]<br>[[Noni White]]
+| premiere_date = {{start date|2011|9|25}}
+| premiere_location = [[Paper Mill Playhouse]]
+| productions = 2011 [[Paper Mill Playhouse]] <br/>2012 [[Broadway theatre|Broadway]]<br/>2014 North American tour<br/>2017 Film<br/>2022 London 
+| awards = [[Tony Award for Best Original Score]]
+| image_size = 
+}}
+==Productions==
+===Paper Mill Playhouse (2011)===
+===Broadway (2012–14)===
+===National tour (2014–16)===
+=== Film (2017) ===
+=== London (2022) ===
+==Synopsis==
+===Act I===
+===Act II===
+==Original casts==
+{|class="wikitable" "width=210"
+|-
+! rowspan="2" | Character
+! Workshop
+! Paper Mill Playhouse
+! Broadway
+! North American Tour
+! Filmed production
+! London
+|-
+!<small>2010</small>
+!<small>2011</small>
+!<small>2012</small>
+!<small>2014</small>
+!<small>2016</small>
+!<small>2022</small>
+|-
+| align="center"| '''Jack Kelly'''
+| align="center"| [[Jay Armstrong Johnson]]
+| align="center" colspan="2"| [[Jeremy Jordan (actor, born 1984)|Jeremy Jordan]]
+| align=center| Dan DeLuca
+| align=center| Jeremy Jordan
+| align=center| [[Michael Ahomka-Lindsay]]
+|-
+| align="center"| '''[[Joseph Pulitzer]]'''
+| align="center"|  [[Shuler Hensley]]
+| align="center" colspan="2"| [[John Dossett]]
+| colspan=2 align="center" | [[Steve Blanchard]]
+| align=center| [[Cameron Blakely]]
+|-
+| align="center"| '''Katherine Plumber'''
+| align="center"| [[Meghann Fahy]]
+| align="center" colspan="2"| [[Kara Lindsay]] 
+| align="center" | [[Stephanie Styles]]<hr />[[DCappella|Morgan Keene]]
+| align=center| Kara Lindsay
+| align=center| Bronté Barbé
+|-
+| align="center"| '''Davey Jacobs''' 
+| align="center"| Jason Michael Snow
+| align="center" colspan="2"| Ben Fankhauser
+| align="center" | Jacob Kemp
+| align=center| Ben Fankhauser
+| align=center| [[Ryan Kopel]]
+|-
+| align="center"| '''Medda Larkin'''
+| align="center"| Liz Larsen
+| align="center"| [[Helen Anker]] 
+| align="center" | [[Capathia Jenkins]] 
+| align="center" | Angela Grovey
+| align=center| Aisha De Haas
+| align=center| Moya Angela
+|-
+| align="center"| '''Crutchie'''
+| align="center" colspan= "3" | [[Andrew Keenan-Bolger]]
+| align="center"| Zachary Sayle
+| align=center| Andrew Keenan-Bolger
+| align=center| Matthew Duckett
+|-
+| align="center"| '''Les Jacobs'''
+| align="center"| [[Matthew Gumley]]
+| align="center"| R.J. Fattori<hr />Vincent Agnello 
+| align="center" | Lewis Grosso<hr />[[Matthew Schechter]]
+| align="center" | Vincent Crocilla<hr />Anthony Rosenthal
+| align=center| Ethan Steiner
+| align=center| Nesim Adnan<hr />Haydn Court<hr />Oliver Gordon<hr />Ethan Sokontwe
+|-
+| align="center"| '''[[Theodore Roosevelt]]'''
+| align="center"| [[Tom Alan Robbins]]
+| colspan="4" align="center" | [[Kevin Carolan]]
+| align=center| Barry Keenan
+|}
+
+===Notable Broadway replacements===
+*Jack Kelly: [[Corey Cott]] (September 5, 2012 – August 24, 2014)
+*Joseph Pulitzer: [[Ron Raines]] (October 9 – December 16, 2012)
+*Katherine Plumber: [[Liana Hunt]] (February 3 – August 24, 2014)
+*Les Jacobs: [[Joshua Colley]] (March 11, 2013 – February 2, 2014)
+*Theodore Roosevelt: [[Tom Alan Robbins]] (September 18 – November 4, 2012 & April 29, 2013 – August 24, 2014)
+
+== Background ==
+=== Historical accuracy ===
+=== Differences from the 1992 film ===
+==Musical numbers==
+{{col-begin}}
+{{col-2}}
+;Act I
+* "Overture" – Orchestra
+* "Santa Fe (Prologue)" – Jack and Crutchie
+* "Carrying the Banner" – Race, Albert, Specs, Henry, Finch, Jack, Crutchie, Newsies, Nuns
+* "Carrying the Banner" (reprise I) – Newsies †
+* "The Bottom Line" – Pulitzer, Seitz, Bunsen, Hannah
+* "Carrying the Banner" (reprise II) – Newsies †
+* "That's Rich" – Medda
+* "I Never Planned on You/Don't Come A-Knocking" – Jack, Bowery Beauties
+* "The World Will Know" – Jack, Davey, Crutchie, Les, Newsies
+* "The World Will Know" (reprise) – Newsies †
+* "Watch What Happens" – Katherine
+* "Seize the Day" – Davey, Jack, Newsies
+* "Santa Fe" – Jack
+{{col-2}}
+;Act II
+* "Entr'acte – Orchestra †
+* "King of New York" – Race, Katherine, Davey, Les and Newsies
+* "Letter from The Refuge" – Crutchie ‡†
+* "Watch What Happens" (reprise) – Davey, Jack, Katherine and Les
+* "The Bottom Line" (reprise) – Pulitzer, Seitz, Bunsen ^
+* "Brooklyn's Here" – Spot Conlon, Newsies
+* "Something to Believe In" – Jack and Katherine
+* "Seize the Day" (reprise I) – Newsies †
+* "Once and for All" – Jack, Davey, Katherine, Race, and Newsies
+* "Seize the Day" (reprise II) – Newsies † 
+* "The World Will Know" (reprise) – Newsies †
+* "Finale" – Jack, Company
+{{col-end}}'''Notes:'''
+
+† Not included on the Original Broadway Cast Recording
+
+‡ Added for the national tour
+
+^ Mayor sings Bunsen's line in the Broadway Cast Recording but Bunsen sings it in the revised edition which was filmed and is available for licensing
+
+==Reception==
+==Recordings==
+===Filmed Hollywood stage production===
+== Licensing ==
+=== Junior version ===
+==Awards and nominations==
+===Original Broadway production===
+{|
+|-
+| links || [[2012 Tony Awards|Tony Awards]] [[Tony Award for Best Musical|Best Musical]] [[Tony Award for Best Book of a Musical|Best Book of a Musical]] [[Harvey Fierstein]] [[Tony Award for Best Actor in a Musical|Best Actor in a Musical]] [[Jeremy Jordan (actor, born 1984)|Jeremy Jordan]] [[Tony Award for Best Direction of a Musical|Best Direction of a Musical]] [[Jeff Calhoun (director)|Jeff Calhoun]] [[Tony Award for Best Choreography|Best Choreography]] [[Christopher Gattelli]] [[Tony Award for Best Original Score|Best Original Score]] [[Alan Menken]] [[Jack Feldman (songwriter)|Jack Feldman]] [[Tony Award for Best Orchestrations|Best Orchestrations]] [[Danny Troob]] [[Tony Award for Best Scenic Design of a Musical|Best Scenic Design of a Musical]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Musical|Outstanding Musical]] [[Drama Desk Award for Outstanding Actor in a Musical|Outstanding Actor in a Musical]] [[Drama Desk Award for Outstanding Choreography|Outstanding Choreography]] [[Drama Desk Award for Outstanding Music|Outstanding Music]] [[Drama Desk Award for Outstanding Lyrics|Outstanding Lyrics]] [[Drama Desk Award for Outstanding Orchestrations|Outstanding Orchestrations]] [[Astaire Awards]] [[Thayne Jasperson]] [[Ryan Steele (actor)|Ryan Steele]] [[Ephraim Sykes]] [[Kara Lindsay]] [[Grammy Award]] [[Grammy Award for Best Musical Theater Album|Best Musical Theater Album]] [[Young Artist Award]] [[34th Young Artist Awards#Best Performance in Live Theater - Young Actor|Best Young Actor in Live Theater]]
+|}
+===2022 London production===
+{|
+|-
+| links || [[Laurence Olivier Award]] [[Laurence Olivier Award for Best Theatre Choreographer|Best Theatre Choreographer]]
+|}
+== References ==
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+featured in the cast were [[Mike Faist]], [[Kevin Carolan]].

@@ -1,0 +1,198 @@
+{{Infobox musical
+| name        = Hair
+| subtitle    = The American Tribal Love-Rock Musical
+| image       = Hairposter.jpg
+| caption     = Original Broadway poster
+| music       = [[Galt MacDermot]]
+| lyrics      = {{ubl|[[Gerome Ragni]]|[[James Rado]]}}
+| book        = {{ubl|Gerome Ragni|James Rado}}
+
+| productions = {{ubl|1967 [[Off-Broadway]]|1968 [[Broadway theatre|Broadway]]|1968 [[West End theatre|West End]]|1977 Broadway [[revival (theatre)|revival]]|2009 Broadway revival|2010 West End revival|2019 UK Tour}}
+| awards      =  [[Tony Award for Best Revival of a Musical]]
+}}
+== History ==
+=== Off-Broadway productions ===
+=== Revision for Broadway ===
+== Synopsis ==
+=== Act I ===
+=== Act{{nbsp}}II ===
+==Principal casts==
+
+{| class="wikitable"
+|-
+! rowspan="2" | Role
+! Off-Broadway
+! Broadway
+! Los Angeles
+! West End
+! Broadway Revival
+! Broadway Revival
+! West End Revival
+|-
+!<small>1967</small>
+! colspan="3" |<small>1968</small>
+!<small>1977</small>
+!<small>2009</small>
+!<small>2010</small>
+|-
+| style="text-align:center;"| '''Claude Hooper Bukowski'''
+| style="text-align:center;"| Walker Daniels
+| colspan="2" style="text-align:center;"| [[James Rado]]
+| style="text-align:center;"| [[Paul Nicholas]]
+| style="text-align:center;"| Randall Easterbrook
+| colspan=2 style="text-align:center;"| [[Gavin Creel]] 
+|-
+| style="text-align:center;"| '''George Berger'''
+| colspan="3" style="text-align:center;"| [[Gerome Ragni]]
+| style="text-align:center;"| [[Oliver Tobias]]
+| style="text-align:center;"| Michael Hoit
+| colspan="2" style="text-align:center;"| [[Will Swenson (actor)|Will Swenson]]
+|-
+| style="text-align:center;"| '''Sheila Franklin'''
+| style="text-align:center;"| [[Jill O'Hara]]
+| style="text-align:center;"| [[Lynn Kellogg]] 
+| style="text-align:center;"| [[Jennifer Warnes]]
+| style="text-align:center;"| [[Annabel Leventon]]
+| style="text-align:center;"| [[Ellen Foley]]
+| colspan=2 style="text-align:center;"| [[Caissie Levy]]
+|-
+| style="text-align:center;"| '''Jeanie'''
+| colspan="2" style="text-align:center;" | [[Sally Eaton]]
+| style="text-align:center;"| Teda Bracci
+| style="text-align:center;"| Linda Kendrick
+| style="text-align:center;"| Iris Rosenkrantz
+| colspan="2" style="text-align:center;" | Kacie Sheik
+|-
+| style="text-align:center;"| '''Neil "Woof" Donovan'''
+| style="text-align:center;"| Steve Dean
+| style="text-align:center;"| Steve Curry
+| style="text-align:center;"| [[Jobriath|Jobriath Salisbury]]
+| style="text-align:center;"| Vince Edwards
+| style="text-align:center;"| Scott Thornton
+| colspan="1" style="text-align:center;"| Bryce Ryness
+| align=center | [[Luther Creek]]
+|-
+| style="text-align:center;"| '''Hud'''
+| style="text-align:center;"| [[Arnold Wilkerson]]
+| style="text-align:center;"| [[Lamont Washington]]
+| style="text-align:center;"| [[Ben Vereen]]
+| style="text-align:center;"| [[Peter Straker]]
+| style="text-align:center;"| [[Cleavant Derricks (actor)|Cleavant Derricks]]
+| colspan="2" style="text-align:center;" | Darius Nichols
+|-
+| style="text-align:center;"| '''Chrissy'''
+| colspan="2" style="text-align:center;" | [[Shelley Plimpton]]
+| style="text-align:center;"| Kay Cole
+| style="text-align:center;"| [[Sonja Kristina]]
+| style="text-align:center;"| Kristin Vigard
+| colspan="2" style="text-align:center;" | Allison Case
+|-
+| style="text-align:center;"| '''Dionne'''
+| style="text-align:center;"| [[Jonelle Allen]]
+| style="text-align:center;"| [[Melba Moore]] 
+| style="text-align:center;"| Gina Hardin
+| style="text-align:center;"| Helen Downing
+| rowspan="2" style="text-align:center;" | Alaina Reed
+| colspan=2 rowspan="2" style="text-align:center;" | [[Sasha Allen]]
+|-
+| style="text-align:center;"| '''"Aquarius" Soloist'''
+| colspan="2" style="text-align:center;" | [[Ronnie Dyson]]
+| style="text-align:center;"| [[Delores Hall]]
+| style="text-align:center;"| Vince Edwards
+|}
+
+== Early productions ==
+=== Broadway ===
+=== Early regional productions ===
+=== West End ===
+=== Early international productions ===
+== Themes ==
+=== Race and the tribe ===
+=== Nudity, sexual freedom and drug use ===
+=== Pacifism and environmentalism ===
+=== Religion and astrology ===
+=== Literary themes and symbolism ===
+== Music ==
+
+=== Songs ===
+
+{{col-begin}}
+{{col-2}}
+'''Act I'''
+* "Aquarius"&nbsp;– Tribe and soloist (often Dionne)
+* "Donna"&nbsp;– Berger and Tribe
+* "Hashish"&nbsp;– Tribe
+* "Sodomy"&nbsp;– Woof and Tribe
+* "Colored Spade"&nbsp;– Hud, Woof, Berger, Claude and Tribe
+* "Manchester England"&nbsp;– Claude and Tribe
+* "I'm Black/Ain't Got No"&nbsp;– Woof, Hud, Dionne and Tribe
+* "I Believe in Love"&nbsp;– Sheila and Tribe trio
+* "Air"&nbsp;– Jeanie with Crissy and Dionne
+* "Initials (L.B.J.)"&nbsp;– Tribe
+* "I Got Life"&nbsp;– Claude and Tribe
+* "Going Down"&nbsp;– Berger and Tribe
+* "[[Hair (Hair song)|Hair]]"&nbsp;– Claude, Berger, and Tribe
+* "My Conviction"&nbsp;– Margaret Mead (tourist lady)
+* "[[Easy to Be Hard]]"&nbsp;– Sheila
+* "Don't Put It Down"&nbsp;– Berger, Woof and male Tribe member
+* "Frank Mills"&nbsp;– Crissy
+* "Be-In ([[Hare Krishna (mantra)|Hare Krishna]])"&nbsp;– Tribe
+* "Where Do I Go?"&nbsp;– Claude and Tribe
+{{col-break}}
+'''Act II'''
+* "Electric Blues"&nbsp;– Tribe quartet
+* "Black Boys"&nbsp;– Tribe sextet (three male, three female)
+* "White Boys"&nbsp;– Tribe Supremes trio
+* "Walking in Space"&nbsp;– Tribe
+* "Yes, I's Finished/Abie Baby"&nbsp;– Abraham Lincoln and Tribe trio (Hud and two men)
+* "[[Three-Five-Zero-Zero]]"&nbsp;– Tribe
+* "What a Piece of Work Is Man"&nbsp;– Tribe duo
+* "[[Good Morning Starshine]]"&nbsp;– Sheila and Tribe
+* "The Bed"&nbsp;– Tribe
+* "Aquarius" (reprise)&nbsp;– Tribe
+* "Manchester England" (reprise)&nbsp;– Claude and Tribe
+* "Eyes Look Your Last"&nbsp;– Claude and Tribe
+* "The Flesh Failures (Let the Sun Shine In)"&nbsp;– Claude, Sheila, Dionne and Tribe{{col-end}}
+
+=== Recordings ===
+
+== Early critical reception ==
+== Social change ==
+== Subsequent productions ==
+=== 1970s to 1990s ===
+=== 2000s and 2010s ===
+==== 2009 Broadway revival and 2010 U.S. national tour ====
+==== 2010 West End revival ====
+====2014–present====
+=== International success ===
+== Adaptations ==
+=== Film ===
+== Popular culture ==
+== Legacy ==
+==Awards and nominations==
+===Original Broadway production===
+{|
+|-
+| links || [[23rd Tony Awards|Tony Awards]] [[Tony Award for Best Musical|Best Musical]] [[Tony Award for Best Direction of a Musical|Best Direction of a Musical]] [[Tom O'Horgan]] [[11th Annual Grammy Awards|Grammy Awards]] [[Grammy Award for Best Musical Theater Album|Best Score From an Original Cast Show Album]] [[Galt MacDermot]] [[Gerome Ragni]] [[James Rado]]
+|}
+===2009 Broadway revival===
+{|
+|-
+| links || [[63rd Tony Awards|Tony Awards]] [[Tony Award for Best Revival of a Musical|Best Revival of a Musical]] [[Tony Award for Best Performance by a Leading Actor in a Musical|Best Performance by a Leading Actor in a Musical]] [[Gavin Creel]] [[Tony Award for Best Performance by a Featured Actor in a Musical|Best Performance by a Featured Actor in a Musical]] [[Will Swenson (actor)|Will Swenson]] [[Tony Award for Best Costume Design|Best Costume Design of a Musical]] [[Michael McDonald (costume designer)|Michael McDonald]] [[Tony Award for Best Lighting Design of a Musical|Best Lighting Design of a Musical]] [[Kevin Adams]] [[Tony Award for Best Sound Design|Best Sound Design of a Musical]] [[Tony Award for Best Direction of a Musical|Best Direction of a Musical]] [[Diane Paulus]] [[Tony Award for Best Choreography|Best Choreography]] [[Karole Armitage]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Revival of a Musical|Outstanding Revival of a Musical]] [[Drama Desk Award for Outstanding Actor in a Musical|Outstanding Actor in a Musical]] [[Drama Desk Award for Outstanding Featured Actor in a Musical|Outstanding Featured Actor in a Musical]] [[Drama Desk Award for Outstanding Director of a Musical|Outstanding Director of a Musical]] [[Drama Desk Award for Outstanding Choreography|Outstanding Choreography]] [[Drama Desk Award for Outstanding Set Design|Outstanding Set Design]] [[Scott Pask]] [[Drama Desk Award for Outstanding Costume Design|Outstanding Costume Design]] [[Drama Desk Award for Outstanding Lighting Design|Outstanding Lighting Design in a Musical]]
+|}
+==See also==
+==References==
+== External links ==
+
+== Actors mentioned in prose (fixture) ==
+cast included Rado and Ragni as Claude and Berger, [[Lynn Kellogg]], [[Lamont Washington]], [[Melba Moore]], [[Paul Jabara]], [[Diane Keaton]].
+cast included [[Ellen Foley]].
+cast included [[Ellen Foley]], [[Annie Golden]], [[Loretta Devine]], [[Cleavant Derricks (actor)|Cleavant Derricks]], [[Kristen Vigard]].
+starring [[John Barrowman]].
+starring [[Steven Weber]].
+starred [[Jonathan Groff]].
+cast included [[Gavin Creel]].
+cast included [[Gavin Creel]], [[Caissie Levy]], [[Megan Lawrence]], [[Sasha Allen]].
+cast included [[Kristen Bell]].
+cast included [[Kristen Bell]], [[Hunter Parrish]], [[Benjamin Walker (actor)|Benjamin Walker]], [[Amber Riley]], [[Jenna Ushkowitz]], [[Sarah Hyland]], [[Mario (American singer)|Mario]], [[Jonah Platt]], [[Beverly D'Angelo]], [[Kevin Chamberlin]].
+starring [[Jake Quickenden]].

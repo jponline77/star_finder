@@ -63,8 +63,9 @@ test('openDb: WAL, foreign keys, fold(), user_version', () => {
     assert.equal(db.pragma('foreign_keys', { simple: true }), 1);
     assert.equal(db.pragma('user_version', { simple: true }), Math.max(...MIGRATIONS.map((m) => m.version)));
     assert.equal(db.prepare("SELECT fold('Les Misérables') AS f").get().f, 'les miserables');
-    const tables = db.prepare("SELECT name FROM sqlite_master WHERE type = 'table' ORDER BY name").all().map((r) => r.name);
-    assert.deepEqual(tables, ['admin_email_listings', 'comments', 'festival_tombstones', 'festivals', 'import_tombstones', 'sessions', 'shows', 'song_parts', 'songs', 'users']);
+    const tables = db.prepare("SELECT name FROM sqlite_master WHERE type = 'table' AND name NOT GLOB 'catalog_*fts_*' ORDER BY name").all().map((r) => r.name);
+    assert.deepEqual(tables, ['admin_email_listings', 'catalog_fts', 'catalog_meta', 'catalog_rejected_albums', 'catalog_show_fts', 'catalog_shows', 'catalog_songs', 'comments',
+      'festival_tombstones', 'festivals', 'import_tombstones', 'sessions', 'shows', 'song_parts', 'songs', 'users']);
     // comment must target exactly one of song/show
     db.prepare("INSERT INTO users (email, display_name, password_hash) VALUES ('a@b.co', 'A', 'x')").run();
     assert.throws(() => db.prepare("INSERT INTO comments (user_id, body) VALUES (1, 'x')").run());

@@ -1,0 +1,189 @@
+{{Infobox Musical
+| name = Mean Girls
+| image = Mean Girls-Musical-Poster.jpg
+| music = [[Jeff Richmond]]
+| lyrics = [[Nell Benjamin]]
+| book = [[Tina Fey]]
+| caption = Original Broadway poster
+| alt = Three teenage girls standing before a pink background wearing short pink dresses and pink shoes, with the title "Mean Girls" in large type over their dresses: Left to right, they are Karen, Regina and Gretchen. Additional text at top, in the style of magazine cutouts, reads "Don't Be Fooled by the Pink".
+| basis = {{plainlist|
+* {{based on|''[[Mean Girls]]''|Tina Fey}}
+* {{based on|''[[Queen Bees and Wannabes]]''|[[Rosalind Wiseman]]}}
+}}
+| premiere_date = October 31, 2017
+| premiere_location = [[National Theatre (Washington, D.C.)|National Theatre]], [[Washington, D.C.]]
+| productions = {{ubl|2017 [[Washington, D.C.]]|2018 [[Broadway (theatre)|Broadway]]|2019 U.S. tour|2023 U.S. tour|2024 [[West End (theatre)|West End]]|2026 UK tour}}
+| awards = [[Drama Desk Award for Outstanding Book of a Musical]]
+| image_size = 
+}}
+==Background==
+==Productions==
+===Broadway (2018–2020)===
+===U.S. national tour (2019–2023)===
+===U.S. national tour (2023–2025)===
+=== West End (2024–2025) ===
+=== Brazil (2025) ===
+=== UK tour (2026) ===
+==Synopsis==
+===Act One===
+===Act Two===
+== Cast and characters ==
+{| class="wikitable" style="text-align: center;"
+|-
+! rowspan="2" | Character
+!Washington, D.C.
+! Broadway
+!US National tour
+!US National tour 
+!West End
+!UK Tour
+|-
+!<small>2017</small>
+!<small>2018</small>
+!<small>2019</small>
+!<small>2023</small>
+!<small>2024</small>
+!<small>2026</small>
+|-
+! [[Cady Heron]]
+| colspan="2" |[[Erika Henningsen]]
+|[[Danielle Wade]]
+|Natalie Shaw
+|Charlie Burn
+|Emily Lane
+|-
+! [[Regina George (Mean Girls)|Regina George]]
+| colspan="2" |[[Taylor Louderman]]
+|Mariah Rose Faith Casillas
+|Maya Petropoulos
+|[[Georgina Castle]]
+|[[Vivian Panka]]
+|-
+! [[Janis Sarkisian]]
+| colspan="2" |[[Barrett Wilbert Weed]]
+|[[Mary Kate Morrissey]]
+|Alexys Morera
+|Elena Skye
+|Georgie Buckland
+|-
+! [[Damian Hubbard]]
+| colspan="2" |[[Grey Henson]]
+|Eric Huffman
+|Ethan Jih-Cook
+|Tom Xander
+|Max Gill
+|-
+! Gretchen Wieners
+| colspan="2" |[[Ashley Park (actress)|Ashley Park]]
+|Megan Masako Haley
+|Kristen Amanda Smith
+|Elèna Gyasi
+|Kiara Dario
+|-
+! Karen Smith
+| colspan="2" |[[Kate Rockwell (actress)|Kate Rockwell]]
+|[[Jonalyn Saxer]]
+|Mary Rose Brendel
+|[[Grace Mouat]]
+|Sophie Pourret
+|-
+! Aaron Samuels
+| colspan="2" |[[Kyle Selig]]
+|Adante Carter
+|Joseph Torres
+|Daniel Bravo
+|Ben Oatley
+|-
+! Kevin Gnapoor
+| colspan="2" |Cheech Manohar
+|Kabir Bery
+|Shawn Mathews
+|Lucca Chadwick-Patel
+|[[Karim Zeroual]]
+|-
+! Mrs. Heron/Ms. Norbury/Mrs. George
+| colspan="2" |[[Kerry Butler]]
+|[[Gaelen Gilliland]]
+|Kristen Seggio
+|Zoë Rainey
+|[[Faye Tozer]]
+|-
+! Mr. Duvall
+| colspan="2" |[[Rick Younger]]
+|Lawrence E. Street
+|Justin Phillips
+|[[Ako Mitchell]]
+|Joshua Elmore
+|}
+
+=== Notable cast replacements ===
+==== Broadway (2018–2020) ====
+*'''Cady Heron''': [[Sabrina Carpenter]]
+*'''Regina George''': [[Reneé Rapp]]
+*'''Gretchen Wieners''': [[Krystina Alabado]]
+*'''Aaron Samuels''': [[Cameron Dallas]]
+*'''Mrs. Heron/Ms. Norbury/Mrs. George''': [[Jennifer Simard]], [[Catherine Brunell]]
+
+====U.S. national tour (2019–2023)====
+* '''Janis Sarkisian:''' [[Lindsay Pearce]]
+*'''Gretchen Wieners''': [[Jasmine Amy Rogers]]
+
+==Musical numbers==
+{{col-begin}}
+{{col-2}}
+;Act 1
+* "A Cautionary Tale" – Janis, Damian
+* "It Roars" – Cady, Ensemble
+* "It Roars" (reprise)<sup>†</sup> – Cady, Ensemble
+* "Where Do You Belong?" – Damian, Janis, Cady, Ensemble
+* "Meet the Plastics" – Regina, Gretchen, Karen, Janis, Damian, Cady
+* "Stupid with Love" – Cady
+* "Apex Predator" – Janis, Cady
+* "What’s Wrong with Me?" – Gretchen
+* "Stupid with Love" (reprise) – Aaron, Cady
+* "Sexy" – Karen, Female Ensemble
+* "Someone Gets Hurt" – Regina, Aaron, Male Ensemble
+* "Revenge Party" – Janis, Damian, Cady, Company
+* "Fearless"* – Cady, Gretchen, Karen, Ensemble
+* "Someone Gets Hurt" (reprise)<sup>†† ‡</sup> – Regina, Ensemble
+{{col-2}}
+;Act 2
+* "A Cautionary Tale" (reprise)<sup>†</sup> – Janis, Damian
+* "Stop"* – Damian, Art Students, Karen, Ensemble
+* "What's Wrong with Me?" (reprise) – Gretchen, Mrs. George
+* "Whose House Is This?" – Kevin G, Cady, Gretchen, Karen, Ensemble
+* "More Is Better" – Cady, Aaron, Ensemble
+* "Someone Gets Hurt" (reprise) – Cady, Janis, Damian
+* "World Burn" – Regina, Ensemble
+* "I'd Rather Be Me" – Janis, Ensemble
+* "Fearless" (reprise)<sup>†*</sup> – Cady
+* "Do This Thing"* – Cady, Ms. Norbury, Kevin G, Mathletes
+* "I See Stars" – Cady, Company
+{{col-end}}
+Key:
+* <sup>†</sup> Not included on Original Broadway Cast Recording
+* <sup>††</sup> Included as part of "Fearless" on Original Broadway Cast Recording
+* <sup>‡</sup> Cut in first US tour and on Broadway in later performances
+* <sup>*</sup> The 2024 West End production cut "Fearless" and "Do This Thing", replaced "Stop" with "I'm Blowing Up", and replaced the reprise of "Fearless" with "It Roars".
+
+==Recording==
+== Critical response ==
+== Film adaptation ==
+==Awards and nominations==
+===Original Washington, D.C., production (2017)===
+{|
+|-
+| links || [[Helen Hayes Award]] [[Grey Henson]] [[Kate Rockwell (actress)|Kate Rockwell]]
+|}
+===Original Broadway production (2018)===
+{|
+|-
+| links || [[72nd Tony Awards|Tony Awards]] [[Tony Award for Best Musical|Best Musical]] [[Tony Award for Best Actress in a Musical|Best Actress in a Leading Role in a Musical]] [[Taylor Louderman]] [[Tony Award for Best Featured Actor in a Musical|Best Actor in a Featured Role in a Musical]] [[Grey Henson]] [[Tony Award for Best Featured Actress in a Musical|Best Actress in a Featured Role in a Musical]] [[Ashley Park (actress)|Ashley Park]] [[Tony Award for Best Book of a Musical|Best Book of a Musical]] [[Tina Fey]] [[Tony Award for Best Original Score|Best Original Score]] [[Jeff Richmond]] [[Nell Benjamin]] [[Tony Award for Best Scenic Design in a Musical|Best Scenic Design of a Musical]] [[Scott Pask]] [[Tony Award for Best Costume Design in a Musical|Best Costume Design of a Musical]] [[Gregg Barnes]] [[Tony Award for Best Sound Design|Best Sound Design of a Musical]] [[Tony Award for Best Direction of a Musical|Best Direction of a Musical]] [[Casey Nicholaw]] [[Tony Award for Best Choreography|Best Choreography]] [[Tony Award for Best Orchestrations|Best Orchestrations]] [[John Clancy (orchestrator)|John Clancy]] [[Drama Desk Awards]] [[Drama Desk Award for Outstanding Musical|Outstanding Musical]] [[Drama Desk Award for Outstanding Featured Actor in a Musical|Outstanding Featured Actor in a Musical]] [[Drama Desk Award for Outstanding Featured Actress in a Musical|Outstanding Featured Actress in a Musical]] [[Kate Rockwell (actress)|Kate Rockwell]] [[Drama Desk Award for Outstanding Choreography|Outstanding Choreography]] [[Drama Desk Award for Outstanding Lyrics|Outstanding Lyrics]] [[Drama Desk Award for Outstanding Book of a Musical|Outstanding Book of a Musical]] [[Drama Desk Award for Outstanding Costume Design of a Musical|Outstanding Costume Design]] [[Drama Desk Award for Outstanding Projection Design|Outstanding Projection Design]] [[Drama Desk Award for Outstanding Wig and Hair Design|Outstanding Wig and Hair Design]] [[Drama League Award]] [[Outer Critics Circle Award]] [[Erika Henningsen]] [[Kerry Butler]] [[Chita Rivera Awards for Dance and Choreography]]
+|}
+===London production (2024)===
+{|
+|-
+| links || [[Laurence Olivier Awards]] [[Laurence Olivier Award for Best Actor in a Supporting Role in a Musical|Best Actor in a Supporting Role in a Musical]]
+|}
+==References==
+==External links==

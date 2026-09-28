@@ -1,0 +1,197 @@
+{{Infobox musical
+| name           = Falsettos 
+| subtitle       =
+| image          = Falsettos.jpg
+| caption        = Original Logo
+| music          = [[William Finn]]
+| lyrics         = William Finn
+| book           = William Finn <br> [[James Lapine]]
+| productions    = 1992 [[Broadway theatre|Broadway]] <br> 1993 U.S. tour <br> 2016 Broadway revival <br> 2019 U.S. tour <br> 2019 West End 
+
+| awards         = [[Tony Award for Best Book of a Musical]] <br> [[Tony Award for Best Original Score]]
+| premiere_date  = {{start date|1992|4|29}}
+| premiere_location = [[John Golden Theatre]]
+}}
+==Background==
+===Inception===
+===Composition===
+==Synopsis==
+===Act I: March of the Falsettos===
+===Act II: Falsettoland===
+==Musical numbers==
+{{col-begin}}
+{{col-2}}
+;Act One 
+* "Four Jews in a Room Bitching" – Whizzer, Marvin, Jason, Mendel, and Trina
+* "A Tight-Knit Family" – Marvin
+* "Love Is Blind" – Marvin, Jason, Whizzer, Mendel, and Trina
+* "Thrill of First Love" – Marvin and Whizzer
+* "Marvin at the Psychiatrist" – Mendel, Marvin, Jason, and Whizzer
+* "My Father's a Homo" – Jason
+* "Everyone Tells Jason to See a Psychiatrist" – Jason, Marvin, Trina, and Whizzer
+* "This Had Better Come to a Stop" – Marvin, Whizzer, Jason, Trina, and Mendel
+* "I'm Breaking Down" – Trina (Added for 1982 LA run of "March of the Falsettos" and Hartford Stage's "Falsettos" production; written originally for ''In Trousers'')
+* "Please Come to Our House" – Mendel, Trina, and Jason
+* "Jason's Therapy" – Mendel, Trina, Whizzer, Marvin, and Jason
+* "A Marriage Proposal" – Mendel
+* "A Tight-Knit Family (Reprise)" – Mendel and Marvin
+* "Trina's Song" – Trina
+* "March of the Falsettos" – Mendel, Marvin, Jason, and Whizzer
+* "Trina's Song (Reprise)" – Trina
+* "The Chess Game" – Marvin and Whizzer
+* "Making a Home" – Mendel, Jason, Trina, and Whizzer
+* "The Games I Play" – Whizzer
+* "Marvin Hits Trina" – Marvin, Mendel, Jason, Trina, and Whizzer
+* "I Never Wanted to Love You" – Marvin, Mendel, Jason, Trina, and Whizzer
+* "Father to Son" – Marvin and Jason
+{{col-break}}
+;Act Two
+* "Falsettoland" – Mendel & Company
+* "About Time" – Marvin & Company
+* "Year of the Child" – Marvin, Trina, Mendel, Jason, Charlotte, and Cordelia
+* "Miracle of Judaism" – Jason
+* "The Baseball Game" – Company 
+* "A Day in Falsettoland" – Company
+* "The Fight" – Mendel, Jason, Marvin, and Trina
+* "Everyone Hates His Parents" – Mendel, Jason, Marvin, and Trina
+* "What More Can I Say" – Marvin
+* "Something Bad Is Happening" – Charlotte and Cordelia
+* "More Racquetball" – Marvin and Whizzer
+* "Holding to the Ground" – Trina
+* "Days Like This" – Company
+* "Cancelling the Bar Mitzvah" – Mendel, Trina, and Jason
+* "Unlikely Lovers" – Marvin, Whizzer, Charlotte, and Cordelia
+* "Another Miracle of Judaism" – Jason
+* "Something Bad Is Happening (Reprise)" – Charlotte
+* "You Gotta Die Sometime" – Whizzer
+* "Jason's Bar Mitzvah" – The Company
+* "What Would I Do?" – Marvin, Whizzer
+* "Falsettoland (Reprise)" – Mendel{{col-end}}'''Encore'''
+* "In Trousers" – Marvin and Ladies †
+
+† - Indicates a song not included on the [[cast recording]]
+
+== Productions ==
+===Original Broadway production===
+=== Australian productions ===
+===2016 Broadway revival===
+=== 2019 off West End ===
+==Themes==
+===Judaism===
+===AIDS epidemic===
+===Masculinity===
+==Reception==
+===Early performances===
+===2016 revival===
+==Recordings==
+== Notable casts ==
+{| class="wikitable" style="text-align:center; width:80%"
+! rowspan="2" | Character
+! Broadway
+! First National Tour
+! Second National Tour
+! Australia Premiere
+! Broadway Revival
+! Third National Tour
+! Off-West End
+|-
+! colspan="2" |<small>1992</small>
+! <small>1993</small>
+! <small>1994</small>
+! <small>2016</small>
+! colspan="2" |<small>2019</small>
+|-
+! Marvin
+| [[Michael Rupert]]
+| [[Adrian Zmed]]
+| [[Gregg Edelman]]
+| [[John O'May]]
+| [[Christian Borle]]
+| [[Max von Essen]]
+| [[Daniel Boys]]
+|-
+! Trina
+| [[Barbara Walsh]]
+| colspan=2|[[Carolee Carmello]]
+| [[Gina Riley]]
+| [[Stephanie J. Block]]
+| [[Eden Espinosa]]
+| [[Laura Pitt-Pulford]]
+|-
+! Whizzer
+| [[Stephen Bogardus]]
+| Ray Walker
+| Peter Reardon
+| [[Simon Burke]]
+| [[Andrew Rannells]]
+| [[Nick Adams (actor, born 1983)|Nick Adams]]
+| [[Oliver Savile]]
+|-
+! Mendel
+| [[Chip Zien]]
+| [[Stuart Zagnit]]
+| Adam Heller
+| [[Tony Sheldon (actor)|Tony Sheldon]]
+| [[Brandon Uranowitz]]
+| Nick Blaemire
+| Joel Montague
+|-
+! Jason
+| Jonathan Kaplan
+| Jeffrey Landman
+| Ramzi Khalaf
+| Michael Hamilton,<br>Kerry-Andre Palavicino, &<br>Brent Stiller
+| Anthony Rosenthal
+| Jonah Mussolino,<br>Thatcher Jacobs, &<br>Jim Kaplan
+| Albert Atack,<br>George Kennedy,<br>Elliot Morris, &<br>James Williams
+|-
+! Charlotte
+| [[Heather MacRae]]
+| colspan=2|Barbara Marineau
+| Valerie Bader
+| [[Tracie Thoms]]
+| Bryonha Marie Parham
+| Gemma Knight-Jones
+|-
+! Cordelia
+| [[Carolee Carmello]]
+| Yvette Lawrence
+| [[Jessica Molaskey]]
+| [[Sharon Millerchip]]
+| [[Betsy Wolfe]]
+| Audrey Cardwell
+| Natasha J Barnes
+|}
+
+; Replacements/Transfers (Original Broadway Cast)
+* Marvin – [[Adrian Zmed]], [[Mandy Patinkin]], [[Gregg Edelman]]
+* Trina – [[Randy Graff]] 
+* Mendel – [[Jason Graae]]
+* Cordelia – [[Maureen Moore]]
+* Jason – Sivan Cotel, [[Anthony Roth Costanzo]]
+
+==Awards and accolades==
+===Original Broadway production===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Musical|Best Musical]] [[Tony Award for Best Book of a Musical|Best Book of a Musical]] [[William Finn]] [[James Lapine]] [[Tony Award for Best Original Score|Best Original Score]] [[Tony Award for Best Performance by a Leading Actor in a Musical|Best Performance by a Leading Actor in a Musical]] [[Michael Rupert]] [[Tony Award for Best Performance by a Featured Actor in a Musical|Best Performance by a Featured Actor in a Musical]] [[Tony Award for Best Performance by a Featured Actress in a Musical|Best Performance by a Featured Actress in a Musical]] [[Barbara Walsh]] [[Tony Award for Best Direction of a Musical|Best Direction of a Musical]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Revival of a Musical|Outstanding Revival of a Musical]] [[Drama Desk Award for Outstanding Featured Actress in a Musical|Outstanding Featured Actress in a Musical]] [[Theatre World Award]]
+|}
+=== 2016 Broadway revival ===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Revival of a Musical|Best Revival of a Musical]] [[Tony Award for Best Actor in a Musical|Best Actor in a Musical]] [[Christian Borle]] [[Tony Award for Best Featured Actor in a Musical|Best Featured Actor in a Musical]] [[Andrew Rannells]] [[Brandon Uranowitz]] [[Tony Award for Best Featured Actress in a Musical|Best Featured Actress in a Musical]] [[Stephanie J. Block]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Revival of a Musical|Outstanding Revival of a Musical]] [[Drama Desk Award for Outstanding Featured Actor in a Musical|Outstanding Featured Actor in a Musical]] [[Drama Desk Award for Outstanding Featured Actress in a Musical|Outstanding Featured Actress in a Musical]] [[Outer Critics Circle Award]] [[Outer Critics Circle Award for Outstanding Actor in a Musical|Outstanding Actor in a Musical]] [[Outer Critics Circle Award for Outstanding Featured Actor in a Musical|Outstanding Featured Actor in a Musical]] [[Outer Critics Circle Award for Outstanding Featured Actress in a Musical|Outstanding Featured Actress in a Musical]] [[Drama League Award]] [[Drama League Distinguished Performance Award|Distinguished Performance]]
+|}
+===2019 Off-West End===
+{|
+|-
+| links || [[The Offies|Offie Award]] [[Daniel Boys]] [[Oliver Savile]]
+|}
+==References==
+===Bibliography===
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+cast included [[Michael Rupert]].
+cast included [[Michael Rupert]], [[Stephen Bogardus]], [[Barbara Walsh]], [[Chip Zien]], [[In Trousers]], [[Heather MacRae]], [[Carolee Carmello]].
+cast featured Tamlyn Henderson as Marvin, [[Katrina Retallick]], [[Elise McCann]].
+cast featured [[Daniel Boys]], [[Laura Pitt-Pulford]], [[Oliver Savile]].

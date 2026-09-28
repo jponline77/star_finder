@@ -16,6 +16,8 @@ import { backup } from '../scripts/backup.js';
 
 const SERVER_DIR = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const XLSX = path.join(SERVER_DIR, 'seed', 'star_spreadsheet.xlsx');
+// The small fixture catalog, so starting a server never loads the real (large) one.
+const CATALOG = path.join(SERVER_DIR, 'test', 'fixtures', 'catalog.json.gz');
 
 function tmpDir() {
   return fs.mkdtempSync(path.join(os.tmpdir(), 'star-proc-'));
@@ -54,7 +56,7 @@ async function waitFor(predicate, ms = 15_000) {
 
 const serverEnv = (dir, port, extra = {}) => ({
   PORT: String(port), HOST: '127.0.0.1', STAR_DB_PATH: path.join(dir, 'star.db'),
-  STAR_UPLOADS_DIR: path.join(dir, 'uploads'), STAR_MEDIA_DIR: path.join(dir, 'media'), ...extra,
+  STAR_UPLOADS_DIR: path.join(dir, 'uploads'), STAR_MEDIA_DIR: path.join(dir, 'media'), STAR_CATALOG_PATH: CATALOG, ...extra,
 });
 
 /** Start src/index.js and wait until it answers /api/health. */
@@ -258,6 +260,64 @@ describe('CLI scripts', () => {
       const copy = openDb(out.dbFile);
       assert.equal(copy.prepare("SELECT count(*) AS n FROM shows WHERE name = 'Backup Show'").get().n, 1);
       copy.close();
+    } finally {
+      fs.rmSync(dir, { recursive: true, force: true });
+    }
+  });
+});
+
+describe('song catalog at startup and `npm run catalog:load`', () => {
+  test('the server loads the catalog on first start, then only checks it; a missing file is a warning, not a crash', async () => {
+    const dir = tmpDir();
+    let proc;
+    try {
+      proc = await startServer(dir);
+      assert.match(proc.out.stdout, /📚 Song catalog fixture-2026-09-27\.1 loaded in [\d.]+ s: 6 shows, 74 songs/);
+      const res = await fetch(`http://127.0.0.1:${proc.port}/api/catalog/search?q=bring%20hi`);
+      assert.equal((await res.json()).results[0].title, 'Bring Him Home');
+      proc.child.kill('SIGTERM');
+      await proc.exited;
+      proc = await startServer(dir);
+      assert.match(proc.out.stdout, /📚 Song catalog fixture-2026-09-27\.1: 6 shows, 74 songs \(up to date\)/);
+      proc.child.kill('SIGTERM');
+      await proc.exited;
+      proc = await startServer(dir, { STAR_CATALOG_PATH: path.join(dir, 'no-such-catalog.json.gz') });
+      assert.match(proc.out.stderr, /No song catalog at .*no-such-catalog\.json\.gz/);
+      const status = await (await fetch(`http://127.0.0.1:${proc.port}/api/catalog`)).json();
+      assert.equal(status.version, 'fixture-2026-09-27.1', 'the loaded catalog stays');
+    } finally {
+      kill(proc);
+      fs.rmSync(dir, { recursive: true, force: true });
+    }
+  });
+
+  test('catalog:load forces a reload (paths relative to where it was run); --if-changed skips; a bad file exits 1', async () => {
+    const dir = tmpDir();
+    try {
+      openDb(path.join(dir, 'star.db')).close();
+      fs.copyFileSync(CATALOG, path.join(dir, 'cat.json.gz'));
+      const env = { INIT_CWD: dir, STAR_DB_PATH: 'star.db' };
+      const ok = await run(['scripts/catalog-load.js', 'cat.json.gz'], { env }).exited;
+      assert.equal(ok.code, 0, ok.stderr);
+      assert.match(ok.stdout, /✅ Catalog fixture-2026-09-27\.1 loaded/);
+      assert.match(ok.stdout, /6 shows, 74 songs from the song lists/);
+      const again = await run(['scripts/catalog-load.js', 'cat.json.gz'], { env }).exited;
+      assert.match(again.stdout, /loaded in .*\(was fixture-2026-09-27\.1\)/, 'forced by default');
+      const skip = await run(['scripts/catalog-load.js', 'cat.json.gz', '--if-changed'], { env }).exited;
+      assert.match(skip.stdout, /already loaded/);
+      fs.writeFileSync(path.join(dir, 'bad.json.gz'), 'not a catalog');
+      const bad = await run(['scripts/catalog-load.js', 'bad.json.gz'], { env }).exited;
+      assert.equal(bad.code, 1);
+      assert.match(bad.stderr, /❌/);
+      const missing = await run(['scripts/catalog-load.js', 'missing.json.gz'], { env }).exited;
+      assert.equal(missing.code, 1);
+      assert.match(missing.stderr, /catalog:build/);
+      const db = openDb(path.join(dir, 'star.db'));
+      assert.equal(db.prepare('SELECT count(*) AS n FROM catalog_shows').get().n, 6, 'still there');
+      db.close();
+      const noDb = await run(['scripts/catalog-load.js', 'cat.json.gz'], { env: { INIT_CWD: dir, STAR_DB_PATH: 'nope.db' } }).exited;
+      assert.equal(noDb.code, 1);
+      assert.ok(!fs.existsSync(path.join(dir, 'nope.db')), "doesn't create a database");
     } finally {
       fs.rmSync(dir, { recursive: true, force: true });
     }

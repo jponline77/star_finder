@@ -1,0 +1,242 @@
+{{Infobox musical
+| name = Natasha, Pierre & the Great Comet of 1812
+| subtitle = 
+| image = Natasha, Pierre and The Great Comet of 1812.jpg
+| caption = The Great Comet
+| music = [[Dave Malloy]]
+| lyrics = Dave Malloy
+| book = Dave Malloy
+| setting = [[Moscow]], [[Russian Empire|Russia]]; 1812
+| basis = ''[[War and Peace]]''<br />by [[Leo Tolstoy]]
+| productions = 2013 [[Off-Broadway]]<br>2015 Massachusetts<br>2016 [[Broadway theatre|Broadway]]<br>2024 London
+| premiere_date = {{Start date|2012|10|01}}
+| premiere_location = [[Ars Nova (theater)|Ars Nova]], [[New York City]]
+| awards = [[Richard Rodgers Award for Musical Theater]]
+| image_size = 
+}}
+==Synopsis==
+===Act I===
+===Act II===
+==Music==
+
+===Musical numbers===
+{{col-begin}}
+{{col-2}}
+'''Act I'''
+{{Ordered list
+|"Prologue" – Full Company
+|"Pierre" – Pierre, Ensemble
+|"Moscow" – Marya, Natasha, Sonya
+|"The Private And Intimate Life Of The House" –  Old Bolkonsky, Mary
+|"Natasha And Bolkonskys" – Mary, Natasha, Old Bolkonsky
+|"No One Else" – Natasha
+|"The Opera" – Marya, Sonya, Natasha, Hélène, Pierre, Anatole, Ensemble
+|"Natasha And Anatole" – Natasha, Anatole
+|"The Duel" – Anatole, Dolokhov, Pierre, Hélène, Servant, Ensemble
+|"Dust and Ashes" – Pierre, Ensemble
+|"Sunday Morning" – Natasha, Sonya, Marya
+|"Charming" –  Hélène, Natasha
+|"The Ball" – Natasha, Anatole
+}}
+{{col-2}}
+'''Act II'''
+{{Ordered list|start=14
+|"Letters" – Pierre, Natasha, Mary, Anatole, Dolokhov, Ensemble
+|"Sonya And Natasha" – Sonya, Natasha
+|"Sonya Alone" –  Sonya
+|"Preparations" – Pierre, Anatole, Dolokhov
+|"Balaga" –  Balaga, Anatole, Dolokhov, Ensemble
+|"The Abduction" – Anatole, Dolokhov, Pierre, Marya, Ensemble
+|"In My House" – Marya, Natasha, Sonya
+|"A Call to Pierre" – Marya, Pierre, Servant
+|"Find Anatole" – Pierre, Anatole, Hélène, Natasha, Servant, Ensemble
+|"Pierre And Anatole" – Pierre, Anatole
+|"Natasha Very Ill" – Sonya
+|"Pierre And Andrey" –  Andrey, Pierre
+|"Pierre And Natasha" – Pierre, Natasha
+|"The Great Comet Of 1812" – Pierre, Ensemble
+
+}}
+{{col-end}}
+
+==Productions==
+=== Off-Off-Broadway ===
+==== Ars Nova ====
+=== Off-Broadway ===
+==== Kazino ====
+=== American Repertory Theater (A.R.T.) ===
+=== Broadway ===
+===London===
+===United States Regional===
+===International===
+==Characters==
+{| class="wikitable"
+! Character
+! Description
+|-
+|'''[[Natasha Rostova|Countess Natasha Rostova]]'''
+|"Natasha is young": A nineteen-year-old [[Ingenue (stock character)|ingenue]] who is innocent, doe-eyed, and profoundly, lethally romantic. She is betrothed to Andrey and loves him dearly. She goes to [[Moscow]] under the care of her godmother, Marya D., with her cousin and best friend Sonya. During her first three days there, she meets Anatole Kuragin and falls in love with him. 
+|-
+|'''[[Pierre Bezukhov]]''' 
+|"Dear, bewildered, and awkward Pierre... rich, unhappily married Pierre": The illegitimate son of a Russian aristocratic family. Socially awkward with a melancholy streak, he is an outsider in society despite his wealth. He is a good friend of Andrey and keeps an eye on Natasha for him while he is away at war.
+|-
+|'''[[Anatole Kuragin]]'''
+|"Anatole is hot": An aristocratic, seductive hedonist, who "spends his money on women and wine," and sees no needs except his own. He is the brother of Hélène and a friend of Dolokhov. During the show, he meets Natasha at the Opera and immediately wants her, despite her engagement and his already being married to a woman in Poland. 
+|-
+|'''[[Sonya Rostova]]'''
+|"Sonya is good, Natasha's cousin and closest friend": She is fiercely dedicated to her cousin and will do anything and everything to keep her safe. 
+|-
+|'''Marya Dmitriyevna Akhrosimova'''
+|"Marya is old-school, a grand dame of Moscow": She is Natasha's godmother, an old friend of Pierre, and a very strict but kind woman. Natasha and Sonya live with her during their time in Moscow. She loves Natasha very much and tries to help and protect her, especially when Natasha makes the mistake of falling for Anatole and breaks off her engagement with Andrey.
+|-
+|'''[[Hélène Kuragina|Hélène Kuragina Bezukhova]]''' 
+|"Hélène is a slut": Anatole's sister, who married Pierre for money. She is highly sexualized and dedicated to her brother.
+|-
+|'''Fedya Dolokhov'''
+|"Dolokhov is fierce, but not too important": An extremely talented marksman. He is Anatole's closest friend and participates in his pleasure-loving lifestyle. He is having an alleged affair with Hélène.
+|-
+|'''[[Andrei Nikolayevich Bolkonsky|Prince Andrey Bolkonsky]]'''
+|"Andrey isn't here": He is a good friend of Pierre and betrothed to Natasha. He is fighting in the war for much of the show. He is serious and bitter. 
+|-
+|'''Old Prince Nikolay Bolkonsky'''
+|"Old Prince Bolkonsky is crazy": and suffering from many age-related ailments. He is taken care of by his daughter Mary, but he torments her regardless. 
+|-
+|'''[[Maria Bolkonskaya|Princess Mary Bolkonskaya]]'''
+|"Mary is plain": the daughter of Bolkonsky and Andrey's sister. She lives at home with her father as his carer, where she is tormented and abused by him. She is confined to the house and has no friends.
+|-
+|'''Balaga'''
+|"Balaga's just for fun": He's a famous [[Troika (driving)|troika]] driver, and assists Anatole in his plot for eloping with Natasha. He is wild and mystical. 
+|}
+
+(Lines in quotations are lyrics from the opening song, "Prologue," which introduces the characters)
+
+==Original principal casts==
+{| class="wikitable"
+|+
+! rowspan="2" |Character
+!Ars Nova
+!Off-Broadway
+!Broadway
+!Shanghai 
+!Off-West End
+!Toronto
+|-
+!<small>2012</small>
+!<small>2013</small>
+!<small>2016</small>
+!<small>2023</small>
+!<small>2024</small>
+!<small>2025</small>
+|-
+![[Natasha Rostova]]
+| colspan="2" align="center" |[[Phillipa Soo]]
+| align="center" |[[Denée Benton]]
+| align="center" | Naomi Kiana Gomez
+| align="center" |[[Chumisa Dornford-May]]
+| align="center" |Hailey Gillis
+|-
+![[Pierre Bezukhov]]
+| colspan="2" align="center" |[[Dave Malloy]]
+| align="center" |[[Josh Groban]]
+| align="center" |Cooper Grodin
+| align="center" |[[Declan Bennett]]
+| align="center" |[[Evan Buliung]]
+|-
+![[Anatole Kuragin]]
+| colspan="3" align="center" |[[Lucas Steele]]
+| align="center" | Dean Cestari
+| align="center" |[[Jamie Muscato]]
+| align="center" |George Krissa
+|-
+![[Sonya Rostova]]
+| colspan="3" align="center" |[[Brittain Ashford]]
+| align="center" | Yuting Chen
+| align="center" |[[Maimuna Memon]]
+| align="center" |Vanessa Sears
+|-
+!Marya Dmitriyevna<br>Akhrosimova
+| colspan="1" align="center" |Amelia Workman
+| colspan="2" align="center" |[[Grace McLean]]
+| align="center" | Kaye Tuckerman
+| align="center" |Annette McLaughlin
+| align="center" |[[Louise Pitre]]
+|-
+![[Hélène Kuragina|Hélène<br>Bezukhova]]
+| colspan="3" align="center" |[[Amber Gray]]
+| align="center" | Bex Odorisio
+| align="center" |[[Cat Simmons]]
+| align="center" |[[Divine Brown]]
+|-
+!Fedya Dolokhov
+| colspan="3" align="center" |Manik Choksi
+| align="center" | Ethan Saviet
+| align="center" |Daniel Krikler
+| align="center" |Lawrence Libor
+|-
+![[Andrey Bolkonsky]]
+| colspan="2" rowspan="2" align="center" |[[Blake DeLong]]
+| rowspan="2" align="center" |Nicholas Belton
+| rowspan=2 align="center" | Apollo Ziegfeld
+| rowspan="2" align="center" |Eugene McCoy
+| rowspan="2" align="center" |Marcus Nance
+|-
+!Old Prince Bolkonsky
+|-
+![[Maria Bolkonskaya|Princess Mary<br>Bolkonskaya]]
+| colspan="3" align="center" |[[Gelsey Bell]]
+| align="center" | Noa Luz Barenblat
+| align="center" |Chloe Saracco
+| align="center" |Heeyun Park
+|-
+!Balaga
+| colspan="3" align="center" |Paul Pinto
+| align="center" | Damon J. Gillespie
+| align="center" |Cedric Neal
+| align="center" |[[Andrew Penner (musician)|Andrew Penner]]
+|}
+
+=== Notable replacements ===
+==== Off-Broadway (2013-14) ====
+* '''Pierre Bezukhov:''' [[David Abeles]]
+* '''Princess Mary:''' [[Shaina Taub]]
+
+==== Broadway (2016-17) ====
+* '''Pierre Bezukhov:''' [[Dave Malloy]],{{efn|Dave Malloy alternated in the role with Josh Groban as Pierre from May 4 to June 27 and portrayed the role as principal actor from July 3 to 9. He portrayed the role for the final 2 weeks of the run from August 22 to September 3.}} [[Okieriete Onaodowan]],{{efn|Okieriete Onaodowan took over the role of Pierre from Dave Malloy on July 11, 2017. He was originally contracted to star until September 3. However, his run ended early on August 13.}} [[Scott Stangland]]{{efn|After performing the role at the American Repertory Theatre, Scott Stangland served as the Pierre standby from the Broadway opening to August 13. He then took over the role from Onaodowan as principal actor from August 15 to 20, 2017. He then continued serving as the standby, performing twice before the show came to a close.}}
+* '''Sonya Rostova:''' [[Ingrid Michaelson]]{{efn|Ingrid Michaelson temporarily replaced Brittain Ashford as Sonya from July 4 through August 13. Ashford returned to the role on August 15.}}
+
+==Critical response==
+==Onaodowan/Patinkin controversy==
+==Awards and nominations==
+=== Original Off-Broadway production ===
+{|
+|-
+| links || [[Obie Award]] [[Dave Malloy]] [[Rachel Chavkin]] [[Drama League Award]] [[Phillipa Soo]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Musical|Outstanding Musical]] [[Drama Desk Award for Outstanding Music|Outstanding Music]] [[Drama Desk Award for Outstanding Lyrics|Outstanding Lyrics]] [[Drama Desk Award for Outstanding Director of a Musical|Outstanding Director of a Musical]] [[Drama Desk Award for Outstanding Costume Design|Outstanding Costume Design]] [[Lucille Lortel Awards|Lucille Lortel Award]] [[Lucas Steele]] [[Blake DeLong]] [[Brittain Ashford]] [[Shaina Taub]] [[Mimi Lien]] [[Bradley King (Lighting Designer)|Bradley King]]
+|}
+=== Original Cambridge production ===
+{|
+|-
+| links || [[Elliot Norton Awards|Elliot Norton Award]] [[Rachel Chavkin]] [[Lucas Steele]] [[Scott Stangland]] [[Denée Benton]] [[IRNE Awards]] [[Mimi Lien]] [[Bradley King (Lighting Designer)|Bradley King]] [[Brittain Ashford]]
+|}
+=== Original Broadway production ===
+{|
+|-
+| links || [[Tony Awards]] [[Tony Award for Best Musical|Best Musical]] [[Tony Award for Best Book of a Musical|Best Book of a Musical]] [[Dave Malloy]] [[Tony Award for Best Original Score|Best Original Score]] [[Tony Award for Best Orchestrations|Best Orchestrations]] [[Tony Award for Best Actor in a Musical|Best Actor in a Musical]] [[Josh Groban]] [[Tony Award for Best Actress in a Musical|Best Actress in a Musical]] [[Denée Benton]] [[Tony Award for Best Featured Actor in a Musical|Best Featured Actor in a Musical]] [[Lucas Steele]] [[Tony Award for Best Scenic Design in a Musical|Best Scenic Design in a Musical]] [[Mimi Lien]] [[Tony Award for Best Costume Design in a Musical|Best Costume Design in a Musical]] [[Tony Award for Best Lighting Design in a Musical|Best Lighting Design in a Musical]] [[Bradley King (Lighting Designer)|Bradley King]] [[Tony Award for Best Direction of a Musical|Best Direction of a Musical]] [[Rachel Chavkin]] [[Tony Award for Best Choreography|Best Choreography]] [[Sam Pinkleton]] [[Drama Desk Awards]] [[Drama Desk Award for Outstanding Director of a Musical|Outstanding Director of a Musical]] [[Drama Desk Award for Outstanding Set Design|Outstanding Set Design]] [[Drama Desk Award for Outstanding Lighting Design for a Musical|Outstanding Lighting Design for a Musical]] [[Drama Desk Award for Outstanding Sound Design in a Musical|Outstanding Sound Design in a Musical]] [[Drama League Award]] [[Outer Critics Circle Award]] [[Theatre World Award]] [[Amber Gray]] [[Chita Rivera Awards for Dance and Choreography]] [[Lauren Zakrin]] [[Smithsonian Institution|Smithsonian Ingenuity Award]]
+|}
+=== Original London production ===
+{|
+|-
+| links || [[Laurence Olivier Awards]] [[Laurence Olivier Award for Best New Musical|Best New Musical]] [[Laurence Olivier Award for Best Actress in a Musical|Best Actress in a Musical]] [[Chumisa Dornford-May]] [[Laurence Olivier Award for Best Actor in a Musical|Best Actor in a Musical]] [[Jamie Muscato]] [[Laurence Olivier Award for Best Actress in a Supporting Role in a Musical|Best Actress in a Supporting Role in a Musical]] [[Maimuna Memon]] [[Laurence Olivier Award for Outstanding Musical Contribution|Outstanding Musical Contribution]] [[Dave Malloy]] [[Laurence Olivier Award for Best Lighting Design|Best Lighting Design]]
+|}
+==Recordings==
+== Book ==
+== Notes ==
+==References==
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+cast included Malloy as Pierre, [[Phillipa Soo]], [[Lucas Steele]], [[Amber Gray]], [[Brittain Ashford]], [[Manik Choksi]], [[Gelsey Bell]], [[Blake DeLong]].
+starring [[Josh Groban]].
+cast featured [[Lucas Steele]], [[Brittain Ashford]], [[Amber Gray]], [[Grace McLean]], [[Gelsey Bell]], [[Scott Stangland]].
+with a cast of 12 and band of 10 (as opposed to the Broadway edition, which had a cast of 33). On 17 October, the cast was announced with [[Jamie Muscato]], [[Declan Bennett]], [[Chumisa Dornford-May]].
+starring [[Ali Ewoldt]].
+cast featured [[Dave Malloy]], [[Phillipa Soo]], [[Lucas Steele]], [[Brittain Ashford]], [[Grace McLean]], [[Amber Gray]], [[Blake DeLong]], [[Gelsey Bell]].

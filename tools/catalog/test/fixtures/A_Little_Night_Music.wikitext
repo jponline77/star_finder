@@ -1,0 +1,275 @@
+{{Infobox musical
+| name = A Little Night Music
+| image = Pnight.jpeg
+| caption = Original Broadway windowcard
+| music = [[Stephen Sondheim]]
+| lyrics = [[Stephen Sondheim]]
+| book = [[Hugh Wheeler]]
+| basis = ''[[Smiles of a Summer Night]]'' <br /> by [[Ingmar Bergman]]
+| productions = 1973 [[Broadway theatre|Broadway]]<br />1974 [[North America]]n Tour<br />1975 [[West End theatre|West End]]<br/>1975 [[South Africa]]n Tour<br />1977 [[A Little Night Music (film)|Film]]<br />1989 [[West End theatre|West End]] [[revival (theatre)|revival]]<br />1990 [[New York City Opera]]<br />1995 [[Royal National Theatre]] <br />1999 [[Houston Grand Opera]]<br />2000 Barcelona <br />2002 [[John F. Kennedy Center for the Performing Arts]]<br />2003 NYCO revival<br />2008 Off-West End Revival<br />2009 West End Revival<br />2009 Broadway revival<br />2024 Lincoln Center<br />International productions
+| awards = [[Tony Award for Best Musical]]<br />[[Tony Award for Best Book]] <br /> Tony Award for Best Original Score
+| image_size = 
+}}
+==Synopsis==
+===Act One===
+===Act Two===
+== Musical numbers ==
+{{col-begin}}
+{{col-2}}
+; Act I
+* Overture – Mr. Lindquist, Mrs. Nordstrom, Mrs. Anderssen, Mr. Erlanson and Mrs. Segstrom (the "Quintet")
+* "Night Waltz" – Company
+* "Now" – Fredrik Egerman
+* "Later" – Henrik Egerman
+* "Soon" – Anne Egerman
+* "Soon/Later/Now" – Anne, Henrik and Fredrik
+* "The Glamorous Life" – Fredrika Armfeldt, Desiree Armfeldt, Madam Armfeldt and Quintet
+* "Remember?" – Quintet
+* "You Must Meet My Wife" – Desiree and Fredrik
+* "Liaisons" – Madam Armfeldt
+* "In Praise of Women" – Count Carl-Magnus Malcolm
+* "Every Day a Little Death" – Countess Charlotte Malcolm and Anne
+* "A Weekend in the Country" – Company
+{{col-2}}
+; Act II
+* Entr'acte – Orchestra
+* "Night Waltz I (The Sun Won't Set)" – Quintet
+* "Night Waltz II (The Sun Sits Low)" – Quintet
+* "It Would Have Been Wonderful" – Fredrik and Carl-Magnus
+* "Perpetual Anticipation" – Mrs. Nordstrom, Mrs. Segstrom and Mrs. Anderssen
+* "Dinner Table Scene" – Orchestra
+* "[[Send In the Clowns]]" – Desiree
+* "The Miller's Son" – Petra
+* "The World Won't End/Every Day a Little Death (reprise)" – Desiree and Charlotte
+* Reprises <small>("Soon", "You Must Meet My Wife", "A Weekend in the Country" and "Every Day a Little Death")</small> – Quintet
+* "Send in the Clowns" (Reprise) – Desiree and Fredrik
+* "Last Waltz" – Orchestra
+{{col-end}}
+
+; Additional musical numbers
+'''Stage:'''
+* "Two Fairy Tales" – Henrik and Anne <small>(cut in rehearsals when the tone of the musical changed)</small>
+* "Silly People" – Frid <small>(cut for time when "The Miller's Son" was added in Boston)</small>
+* "Bang!" – Carl-Magnus <small>(replaced by "In Praise of Women")</small>
+* "My Husband the Pig" – Charlotte <small>(replaced by the second half of "In Praise of Women")</small>
+
+'''Screen:'''
+* "Love Takes Time" – Company <small>(lyrics added to Night Waltz)</small>
+* "The Glamorous Life" – Fredrika <small>(solo version; later used combined with the original in the RNT revival)</small>
+* A new introductory verse to "Every Day a Little Death" 
+* Additional lyrics for "A Weekend in the Country", including a short section for Mme. Armfeldt
+
+==Characters==
+* '''Fredrik Egerman''': A successful widowed middle-aged lawyer. He is married to the 18-year-old Anne and has one son, Henrik, from his previous marriage. In the past, he and Desiree were lovers. [[Bass-Baritone]] A<sub>2</sub>–E<sub>4</sub>
+*'''Anne Egerman (née Sorensen)''': Fredrik's new, naive wife, who is still a virgin after 11 months of marriage. [[Soprano]] G{{music|#}}<sub>3</sub>–A<sub>5</sub>
+*'''Henrik Egerman''': Fredrik's son, 20 years old and Anne's stepson. He is serious but confused; he reads the works of philosophers and theologians whilst studying for the [[Lutheran church|Lutheran]] priesthood. His sexual repression is a great cause of his turmoil, as he lusts after Anne and attempts to have a sexual encounter with Petra. [[Tenor]] G<sub>2</sub>–B<sub>4</sub>
+*'''Petra''': Anne's maid and closest confidante, brash, bold and flirtatious. She has relations with Henrik. [[Mezzo-soprano]] F{{music|#}}<sub>3</sub>–F<sub>5</sub>
+*'''Desiree Armfeldt''': Self-absorbed, once-successful actress, now touring the countryside in what is clearly not the "glamorous life". Harboured love for Fredrik for years since their affair. Mezzo-soprano F{{music|#}}<sub>3</sub>–E<sub>5</sub>
+*'''Fredrika Armfeldt''': Desiree's thirteen-year-old daughter, who may or may not be the product (unbeknownst to Fredrik) of the actress's and Fredrik's affair. Soprano C<sub>4</sub>–E<sub>5</sub>
+*'''Madame Leonora Armfeldt''': Desiree's mother, a former courtesan who has had "liaisons" with royalty. [[Contralto]] C<sub>3</sub>–F{{music|#}}<sub>4</sub>
+*'''Count Carl-Magnus Malcolm''': A military dragoon who is Desiree's latest lover. Hypocritically places value on fidelity, being hugely possessive when it comes to both his wife and mistress. Comedic role. Operatic Baritone G<sub>2</sub>–F{{music|#}}<sub>4</sub>
+*'''Countess Charlotte Malcolm (née Olafsson)''': Carl-Magnus' wife, to whom he flaunts his infidelities. She despises her husband for his behaviour, but obeys his orders due to her hopeless love for him. Self-loathing and borderline alcoholic, yet the more intelligent half of the Malcolm couple. Mezzo-soprano G<sub>3</sub>–F<sub>5</sub>
+*'''Frid''': Madame Armfeldt's manservant. Has a tryst with Petra.
+*'''The Quintet''': Mr. Lindquist, Mrs. Nordstrom, Mrs. Anderssen, Mr. Erlanson and Mrs. Segstrom. A group of five singers that act as a [[Greek chorus]]. Sometimes referred to as the Liebeslieder Singers (love song singers) although Stephen Sondheim and Hugh Wheeler did not script them to have that title, using Quintet instead. The first usage of Liebes[[lied]]er for the Quintet came during the 1990 [[New York City Opera]] production. Prince said that these characters represent "people in the show who aren't wasting time ... the play is about wasting time."
+*'''Malla''': Desiree's maid, who is with her constantly. Silent part
+*'''Osa''': Maid at Madame Armfeldt's manse. Silent part
+*'''Bertrand''': Page at Madame Armfeldt's manse. Silent part
+
+==Casts and characters==
+{| class="wikitable"
+|-
+! rowspan="2" style="width:10%;" | Character
+! style="width:10%;" | Broadway 
+! style="width:10%;" | US National Tour 
+! style="width:10%;" | West End
+!First West End Revival
+!Second West End Revival
+!Off-West End Revival
+!Third West End Revival
+! style="width:10%;" | First Broadway Revival 
+! Lincoln Center Concert
+|-
+!<small>1973</small>
+!<small>1974</small>
+!<small>1975</small>
+!<small>1989</small>
+!<small>1995</small>
+!<small>2008</small>
+! colspan="2" |<small>2009</small>
+!<small>2024</small>
+|-
+! Desiree Armfeldt
+| style="text-align:center;" | [[Glynis Johns]]
+| colspan="2" style="text-align:center;" | [[Jean Simmons]]
+| style="text-align:center;" | [[Dorothy Tutin]]
+| style="text-align:center;" | [[Judi Dench]]
+| colspan="2" style="text-align:center;" | [[Hannah Waddingham]]
+| style="text-align:center;" | [[Catherine Zeta-Jones]]
+| style="text-align:center;" | [[Susan Graham]]
+|-
+! Fredrik Egerman
+| style="text-align:center;" | [[Len Cariou]]
+| style="text-align:center;" | [[George Lee Andrews]]
+| style="text-align:center;" | [[Joss Ackland]]
+| style="text-align:center;" | [[Laurence Guittard]]
+| style="text-align:center;" | [[Peter McEnery]]
+| colspan="3" style="text-align:center;" | [[Alexander Hanson (actor)|Alexander Hanson]]
+| style="text-align:center;" | [[Ron Raines]]
+|-
+! Madame Armfeldt
+| style="text-align:center;" | [[Hermione Gingold]]
+| style="text-align:center;" | [[Margaret Hamilton (actress)|Margaret Hamilton]]
+| style="text-align:center;" | [[Hermione Gingold]]
+| style="text-align:center;" | [[Lila Kedrova]]
+| style="text-align:center;" | [[Siân Phillips]]
+| colspan="2" style="text-align:center;" | [[Maureen Lipman]]
+| style="text-align:center;" | [[Angela Lansbury]]
+| style="text-align:center;" | [[Marsha Mason]]
+|-
+! Fredrika Armfeldt
+| style="text-align:center;" | [[Judy Kahan]]
+| style="text-align:center;" | Marti Morris
+| style="text-align:center;" | Christine McKenna-Tirella
+| style="text-align:center;" | Debra Beaumont
+| style="text-align:center;" | [[Claire Cox]]
+| colspan="2" style="text-align:center;" | Holly Hallam<hr />Grace Link
+| style="text-align:center;" | Katherine Leigh Doherty<hr />Keaton Whittaker
+| style="text-align:center;" | Addie Harrington
+|-
+! Petra
+| style="text-align:center;" | [[D'Jamin Bartlett]]
+| style="text-align:center;" | Mary Ann Chinn
+| style="text-align:center;" | [[Diane Langton]]
+| style="text-align:center;" | Sara Weymouth
+| style="text-align:center;" | [[Issy van Randwyck]]
+| colspan="2" style="text-align:center;" | Kaisa Hammarlund
+| style="text-align:center;" | [[Leigh Ann Larkin]]
+| style="text-align:center;" | [[Cynthia Erivo]]
+|-
+! Henrik Egerman
+| style="text-align:center;" | [[Mark Lambert (American actor)|Mark Lambert]]
+| style="text-align:center;" | Stephen Lehew
+| style="text-align:center;" | Terry Mitchell 
+| style="text-align:center;" | [[Alexander Hanson (actor)|Alexander Hanson]]
+| style="text-align:center;" | Brendan O'Hea
+| colspan="2" style="text-align:center;" | Gabriel Vick
+| style="text-align:center;" | Hunter Ryan Herdlicka
+| style="text-align:center;" | Jason Gotay
+|-
+! Anne Egerman
+| style="text-align:center;" | [[Victoria Mallory]]
+| style="text-align:center;" | Virgina Pulos
+| style="text-align:center;" | Veronica Page
+| style="text-align:center;" | Deborah Poplett
+| style="text-align:center;" | [[Joanna Riding]]
+| colspan="2" style="text-align:center;" | [[Jessie Buckley]]
+| style="text-align:center;" | Ramona Mallory
+| style="text-align:center;" | [[Kerstin Anderson]]
+|-
+! Frid
+| style="text-align:center;" | [[George Lee Andrews]]
+| style="text-align:center;" | [[Jonathan Banks]]
+| style="text-align:center;" | [[Michael N. Harbour]]
+| style="text-align:center;" | David Hitchen
+| style="text-align:center;" | Paul Kynman
+| style="text-align:center;" | Jeremy Finch
+| style="text-align:center;" | Andy Morton
+| style="text-align:center;" | [[Bradley Dean]]
+| style="text-align:center;" | [[Jin Ha]]
+|-
+! Countess Charlotte Malcolm
+| style="text-align:center;" | [[Patricia Elliott]]
+| style="text-align:center;" | [[Andra Akers]]
+| style="text-align:center;" | [[Maria Aitken]]
+| style="text-align:center;" | [[Susan Hampshire]]
+| style="text-align:center;" | [[Patricia Hodge]]
+| colspan="2" style="text-align:center;" | Kelly Price
+| style="text-align:center;" | [[Erin Davie]]
+| style="text-align:center;" | [[Ruthie Ann Miles]]
+|-
+! Count Carl-Magnus Malcolm
+| style="text-align:center;" | [[Laurence Guittard]]
+| style="text-align:center;" | [[Ed Evanko]]
+| style="text-align:center;" | [[David Kernan]]
+| style="text-align:center;" | [[Eric Flynn]]
+| style="text-align:center;" | [[Lambert Wilson]]
+| colspan="2" style="text-align:center;" | Alistair Robins
+| style="text-align:center;" | [[Aaron Lazar]]
+| style="text-align:center;" | [[Shuler Hensley]]
+|}
+
+=== Notable replacements ===
+;Broadway (1973–74)
+*'''Fredrik Egerman:''' [[William Daniels]]
+
+;West End (1975)
+*'''Desiree Armfeldt:''' [[Virginia McKenna]]
+*'''Madame Armfeldt:''' [[Angela Baddeley]]
+*'''Count Carl-Magnus:''' [[Michael N. Harbour]]
+
+;Broadway Revival (2009–11)
+*'''Desiree Armfeldt:''' [[Bernadette Peters]]
+*'''Madame Armfeldt:''' [[Elaine Stritch]]
+*'''Fredrika Armfeldt:''' [[Katherine McNamara]]
+*'''Frid:''' [[Ron Bohmer]]
+*'''Count Carl-Magnus:''' [[Bradley Dean]]
+
+==Productions==
+===Original Broadway production===
+=== Australian premiere ===
+===United States tour===
+===West End premiere===
+===1989 West End revival===
+===1995 London revival===
+===2008 London revival===
+===2009 Broadway revival===
+=== 2026 Royal Exchange Theatre revival ===
+===Europe===
+===Opera companies and concerts===
+==Film==
+==Music analysis==
+==={{music|time|3|4}} time===
+===Counterpoint and polyphony===
+==="Send In The Clowns"===
+===Influences===
+=== Orchestration ===
+==Cast recordings==
+==Critical response==
+== Awards and nominations ==
+===Original Broadway production===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Musical|Best Musical]] [[Tony Award for Best Book of a Musical|Best Book of a Musical]] [[Hugh Wheeler]] [[Tony Award for Best Original Score|Best Original Score]] [[Stephen Sondheim]] [[Tony Award for Best Performance by a Leading Actor in a Musical|Best Performance by a Leading Actor in a Musical]] [[Len Cariou]] [[Tony Award for Best Performance by a Leading Actress in a Musical|Best Performance by a Leading Actress in a Musical]] [[Glynis Johns]] [[Tony Award for Best Performance by a Featured Actor in a Musical|Best Performance by a Featured Actor in a Musical]] [[Laurence Guittard]] [[Tony Award for Best Performance by a Featured Actress in a Musical|Best Performance by a Featured Actress in a Musical]] [[Patricia Elliott]] [[Hermione Gingold]] [[Tony Award for Best Costume Design|Best Costume Design]] [[Florence Klotz]] [[Tony Award for Best Scenic Design|Best Scenic Design]] [[Boris Aronson]] [[Tony Award for Best Lighting Design|Best Lighting Design]] [[Tharon Musser]] [[Tony Award for Best Direction of a Musical|Best Direction of a Musical]] [[Harold Prince]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Book of a Musical|Outstanding Book of a Musical]] [[Drama Desk Award for Outstanding Music|Outstanding Music]] [[Drama Desk Award for Outstanding Lyrics|Outstanding Lyrics]] [[Drama Desk Award for Outstanding Actress in a Musical|Outstanding Actress in a Musical]] [[Drama Desk Award for Outstanding Director|Outstanding Director]] [[Drama Desk Award|Most Promising Performer]] [[D'Jamin Bartlett]] [[Grammy Award]] [[Grammy Award for Best Musical Show Album|Best Musical Show Album]] [[Theatre World Award]] [[New York Drama Critics' Circle|New York Drama Critics' Circle Award]]
+|}
+===1995 London revival===
+{|
+|-
+| links || [[Laurence Olivier Award]] [[Laurence Olivier Award for Best Actress in a Musical|Best Actress in a Musical]] [[Judi Dench]] [[Laurence Olivier Award for Best Performance in a Supporting Role in a Musical|Best Performance in a Supporting Role in a Musical]] [[Siân Phillips]] [[Laurence Olivier Award for Best Theatre Choreographer|Best Theatre Choreographer]] [[Wayne McGregor]] [[Laurence Olivier Award for Best Costume Design|Best Costume Design]] [[Nicky Gillibrand]]
+|}
+=== 2009 London revival ===
+{|
+|-
+| links || [[Laurence Olivier Award]] [[Laurence Olivier Award for Best Musical Revival|Best Revival of a Musical]] [[Laurence Olivier Award for Best Actress in a Musical|Best Actress in a Musical]] [[Hannah Waddingham]] [[Laurence Olivier Award for Best Actor in a Musical|Best Actor in a Musical]] [[Alexander Hanson (actor)|Alexander Hanson]] [[Laurence Olivier Award for Best Performance in a Supporting Role in a Musical|Best Performance in a Supporting role in a Musical]] [[Maureen Lipman]]
+|}
+===2009 Broadway revival===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Revival of a Musical|Best Revival of a Musical]] [[Tony Award for Best Performance by a Leading Actress in a Musical|Best Performance by a Leading Actress in a Musical]] [[Catherine Zeta-Jones]] [[Tony Award for Best Performance by a Featured Actress in a Musical|Best Performance by a Featured Actress in a Musical]] [[Angela Lansbury]] [[Tony Award for Best Sound Design|Best Sound Design]] [[Dan Moses Schreier]] [[Gareth Owen (sound designer)|Gareth Owen]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Revival of a Musical|Outstanding Revival of a Musical]] [[Drama Desk Award for Outstanding Actress in a Musical|Outstanding Actress in a Musical]] [[Drama Desk Award for Outstanding Featured Actress in a Musical|Outstanding Featured Actress in a Musical]] [[Outer Critics Circle Award]] [[Grammy Award]] [[Grammy Award for Best Musical Show Album|Best Musical Show Album]]
+|}
+==References==
+=== General and cited sources ===
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+cast included [[Glynis Johns]].
+cast included [[Glynis Johns]], [[Len Cariou]], [[Hermione Gingold]], [[Victoria Mallory]], [[Judith Kahan]], [[Mark Lambert (American actor)|Mark Lambert]], [[Laurence Guittard]], [[Patricia Elliott]], [[George Lee Andrews]], [[D'Jamin Bartlett]].
+starred [[Lila Kedrova]].
+starred [[Judi Dench]].
+cast included [[Hannah Waddingham]].
+cast included [[Hannah Waddingham]], [[Alexander Hanson (actor)|Alexander Hanson]], [[Jessie Buckley]], [[Maureen Lipman]].
+cast included [[Pia Johansson]].
+cast included [[Pia Johansson]], [[Dan Ekborg]], [[Yvonne Lombard]].
+cast included both stage performers: [[Sally Ann Howes]], [[George Lee Andrews]], [[Regina Resnik]].
+starring [[Sigrid Thornton]].
+with a cast that included [[Amy Irving]], [[Siân Phillips]], [[Ron Raines]].
+starring [[Judi Dench]].

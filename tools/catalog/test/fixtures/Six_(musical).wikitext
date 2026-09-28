@@ -1,0 +1,205 @@
+{{Infobox Musical
+| name = Six
+| subtitles = 
+| image = Six Musical.jpg
+| caption = 2019 production poster
+| music = {{Plainlist|
+* [[Toby Marlow]]
+* [[Lucy Moss]]
+}}
+| lyrics = {{Plainlist|
+* Toby Marlow
+* Lucy Moss
+}}
+| book = {{Plainlist|
+* Toby Marlow
+* Lucy Moss
+}}
+| basis = 
+| premiere_date = 2017
+| premiere_location = [[Edinburgh Festival Fringe]]
+| productions = {{Plainlist|
+* 2017 [[Edinburgh]]
+* 2017 [[West End theatre|West End]]
+* 2018 UK tour
+* 2019 West End
+* 2019 North American tour
+* 2019 UK tour
+* 2021 [[Broadway theater|Broadway]]
+* 2022 North American tour
+* 2022 North American tour
+
+}}
+| awards = [[Tony Award for Best Original Score]]
+| image_size = 
+}}
+== Plot ==
+== Development ==
+== Production history ==
+=== Edinburgh Festival Fringe (2017) ===
+=== West End (2017) ===
+===UK tour (2018)===
+=== West End (2019–present) ===
+=== Pre-Broadway tour (2019) ===
+=== Norwegian Cruise Line productions (2019–2024) ===
+===UK and international tour (2019–present)===
+=== Australia (2020–2023; 2024–2025; 2026–present) ===
+=== Broadway (2021–2027) ===
+=== North American touring productions (2022–2023; 2022–present) ===
+=== Canadian productions (2023–2024) ===
+=== International productions ===
+== Cast and characters ==
+{| class="wikitable" style="width:1000;text-align:center"
+|-
+! rowspan="2" | Role
+!West End
+!UK tour
+!West End
+!North American tour
+!UK tour
+!Australia
+!Broadway 
+!North American tour
+!North American tour
+!Canada
+|-
+!<small>2017</small>
+!<small>2018</small>
+!colspan="4"|<small>2019</small>
+!<small>2021</small>
+!colspan="2"|<small>2022</small>
+!<small>2023</small>
+|-
+![[Catherine of Aragon]]
+|Renée Lamb
+|colspan="2"|[[Jarnéia Richard-Noel]]
+|[[Adrianna Hicks]]
+|[[Lauren Drew]]
+|Chloé Zuel
+|[[Adrianna Hicks]]
+|Khaila Wilcoxon
+|Gerianne Pérez
+|Jaz Robinson
+|-
+![[Anne Boleyn]]
+|[[Christina Modestou]]
+|colspan="2"|[[Millie O'Connell]]
+|[[Andrea Macasaet]]
+|Maddison Bulleyment
+|Kala Gare
+|[[Andrea Macasaet]]
+|Storm Lever
+|Zan Berube
+|[[Julia Pulo]]
+|-
+![[Jane Seymour]]
+|colspan="3"|[[Natalie Paris]]
+|[[Abby Mueller]]
+|[[Remember Monday|Lauren Byrne]]
+|Loren Hunter
+|[[Abby Mueller]]
+|[[Jasmine Forsberg]]
+|Amina Faye
+|Maggie Lacasse
+|-
+![[Anne of Cleves|Anna of Cleves]]
+|[[Genesis Lynea]]
+|colspan="2"|[[Alexia McIntosh]]
+|Brittney Mack
+|Shekinah McFarlane
+|Kiana Daniele
+|Brittney Mack
+|Olivia Donalson
+|Terica Marie
+|Krystal Hernández
+|-
+![[Catherine Howard|Katherine Howard]]
+|colspan="3" |[[Aimie Atkinson]]
+|[[Samantha Pauly]]
+|[[Jodie Steele]]
+|Courtney Monsma
+|[[Samantha Pauly]]
+|[[Didi Romero]]
+|Aline Mayagoitia
+|Elysia Cruz
+|-
+![[Catherine Parr]]
+|[[Izuka Hoyle]]
+|colspan="2"|[[Maiya Quansah-Breed]]
+|[[Anna Uzele]]
+|Athena Collins
+|Vidya Makan
+|[[Anna Uzele]]
+|Gabriela Carrillo
+|Sydney Parra
+|Lauren Mariasoosay
+|}
+
+===Notable replacements===
+
+====West End====
+* '''Catherine of Aragon:''' [[Amy Di Bartolomeo]]
+* '''Anne Boleyn:''' [[Courtney Bowman]]
+* '''Jane Seymour:''' [[Claudia Kariuki]]
+* '''Katherine Howard:''' [[Sophie Isaacs]]
+* '''Catherine Parr:''' [[Danielle Steers]]
+
+====Broadway====
+* '''Anne Boleyn:''' [[Dylan Mulvaney]], [[Kirstin Maldonado]]
+* '''Jane Seymour:''' [[Jasmine Forsberg]]
+* '''Katherine Howard:''' [[Didi Romero]], [[Abigail Barlow]]
+* '''Catherine Parr:''' [[Joy Woods]], [[Taylor Iman Jones]]
+
+===Supporting players===
+
+==Musical numbers==
+* "Ex-Wives" – Company
+* "Ex-Wives (Reprise)" – Company †
+* "No Way" – Catherine of Aragon and Company
+* "The One You've Been Waiting For" – Company †
+* "Don't Lose Ur Head" – Anne Boleyn and Company
+* "Heart of Stone" – Jane Seymour and Company
+* "Haus of Holbein" – Company
+* "Get Down" – Anna of Cleves and Company
+* "All You Wanna Do" – Katherine Howard and Company
+* "I Don't Need Your Love" – Catherine Parr
+* "I Don't Need Your Love (Remix)" – Catherine Parr and Company ††
+* "Six" – Company
+* "The Megasix" – Company †
+* "Playout" – The Ladies in Waiting † 
+
+† Not included on the studio cast recording.<br />
+†† Included as part of "I Don't Need Your Love" on the studio cast recording.
+
+===Cast recordings===
+====Studio cast recording====
+
+====Live original Broadway cast recording====
+
+==== Korean cast recording ====
+==Concept==
+===Casting===
+===Historical accuracy===
+===Audio production===
+== Reception ==
+==Honours and awards==
+=== Original West End production ===
+{|
+|-
+| links || [[2019 Laurence Olivier Awards|Laurence Olivier Award]] [[Laurence Olivier Award for Best New Musical|Best New Musical]] [[Laurence Olivier Award for Best Actress in a Supporting Role in a Musical|Best Actress in a Supporting Role in a Musical]] [[Aimie Atkinson]] [[Alexia McIntosh]] [[Millie O'Connell]] [[Natalie Paris]] [[Maiya Quansah-Breed]] [[Jarnéia Richard-Noel]] [[Laurence Olivier Award for Outstanding Achievement in Music|Outstanding Achievement in Music]] [[Toby Marlow]] [[Lucy Moss]] [[Laurence Olivier Award for Best Theatre Choreographer|Best Theatre Choreographer]] [[Laurence Olivier Award for Best Costume Design|Best Costume Design]] [[Gabriella Slade]] [[Black British Theatre Awards]]
+|}
+===Original Broadway production===
+{|
+|-
+| links || [[Drama League Awards]] [[Drama League Distinguished Performance Award|Distinguished Performance Award]] [[Tony Awards]] [[Tony Award for Best Musical|Best Musical]] [[Tony Award for Best Original Score|Best Original Score]] [[Toby Marlow]] [[Lucy Moss]] [[Tony Award for Best Direction of a Musical|Best Direction of a Musical]] [[Tony Award for Best Costume Design in a Musical|Best Costume Design in a Musical]] [[Gabriella Slade]] [[Tony Award for Best Lighting Design in a Musical|Best Lighting Design in a Musical]] [[Tony Award for Best Sound Design|Best Sound Design of a Musical]] [[Tony Award for Best Choreography|Best Choreography]] [[Tony Award for Best Orchestrations|Best Orchestrations]] [[Drama Desk Awards]] [[Drama Desk Award for Outstanding Musical|Outstanding Musical]] [[Samantha Pauly]] [[Anna Uzele]] [[Drama Desk Award for Outstanding Costume Design of a Musical|Outstanding Costume Design of a Musical]] [[Drama Desk Award for Outstanding Scenic Design of a Musical|Outstanding Scenic Design of a Musical]] [[Drama Desk Award for Outstanding Sound Design in a Musical|Outstanding Sound Design in a Musical]] [[Drama Desk Award for Outstanding Director of a Musical|Outstanding Director of a Musical]] [[Drama Desk Award for Outstanding Choreography|Outstanding Choreography]] [[Drama Desk Award for Outstanding Orchestrations|Outstanding Orchestrations]] [[Drama Desk Award for Outstanding Music|Outstanding Music]] [[Drama Desk Award for Outstanding Lyrics|Outstanding Lyrics]] [[Drama Desk Award for Outstanding Book of a Musical|Outstanding Book of a Musical]] [[Outer Critics Circle Award]] [[Outer Critics Circle Award for Outstanding New Broadway Musical|Outstanding New Broadway Musical]] [[Outer Critics Circle Award for Outstanding New Score|Outstanding New Score]] [[Outer Critics Circle Award for Outstanding Costume Design|Outstanding Costume Design]] [[Grammy Awards]] [[Grammy Award for Best Musical Theater Album|Best Musical Theater Album]]
+|}
+==Adaptations==
+===''SIX The Musical Live!'' - Filmed stage production===
+===Potential film adaptation===
+===2025 single===
+==Notes==
+==References==
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+cast included [[Adrianna Hicks]].

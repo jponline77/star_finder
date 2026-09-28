@@ -1,0 +1,351 @@
+{{Infobox musical
+| name        = Les Misérables
+| image       = LesMisLogo.png
+| music       = [[Claude-Michel Schönberg]]
+| lyrics      = [[Herbert Kretzmer]]
+{{Infobox|decat=yes|child=yes|label1=Original text|data1={{Ubl|[[Alain Boublil]]|Jean-Marc Natel}}}}
+| book        = {{plainlist|
+*Alain Boublil
+*Claude-Michel Schönberg}}
+| basis       = {{based on|''[[Les Misérables]]''|[[Victor Hugo]]}}
+| premiere_date = 24 September 1980 
+| premiere_location = [[Dôme de Paris|Palais des Sports]], Paris
+| productions = Multiple international productions
+| awards      = {{unbulleted list| [[Tony Award for Best Musical]] | [[Tony Award for Best Book of a Musical]] | [[Tony Award for Best Original Score]]|[[Audience Award for Most Popular Show|Laurence Olivier Award for Most Popular Show]]|[[Drama Desk Award for Outstanding Musical]]| [[Drama Desk Award for Outstanding Music]]| [[Helpmann Award for Best Musical]] }}
+}}
+==Background==
+==Reception and milestones==
+==Emblem==
+==Synopsis==
+===Prologue===
+===Act I===
+===Act II===
+===Epilogue===
+==Musical numbers==
+{{Main|Songs from Les Misérables}}
+
+=== Prologue ===
+* "Work Song (Look Down)" – Chain Gang, Jean Valjean, Javert
+* "On Parole" – Jean Valjean, Farmer, Laborer, Innkeeper, Innkeeper's Wife, Bishop
+* "Valjean Arrested/Valjean Forgiven" – Bishop, Constables
+* "Valjean's Soliloquy (What Have I Done?)" – Jean Valjean
+
+=== Act I ===
+* "At the End of the Day" – Fantine, Foreman, Jean Valjean, Factory Workers, Townspeople
+* "[[I Dreamed a Dream]]" – Fantine
+* "Lovely Ladies" – Fantine, Sailors, Old Woman, Pimp, Crone, Prostitutes
+* "Fantine's Arrest" – Bamatabois, Fantine, Javert, Jean Valjean
+* "The Runaway Cart" – Fauchevelant, Jean Valjean, Javert
+* "Who Am I?" – Jean Valjean
+* "Fantine's Death (Come To Me)" – Fantine, Jean Valjean
+* "Confrontation" – Jean Valjean, Javert
+* "Castle on a Cloud" – Little Cosette, Little Eponine, Madame Thénardier
+* "Master of the House" – Thénardier, Madame Thénardier, Inn Guests
+* "The Bargain/Thénardier's Waltz of Treachery" – Jean Valjean, Little Cosette, Thénardier, Madame Thénardier
+* "Look Down" – Gavroche, Marius, Enjolras, Townspeople
+* "The Robbery" – Thénardier, Madame Thénardier, Marius, Eponine, Jean Valjean, Javert, Gavroche
+* "Stars" – Javert
+* "Eponine's Errand" – Eponine, Marius
+* "The ABC Cafe/Red and Black" – Enjolras, Marius, Grantaire, Gavroche, Students
+* [[Do You Hear the People Sing?|"Do You Hear The People Sing?"]] – Enjolras, Marius, Students
+* "In My Life" – Cosette, Marius, Eponine, Jean Valjean
+* "A Heart Full of Love" – Marius, Cosette, Eponine
+* "The Attack on Rue Plumet" – Thénardier, Eponine, Marius, Cosette, Jean Valjean, Montparnasse, Claquesous, Babet, Brujon
+* "[[One Day More]]" – Company
+
+=== Act II ===
+* "Building the Barricade" – Enjolras, Javert, Grantaire, Marius, Éponine, Students
+* [[On My Own (Les Misérables song)|"On My Own"]] – Éponine
+* "At the Barricade" – Enjolras, Marius, Gavroche, Army Officer, Students
+* "Javert at the Barricade" – Javert, Enjolras
+* "Little People" – Gavroche, Enjolras, Javert
+* "A Little Fall of Rain (Eponine's Death)" – Éponine, Marius
+* "Night of Anguish" – Enjolras, Students
+* "The First Attack" – Enjolras, Marius, Jean Valjean, Javert, Students
+* "Drink With Me" – Grantaire, Students, Women's Chorus
+* "Bring Him Home" – Jean Valjean
+* "Dawn of Anguish" – Enjolras
+* "The Second Attack (Gavroche's Death)" – Enjolras, Marius, Jean Valjean, Gavroche, Grantaire, Students
+* "The Final Battle" – Army Officer, Enjolras, Students
+* "The Sewers/Dog Eats Dog" – Thénardier
+* "Javert's Suicide" – Javert
+* "Turning" – Townspeople
+* "Empty Chairs at Empty Tables" – Marius
+* "A Heart Full of Love" (reprise) – Marius, Cosette, Jean Valjean
+* "Valjean's Confession" – Valjean, Marius
+* "The Wedding" – Wedding Guests
+* "Beggars at the Feast" – Marius, Thénardier, Madame Thénardier
+
+=== Epilogue ===
+* "Valjean's Death" – Valjean, Fantine, Marius, Cosette, Eponine
+* "Do You Hear the People Sing?" (reprise) – Company
+
+==Casts==
+=== Original casts ===
+
+{| class="wikitable"
+|-
+! rowspan=2 style="width:8%;" | Character
+! style="width:8%;" | France<br />{{citation needed|date=January 2026}}
+! style="width:8%;" | West End
+! style="width:8%;" | Broadway
+! style="width:8%;" | US tour
+! style="width:8%;" | UK tour 
+! style="width:8%;" | Broadway revival 
+! style="width:8%;" | UK tour 
+! style="width:8%;" | US tour 
+! style="width:8%;" | Broadway revival 
+! style="width:8%;" | International tour
+|-
+!<small>1980</small>
+!<small>1985</small>
+!colspan=2|<small>1987</small>
+!<small>1992</small>
+!<small>2006</small>
+!<small>2009</small>
+!<small>2010</small>
+!colspan=2|<small>2014</small>
+|-
+! style="text-align:center;" | [[Jean Valjean]]
+| style="text-align:center;" | Maurice Barrier
+| colspan="2" style="text-align:center;" | [[Colm Wilkinson]]
+| style="text-align:center;" | William Solo
+| style="text-align:center;" | Jeff Leyton
+| style="text-align:center;" | [[Alexander Gemignani]]
+| style="text-align:center;" | [[John Owen-Jones]]
+| style="text-align:center;" | Lawrence Clayton
+| style="text-align:center;" | [[Ramin Karimloo]]
+| style="text-align:center;" | [[Simon Gleeson]]
+|-
+! style="text-align:center;" | [[Javert]]
+| style="text-align:center;" | Jean Vallée
+| style="text-align:center;" | [[Roger Allam]]
+| style="text-align:center;" | [[Terrence Mann]]
+| style="text-align:center;" | Herndon Lackey
+| style="text-align:center;" | [[Philip Quast]]
+| style="text-align:center;" | [[Norm Lewis]]
+| style="text-align:center;" | [[Earl Carpenter (actor)|Earl Carpenter]]
+| style="text-align:center;" | Andrew Varela
+| style="text-align:center;" | [[Will Swenson (actor)|Will Swenson]]
+| style="text-align:center;" | [[Hayden Tee]]
+|-
+! style="text-align:center;" | [[Fantine]]
+| style="text-align:center;" | Rose Laurens
+| style="text-align:center;" | [[Patti LuPone]]
+| style="text-align:center;" | [[Randy Graff]]
+| style="text-align:center;" | Diane Fratantoni
+| style="text-align:center;" | Ria Jones
+| style="text-align:center;" | [[Daphne Rubin-Vega]]
+| style="text-align:center;" | [[Madalena Alberto]]
+| style="text-align:center;" | Betsy Morgan
+| style="text-align:center;" | [[Caissie Levy]]
+| style="text-align:center;" | [[Patrice Tipoki]]
+|-
+! style="text-align:center;" | [[Thénardier]]
+| style="text-align:center;" | Yvan Dautin
+| style="text-align:center;" | [[Alun Armstrong]]
+| style="text-align:center;" | [[Leo Burmester]]
+| style="text-align:center;" | [[Tom Alan Robbins]]
+| style="text-align:center;" | Tony Timberlake
+| style="text-align:center;" | [[Gary Beach]]
+| style="text-align:center;" | Ashley Artus
+| style="text-align:center;" | [[Michael Kostroff]]
+| style="text-align:center;" | Cliff Saunders
+| style="text-align:center;" | [[Trevor Ashley]]
+|-
+! style="text-align:center;" | [[Madame Thénardier]]
+| style="text-align:center;" | Marie-France Roussel
+| style="text-align:center;" | [[Susan Jane Tanner]]
+| style="text-align:center;" | Jennifer Butt
+| style="text-align:center;" | [[Victoria Clark]]
+| style="text-align:center;" | [[Louise Plowright]]
+| style="text-align:center;" | [[Jenny Galloway]]
+| style="text-align:center;" | Lynne Wilmot
+| style="text-align:center;" | Shawna Hamic
+| style="text-align:center;" | [[Keala Settle]]
+| style="text-align:center;" | Lara Mulcahy
+|-
+! style="text-align:center;" | [[Marius Pontmercy]]
+| style="text-align:center;" | Gilles Buhlmann
+| style="text-align:center;" | [[Michael Ball]]
+| style="text-align:center;" | David Bryant
+| style="text-align:center;" | [[Hugh Panaro]]
+| style="text-align:center;" | Mike Sterling
+| style="text-align:center;" | [[Adam Jacobs]]
+| style="text-align:center;" | [[Gareth Gates]]
+| style="text-align:center;" | Justin Scott Brown
+| style="text-align:center;" | [[Andy Mientus]]
+| style="text-align:center;" | Euan Doidge
+|-
+! style="text-align:center;" | [[Éponine Thénardier]]
+| style="text-align:center;" | Marianne Mille
+| colspan="2" style="text-align:center;" | [[Frances Ruffelle]]
+| style="text-align:center;" | Renee Veneziale
+| style="text-align:center;" | [[Meredith Braun]]
+| style="text-align:center;" | [[Celia Keenan-Bolger]]
+| style="text-align:center;" | Rosalind James
+| style="text-align:center;" | Chasten Harmon
+| style="text-align:center;" | [[Nikki M. James]]
+| style="text-align:center;" | [[Kerrie Anne Greenland]]
+|-
+! style="text-align:center;" | [[Cosette]]
+| style="text-align:center;" | Laur Fugère
+| style="text-align:center;" | [[Rebecca Caine]]
+| style="text-align:center;" | [[Judy Kuhn]]
+| style="text-align:center;" | [[Tamara Jenkins]]
+| style="text-align:center;" | Sarah Ryan
+| style="text-align:center;" | [[Ali Ewoldt]]
+| style="text-align:center;" | [[Katie Hall (actress)|Katie Hall]]
+| style="text-align:center;" | Jenny Latimer
+| style="text-align:center;" | [[Samantha Hill (actress)|Samantha Hill]]
+| style="text-align:center;" | Emily Langridge
+|-
+! style="text-align:center;" | [[Enjolras]]
+| style="text-align:center;" | Christian Ratellin
+| style="text-align:center;" | [[David Burt (actor)|David Burt]]
+| style="text-align:center;" | [[Michael Maguire (actor)|Michael Maguire]]
+| style="text-align:center;" | John Herrera
+| style="text-align:center;" | [[Daniel Coll]]
+| style="text-align:center;" | [[Aaron Lazar]]
+| style="text-align:center;" | [[Jon Robyns]]
+| style="text-align:center;" | Jeremy Hays
+| style="text-align:center;" | [[Kyle Scatliffe]]
+| style="text-align:center;" | Chris Durling
+|-
+! style="text-align:center;" | [[Gavroche]]
+| style="text-align:center;" | Cyrille Dupont<hr />Fabrice Ploquin<hr />Florence Davis
+| style="text-align:center;" | Ian Tucker<hr />Oliver Spencer<hr />Liza Hayden
+| style="text-align:center;" | [[Braden Danner]]<hr />RD Robb
+| style="text-align:center;" | Lantz Landry<hr />Andrew Renshaw
+| style="text-align:center;" | Adam Booth<hr>Laurence Porter<hr>Edward Crangle
+| style="text-align:center;" | Brian D'Addario<hr />Jacob Levine<hr />Austyn Myers
+| style="text-align:center;" | Jordi Clark<hr />[[Robert Madge (actor)|Rob Madge]]
+| style="text-align:center;" | Josh Caggiano<hr />Ethan Paul Khusidman
+| style="text-align:center;" | [[Joshua Colley]]<hr />[[Gaten Matarazzo]]
+| style="text-align:center;" | Nicholas Cradock
+|}
+
+=== Notable replacements ===
+{{more citations needed section|date=January 2024}}
+
+==== West End (1985–present) ====
+*'''Jean Valjean:''' [[Alfie Boe]], [[Simon Bowman]], [[Killian Donnelly]], [[Dudu Fisher]], [[Simon Gleeson]], [[Peter Jöback]], [[Ramin Karimloo]], [[Peter Karrie]], [[Peter Lockyer]], [[Robert Marien]], [[John Owen-Jones]], [[Gerónimo Rauch]], [[Jon Robyns]], [[Stig Rossen]], [[Drew Sarich]], [[Dave Willetts]]
+*'''Javert:''' [[Michael Ball]], [[David Burt (actor)|David Burt]], [[Earl Carpenter (actor)|Earl Carpenter]], [[Clive Carter]], [[Peter Corry]], [[Hadley Fraser]], [[Ethan Freeman]], [[Bradley Jaden]], [[Norm Lewis]], [[Michael McCarthy (singer)|Michael McCarthy]], [[Tam Mutu]], [[Jérôme Pradon]], [[Philip Quast]], [[Jeremy Secomb]], [[Hayden Tee]], [[David Thaxton]]
+*'''Fantine:''' [[Madalena Alberto]], [[Joanna Ampil]], [[Gunilla Backman]], [[Samantha Barks]], [[Sierra Boggess]], [[Ava Brennan (actor)|Ava Brennan]], [[Allyson Brown]], [[Carmen Cusack]], [[Kerry Ellis]], [[Carrie Hope Fletcher]], [[Rachelle Ann Go]], [[Carola Häggkvist]], [[Katie Hall (actress)|Katie Hall]], [[Ruthie Henshall]], [[Na-Young Jeon]], [[Lucie Jones]], [[Kathleen Rowe McAllen]], [[Siobhán McCarthy]], [[Claire Moore (singer)|Claire Moore]], [[Silvie Paladino]], [[Jenna Russell]], [[Celinde Schoenmaker]], [[Caroline Sheen]], [[Carley Stenson]], [[Rebecca Storm]], [[Patrice Tipoki]] 
+*'''Marius:''' [[Graham Bickley]], [[Simon Bowman]], [[Alistair Brammer]], [[Glenn Carter]], [[Martin Crewes]], [[Hadley Fraser]], [[Gareth Gates]], [[Nick Jonas]], [[Jon Lee (actor)|Jon Lee]], [[Tom Lowe (performer)|Tom Lowe]], [[Adrian Lewis Morgan]], [[Jon Robyns]], [[Martin Smith (entertainer)|Martin Smith]], [[Hayden Tee]], [[Jac Yarrow]]
+*'''Cosette:''' [[Gina Beck]], [[Celia Graham]], [[Katie Hall (actress)|Katie Hall]], [[Lucie Jones]], [[Camilla Kerslake]], [[Myrra Malmberg]]
+*'''Young Cosette:''' [[Serrana Su-Ling Bliss]]
+*'''Éponine:''' [[Sabrina Aloueche]], [[Joanna Ampil]], [[Samantha Barks]], [[Meredith Braun]], [[Shonagh Daly]], [[Carrie Hope Fletcher]], [[Linzi Hateley]], [[Danielle Hope]], [[Laura Michelle Kelly]], [[Alexia Khadime]], [[Eva Noblezada]], [[Silvie Paladino]], [[Siân Reeves]], [[Lea Salonga]], [[Caroline Sheen]], [[Nancy Sullivan (English actress)|Nancy Sullivan]], [[Nathania Ong]], [[Jess Folley]], Shan Ako
+*'''Young Éponine:''' [[Carrie Hope Fletcher]]
+*'''Thénardier:''' [[Martin Ball]], [[Cameron Blakely]], [[Adam Gillen]], [[Barry James]], [[Luke Kempner]], [[Chris Langham]], [[Matt Lucas]], [[Hilton McRae]], [[Peter Polycarpou]], [[Stephen Tate]]
+*'''Madame Thénardier:''' [[Rosemary Ashe]], [[Tracie Bennett]], [[Vicky Entwistle]], [[Josefina Gabrielle]], [[Jenny Galloway]], [[Linzi Hateley]], [[Bonnie Langford]], [[Claire Machin]], [[Claire Moore (singer)|Claire Moore]], [[Louise Plowright]], [[Jodie Prenger]], [[Marina Prior]], [[Gay Soper]], [[Harriet Thorpe]], [[Lizzie Bea]]
+*'''Enjolras:''' [[Graham Bickley]], [[Killian Donnelly]], [[Bradley Jaden]], [[Ramin Karimloo]], [[Glyn Kerslake]], [[Jamie Muscato]], [[John Owen-Jones]], [[David Thaxton]], [[Oliver Thornton]]
+*'''Gavroche:''' [[Jonathan Bailey]], [[James Buckley (actor)|James Buckley]], [[James Byng]], [[Chris Fountain]], [[Daniel Huttlestone]], [[Paul Keating (actor)|Paul Keating]], [[Robert Madge (actor)|Rob Madge]], [[Perry Millward]], [[Adam Searles]]
+
+==== Broadway (1987–2003) ====
+*'''Jean Valjean:''' [[Rob Evan]], [[Dudu Fisher]], [[Robert Marien]], [[Gary Morris]]
+*'''Javert:''' [[Anthony Crivello]], [[Robert Cuccioli]], [[Gregg Edelman]], [[Shuler Hensley]], [[Joseph Mahowald]], [[Michael McCarthy (singer)|Michael McCarthy]], [[Chuck Wagner]], [[Robert Westenberg]]
+*'''Fantine:''' [[Laurie Beechman]], [[Donna Kane]], [[Andrea McArdle]], [[Maureen Moore]], [[Rachel York]], [[Debbie Gravitte]], [[Catherine Hickland]], [[Paige O'Hara]], [[Melba Moore]], [[Christy Baron]], Juliet Lambert, [[Alice Ripley]], [[Lauren Kennedy]], [[Jacquelyn Piro Donovan]]
+*'''Marius:''' [[Chris Diamantopoulos]], [[Eric Kunze]], [[Peter Lockyer]], [[Ricky Martin]], [[Hugh Panaro]], [[Matthew Porretta]], [[Kevin Kern (actor)|Kevin Kern]]
+*'''Young Cosette:''' [[Lea Michele]]
+*'''Cosette:''' [[Jacquelyn Piro Donovan]]
+*'''Éponine:''' [[Jessica Boevers]], [[Catherine Brunell]], [[Debbie Gibson]], [[Diana Kaarina]], [[Megan Lawrence]], [[Lea Salonga]], [[Natalie Toro (actress)|Natalie Toro]], [[Sarah Uriarte Berry]], [[Shanice]], [[Kerry Butler]]
+*'''Thénardier:''' [[Ed Dixon]], [[Nick Wyman]]
+*'''Madame Thénardier:''' [[Betsy Joslyn]]
+*'''Enjolras:''' [[Ron Bohmer]], [[Ben Davis (singer)|Ben Davis]], [[Joseph Mahowald]], [[Gary Mauer]]
+*'''Gavroche:''' [[Michael Shulman (actor)|Michael Shulman]], [[Jarrod Spector]], [[Jason Tam]], [[Michael Zeidman]], [[Grant Rosenmeyer]], [[Harrison Chad]], [[Nick Jonas]]
+
+==== Broadway revival (2006–2008) ====
+*'''Jean Valjean:''' [[John Owen-Jones]], [[Drew Sarich]]
+*'''Javert:''' [[Ben Davis (singer)|Ben Davis]], [[Robert Hunt (actor)|Robert Hunt]], [[Drew Sarich]]
+*'''Fantine:''' [[Judy Kuhn]], [[Lea Salonga]]
+*'''Éponine:''' [[Megan McGinnis]]
+*'''Thénardier:''' [[Chip Zien]]
+*'''Madame Thénardier:''' [[Ann Harada]]
+*'''Enjolras:''' [[Max von Essen]]
+
+==== US tour (2010–2013) ====
+*'''Jean Valjean:''' [[Peter Lockyer]]
+*'''Enjolras:''' [[Jason Forbach]]
+*'''Gavroche:''' [[Joshua Colley]], [[Gaten Matarazzo]]
+
+==== Broadway revival (2014–2016) ====
+*'''Jean Valjean:''' [[Alfie Boe]], [[John Owen-Jones]]
+*'''Javert:''' [[Earl Carpenter (actor)|Earl Carpenter]], [[Hayden Tee]]
+*'''Fantine:''' [[Montego Glover]], [[Erika Henningsen]], [[Alison Luff]]
+*'''Marius:''' [[Chris McCarrell]]
+*'''Thénardier:''' [[Gavin Lee]]
+*'''Enjolras:''' [[Jason Forbach]], [[Wallace Smith (actor)|Wallace Smith]]
+
+==== International tour (2014–2016) ====
+*'''Jean Valjean:''' [[John Owen-Jones]]
+*'''Javert:''' [[Earl Carpenter (actor)|Earl Carpenter]]
+*'''Fantine:''' [[Rachelle Ann Go]]
+*'''Éponine:''' [[Carrie Hope Fletcher]]
+*'''Thénardier:''' [[Cameron Blakely]], [[Peter Polycarpou]]
+
+==Productions==
+===Resident productions===
+====Original: France====
+====West End (1985)====
+=====2019 updated staging=====
+====Broadway (1987)====
+====Australia (1987)====
+====Toronto (1989)====
+====Broadway (2006–2008)====
+====Toronto (2013–2014)====
+====Broadway (2014) ====
+===Touring productions===
+====US national tours====
+==== UK and Ireland tours ====
+==== 25th anniversary UK and US tours ====
+=====2018–2023 tour=====
+====2014–2016 Australian and international tour====
+==Concert productions==
+===10th anniversary concert (1995)===
+===25th anniversary concert (2010)===
+=== ''The All-Star Staged Concert'' (2019–2021) ===
+=== ''The Arena Spectacular World Tour'' (2024–2026) ===
+==International productions==
+===North American productions===
+=== School edition ===
+==Film adaptation==
+==Recordings==
+===French===
+===English===
+==Awards and nominations==
+===Original West End production===
+{|
+|-
+| links || [[Laurence Olivier Award]] [[Laurence Olivier Award for Best New Musical|Best New Musical]] [[Laurence Olivier Award for Best Actor in a Musical|Best Actor in a Leading Role in a Musical]] [[Colm Wilkinson]] [[Alun Armstrong]] [[Laurence Olivier Award for Best Actress in a Musical|Best Actress in a Leading Role in a Musical]] [[Patti LuPone]]
+|}
+===Original Broadway production===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Musical|Best Musical]] [[Tony Award for Best Book of a Musical|Best Book of a Musical]] [[Alain Boublil]] [[Claude-Michel Schönberg]] [[Tony Award for Best Original Score|Best Original Score]] [[Herbert Kretzmer]] [[Tony Award for Best Actor in a Musical|Best Actor in a Musical]] [[Colm Wilkinson]] [[Terrence Mann]] [[Tony Award for Best Featured Actor in a Musical|Best Featured Actor in a Musical]] [[Michael Maguire (actor)|Michael Maguire]] [[Tony Award for Best Featured Actress in a Musical|Best Featured Actress in a Musical]] [[Frances Ruffelle]] [[Judy Kuhn]] [[Tony Award for Best Direction of a Musical|Best Direction of a Musical]] [[Trevor Nunn]] [[John Caird (director)|John Caird]] [[Tony Award for Best Scenic Design|Best Scenic Design]] [[John Napier (designer)|John Napier]] [[Tony Award for Best Costume Design|Best Costume Design]] [[Tony Award for Best Lighting Design|Best Lighting Design]] [[David Hersey]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Musical|Outstanding Musical]] [[Drama Desk Award for Outstanding Actor in a Musical|Outstanding Actor in a Musical]] [[Drama Desk Award for Outstanding Featured Actor in a Musical|Outstanding Featured Actor in a Musical]] [[Drama Desk Award for Outstanding Featured Actress in a Musical|Outstanding Featured Actress in a Musical]] [[Drama Desk Award for Outstanding Orchestrations|Outstanding Orchestrations]] [[John Cameron (musician)|John Cameron]] [[Drama Desk Award for Outstanding Music|Outstanding Music]] [[Drama Desk Award for Outstanding Set Design|Outstanding Set Design]] [[New York Drama Critics' Circle|New York Drama Critics' Circle Award]]
+|}
+===2013 Toronto revival===
+{|
+|-
+| links || [[Dora Award]] [[Dora Mavor Moore Award for Outstanding Production of a Musical|Outstanding Production]] [[Ramin Karimloo]] [[Melissa O'Neil]]
+|}
+===2014 Broadway revival===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Revival of a Musical|Best Revival of a Musical]] [[Tony Award for Best Actor in a Musical|Best Actor in a Leading Role in a Musical]] [[Ramin Karimloo]] [[Tony Award for Best Sound Design of a Musical|Best Sound Design of a Musical]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Revival of a Musical|Outstanding Revival of a Musical]]
+|}
+===2014 Australian revival===
+{|
+|-
+| links || [[Green Room Awards]] [[Simon Gleeson]] [[Hayden Tee]] [[Paule Constable]] [[Helpmann Awards]] [[Helpmann Award for Best Musical|Best Musical]] [[Helpmann Award for Best Male Actor in a Musical|Best Male Actor in a Leading Role in a Musical]] [[Helpmann Award for Best Male Actor in a Supporting Role in a Musical|Best Male Actor in a Supporting Role in a Musical]] [[Trevor Ashley]] [[Helpmann Award for Best Female Actor in a Musical|Best Female Actor in a Leading Role in a Musical]] [[Patrice Tipoki]] [[Helpmann Award for Best Female Actor in a Supporting Role in a Musical|Best Female Actor in a Supporting Role in a Musical]] [[Kerrie Anne Greenland]] [[Helpmann Award for Best Direction of a Musical|Best Direction of a Musical]] [[Helpmann Award for Best Choreography in a Musical|Best Choreography in a Musical]]
+|}
+==See also==
+==References==
+=== Bibliography ===
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+starred [[Maurice Barrier]].
+cast included [[Colm Wilkinson]].
+cast included [[Alexander Gemignani]].
+starring [[Killian Donnelly]].

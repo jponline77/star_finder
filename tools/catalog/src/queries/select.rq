@@ -1,0 +1,37 @@
+# STAR catalog - query A: candidate STAGE musicals / operettas / revues that have an English Wikipedia article.
+# Returns one row per item; final include/exclude is decided in JS from ?p31 / ?forms / ?enwiki / ?desc (see rules).
+SELECT ?item ?enwiki ?desc
+       (GROUP_CONCAT(DISTINCT ?branch; separator=" ") AS ?branches)
+       (GROUP_CONCAT(DISTINCT STRAFTER(STR(?c), "entity/"); separator=" ") AS ?p31)
+       (GROUP_CONCAT(DISTINCT STRAFTER(STR(?f), "entity/"); separator=" ") AS ?forms)
+WHERE {
+  hint:Query hint:optimizer "None" .
+  {
+    # A1 - form of creative work (P7937) / genre (P136) / instance of (P31) is a musical-theatre form
+    SELECT DISTINCT ?item ?branch WHERE {
+      VALUES ?form {
+        wd:Q2743 wd:Q1954953 wd:Q1548170 wd:Q643684 wd:Q7354827 wd:Q253137 wd:Q5158398 wd:Q31884180
+        wd:Q55622691 wd:Q55841026 wd:Q107177810 wd:Q135112830 wd:Q135112891 wd:Q30935481 wd:Q3684598
+        wd:Q6027927 wd:Q1370345
+        wd:Q170384 wd:Q2569052 wd:Q24678689 wd:Q901296 wd:Q19947604 wd:Q21643627 wd:Q2260479
+        wd:Q918727 wd:Q134962417 }
+      { ?item wdt:P7937 ?form } UNION { ?item wdt:P136 ?form } UNION { ?item wdt:P31 ?form }
+      BIND("form" AS ?branch)
+    }
+  } UNION {
+    # A2 - dramatico-musical work with no usable form, but the English description/title says musical/revue/operetta
+    SELECT DISTINCT ?item ?branch WHERE {
+      ?item wdt:P31 wd:Q58483083 .
+      ?a2 schema:about ?item ; schema:isPartOf <https://en.wikipedia.org/> ; schema:name ?t2 .
+      OPTIONAL { ?item schema:description ?d2 . FILTER(LANG(?d2) = "en") }
+      FILTER(REGEX(STR(?d2), "musical|revue|operetta|song cycle", "i")
+          || REGEX(?t2, "\\((.* )?(musical|revue|operetta)\\)$|\\bthe musical\\b", "i"))
+      BIND("desc" AS ?branch)
+    }
+  }
+  ?art schema:about ?item ; schema:isPartOf <https://en.wikipedia.org/> ; schema:name ?enwiki .
+  OPTIONAL { ?item schema:description ?desc . FILTER(LANG(?desc) = "en") }
+  OPTIONAL { ?item wdt:P31 ?c }
+  OPTIONAL { { ?item wdt:P7937 ?f } UNION { ?item wdt:P136 ?f } }
+}
+GROUP BY ?item ?enwiki ?desc

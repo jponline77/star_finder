@@ -23,11 +23,13 @@ export interface NewShowPanelProps {
   /** Existing shows that look similar ("Did you mean…?"). */
   suggestions: readonly ShowOption[];
   onPickSuggestion: (show: ShowOption) => void;
+  /** Extra line under the heading (e.g. "✨ Credits filled in from the show catalog"). */
+  note?: string | null;
 }
 
 type WikiStatus = 'idle' | 'loading' | 'found' | 'missing' | 'error';
 
-export function NewShowPanel({ name, value, onChange, errors, suggestions, onPickSuggestion }: NewShowPanelProps) {
+export function NewShowPanel({ name, value, onChange, errors, suggestions, onPickSuggestion, note }: NewShowPanelProps) {
   const [status, setStatus] = useState<WikiStatus>(value.wikiUrl ? 'found' : 'idle');
   const [message, setMessage] = useState<string | null>(null);
   const [blurb, setBlurb] = useState<string | null>(null);
@@ -100,6 +102,11 @@ export function NewShowPanel({ name, value, onChange, errors, suggestions, onPic
             New show: <span className="gold">“{name}”</span>
           </h3>
           <p className="hint">It’ll get its own page on the poster wall. Details are optional — you (or anyone) can add them later.</p>
+          {note && (
+            <p className="new-show-note" data-testid="new-show-catalog-note">
+              {note}
+            </p>
+          )}
         </div>
       </div>
 

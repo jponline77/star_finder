@@ -1,0 +1,22 @@
+{{infobox musical artist 
+| image           = Frederick Loewe (1962).jpg
+| alt             = 
+| caption         = Loewe {{circa|1962}}
+| name            = Frederick Loewe
+| birth_name      = Friedrich "Fritz" Löwe  
+| birth_place     = [[Charlottenburg]], Berlin, Germany
+| birth_date      = {{Birth date|1901|06|10}}
+| death_place     = [[Palm Springs, California]], U.S.
+| death_date      = {{Death date and age|1988|02|14|1901|06|10}}
+| occupation      = {{hlist|Musician|composer|lyricist}}
+| genre           = Broadway theatre musicals 
+| origin          = New York City, U.S.
+| associated_acts = [[Alan Jay Lerner]]
+}}
+==Biography==
+==Notes==
+==References==
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+starred [[Richard Burton]].

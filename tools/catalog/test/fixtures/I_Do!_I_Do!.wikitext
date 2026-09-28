@@ -1,0 +1,62 @@
+{{Infobox musical
+| name = I Do! I Do!
+| subtitle = 
+| image = IDoIDoLogo.png
+| image_size = 150px
+| caption = 
+| music = [[Harvey Schmidt]]
+| lyrics = [[Tom Jones (writer)|Tom Jones]]
+| book = Tom Jones
+| basis = [[Jan de Hartog]] play ''[[The Fourposter]]''
+| productions = 1966 [[Broadway theatre|Broadway]] <br> 1969 [[Theatre of Australia|Australia]]<br>1969 [[Det norske teatret|Norway]]<br>  1982 US Television <br> 1996 [[Off-Broadway]] [[revival (theatre)|revival]]
+| awards = 
+}}
+==History==
+==Synopsis==
+==Song list==
+{{col-begin}}{{col-break}}
+;Act I
+* All the Dearly Beloved - Michael and Agnes
+* Together Forever - Michael and Agnes
+* I Do! I Do! - Michael and Agnes
+* Good Night - Michael and Agnes
+* I Love My Wife - Michael
+* Something Has Happened - Agnes
+* [[My Cup Runneth Over (song)|My Cup Runneth Over]] - Michael and Agnes
+* Love Isn't Everything - Michael and Agnes
+* Nobody's Perfect - Michael and Agnes
+* A Well Known Fact - Michael
+* Flaming Agnes - Agnes
+* The Honeymoon Is Over - Michael and Agnes
+{{col-break}}
+;Act II
+* Where Are the Snows - Michael and Agnes
+* When the Kids Get Married - Michael and Agnes
+* The Father of the Bride - Michael
+* What Is a Woman - Agnes
+* Someone Needs Me - Michael and Agnes
+* Roll up the Ribbons - Michael and Agnes
+* This House - Michael and Agnes
+{{col-end}}
+
+== Recordings ==
+==Critical response==
+==Awards and nominations==
+===Original Broadway production===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Musical|Best Musical]] [[Tony Award for Best Original Score|Best Lyricist and Composer]] [[Tom Jones (lyricist)|Tom Jones]] [[Harvey Schmidt]] [[Tony Award for Best Performance by a Leading Actor in a Musical|Best Performance by a Leading Actor in a Musical]] [[Robert Preston (actor)|Robert Preston]] [[Tony Award for Best Performance by a Leading Actress in a Musical|Best Performance by a Leading Actress in a Musical]] [[Mary Martin]] [[Tony Award for Best Direction of a Musical|Best Direction of a Musical]] [[Gower Champion]] [[Tony Award for Best Scenic Design|Best Scenic Design]] [[Oliver Smith (designer)|Oliver Smith]] [[Tony Award for Best Costume Design|Best Costume Design]] [[Freddy Wittop]]
+|}
+===1996 Off-Broadway revival===
+{|
+|-
+| links || [[Drama Desk Award]] [[Drama Desk Award for Outstanding Actor in a Musical|Outstanding Actor in a Musical]] [[David Garrison]] [[Drama Desk Award for Outstanding Actress in a Musical|Outstanding Actress in a Musical]] [[Karen Ziemba]]
+|}
+==References==
+==Further reading==
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+starring [[Jill Perryman]].
+starring [[Julie Andrews]].
+starred [[Karen Ziemba]].

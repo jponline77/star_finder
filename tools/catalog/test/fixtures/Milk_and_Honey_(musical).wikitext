@@ -1,0 +1,109 @@
+{{Infobox Musical
+|name=Milk and Honey
+|image=Milk_and_honey.jpg
+|image_size=175px
+|caption=Original Broadway Cast Album
+|music= [[Jerry Herman]]
+|lyrics= [[Jerry Herman]]
+|book= Don Appell
+|basis= 
+|productions= 1961 [[Broadway theatre|Broadway]]<br>1994 [[Off-Broadway]] 
+
+|awards= 
+}}
+==Background==
+==Synopsis==
+===Act 1===
+===Act 2===
+== Original cast and characters ==
+{| class="wikitable" style="width:50%; text-align:center"
+!scope="col"|Character
+!Broadway (1961)
+|-
+!Phil Arkin
+| colspan="1" |[[Robert Weede]]
+|-
+!Ruth Stein
+| colspan="1” |[[Mimi Benzell]]
+|-
+!Clara Weiss
+| colspan="1” |[[Molly Picon]]
+|-
+!Barbara
+| colspan="1" |[[Lanna Saunders]]
+|-
+!David
+| colspan="1" |[[Tommy Rall]]
+|-
+!Adi
+| colspan="1" |Juki Arkin
+|-
+!Zipporah
+| colspan="1" |Ellen Madison
+|-
+!Mrs. Perlman
+| colspan="1" |Thelma Pelish
+|-
+!Mrs. Segal
+| colspan="1" |Diane Goldberg
+|-
+!Mr. Horowitz
+| colspan="1" |Rueben Singer 
+|-
+!Mrs. Weinstein
+| colspan="1" |Addi Negri
+|-
+!Mrs. Breslin
+| colspan="1" |Rose Lischner
+|-
+!Mrs. Kessler
+| colspan="1" |Ceil Delli
+|-
+!Mr. Strauss
+| colspan="1" |Dorothy Richardson 
+|-
+!The Guide
+| colspan="1" |Ellen Berse
+|-
+!Shepherd Boy
+| colspan="1" |Johnny Borden
+|}
+
+==Songs==
+{{col-begin}}
+{{col-2}}
+;Act I
+* Shepherd's Song - Shepherd Boy and Phil
+* Shalom - Phil and Ruth
+* Independence Day Hora - The Company
+* Milk and Honey - David, Adi, and Company
+* There's No Reason in the World - Phil
+* Chin Up, Ladies - Mrs. Weiss and Widows
+* That Was Yesterday - Ruth, Phil, Adi, and Company
+* Let's Not Waste a Moment - Phil
+* The Wedding - Ruth, Phil, and Company
+{{col-break}}
+;Act II
+* Like A Young Man - Phil
+* I Will Follow You - David
+* Hymn to Hymie - Clara
+* There's No Reason in the World (Reprise) - Ruth
+* Milk and Honey (Reprise) - Adi and Company
+* As Simple as That - Ruth and Phil
+* Shalom (Reprise) - Ruth, Phil, and Company
+{{col-end}}
+
+=== Recordings  ===
+
+==Production history==
+==Awards and nominations==
+===Original Broadway production===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Musical|Best Musical]] [[Tony Award for Best Original Score|Best Original Score]] [[Jerry Herman]] [[Tony Award for Best Performance by a Leading Actress in a Musical|Best Performance by a Leading Actress in a Musical]] [[Molly Picon]] [[Tony Award for Best Costume Design|Best Costume Design]] [[Miles White]] [[Tony Award|Best Producer of a Musical]]
+|}
+==Reference and notes==
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+cast included Chevi Colton, [[Katy Selverstone]], [[Ron Holgate]], [[James Stacy Barbour|James Barbour]].

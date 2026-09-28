@@ -227,6 +227,8 @@ export function mapItunesResult(r) {
     discNumber: r.discNumber ?? null,
     releaseDate: r.releaseDate ?? null,
     country: r.country ?? null,
+    /** Apple marks the track as explicit (the site is for minors: never saved as a song title). */
+    explicit: r.trackExplicitness === 'explicit',
   };
 }
 

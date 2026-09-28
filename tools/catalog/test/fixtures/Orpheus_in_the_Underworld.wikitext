@@ -1,0 +1,308 @@
+==Background and first productions==
+==Roles==
+{| class="wikitable"
+!Role
+!Voice type{{refn|The characters' [[tessitura|tessiture]] are as indicated in the 2002 edition of the orchestral score;  Offenbach, writing with particular performers in mind, seldom stipulated a vocal range in his manuscripts.|group=n}}
+!Premiere cast (two-act version), 21 October 1858{{pb}}([[Conducting|Conductor]]: Jacques Offenbach)
+!Premiere cast (four-act version), 7 February 1874{{pb}}(Conductor: [[Albert Vizentini]])
+|-
+|Pluton ([[Pluto (mythology)|Pluto]]), ''god of the underworld, disguised as'' Aristée ([[Aristaeus]]), ''a shepherd''
+|[[tenor]]
+|[[Léonce (actor)|Léonce]]
+|[[Achille-Félix Montaubry]]
+|-
+|[[Jupiter (mythology)|Jupiter]], ''king of the gods''
+|low tenor or high [[baritone]]
+|[[Désiré (baritone)|Désiré]]
+|[[Christian Perrin|Christian]]
+|-
+|Orphée ([[Orpheus]]), ''a musician''
+|tenor
+|[[Henri Tayau]]
+|Meyronnet
+|-
+|John Styx, ''servant of Pluton, formerly king of [[Boeotia]]''
+|tenor or baritone
+|Bache
+|Alexandre, fils
+|-
+|Mercure ([[Mercury (mythology)|Mercury]]), ''messenger of the gods''
+|tenor
+|J. Paul
+|[[Pierre Grivot]]
+|-
+|[[Dionysus|Bacchus]], ''god of wine''
+|spoken
+|Antognini
+|Chevalier
+|-
+|[[Mars (mythology)|Mars]], ''god of war''
+|[[bass (voice type)|bass]]
+|Floquet
+|Gravier
+|-
+|[[Eurydice]], ''wife of Orphée''
+|[[soprano]]
+|[[Lise Tautin]]
+|[[Marie Cico]]
+|-
+|Diane ([[Diana (mythology)|Diana]]), ''goddess of chastity''
+|soprano
+|Chabert
+|Berthe Perret
+|-
+|{{lang|fr|L'Opinion publique}} (Public Opinion)
+|[[mezzo-soprano]]
+|[[Marguerite Macé-Montrouge]]
+|Elvire Gilbert
+|-
+|Junon ([[Juno (mythology)|Juno]]), ''wife of Jupiter''
+|soprano or mezzo-soprano
+|Enjalbert
+|Pauline Lyon
+|-
+|Vénus ([[Venus (mythology)|Venus]]), ''goddess of beauty''
+|soprano
+|Marie Garnier
+|Angèle
+|-
+|Cupidon ([[Cupid]]), ''god of love''
+|soprano (''[[en travesti]]'')
+|Coralie Geoffroy
+|Matz-Ferrare
+|-
+|Minerve ([[Minerva]]), ''goddess of wisdom''
+|soprano
+|[[Marie Cico]]
+|Castello
+|-
+|Morphée ([[Morpheus (mythology)|Morpheus]]), ''god of sleep''
+|tenor
+| –{{refn|The role of Morphée appears in the earliest version of {{lang|fr|Oprhée aux enfers}}, but Offenbach cut it before the first performance. There were two other roles, Hébé and Cybèle, that the composer cut.|group=n}}
+|Damourette
+|-
+|Cybèle ([[Cybele]]), ''goddess of nature''
+|soprano
+| –
+|Maury
+|-
+|Pomone ([[Pomona (mythology)|Pomona]]), ''goddess of fruits''
+|soprano
+|–
+|Durieu
+|-
+|Flore ([[Flora (mythology)|Flora]]), ''goddess of flowers''
+|soprano
+| –
+|B. Mery
+|-
+|Cérès ([[Ceres (mythology)|Ceres]]), ''goddess of agriculture''
+|soprano
+| –
+|Iriart
+|-
+|Amour
+|mezzo-soprano
+| –
+|Matz-Ferrare
+|-
+|Cerbère ([[Cerberus]]), ''three-headed guardian of the underworld''
+|barked
+|Tautin, snr.{{refn|The role and player are not listed in Crémieux's published libretto or the 1859 vocal score. Faris mentions a scene cut in February 1859 during the first run. In his review in {{lang|fr|Le Ménestrel}} of the October 1858 premiere Alexis Dureau included in his plot summary a scene in which Jupiter gets Cerberus and [[Charon]] drunk so that he can smuggle Eurydice out of the Underworld. This scene is not in the printed libretto.|group=n}}
+|Monet
+|-
+|[[Minos]]
+|baritone/tenor
+| –
+|Scipion
+|-
+|Éaque ([[Aeacus]])
+|tenor
+| –
+|Jean Paul
+|-
+|Rhadamante ([[Rhadamanthus]])
+|bass
+| –
+|J. Vizentini
+|-
+| colspan="4" |''Gods, goddesses, muses, shepherds, shepherdesses, [[lictor]]s and spirits in the underworld''
+|-
+|}
+
+==Synopsis==
+===Original two-act version===
+====Act 1, Scene 1: The countryside near Thebes, Ancient Greece====
+====Act 1, Scene 2: Olympus====
+====Act 2, Scene 1: Pluton's boudoir in the Underworld====
+====Act 2, Scene 2: The banks of the Styx====
+===Revised 1874 version===
+==Music==
+
+{{lang|fr|Orphée aux enfers}} was the first of Offenbach's major works to have a chorus.{{refn|There were choruses in his earlier one-act pieces ''[[Ba-ta-clan]]'' (1855) and {{lang|fr|[[Mesdames de la Halle]]}} (1858).|group=n}} In a 2017 study Melissa Cummins comments that although the composer used the chorus extensively as Pluton's minions, bored residents of Olympus, and bacchantes in Hades, they are merely there to fill out the vocal parts in the large ensemble numbers, and "are treated as a nameless, faceless crowd who just happen to be around." In the Olympus scene the chorus has an unusual [[bocca chiusa]] section, marked "Bouche fermée", an effect later used by [[Georges Bizet|Bizet]] in ''[[Djamileh]]'' and [[Giacomo Puccini|Puccini]] in the "Humming Chorus" in ''[[Madama Butterfly]]''.
+
+===Editions===
+
+===Overture and galop===
+{{Listen
+| filename = Offenbach - Orpheus in the Underworld - Overture.ogg
+| title = Overture to ''Orphée aux enfers'': Carl Binder arrangement (9:23)
+| description = From [[Musopen]]
+}}
+
+===Numbers===
+{| class="wikitable plainrowheaders" style="text-align: left; margin-right: 0;"
+! scope="col" |1858 version
+! scope="col" |1874 version
+|-
+| '''Act 1: Scene 1'''
+| '''Act 1'''
+|-
+| Ouverture
+| Ouverture
+|-
+| {{lang|fr|"Qui je suis?"}} (''Who am I?'') – L'Opinion publique
+| {{lang|fr|Choeur des bergers: "Voici la douzième heure"}} (''Shepherds' chorus: This is the twelfth hour'') – Chorus, Le Licteur, L'Opinion publique
+|-
+|
+| {{lang|fr|"Conseil municipal de la ville de Thèbes"}} (''The Thebes Town Council'') – Chorus
+|-
+| {{lang|fr|"La femme dont le coeur rêve"}}
+| {{lang|fr|"La femme dont le cœur rêve"}} (''The woman whose heart is dreaming'') – Eurydice
+|-
+| Duo du concerto
+| Duo du concerto {{lang|fr|"Ah! C'est ainsi!"}} (''Concerto duet: Ah, that's it!'') – Orphée, Eurydice
+|-
+|
+| Ballet pastoral
+|-
+| {{lang|fr|"Moi, je suis Aristée"}}
+| {{lang|fr|"Moi, je suis Aristée"}} (''I am Aristée'') – Aristée
+|-
+| {{lang|fr|"La mort m'apparaît souriante"}}
+| {{lang|fr|"La mort m'apparaît souriante"}} (''Death appears to me smiling'') – Eurydice
+|-
+|
+| {{lang|fr|"Libre! O bonheur!"}} (''Free! Oh, joy!'') – Orphée, Chorus
+|-
+| {{lang|fr|"C'est l'Opinion publique"}}
+| {{lang|fr|"C'est l'Opinion publique"}} (''It is Public Opinion'') – L'Opinion publique, Orphée, Chorus
+|-
+|
+| {{lang|fr|Valse des petits violonistes: "Adieu maestro"}} (''Waltz of the little violinists'') – Chorus, Orphée
+|-
+| {{lang|fr|"Viens! C'est l'honneur qui t'appelle!"}}
+| {{lang|fr|"Viens! C'est l'honneur qui t'appelle!"}} (''Come, it's honour that calls you'') – L'Opinion publique, Orphée, Chorus
+
+|-
+| '''Act 1: Scene 2'''
+| '''Act 2'''
+|-
+| {{lang|fr|Entr'acte}}
+| {{lang|fr|Entr'acte}}
+|-
+| {{lang|fr|Choeur du sommeil}}
+| {{lang|fr|Choeur du sommeil – "Dormons, dormons"}} (''Let's sleep'') – Chorus
+|-
+| {{lang|fr|"Je suis Cupidon"}} – Cupidon, Vénus
+| {{lang|fr|"Je suis Vénus"}} – Vénus, Cupidon, Mars
+|-
+|
+| {{lang|fr|Divertissement des songes et des heures}} (''Divertissement of dreams and hours'') "Tzing, tzing tzing" – Morphée
+|-
+| {{lang|fr|"Par Saturne, quel est ce bruit"}}
+| {{lang|fr|"Par Saturne, quel est ce bruit"}} (''By Saturn! What's that noise?'') – Jupiter, Chorus
+|-
+| {{lang|fr|"Quand Diane descend dans la plaine"}}
+| {{lang|fr|"Quand Diane descend dans la plaine"}} (''When Diana goes down to the plain'') – Diane, Chorus
+|-
+|
+| {{lang|fr|"Eh hop! eh hop! place à Mercure"}} (''Hey presto! Make way for Mercury!'') – Mercure, Junon, Jupiter
+|-
+|
+| {{lang|fr|Air en prose de Pluton: "Comme il me regarde!"}} (''Pluton's prose aria: How he stares at me!'')
+|-
+| {{lang|fr|"Aux armes, dieux et demi-dieux!"}}
+| {{lang|fr|"Aux armes, dieux et demi-dieux!"}} (''To arms, gods and demigods!'') – Diane, Vénus, Cupidon, Chorus, Jupiter, Pluton
+|-
+| {{lang|fr|Rondeau des métamorphoses}}
+| {{lang|fr|Rondeau des métamorphoses: "Pour séduire Alcmène la fière"}} (''To seduce the proud Alcmene'') – Minerve, Diane, Cupidon, Vénus and Chorus (1858 version); Diane, Minerve, Cybèle, Pomone, Vénus, Flore, Cérès and Chorus (1874)
+|-
+| {{lang|fr|"Il approche! Il s'avance!"}}
+| {{lang|fr|"Il approche! Il s'avance"}} (''He is close! Here he comes!'') – Pluton, Les dieux, L'Opinion publique, Jupiter, Orphée, Mercure, Cupidon, Diane, Vénus
+|-
+| {{lang|fr|"Gloire! gloire à Jupiter... Partons, partons"}}
+| {{lang|fr|"Gloire! gloire à Jupiter... Partons, partons"}} (''Glory to Jupiter! Let's go!'') – Pluton, Les dieux, L'Opinion publique, Jupiter, Orphée, Mercure, Cupidon, Diane, Vénus
+|-
+| '''Act 2:  Scene 1'''
+| '''Act 3'''
+|-
+| {{lang|fr|Entr'acte}}
+| {{lang|fr|Entr'acte}}
+|-
+|
+| {{lang|fr|"Ah! quelle triste destinée!"}} (''Ah! what a sad destiny'') – Eurydice
+|-
+| {{lang|fr|"Quand j'étais roi de Béotie"}}
+| {{lang|fr|"Quand j'étais roi de Béotie"}} (''When I was king of Boeotia'') – John Styx
+|-
+|
+| {{lang|fr|"Minos, Eaque et Rhadamante"}} – Minos, Eaque, Rhadamante, Bailiff
+|-
+|
+| {{lang|fr|"Nez au vent, oeil au guet"}} (''With nose in the air and watchful eye'') – Policemen
+|-
+|
+| {{lang|fr|"Allons, mes fins limiers"}} (''Onwards, my fine bloodhounds'') – Cupidon and Policemen
+|-
+|
+| {{lang|fr|"Le beau bourdon que voilà"}} (''What a handsome little bluebottle'') – Policemen
+|-
+| {{lang|fr|Duo de la mouche}}
+| {{lang|fr|Duo de la mouche "Il m'a semblé sur mon épaule"}} (''Duet of the fly: It seemed to me on my shoulder'') – Eurydice, Jupiter
+|-
+| Finale: {{lang|fr|"Bel insecte à l'aile dorée"}}
+| Finale: {{lang|fr|"Bel insecte à l'aile dorée"}} – (''Beautiful insect with golden wing''), {{lang|fr|Scène et ballet des mouches:}} Introduction, andante, valse, galop – Eurydice, Pluton, John Styx
+|-
+| '''Act 2: Scene 2'''
+| '''Act 4'''
+|-
+| {{lang|fr|Entr'acte}}
+| {{lang|fr|Entr'acte}}
+|-
+| {{lang|fr|"Vive le vin! Vive Pluton!"}}
+| {{lang|fr|"Vive le vin! Vive Pluton!"}}– Chorus
+|-
+| {{lang|fr|"Allons! ma belle bacchante"}}
+| {{lang|fr|"Allons! ma belle bacchante"}} (''Go on, my beautiful bacchante'') – Cupidon
+|-
+| {{lang|fr|"J'ai vu le Dieu Bacchus"}}
+| {{lang|fr|"J'ai vu le Dieu Bacchus"}} (''I saw the God Bacchus'') – Eurydice, Diane, Vénus, Cupidon, chorus
+|-
+| {{lang|fr|Menuet et Galop}}
+| {{lang|fr|Menuet et Galop "Maintenant, je veux, moi qui suis mince et fluet... Ce bal est original, d'un galop infernal"}} (''Now, being slim and lithe I want... This ball is out of the ordinary: an infernal gallop'') – All
+|-
+| Finale: {{lang|fr|"Ne regarde pas en arrière!"}}
+| Finale: {{lang|fr|"Ne regarde pas en arrière!"}} (''Don't look back'') – L'Opinion publique, Jupiter, Les dieux, Orphée, Eurydice
+|}
+
+== Reception ==
+===19th century===
+===20th and 21st centuries===
+==Revivals==
+===France===
+===Continental Europe===
+===Britain===
+===Outside Europe===
+===21st century worldwide===
+==Recordings==
+===Audio===
+====In French====
+====In English====
+====In German====
+===Video===
+==Notes, references and sources==
+===Notes===
+===References===
+===Sources===
+==External links==

@@ -1,0 +1,241 @@
+{{Infobox musical
+| name        = Gypsy
+| subtitle    = A Musical Fable
+| image       = Gypsy Album.jpg
+| caption     = Original Broadway Cast Album
+| music       = [[Jule Styne]]
+| lyrics      = [[Stephen Sondheim]]
+| book        = [[Arthur Laurents]]
+| basis       = ''[[Gypsy: A Memoir]]'' <br> by [[Gypsy Rose Lee]]
+| productions = 1959 [[Broadway theatre|Broadway]]<br />1973 [[West End theatre|West End]]<br />1974 [[Broadway theatre|Broadway]] [[Revival (theatre)|revival]]<br />1989 Broadway revival<br /> 2003 Broadway revival<br />2008 Broadway revival <br /> 2015 West End revival<br /> 2024 Broadway revival
+
+| awards      = 1989 [[Tony Award for Best Revival of a Musical|Tony Award for Best Revival]]<br /> 2016 [[Laurence Olivier Award for Best Revival]]
+}}
+==Background==
+==Synopsis==
+===Act I===
+===Act II===
+==Songs==
+{{col-begin}}
+{{col-2}}
+
+===Act I===
+* "Overture" – Orchestra
+* "[[Let Me Entertain You (Gypsy song)|May We Entertain You]]"{{efn-lr|group=note|Titled "Let Me Entertain You (Rose's Entrance)" in the 2015 West End revival}} – Baby June and Baby Louise
+* "Some People" – Rose
+* "Some People" (Reprise) – Rose
+* "[[Small World (song)|Small World]]" – Rose and Herbie
+* "Baby June and Her Newsboys" – Baby June and Newsboys
+* "Mr. Goldstone, I Love You"{{efn-lr|group=note|Titled "Mr. Goldstone" in the 2003 revival, "Have an Eggroll, Mr. Goldstone" in the 2008 revival, and "Mr. Goldstone" again in the 2015 West End revival}} – Rose, Herbie, Ensemble
+* "Little Lamb" – Louise
+* "You'll Never Get Away From Me" – Rose and Herbie
+* "Dainty June and Her Farmboys" – June and Farmboys
+* "Broadway" – June and Farmboys
+* "If Momma Was Married" – June and Louise
+* "All I Need Is the Girl" – Tulsa{{efn-lr|group=note|Per sondheimguide.com, only Tulsa sings this song; per IBDB, both Tulsa and Louise sing the song, due perhaps to the fact that, in several cast recordings, Louise's laughter can be heard at the end of the final dance break.}}
+* "[[Everything's Coming Up Roses]]" – Rose
+{{col-break}}
+
+===Act II===
+* "Entr'acte" - Orchestra
+* "Madame Rose's Toreadorables" – Louise, Rose and the Hollywood Blondes
+* "[[Together (Wherever We Go)|Together, Wherever We Go]]"{{efn-lr|group=note|In the 1973 London and 1974 Broadway productions, this number featured an extended dance sequence in the middle of the song, which was not featured in the original score}} - Rose, Herbie, and Louise
+* "[[You Gotta Get a Gimmick (song)|You Gotta Get a Gimmick]]" – Mazeppa, Electra, and Tessie Tura
+* "Small World" (Reprise) – Rose
+* "[[Let Me Entertain You (Gypsy song)|Let Me Entertain You]]"{{efn-lr|group=note|Titled "The Strip" in the 2008 revival and on the recording of the 1989 revival.}} – Louise
+* "[[Rose's Turn]]" – Rose
+* "Finale" – Orchestra
+{{col-end}}
+
+===Notes on songs===
+{{notelist-lr|group=note}}
+
+==Dramatic analysis==
+==Productions==
+===Original production===
+===1973 London production===
+===1974 Broadway revival===
+===1989 Broadway revival===
+===2003 Broadway revival===
+===2008 Broadway revival===
+===2015 West End revival===
+===2024 Broadway revival===
+===Other productions===
+====1977 Mexico====
+====1992 Argentina====
+====1998 Mexico====
+====1998 Paper Mill Playhouse====
+====2001 Estonian production====
+====2005 Shaw Festival====
+====2007 North American tour====
+====2010 Brazil====
+====2010 Czech Republic====
+====2011 Lyric Stage====
+====2011 Bristol Riverside Theatre====
+====2012 Leicester Curve Theatre====
+====2014 Connecticut Repertory Theatre (CRT), Storrs, Connecticut====
+====2014 Chichester Festival Theatre, UK====
+====2017 The Cape Playhouse====
+====2018 The Muny====
+====2018 Porchlight Music Theatre====
+====2019 Manchester Royal Exchange Theatre====
+====2022 Alexandra Palace Theatre, London====
+====2022 [[Buxton Opera House]]====
+====2023 Shaw Festival====
+====2024 Spain====
+==Film and TV versions==
+===Unproduced remake===
+==Stage casts==
+
+{| class="wikitable" style="text-align:center" border="1"
+|+
+! rowspan="2" style="width:10%;" | Characters
+! style="width:10%;" | Broadway
+! style="width:10%;" | West End
+! style="width:10%;" | Broadway Revival
+! style="width:10%;" | Broadway Revival
+! style="width:10%;" | Broadway Revival
+! style="width:10%;" | Broadway Revival
+! style="width:10%;" | West End Revival
+! style="width:10%;" | Broadway Revival
+|-
+!<small>1959</small>
+!<small>1973</small>
+!<small>1974</small>
+!<small>1989</small>
+!<small>2003</small>
+!<small>2008</small>
+!<small>2015</small>
+!<small>2024</small>
+|-
+! [[Rose Thompson Hovick|Rose]]
+| [[Ethel Merman]]
+| colspan="2"| [[Angela Lansbury]]
+| [[Tyne Daly]]
+| [[Bernadette Peters]]
+| [[Patti LuPone]]
+| [[Imelda Staunton]]
+| [[Audra McDonald]]
+|-
+! [[Gypsy Rose Lee|Louise]]
+| [[Sandra Church]]
+| colspan="2"| Zan Charisse
+| [[Crista Moore]]
+| [[Tammy Blanchard]]
+| [[Laura Benanti]]
+| [[Lara Pulver]]
+| [[Joy Woods]]
+|-
+! Herbie
+| [[Jack Klugman]]
+| [[Barrie Ingham]]
+| [[Rex Robbins]]
+| [[Jonathan Hadary]]
+| [[John Dossett]]
+| [[Boyd Gaines]]
+| [[Peter Davison]]
+| [[Danny Burstein]]
+|-
+! [[June Havoc|June]]
+| [[Lane Bradbury]]
+| Debbie Bowen
+| [[Maureen Moore]]
+| Tracy Venner
+| [[Kate Reinders]]
+| [[Leigh Ann Larkin]]
+| Gemma Sutton
+| Jordan Tyson
+|-
+! Tulsa
+| Paul Wallace
+| Andrew Norman
+| John Sheridan
+| Robert Lambert
+| [[David Burtka]]
+| [[Tony Yazbeck]]
+| [[Dan Burton (actor)|Dan Burton]]
+| Kevin Csolak
+|-
+! Tessie Tura
+| [[Maria Karnilova]]
+| Valerie Walsh
+| [[Mary Louise Wilson]]
+| Barbara Erwin
+| Heather Lee
+| [[Alison Fraser]]
+| [[Anita Louise Combe]]
+| [[Lesli Margherita]]
+|-
+! Mazeppa
+| [[Faith Dane]]
+| Kelly Wilson
+| Gloria Rossi
+| [[Jana Robbins]]
+| Kate Buddeke
+| [[Lenora Nemetz]]
+| [[Louise Gold]]
+| Lili Thomas
+|-
+! Electra
+| Chotzi Foley
+| Judy Cannon
+| Sally Cooke
+| Anna McNeely
+| [[Julie Halston]]
+| Marilyn Caskey
+| [[Julie Legrand]]
+| Mylinda Hull
+|}
+
+==Recordings==
+==Other performances==
+==Awards and honors==
+===Original Broadway production===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Musical|Best Musical]] [[Tony Award for Best Performance by a Leading Actress in a Musical|Best Performance by a Leading Actress in a Musical]] [[Ethel Merman]] [[Tony Award for Best Performance by a Featured Actor in a Musical|Best Performance by a Featured Actor in a Musical]] [[Jack Klugman]] [[Tony Award for Best Performance by a Featured Actress in a Musical|Best Performance by a Featured Actress in a Musical]] [[Sandra Church]] [[Tony Award for Best Direction of a Musical|Best Direction of a Musical]] [[Jerome Robbins]] [[Tony Award for Best Conductor and Musical Director|Best Conductor and Musical Director]] [[Milton Rosenstock]] [[Tony Award for Best Scenic Design|Best Scenic Design]] [[Jo Mielziner]] [[Tony Award for Best Costume Design|Best Costume Design]] [[Grammy Award]] [[Grammy Award for Best Musical Theater Album|Best Musical Theater Album]]
+|}
+===1974 Broadway revival===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Performance by a Leading Actress in a Musical|Best Performance by a Leading Actress in a Musical]] [[Angela Lansbury]] [[Tony Award for Best Performance by a Featured Actress in a Musical|Best Performance by a Featured Actress in a Musical]] [[Tony Award for Best Direction of a Musical|Best Direction of a Musical]] [[Arthur Laurents]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Actress in a Musical|Outstanding Actress in a Musical]] [[Drama Desk Award for Outstanding Featured Actress in a Musical|Outstanding Featured Actress in a Musical]] [[Bonnie Langford]] [[Drama Desk Award for Outstanding Director of a Musical|Outstanding Director of a Musical]]
+|}
+===1989 Broadway revival===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Revival|Best Revival]] [[Tony Award for Best Performance by a Leading Actress in a Musical|Best Performance by a Leading Actress in a Musical]] [[Tyne Daly]] [[Tony Award for Best Performance by a Featured Actor in a Musical|Best Performance by a Featured Actor in a Musical]] [[Jonathan Hadary]] [[Tony Award for Best Performance by a Featured Actress in a Musical|Best Performance by a Featured Actress in a Musical]] [[Crista Moore]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Revival of a Musical|Outstanding Revival of a Musical]] [[Drama Desk Award for Outstanding Actress in a Musical|Outstanding Actress in a Musical]] [[Drama Desk Award for Outstanding Featured Actor in a Musical|Outstanding Featured Actor in a Musical]] [[Drama Desk Award for Outstanding Featured Actress in a Musical|Outstanding Featured Actress in a Musical]] [[Grammy Award]] [[Grammy Award for Best Musical Theater Album|Best Musical Theater Album]]
+|}
+===2003 Broadway revival===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Revival of a Musical|Best Revival of a Musical]] [[Tony Award for Best Performance by a Leading Actress in a Musical|Best Performance by a Leading Actress in a Musical]] [[Bernadette Peters]] [[Tony Award for Best Performance by a Featured Actor in a Musical|Best Performance by a Featured Actor in a Musical]] [[John Dossett]] [[Tony Award for Best Performance by a Featured Actress in a Musical|Best Performance by a Featured Actress in a Musical]] [[Tammy Blanchard]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Revival of a Musical|Outstanding Revival of a Musical]] [[Drama Desk Award for Outstanding Actress in a Musical|Outstanding Actress in a Musical]] [[Drama Desk Award for Outstanding Featured Actor in a Musical|Outstanding Featured Actor in a Musical]] [[Theatre World Award]] [[Grammy Award]] [[Grammy Award for Best Musical Theater Album|Best Musical Theater Album]]
+|}
+===2008 Broadway revival===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Revival of a Musical|Best Revival of a Musical]] [[Tony Award for Best Performance by a Leading Actress in a Musical|Best Performance by a Leading Actress in a Musical]] [[Patti LuPone]] [[Tony Award for Best Performance by a Featured Actor in a Musical|Best Performance by a Featured Actor in a Musical]] [[Boyd Gaines]] [[Tony Award for Best Performance by a Featured Actress in a Musical|Best Performance by a Featured Actress in a Musical]] [[Laura Benanti]] [[Tony Award for Best Direction of a Musical|Best Direction of a Musical]] [[Arthur Laurents]] [[Tony Award for Best Costume Design|Best Costume Design]] [[Tony Award for Best Sound Design|Best Sound Design]] [[Dan Moses Schreier]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Revival of a Musical|Outstanding Revival of a Musical]] [[Drama Desk Award for Outstanding Actress in a Musical|Outstanding Actress in a Musical]] [[Drama Desk Award for Outstanding Featured Actor in a Musical|Outstanding Featured Actor in a Musical]] [[Drama Desk Award for Outstanding Featured Actress in a Musical|Outstanding Featured Actress in a Musical]] [[Outer Critics Circle Award]] [[Tony Yazbeck]] [[Grammy Award]] [[Grammy Award for Best Musical Theater Album|Best Musical Theater Album]]
+|}
+===2015 West End revival===
+{|
+|-
+| links || [[2016 Laurence Olivier Awards|Laurence Olivier Awards]] [[Laurence Olivier Award for Best Musical Revival|Best Revival of a Musical]] [[Laurence Olivier Award for Best Actress in a Musical|Best Actress in a Musical]] [[Imelda Staunton]] [[Laurence Olivier Award for Best Actress in a Supporting Role in a Musical|Best Supporting Actress in a Musical]] [[Lara Pulver]] [[Laurence Olivier Award for Best Actor in a Supporting Role in a Musical|Best Supporting Actor in a Musical]] [[Peter Davison]] [[Dan Burton (actor)|Dan Burton]] [[Laurence Olivier Award for Best Director|Best Director]] [[Jonathan Kent (director)|Jonathan Kent]] [[Laurence Olivier Award for Best Lighting Design|Best Lighting Design]] [[Laurence Olivier Award for Best Theatre Choreographer|Best Theatre Choreographer]] [[Stephen Mear]] [[UK Theatre Awards]] [[Evening Standard Theatre Awards]]
+|}
+===2024 Broadway revival===
+{|
+|-
+| links || [[Drama Desk Award]] [[Drama Desk Award for Outstanding Revival of a Musical|Outstanding Revival of a Musical]] [[Drama Desk Award for Outstanding Lead Performance in a Musical|Outstanding Lead Performance in a Musical]] [[Audra McDonald]] [[Drama Desk Award for Outstanding Featured Performance in a Musical|Outstanding Featured Performance in a Musical]] [[Lesli Margherita]] [[Drama Desk Award for Outstanding Director of a Musical|Outstanding Director of a Musical]] [[George C. Wolfe]] [[Drama Desk Award for Outstanding Choreography|Outstanding Choreography]] [[Camille A. Brown]] [[Drama Desk Award for Outstanding Costume Design of a Musical|Outstanding Costume Design of a Musical]] [[Toni-Leslie James]] [[Drama Desk Award for Outstanding Sound Design in a Musical|Outstanding Sound Design of a Musical]] [[Scott Lehrer]] [[Drama League Award]] [[Joy Woods]] [[Outer Critics Circle Awards]] [[Danny Burstein]] [[Tony Awards]] [[Tony Award for Best Revival of a Musical|Best Revival of a Musical]] [[Tony Award for Best Leading Actress in a Musical|Best Leading Actress in a Musical]] [[Tony Award for Best Featured Actress in a Musical|Best Featured Actress in a Musical]] [[Tony Award for Best Featured Actor in a Musical|Best Featured Actor in a Musical]] [[Tony Award for Best Choreography|Best Choreography]] [[Chita Rivera Awards for Dance and Choreography|Chita Rivera Awards]]
+|}
+==References==
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+starring [[Imelda Staunton]].
+starring [[Audra McDonald]].
+starred [[Mitzi Green]].
+starred [[Imelda Staunton]].
+cast included [[Silvi Vrait]].
+starring [[Totia Meireles]].
+starring [[Kate Hennig]].
+starring [[Marta Ribera]].
+starring [[Rosalind Russell]].
+played by [[Elisabeth Moss]].

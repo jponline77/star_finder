@@ -26,11 +26,13 @@ describe('GET /api/songs filters', () => {
     assert.deepEqual(titles(res), ['A Little Fall of Rain', 'Corn', "Don't Let Me Go", 'Hell to Your Doorstep', 'On My Own', 'Stars', 'When Love is True']);
     const s = res.body.songs.find((x) => x.title === 'On My Own');
     assert.deepEqual(Object.keys(s).sort(), [
-      'commentCount', 'createdAt', 'createdBy', 'genre', 'id', 'kind', 'lengthSeconds', 'mature', 'media', 'notes', 'parts', 'show', 'source', 'subGenre', 'title', 'updatedAt',
+      'catalogSongId', 'commentCount', 'createdAt', 'createdBy', 'genre', 'id', 'kind', 'lengthSeconds', 'mature', 'media', 'notes', 'parts', 'show', 'source', 'subGenre', 'title', 'updatedAt',
     ]);
     assert.deepEqual(s.show, { id: ids.lesMis, name: 'Les Misérables', slug: 'les-miserables', imageUrl: null });
     assert.deepEqual(s.parts, [{ position: 1, character: 'Eponine', vocalRange: 'Soprano' }]);
-    assert.deepEqual(Object.keys(s.media).sort(), ['appleMusicUrl', 'artworkUrl', 'audioLink', 'audioUrl', 'previewUrl', 'recordingArtist', 'recordingName']);
+    assert.deepEqual(Object.keys(s.media).sort(), [
+      'appleMusicUrl', 'artworkSource', 'artworkUrl', 'audioLink', 'audioUrl', 'previewUrl', 'recordingArtist', 'recordingArtworkUrl', 'recordingName',
+    ]);
     assert.equal(s.source, 'spreadsheet');
     assert.equal(s.createdBy, null);
     assert.equal(s.commentCount, 0);

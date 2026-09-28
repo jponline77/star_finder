@@ -1,0 +1,140 @@
+{{Infobox musical
+| name = Operation Mincemeat
+| subtitle = A New Musical
+| image = Operation Mincemeat Musical Poster.jpeg
+| image_size = 
+| caption = Production poster
+| music = {{ubl|[[David Cumming (actor)|David Cumming]]|[[Felix Hagan]]|[[Natasha Hodgson]]|[[Zoë Roberts]]}}
+| lyrics = {{ubl|David Cumming|Felix Hagan|Natasha Hodgson|Zoë Roberts}}
+| book = {{ubl|David Cumming|Felix Hagan|Natasha Hodgson|Zoë Roberts}}
+| basis = [[Operation Mincemeat]]
+| setting = 1943, [[World War Two]]
+| premiere_date = 
+| premiere_location = [[New Diorama Theatre]]
+| productions = {{ubli|2019 [[New Diorama Theatre]]|2020 and 2021 [[Southwark Playhouse]] |2022 [[Riverside Studios]] |2023 [[West End theatre|West End]]| 2025 [[Broadway theatre|Broadway]] | 2026 World tour}}
+| awards = {{ubli|WhatsOnStage Award for Best New Musical|[[Laurence Olivier Award for Best New Musical]] }}
+}}
+==Background==
+==Synopsis==
+===Act I===
+===Act II===
+==Production history==
+===Off-West End (2019–2022)===
+===West End (2023–present)===
+===Broadway (2025–present)===
+=== World tour (2026) ===
+==Roles and casts==
+The five members of the principal cast each play multiple roles, often gender-swapped.
+
+{| class="wikitable"
+|-
+! rowspan="2" | Character
+! colspan="2" | Off-West End 
+! West End
+!Broadway
+! UK tour
+!US tour
+|-
+!<small>2019</small>
+!<small>2020–2022</small>
+!<small>2023</small>
+!<small>2025</small>
+! colspan="2"|<small>2026</small>
+|-
+! [[Ewen Montagu]] & Others
+| colspan="4" style="text-align:center;" |[[Natasha Hodgson]]
+| style="text-align:center;" |Holly Sumpton
+| style="text-align:center;" |Katie Kleiger
+|-
+! [[Charles Cholmondeley (British intelligence officer)|Charles Cholmondeley]] & Others
+| colspan="4" style="text-align:center;" |[[David Cumming (actor)|David Cumming]]
+| style="text-align:center;" |Seán Carey
+| style="text-align:center;" |Jake Bentley Young
+|-
+! [[John Bevan (British Army officer)|Johnny Bevan]] & Others
+| colspan="4" style="text-align:center;" |[[Zoë Roberts]]
+| style="text-align:center;" |Jamie-Rose Monk
+| style="text-align:center;" |Mariah Copeland
+|-
+! [[Hester Leggatt]] & Others
+| colspan="4" style="text-align:center;" |[[Jak Malone]]
+| style="text-align:center;" |Christian Andrews
+| style="text-align:center;" |Luke Antony Neville
+|-
+! Jean Leslie & Others
+| style="text-align:center;" |Rory Furey-King 
+| colspan="3" style="text-align:center;" |[[Claire-Marie Hall]]
+| style="text-align:center;" |Charlotte Hanna-Williams
+| style="text-align:center;" |Erin Ramirez
+|}
+
+===Notable replacements===
+====West End====
+* '''Ewen Montagu & Others:''' [[Emily Barber]], [[Alex Young (actor)|Alex Young]]
+
+==== Broadway ====
+
+* '''Ewen Montagu & Others:''' [[Julia Knitel]]
+* '''Charles Cholmondeley & Others:''' [[Brandon Contreras]]
+* '''Hester Leggatt & Others:''' [[Jeff Kready]]
+* '''Jean Leslie & Others:''' [[Jessi Kirtley]]
+
+==Musical numbers==
+{{col-begin}}
+{{col-2}}
+'''Act I'''
+* "Born to Lead" – Montagu & Company
+* "God That's Brilliant" – Company
+* "Dead in the Water" – Cholmondeley
+* "Dead in the Water (Reprise)" – Cholmondeley†
+* "All the Ladies" – Jean & Company
+* "The Pitch" – Montagu, Cholmondeley & Jean
+* "Born to Lead (Reprise)" – Montagu, Cholmondeley & Jean†
+* "Making a Man" – Company
+* "Love is a Bird" – Cholmondeley & Jean†
+* "Dear Bill" – Hester
+* "Sail on, Boys" – Company
+* "Just for Tonight" – Montagu & Company
+{{col-break}}
+
+'''Act II'''
+* "Das Übermensch" – Company
+* "Bevan's Update" – Bevan, Cholmondeley & Montagu
+* "The Ballad of Willie Watkins" – Willie & Company
+* "Spilsbury Reprise" – Spilsbury & Company
+* "I Call Abort" – Bevan†
+* "Haselden's Got a Good Feeling" – Haselden & Cholmondeley†
+* "Useful" – Hester & Jean
+* "Act as If" – Company
+* "Did We Do It?" -- Company
+* "A Glitzy Finale" – Company
+{{col-end}}
+
+'''Keys'''
+
+{{plainlist|
+*† Not included on the cast recording.}}
+
+===Cast recording===
+
+==Critical reception==
+==Awards and nominations==
+===Off-West End production===
+{|
+|-
+| links || [[Stage Debut Awards]] [[David Cumming (actor)|David Cumming]] [[Felix Hagan]] [[Natasha Hodgson]] [[Zoë Roberts]] [[The Offies]] [[Jak Malone]]
+|}
+===West End production===
+{|
+|-
+| links || [[Jak Malone]] [[Natasha Hodgson]] [[2024 WhatsOnStage Awards|WhatsOnStage Awards]] [[Laurence Olivier Awards]] [[David Cumming (actor)|David Cumming]] [[Felix Hagan]] [[Zoë Roberts]] [[Steve Sidwell (musician)|Steve Sidwell]] [[West End Wilma Awards]]
+|}
+=== Broadway production ===
+{|
+|-
+| links || [[Drama League Award]] [[Jak Malone]] [[Outer Critics Circle Awards]] [[Outer Critics Circle Award for Outstanding New Broadway Musical|Outstanding New Broadway Musical]] [[Outer Critics Circle Award for Outstanding Featured Performer in a Broadway Musical|Outstanding Featured Performer in a Broadway Musical]] [[Outer Critics Circle Award for Outstanding Book of a Musical|Book of a Musical]] [[David Cumming (actor)|David Cumming]] [[Felix Hagan]] [[Natasha Hodgson]] [[Zoë Roberts]] [[Outer Critics Circle Award for Outstanding New Score|Outstanding New Score]] [[Outer Critics Circle Award for Outstanding Direction of a Musical|Outstanding Direction of a Musical]] [[Outer Critics Circle Award for Outstanding Choreography|Outstanding Choreography]] [[Drama Desk Awards]] [[Drama Desk Award for Outstanding Featured Performance in a Musical|Outstanding Featured Performance in a Musical]] [[Drama Desk Award for Outstanding Lyrics|Outstanding Lyrics]] [[Drama Desk Award for Outstanding Book of a Musical|Outstanding Book of a Musical]] [[Tony Awards]] [[Tony Award for Best Musical|Best Musical]] [[Tony Award for Best Featured Actor in a Musical|Best Performance by an Actor in a Featured Role in a Musical]] [[Tony Award for Best Original Score|Best Original Score (Music and/or Lyrics) Written for the Theatre]] [[Tony Award for Best Book of a Musical|Best Book of a Musical]] [[Dorian Awards]]
+|}
+==Historical research and commemoration==
+==Licensing==
+==References==
+==External links==

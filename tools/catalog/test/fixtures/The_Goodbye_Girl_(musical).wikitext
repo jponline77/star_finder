@@ -1,0 +1,117 @@
+{{Infobox Musical
+|name=The Goodbye Girl
+|image=GoodbyeGirl.jpg
+|caption=Original cast recording
+|music=[[Marvin Hamlisch]]
+|lyrics=[[David Zippel]]
+|book=[[Neil Simon]]
+|basis=''[[The Goodbye Girl]]'' <br> by Neil Simon
+|productions= 1993 [[Broadway theatre|Broadway]]<br> 1997 [[West End theatre|West End]]
+
+|awards= 
+}}
+==Production history==
+=== Out-of-town tryouts ===
+=== Broadway ===
+=== Illinois ===
+=== London ===
+=== UK Tour ===
+==Plot==
+==Recordings==
+==Historical casting==
+{| class="wikitable" width="80%"
+! Character
+! 1993 Broadway cast
+! 1994 Chicago cast
+! 1997 West End cast 
+! 2023 Off-Broadway cast
+|-
+! scope="row"| Paula McFadden
+| align="center" colspan="1"| [[Bernadette Peters]]
+| align="center" colspan="1"| Kathy Santen
+| align="center" colspan="1"| [[Ann Crumb]]
+| align="center" colspan="1"| [[Sierra Boggess]]
+|-
+! scope="row"| Elliot Garfield
+| align="center" colspan="1"| [[Martin Short]]
+| align="center" colspan="1"| James Fitzgerald 
+| align="center" colspan="1"| [[Gary Wilmot]]
+| align="center" colspan="1"| [[Santino Fontana]]
+|-
+! scope="row"| Lucy McFadden
+| align="center" colspan="1"| Tammy Minoff
+| align="center" colspan="1"| Jessie Ann Fisher
+| align="center" colspan="1"| Dina Tree
+| align="center" colspan="1"| Lena Josephine Marano
+|-
+! scope="row"| Mrs. Crosby
+| align="center" colspan="1"| [[Carol Woods]]
+| align="center" colspan="1"| Felicia P. Fields 
+| align="center" colspan="1"| Shezwae Powell
+| align="center" colspan="1"| Debra Thais Evans
+|}
+
+==Songs==
+
+=== Original Broadway Production ===
+{{col-begin}}
+{{col-2}}
+;Act I
+* "This Is as Good as It Gets" – Paula and Lucy
+* "No More" – Paula
+* "A Beat Behind" – Paula, Billy and Ensemble
+* "This Is as Good as It Gets (Reprise)" – Lucy, Melanie and Cynthia
+* "My Rules" – Elliot and Paula
+* "Good News, Bad News" – Elliot, Paula and Lucy
+* "Footsteps" – Paula and Lucy
+* "How Can I Win?" – Paula
+* "Richard Interred" – Elliot, Paula, Lucy, Mark, Mrs. Crosby, Donna and Ensemble
+{{col-break}}
+;Act II
+* "How Can I Win? (Reprise)" – Paula
+* "Good News, Bad News (Reprise)" – Elliot
+* "Too Good to Be Bad" – Paula, Donna and Jenna
+* "2 Good 2 Be Bad" – Mrs. Crosby
+* "Who Would've Thought?" – Paula, Elliot, Lucy, Melanie and Cynthia
+* "Paula (An Improvised Love Song)" – Elliot and Paula
+* "Who Would've Thought? (Reprise)" – Lucy, Melanie and Cynthia
+* "I Think I Can Play This Part" – Elliot
+* "Jump for Joy" – Paula and Ensemble
+* "What a Guy" – Paula
+* "Finale" – Paula, Elliot and Lucy
+{{col-end}}
+
+=== Original London Production ===
+{{col-begin}}
+{{col-2}}
+;Act I
+* "I'll Take the Sky" – Paula
+* "Body Talk" – Paula, Billy, Donna, Ensemble
+* "Elliot Garfield Grant" – Elliot
+* "Good News, Bad News" – Elliot, Paula and Lucy
+* "Good News, Bad News (reprise)" – Elliot, Paula and Lucy
+* "Get A Life" – Paula and Lucy
+* "Am I Who I Think I Am?" – Elliot
+{{col-break}}
+;Act II
+* "Are You Who I Think You Are?" – Paula
+* "Good News, Bad News (Reprise)" – Elliot
+* "If You Break Their Hearts" – Mrs Crosby and Elliot
+* "Who Would've Thought?" – Paula, Elliot, Lucy, Melanie and Cynthia
+* "Do You Want to Be in My Movie?" – Elliot, Paul and the Ensemble
+* "The Future Isn't What It Used to Be" – Elliot and Lucy
+* "The Future Isn't What It Used to Be (reprise)" – Paula, Elliot and Lucy
+{{col-end}}
+
+==Critical response==
+==Awards and nominations==
+===Original Broadway production===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Musical|Best Musical]] [[Tony Award for Best Performance by a Leading Actor in a Musical|Best Performance by a Leading Actor in a Musical]] [[Martin Short]] [[Tony Award for Best Performance by a Leading Actress in a Musical|Best Performance by a Leading Actress in a Musical]] [[Bernadette Peters]] [[Tony Award for Best Choreography|Best Choreography]] [[Graciela Daniele]] [[Tony Award for Best Direction of a Musical|Best Direction of a Musical]] [[Michael Kidd]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Actor in a Musical|Outstanding Actor in a Musical]] [[Drama Desk Award for Outstanding Lyrics|Outstanding Lyrics]] [[David Zippel]] [[Drama Desk Award for Outstanding Music|Outstanding Music]] [[Marvin Hamlisch]] [[Theatre World Award]]
+|}
+==References==
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+cast included Bernadette Peters as Paula McFadden and [[Martin Short]], [[Carol Woods]].

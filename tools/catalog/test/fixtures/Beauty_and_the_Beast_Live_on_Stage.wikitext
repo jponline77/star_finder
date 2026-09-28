@@ -1,0 +1,41 @@
+{{Infobox attraction
+
+| name                 = ''Beauty and the Beast''<br>Live on Stage
+| logo_width           = 250px
+| image                = Beauty and the Beast Live on Stage at Disney's Hollywood Studios in Orlando, FL.jpg
+| imagedimensions      = 250px
+| caption              = Final bow of the show
+
+| location             = Disney's Hollywood Studios
+| section              = Hollywood Boulevard (1991–93)<br> Sunset Boulevard (1994–2020, 2021–Present)
+| status               = Open
+| opened               = November 22, 1991 (original version)<br>August 15, 2021 (updated version)
+| closed               = March 12, 2020 (original version)
+| previousattraction  = ''Disney Society Orchestra and Friends'' (2020)
+| replacement        = ''Hollywood's Pretty Woman'' (1991) <br>''Disney Society Orchestra and Friends'' (2020)
+
+| type                 = Live show
+| model                = Amphitheater
+| theme                = ''[[Beauty and the Beast (1991 film)|Beauty and the Beast]]''
+| music                = [[Alan Menken]] (music), [[Howard Ashman]] (lyrics) & Alan Menken (score)
+| accessible           = yes
+| assistive_listening  = yes
+| small                = 
+| virtual_queue_name =  [[Virtual queue systems at Disney Parks#Disney Genie|Lightning Lane]]
+| virtual_queue_image= Lightning Lane Icon Logo.webp
+| virtual_queue_status= available
+}}
+==Voice Cast==
+==Summary==
+==Setlist==
+===Original (1991–2001)===
+===Current (2001–present)===
+==Television appearances==
+==List of handprints in forecourt==
+==2020 labor dispute==
+==Disney's Jollywood Nights ==
+==References==
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+starring [[Kermit the Frog]].

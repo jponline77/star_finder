@@ -1,0 +1,382 @@
+{{Infobox musical
+| name = Beauty and the Beast
+| image = Beauty and the Beast (cover art) – The Broadway Musical.jpg
+| caption = Vocal Selections cover art
+| book = [[Linda Woolverton]]
+| music = [[Alan Menken]]
+| lyrics = [[Howard Ashman]]<br />[[Tim Rice]]
+| basis = ''[[Beauty and the Beast (1991 film)|Beauty and the Beast]]''<br />by Linda Woolverton
+| productions = 1993 [[Houston]] (tryout)<br />1994 [[Broadway theatre|Broadway]]<br />1995 Australia<br />1995 Vienna<br />1995 1st US tour<br />1997 [[West End theatre|West End]]<br />1999 2nd US tour<br />2001 1st UK tour<br />2001 3rd US tour<br />2010 4th US tour<br />2021 2nd UK tour <br /> 2022 West End revival<br /> 2023 Australia revival<br /> 2025 5th US tour <br
+/> TBA Broadway Revival
+| awards = [[Laurence Olivier Award for Best New Musical]]
+| image_size = 
+}}
+== Background and inception ==
+==Development==
+=== Writing and screen-to-stage modifications ===
+=== Casting ===
+=== Musical numbers and choreography ===
+
+=== Set and costumes ===
+=== Lighting and special effects ===
+==Synopsis==
+===Act I===
+===Act II===
+==Productions==
+===Houston (1993)===
+===Original Broadway production (1994–2007)===
+=== TV ice-show special (1996) ===
+===West End production (1997–1999)===
+===West End revival (2022)===
+===US national tours===
+=== UK national tours ===
+===International productions===
+===Amateur rights===
+==Original casts==
+{| class="wikitable"
+!rowspan=2|Characters
+!Broadway 
+!Los Angeles 
+!Australia
+!Toronto 
+!Vienna 
+!1st US tour
+!West End
+!2nd US tour 
+!1st UK tour 
+!2nd UK tour
+!West End revival
+!Australia revival
+! 5th US tour
+|-
+!1994
+!colspan=5|1995
+!1997
+!1999
+!2001
+!2021
+!2022
+!2023
+!2025
+|-
+|align="center"|'''[[Belle (Disney character)|Belle]]'''
+|align="center" colspan="2"|[[Susan Egan]]
+|align="center"|[[Rachael Beck]]
+|align="center"|[[Kerry Butler]]
+|align="center"|[[Caroline Vasicek]]
+|align="center"|Kim Huber
+|align="center"|Julie-Alanah Brighten
+|align="center"|Susan Owen
+|align="center"|Annalene Beechey
+|align="center" colspan="2"|[[Courtney Stapleton]]
+|align="center"|Shubshri Kandiah
+|align="center"|Kyra Belle Johnson
+|-
+
+|align="center"|'''[[Beast (Disney character)|The Beast]]'''
+|align="center" colspan="2" |[[Terrence Mann]]
+|align="center"|[[Michael Cormick]]
+|align="center"|[[Chuck Wagner]]
+|align="center"|[[Ethan Freeman]]
+|align="center"|Fred Inkley
+|align="center"|Alasdair Harvey
+|align="center"|Grant Norman
+|align="center"|Alistair Robins
+|align="center"|Emmanuel Kojo
+|align="center"|Shaq Taylor
+|align="center"|Brendan Xavier
+|align="center"|Fergie L. Philippe 
+|-
+|align="center"|'''[[Gaston (Beauty and the Beast)|Gaston]]'''
+|align="center" colspan="2" |[[Burke Moses]]
+|align="center"|[[Hugh Jackman]]
+|align="center"|[[Dan Chameroy]]
+|align="center"|Kevin Tarte
+|align="center"|Tony Lawson
+|align="center"|[[Burke Moses]]
+|align="center"|Chris Hoch
+|align="center"|Ben Harlow
+|align="center" colspan="2" |Tom Senior
+|align="center"|Jackson Head 
+|align="center"| [[Stephen Mark Lukas]]
+|-
+|align="center"|'''[[List of Disney's Beauty and the Beast characters#Lumière|Lumière]]'''
+|align="center" colspan="2" |[[Gary Beach]]
+|align="center"|Grant Smith
+|align="center"|André Thérien
+|align="center"|Viktor Gernot
+|align="center"|[[Patrick Page]]
+|align="center"|[[Derek Griffiths]]
+|align="center"|Ron Wisniski
+|align="center"|Stephen Matthews
+|align="center" colspan="2" |[[Gavin Lee]]
+|align="center"|[[Rohan Browne]]
+|align="center"|Danny Gardner
+|-
+|align="center"|'''[[Mrs. Potts]]'''
+|align="center" colspan="2" |[[Beth Fowler]]
+|align="center"|Robyn Arthur
+|align="center"|Judy Marshak
+|align="center"|Rosita Mewis
+|align="center"|[[Betsy Joslyn]]
+|align="center"|[[Mary Millar]]
+|align="center"|Janet MacEwen
+|align="center"|[[Julia Goss]]
+|align="center" colspan="2" |[[Sam Bailey]]
+|align="center"|Jayde Westaby
+|align="center"|Kathy Voytko
+|-
+|align="center"|'''[[Cogsworth]]'''
+|align="center"|[[Heath Lamberts]]
+|align="center"|[[Fred Applegate (actor)|Fred Applegate]]
+|align="center"|[[Bert Newton]]
+|align="center"|Paul Brown
+|align="center"|Heinz Zuber
+|align="center"|Jeff Brooks
+|align="center"|[[Barry James]]
+|align="center"|John Alban Coughlan
+|align="center"|[[Barry James]]
+|align="center" colspan="2" |Nigel Richards
+|align="center"|Gareth Jacobs
+|align="center"|Javier Ignacio
+|-
+|align="center"|'''[[List of Disney's Beauty and the Beast characters#Le Fou|LeFou]]'''
+|align="center"|Kenny Raskin
+|align="center"|Jamie Torcellini
+|align="center"|Zachary McKay
+|align="center"|Cliff Saunders
+|align="center"|Eric Minsk
+|align="center"|Dan Sklar
+|align="center"|Richard Gauntlett
+|align="center"|Michael Raine
+|align="center"|Anthony Clegg
+|align="center" colspan="2" |Louis Stockil
+|align="center"|Nick Cox
+|align="center"|Harry Francis
+|-
+|align="center"|'''[[List of Disney's Beauty and the Beast characters#Maurice|Maurice]]'''
+|align="center" colspan="2" |[[Tom Bosley]]
+|align="center"|[[Ernie Bourne]]
+|align="center"|Terry Doyle
+|align="center"|Rudolf Wasserlof
+|align="center"|Grant Cowan
+|align="center"|[[Norman Rossington]]
+|align="center"|Ron Lee Savin
+|align="center"|[[Billy Boyle]]
+|align="center" colspan="2" |[[Martin Ball]]
+|align="center"|Rodney Dobson
+|align="center"|Kevin Ligon
+|-
+|align="center"|'''[[List of Disney's Beauty and the Beast characters#Featherduster|Babette]]'''
+|align="center"|[[Stacey (Loach) Logan|Stacey Logan]]
+|align="center"|Heather Lee
+|align="center"|Alinta Carroll
+|align="center"|Elizabeth Beeler
+|align="center"|[[Ann Mandrella]]
+|align="center"|Leslie Castay
+|align="center"|Rebecca Thornhill
+|align="center"|Jennifer Shrader
+|align="center"|Kate Graham
+|align="center" colspan="2" |Emma Caffrey
+|align="center"|Hayley Martin 
+|align="center"|Cameron Monroe Thomas
+|-
+|align="center"|'''[[List of Disney's Beauty and the Beast characters#The Wardrobe|Madame de la Grande Bouche]]'''
+|align="center"|Eleanor Glockner
+|align="center"|[[Mary Jo Catlett]]
+|align="center"|Gloden Mercer
+|align="center"|Jo-Anne Kirwan Clark
+|align="center"|[[Marika Lichter]]
+|align="center"|Mary Stout
+|align="center"|[[Di Botcher]]
+|align="center"|Monica M. Wemitt
+|align="center"|Karen Davies
+|align="center" colspan="2" |Samantha Bingley
+|align="center"|Alana Tranter
+|align="center"|Holly Ann Butler
+|-
+|align="center"|'''[[Chip Potts|Chip]]'''
+|align="center"|Brian Press
+|align="center"|[[Adam Wylie]]
+----Jeremy Lelliott
+|align="center"|Paul Cheyene
+----Anthony Hammer
+----Zach Meyers
+|align="center"|Gil Filar
+----[[Noah Reid]]
+|
+|align="center"|Alex Bowen
+----Braden Dickie
+|align="center"|Ben Butterfield
+----Dayle Hodge
+----Simon Kennedy
+|align="center"|Michael Mags
+----Miles Meehan
+|align="center"|Oliver Taylor
+----Sion Eifion
+|align="center"|Manasseh Mapira
+----Iesa Miller
+----Theo Querico
+----Rojae Simpson
+----Joshua Smith
+|align="center"|Benjamin Dalton
+----Sekhani Dumezweni
+----Zarian Marcel Obatarhe
+----Rojae Simpson
+
+|align="center"|Romeo Angelkovski
+----Akiva Guigen
+----Christopher Joseph
+----Orlando Steiner
+|align="center"|Beatrice Goddard Beggs
+----Levi Blaise Coleman
+|}
+
+===Notable cast replacements===
+'''Notable Broadway cast replacements''' (approximate dates given where available)
+ 
+*Belle: [[Sarah Uriarte Berry]] (1995–1996 & 2006), [[Kerry Butler]] (1996–1997), [[Debbie Gibson]] (1997–1998), [[Toni Braxton]] (1998–1999; first African American to play Belle on Broadway), [[Andrea McArdle]] (1999–2000), [[Sarah Litzsinger]] (2000–2002, 2003 & 2006), [[Jamie-Lynn Sigler]] (2002–2003, Broadway debut), [[Megan McGinnis]] (2003–2004), [[Christy Carlson Romano]] (2004), [[Ashley Brown]] (2005–2006, Broadway debut), [[Anneliese van der Pol]] (2007, Broadway debut, closing cast). A total of 17 actresses have played the part of Belle in the Broadway production, with Litzsinger playing it the longest.
+*Beast: [[Jeff McCarthy]] (1995–1997 & 2004), [[Chuck Wagner]] (1997–1998), [[James Barbour (singer)|James Barbour]] (1998–1999), [[Steve Blanchard]] (who played the Beast for the last eight years of the Broadway run).
+*Gaston: [[Marc Kudisch]] (1995–1997), [[Steve Blanchard]] (1997–1999), [[Christopher Sieber]] (2001), [[Donny Osmond]] (2006 & final Broadway performance)
+*Lumière: [[Lee Roy Reams]] (1995), [[Meshach Taylor]] (1998–1999, Broadway debut), [[Patrick Page]] (1999–2001 & 2003), [[Paul Schoeffler]] (2001), [[Bryan Batt]] (2001–2002), [[Jacob Young]] (2006, Broadway debut), [[John Tartaglia]] (2006–2007)
+*Cogsworth: [[Peter Bartlett (actor)|Peter Bartlett]], [[Jonathan Freeman (actor)|Jonathan Freeman]] (2006–2007)
+*Chip: [[Harrison Chad]], [[Sean Curley]], [[Nick Jonas]] 
+
+'''Notable Canada cast replacements'''
+*Beast: [[Steve Blanchard]]
+
+'''Notable Vienna cast replacements'''
+*Beast: [[Steve Barton]]
+
+'''Notable West End cast replacements'''
+*Belle: [[Michelle Gayle]]
+*Beast: [[John Barrowman]], [[Earl Carpenter (actor)|Earl Carpenter]]
+*Mrs. Potts: [[Gemma Craven]]
+*Maurice: [[Billy Boyle]]
+
+'''Notable 1st UK Tour cast replacements'''
+*Belle: [[Dianne Pilkington]]
+*Gaston: [[Earl Carpenter (actor)|Earl Carpenter]]
+
+==Characters==
+{| style="wikitable" border="0"
+| width=20% style="background:lightblue"| '''Character'''
+| '''Description'''
+|- valign="top"
+|[[Belle (Disney character)|Belle]]
+| A vibrant, intelligent young beauty who wants much more in life than living in a small town. She is perceived to be quite odd. '''Voice type:''' [[Mezzo-Soprano]]
+|-valign="top"
+| [[Beast (Disney character)|The Beast]]
+| A prince transformed into a terrifying beast for his lack of compassion; short-tempered and commanding, but with a warm, loving heart buried far beneath his gruff exterior. '''Voice type:''' [[Baritone]]
+|-valign="top"
+| [[Gaston (Beauty and the Beast)|Gaston]]
+| The story's antagonist. The vain, egotistical, narcissistic, ultra-masculine villain determined to marry Belle. '''Voice type:''' [[Baritone]]
+|- valign="top"
+| [[List of Disney's Beauty and the Beast characters#Lumière|Lumière]]
+| A suave, French, debonair enchanted candelabra. The maître d' of the castle. '''Voice type:''' [[Baritone]]
+|- valign="top"
+| [[Mrs. Potts]]
+| A kind-hearted, maternal enchanted teapot. The head of the castle's kitchen. '''Voice type:''' [[Mezzo-Soprano]]
+|- valign="top"
+| [[Cogsworth]]
+| A tightly wound, enchanted stuffy mantle clock and head of the Beast's castle. '''Voice type:''' [[Baritone]]
+|- valign="top"
+| [[List of Disney's Beauty and the Beast characters#Le Fou|LeFou]]
+| Gaston's bumbling sidekick. '''Voice type:''' [[Tenor]]
+|- valign="top"
+| [[List of Disney's Beauty and the Beast characters#Maurice|Maurice]]
+| Belle's loving, eccentric inventor father. '''Voice type:''' [[Baritone]]
+|- valign="top"
+| [[List of Disney's Beauty and the Beast characters#Featherduster|Babette]]
+| A saucy, flirtatious featherduster who seeks Lumière's affections. The maid of the castle. '''Voice type:''' [[Soprano]]
+|-valign="top"
+| [[List of Disney's Beauty and the Beast characters#The Wardrobe|Madame de la Grande Bouche]]
+| A former opera diva turned into a wardrobe. '''Voice type:''' [[Soprano]]
+|- valign="top"
+|[[List of Disney's Beauty and the Beast characters#Chip Potts|Chip]]
+| A young teacup; Mrs. Potts' son. '''Voice type:''' [[Boy soprano]]
+|-valign="top"
+| [[Monsieur D'Arque]]
+| The freaky, scheming proprietor of the local insane asylum, the Maison des Lunes. '''Voice type:''' [[Tenor]]
+|-valign="top"
+| Ensemble
+| Silly Girls, Enchanted Objects, Townspeople, Tavern Patrons, Mob.
+|}
+
+==Musical numbers==
+{{col-begin}}
+{{col-2}}
+;Act I
+* Overture*#¶ — Orchestra
+* Prologue — Narrator
+* Belle — Belle, Gaston, Silly Girls, Ensemble
+* No Matter What*#¶ — Maurice, Belle
+* No Matter What (Reprise) / Wolf Chase*# — Maurice
+* Me*# — Gaston, Belle
+* Belle (Reprise) — Belle
+* Home* — Belle
+* Home (Reprise) — Mrs. Potts
+* Gaston† — LeFou, Gaston, Silly Girls, Ensemble
+* Gaston (Reprise)† — Gaston, LeFou
+* How Long Must This Go On?*# — Beast
+* [[Be Our Guest]]† — Lumiere, Mrs. Potts, Ensemble
+* [[If I Can't Love Her]]*# — Beast
+{{col-break}}
+
+;Act II
+* Entr'acte/Wolf Chase* — Orchestra
+* Something There — Belle, Beast, Lumiere, Mrs. Potts, Cogsworth
+* [[Human Again (Beauty and the Beast)|Human Again]]*‡ — Lumiere, Mrs. Potts, Chip, Madame de la Grande Bouche, Babette, Cogsworth, Ensemble
+* Maison Des Lunes*#¶ — Gaston, LeFou, Monsieur D' Arque
+* [[Beauty and the Beast (Disney song)|Beauty and the Beast]] — Mrs. Potts
+* If I Can't Love Her (Reprise)* — Beast
+* [[A Change in Me]]*§# — Belle
+* The Mob Song — Gaston, Ensemble
+* The Battle*¶ — The Company
+* Home (Reprise II)* — Belle
+* Transformation* — Beast, Belle, Ensemble
+* Beauty and the Beast (Reprise) — The Company
+
+{{col-end}}
+
+<nowiki>*</nowiki> New song/Expanded score
+
+''#'' not in the Junior Broadway show, but some Junior versions have retained the song.
+
+==Instrumentation==
+==Recordings==
+== Critical reception ==
+== Awards and nominations ==
+===Original Broadway production===
+{|
+|-
+| links || [[48th Tony Awards|Tony Awards]] [[Tony Award for Best Musical|Best Musical]] [[Tony Award for Best Book of a Musical|Best Book of a Musical]] [[Linda Woolverton]] [[Tony Award for Best Original Score|Best Original Score]] [[Alan Menken]] [[Howard Ashman]] [[Tim Rice]] [[Tony Award for Best Performance by a Leading Actor in a Musical|Best Performance by a Leading Actor in a Musical]] [[Terrence Mann]] [[Tony Award for Best Performance by a Leading Actress in a Musical|Best Performance by a Leading Actress in a Musical]] [[Susan Egan]] [[Tony Award for Best Performance by a Featured Actor in a Musical|Best Performance by a Featured Actor in a Musical]] [[Gary Beach]] [[Tony Award for Best Direction of a Musical|Best Direction of a Musical]] [[Tony Award for Best Costume Design|Best Costume Design]] [[Ann Hould-Ward]] [[Tony Award for Best Lighting Design|Best Lighting Design]] [[Natasha Katz]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Musical|Outstanding Musical]] [[Drama Desk Award for Outstanding Actor in a Musical|Outstanding Actor in a Musical]] [[Drama Desk Award for Outstanding Actress in a Musical|Outstanding Actress in a Musical]] [[Drama Desk Award for Outstanding Featured Actor in a Musical|Outstanding Featured Actor in a Musical]] [[Burke Moses]] [[Drama Desk Award for Outstanding Choreography|Outstanding Choreography]] [[Matt West]] [[Drama Desk Award for Outstanding Orchestrations|Outstanding Orchestrations]] [[Danny Troob]] [[Drama Desk Award for Outstanding Lyrics|Outstanding Lyrics]] [[Drama Desk Award for Outstanding Music|Outstanding Music]] [[Drama Desk Award for Outstanding Sound Design|Outstanding Sound Design]] [[Drama Desk Award|Outstanding Special Effects]] [[Jim Steinmeyer]] [[John Gaughan]]
+|}
+===Original London production===
+{|
+|-
+| links || [[Laurence Olivier Award]] [[Laurence Olivier Award for Best New Musical|Best New Musical]] [[Laurence Olivier Award for Best Theatre Choreographer|Best Theatre Choreographer]] [[Matt West]] [[Laurence Olivier Award for Best Costume Design|Best Costume Design]] [[Ann Hould-Ward]]
+|}
+== Impact and legacy ==
+==References==
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+cast included [[Susan Egan]].
+cast included [[Susan Egan]], as [[Belle (Disney character)|Belle]], [[Terrence Mann]], as the [[Beast (Disney character)|Beast]], [[Burke Moses]], [[Gary Beach]], [[Beth Fowler]].
+starred [[Ekaterina Gordeeva]].
+cast included [[Michael Cormick]].
+cast included [[Michael Cormick]], [[Rachael Beck]], [[Hugh Jackman]], [[Ernie Bourne]].
+starred [[Kerry Butler]].
+cast included [[Ethan Freeman]].
+cast included [[Ethan Freeman]], [[Caroline Vasicek]].
+cast included Xenia Reguant (later replaced by Julia Möller) as Belle, [[Carlos Marín]].
+cast included Julia Möller reprising her role as Belle (later replaced by María Adamuz), David Ordinas as Beast, [[Pablo Puyol]].
+cast included [[Josje Huisman]].
+cast included [[Josje Huisman]], [[Eline De Munck]], [[Barbara Dex]].
+cast included [[Rachael Beck]].
+cast included [[Rachael Beck]], [[Hugh Jackman]].
+cast included Ethan Freeman as Beast, Caroline Vasicek as Belle, Kevin Tarte as Gaston, Viktor Gernot as Lumière, [[Ann Mandrella]].
+cast included Julie-Alanah Brighten as Belle, Alasdair Harvey as Beast, [[Burke Moses]], [[Derek Griffiths]], [[Mary Millar]].
+cast included Uwe Kroger as Beast and Leah Delos Santos as Belle and [[Ann Mandrella]].
+cast included Xenia Reguant as Belle, [[Carlos Marín]].

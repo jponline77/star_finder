@@ -1,0 +1,162 @@
+{{Infobox musical
+| name = Be More Chill
+| image = Be More Chill 2018.jpg
+| caption = Broadway promotional poster
+| music = [[Joe Iconis]]
+| lyrics = Joe Iconis
+| book = Joe Tracz
+| basis = ''[[Be More Chill]]''<br />by [[Ned Vizzini]]
+| setting = [[New Jersey]]
+| premiere_date = May 30, 2015
+| premiere_location = [[Two River Theatre]], [[Red Bank, New Jersey|Red Bank]], [[New Jersey]]
+| productions = 2015 [[New Jersey]]<br />2018 [[Off-Broadway]]<br />2019 [[Broadway theatre|Broadway]]<br />2020 [[off-West End]]<br />2021 [[West End theatre|West End]] <br />2022 [[Japan]]
+| image_size = 
+}}
+==Productions==
+=== New Jersey (2015) ===
+=== Off-Broadway (2018) ===
+=== Broadway (2019) ===
+=== Off-West End (2020) ===
+=== Cancelled Chicago production (2020) ===
+===West End (2021)===
+=== Japanese production (2022) ===
+== Plot ==
+=== Act One ===
+=== Act Two ===
+== Musical numbers ==
+Source:
+
+† – Indicates a song not included on the Cast Album
+{{col-begin}}
+{{col-2}}
+; Act 1
+* "Jeremy's Theme" – Orchestra 
+* "More Than Survive" – Jeremy, Michael & Ensemble
+* "I Love Play Rehearsal" – Christine
+* "More Than Survive (Reprise)" – Jeremy{{efn|Not included in the Original Two River Cast Recording, but included in the Original Broadway Cast Recording.}}
+* "The SQUIP Song" – Rich & Ensemble
+* "The SQUIP Song (Reprise 1)" – Jeremy †
+* "Two-Player Game" – Michael & Jeremy
+* "The SQUIP Song (Reprise 2)" – Scary Stockboy †
+* "The Squip Enters" – Orchestra
+* "Be More Chill Pt. 1" – Squip, Jeremy & Mall People
+* "Do You Wanna Ride?" – Brooke & Chloe
+* "Be More Chill Pt. 2" – Squip, Jeremy & Mall People
+* "Sync Up" – Jeremy, Squip, Jake, Rich, Chloe, Brooke, Jenna, Mr. Reyes & Ensemble{{efn|Added to the Original Broadway production to replace "More Than Survive (Reprise 2)".}}
+* "More Than Survive (Reprise 2)" – Jeremy, Squip & Ensemble{{efn|Removed in the Original Broadway production and replaced with "Sync Up".}}
+* "The SQUIP Lurks" – Orchestra{{efn|Renamed "The SQUIP Stalks" in the Original Broadway production.}}
+* "A Guy That I'd Kinda Be Into" – Christine, Jeremy, Squip & Ensemble
+* "Upgrade" – Brooke, Squip, Jeremy, Jake, Christine & Ensemble
+* "Loser Geek Whatever" – Jeremy{{efn|Added from the Original Off-Broadway production onwards.}}
+
+{{col-2}}
+; Act 2
+* "Halloween" – Brooke, Jake, Chloe, Rich, Jenna & Ensemble
+* "Do You Wanna Hang?" – Chloe
+* "Michael in the Bathroom" – Michael & Ensemble
+* "A Guy That I'd Kinda Be Into (Reprise)" – Christine & Jeremy{{efn|Not included in the Original Two River Cast Recording, but included in the Original Broadway Cast Recording.}}
+* "The Smartphone Hour" – Jenna, Chloe, Brooke & Ensemble
+* "The Pants Song" – Mr. Heere & Michael{{efn|Prior to the Off-Broadway production, the order of "The Pants Song" and "The Pitiful Children" was reversed.}}
+* "The Pitiful Children" – Squip, Jeremy, Jenna & Ensemble
+* "The Play" – Michael, Jake, Brooke, Chloe, Jeremy, Christine, Squip & Ensemble
+* "Voices in My Head" – Mr. Heere, Michael, Rich, Jeremy, Jenna, Brooke, Chloe, Jake, Christine & Ensemble
+
+{{col-end}}
+;Notes
+{{Notelist}}
+
+==Roles and original casts==
+===Original productions===
+Source:
+{| class="wikitable"
+|-
+! rowspan="2" | Character
+! World Premiere
+! Workshop
+! Off-Broadway
+! Broadway
+!Off-West End
+! West End
+! Tokyo
+|-
+!<small>2015</small>
+!<small>2016</small>
+!<small>2018</small>
+!<small>2019</small>
+!<small>2020</small>
+!<small>2021</small>
+!<small>2022</small>
+|-
+! Jeremy Heere
+| colspan="2" align="center" |Will Connolly
+| colspan="2" align="center" |[[Will Roland]]
+| colspan="2" align="center" |Scott Folan
+| align="center" |Kota Yabu
+|-
+! Michael Mell
+| colspan="4" align="center" |[[George Salazar]]
+| colspan="2" align="center" |Blake Patrick Anderson
+| align="center" |[[Seishiro Kato]]
+|-
+! Christine Canigula
+| colspan="4" align="center" |[[Stephanie Hsu]]
+| colspan="2" align="center" |[[Miracle Chance]]
+| align="center" |Sayuri Inoue
+|-
+! The SQUIP
+| colspan="2" align="center" |Eric William Morris
+| colspan="2" align="center" |[[Jason Tam]]
+| colspan="2" align="center" |Stewart Clarke
+| align="center" |[[Daisuke Yokoyama]]
+|-
+! Chloe Valentine
+| colspan="4" align="center" |Katlyn Carlson
+| colspan="2" align="center" |[[Millie O'Connell]]
+| align="center" |Ayaka Larrison
+|-
+! Brooke Lohst
+| colspan="4" align="center" |[[Lauren Marcus]]
+| colspan="2" align="center" |Eloise Davies
+| align="center" |Ruki Saito
+|-
+! Rich Goranski
+| colspan="4" align="center" |[[Gerard Canonico]]
+| colspan="2" align="center" |James Hameed
+| align="center" |Yuya Kido
+|-
+! Jenna Rolan
+| colspan="2" align="center" |Katie Ladner
+| colspan="2" align="center" |Tiffany Mann
+| colspan="2" align="center" |Renée Lamb
+| align="center" |Marika Dandoy
+|-
+! Jake Dillinger
+| align="center" |Jake Boyd
+| align="center" |Heath Saunders
+| colspan="2" align="center" |Britton Smith
+| colspan="2" align="center" |Miles Paloma
+| align="center" |Akiyoshi Utsumi
+|-
+! Mr. Heere / Mr. Reyes / Scary Stockboy
+| colspan="2" align="center" |Paul Whitty 
+| colspan="2" align="center" |Jason "SweetTooth" Williams
+| colspan="2" align="center" |Christopher Fry
+| align="center" |[[Brother Tom]]
+|}
+
+==Recording==
+==Awards and honors==
+=== Original Off-Broadway production ===
+{|
+|-
+| links || [[Lucille Lortel Awards]] [[Stephanie Hsu]] [[George Salazar]]
+|}
+=== Original Broadway production ===
+{|
+|-
+| links || [[73rd Tony Awards|Tony Awards]] [[Tony Award for Best Original Score|Best Original Score]] [[Joe Iconis]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Musical|Outstanding Musical]] [[Drama Desk Award for Outstanding Featured Actor in a Musical|Outstanding Featured Actor in a Musical]] [[George Salazar]] [[Drama Desk Award for Outstanding Featured Actress in a Musical|Outstanding Featured Actress in a Musical]] [[Stephanie Hsu]] [[Drama Desk Award for Outstanding Music|Outstanding Music]] [[Drama Desk Award for Outstanding Lyrics|Outstanding Lyrics]] [[Drama Desk Award for Outstanding Orchestrations|Outstanding Orchestrations]] [[Charlie Rosen (musician)|Charlie Rosen]] [[Drama Desk Award for Outstanding Costume Design of a Musical|Outstanding Costume Design for a Musical]] [[Drama Desk Award for Outstanding Projection Design|Outstanding Projection Design]] [[Outer Critics Circle Award]]
+|}
+==Reception==
+==Film adaptation==
+== References ==
+== External links ==

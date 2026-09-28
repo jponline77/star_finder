@@ -1,0 +1,133 @@
+{{Infobox Musical
+|name= Gigi
+|subtitle=
+|image= Gigi Broadway.jpg
+|caption= Original Broadway Poster
+|music= [[Frederick Loewe]]
+|lyrics= [[Alan Jay Lerner]]
+|book= {{Plainlist|
+*[[Alan Jay Lerner]] (original book)
+*[[Heidi Thomas]] (revised book)
+}}
+|basis= Novel by [[Colette]]
+|premiere_date = May 15, 1973
+|premiere_location = [[Curran Theatre]], [[San Francisco]]
+|productions= 1973 [[Broadway theatre|Broadway]] <br/> 1984 National Tour <br/> 1985 [[West End theatre|West End]] <br/> 2015 [[Kennedy Center]] <br/> 2015 [[Broadway theatre|Broadway]] Revival 
+
+|awards= [[Tony Award for Best Score]]
+}}
+==Background==
+==Productions==
+=== Original productions ===
+=== Revival productions ===
+==Synopsis==
+==Songs==
+{{col-begin}}
+{{col-2}}
+;Act I
+* Overture
+* [[Thank Heaven for Little Girls]] - Honoré
+* It's A Bore - Honoré and Gaston
+* The Earth and Other Minor Things - Gigi
+* Paris is Paris Again - Honoré and Ensemble
+* She's Not Thinking of Me - Gaston
+* It's A Bore (Reprise) - Honoré, Gaston, Manuel and Aunt Alicia
+* The Night They Invented Champagne - Gigi, Gaston and Mamita
+* I Remember It Well - Honoré and Mamita
+* I Never Want To Go Home Again - Gigi and Ensemble
+{{col-break}}
+
+;Act II
+* [[Gigi (song)|Gigi]] - Gaston
+* The Contract - Alicia, Mamita, Duclos and Du Fresne
+* I'm Glad I'm Not Young Anymore - Honoré
+* In This Wide, Wide World - Gigi
+* [[Thank Heaven for Little Girls]] (reprise) - Honoré
+{{col-end}}
+
+==Casting==
+{| class="wikitable" width="80%"
+! Role
+! Original Broadway Cast <br/> (1973)
+! National Tour Cast <br/> (1984)
+! Original London Cast <br/> (1985)
+! Broadway Revival Cast <br/> (2015)
+|-
+! scope="row"| Gigi
+| align="center" | [[Karin Wolfe]]
+| align="center" | Lisa Howard
+|align="center" | [[Amanda Waring]]
+| align="center" | [[Vanessa Hudgens]]
+|-
+! scope="row"| Gaston Lachaille
+| align="center" | [[Daniel Massey (actor)|Daniel Massey]]
+| align="center" | [[Tom Hewitt (actor)|Tom Hewitt]]
+| align="center" | [[Geoffrey Burridge]]
+| align="center" | [[Corey Cott]]
+|-
+! scope="row"| Honoré Lachaille
+| align="center" | [[Alfred Drake]]
+| align="center" | [[Louis Jourdan]]
+| align="center" | [[Jean-Pierre Aumont]]
+| align="center" | [[Howard McGillin]]
+|-
+! scope="row"| Inez Alvarez (Mamita)
+| align="center" | [[Maria Karnilova]]
+| align="center" | [[Taina Elg]]
+| align="center" | [[Beryl Reid]]
+| align="center" | [[Victoria Clark]]
+|-
+! scope="row"| Aunt Alicia
+| align="center" | [[Agnes Moorehead]]
+| align="center" | [[Betsy Palmer]]
+| align="center" | [[Siân Phillips]]
+| align="center" | [[Dee Hoty]]
+|-
+! scope="row"| Liane d'Exelmans
+| align="center" | [[Sandahl Bergman]]
+| align="center" | Carla Farnsworth-Webb
+|align="center" | Carrie Ellis
+| align="center" | Steffanie Leigh
+|-
+! scope="row"| Manuel
+| align="center" | Truman Gaige
+| align="center" | Geoffrey Webb
+| rowspan="2" align="center" | John Aron
+| align="center" | -
+|-
+! scope="row"| Maitre Dufresne
+| align="center" | Richard Woods
+| align="center" | Joe Gustern
+| align="center" | James Patterson
+|-
+! scope="row"| Sandomir
+| align="center" | Randy Di Grazio
+| colspan="2" align="center" | <nowiki>-</nowiki>
+| align="center" | Amos Wolf
+|-
+! scope="row"| Maitre Duclos
+| align="center" | Howard Chitjian
+| align="center" | Rob Donohoe
+| align="center" | David De Van
+| align="center" | -
+|}
+
+==Awards and nominations==
+===Original Broadway production===
+{|
+|-
+| links || [[28th Tony Awards|Tony Awards]] [[Tony Award for Best Original Score|Best Original Score]] [[Frederick Loewe]] [[Alan Jay Lerner]] [[Tony Award for Best Actor in a Musical|Best Leading Actor in a Musical]] [[Alfred Drake]] [[Tony Award for Best Scenic Design|Best Scenic Design]] [[Oliver Smith (designer)|Oliver Smith]] [[Tony Award for Best Costume Design|Best Costume Design]] [[Oliver Messel]]
+|}
+===2015 Broadway revival===
+{|
+|-
+| links || [[69th Tony Awards|Tony Awards]] [[Tony Award for Best Featured Actress in a Musical|Best Featured Actress in a Musical]] [[Victoria Clark]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Costume Design|Outstanding Costume Design]] [[Catherine Zuber]] [[Outer Critics Circle Awards]]
+|}
+==References==
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+starred [[Audrey Hepburn]].
+cast featured [[Karin Wolfe]], [[Daniel Massey (actor)|Daniel Massey]], [[Maria Karnilova]], [[Agnes Moorehead]], [[Alfred Drake]].
+cast included [[Amanda Waring]].
+cast included [[Amanda Waring]], [[Geoffrey Burridge]], [[Beryl Reid]], [[Siân Phillips]], [[Jean-Pierre Aumont]].

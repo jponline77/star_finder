@@ -1,13 +1,14 @@
 /**
  * "/admin" (SPEC §7.15) — admins only (others see a polite "Admins only 👑" page).
  * Overview counters, then tabs: Users (roles, disable, reset password), Comments (moderation
- * feed) and Festivals (SPEC §7b: add / edit / hide / delete). Also offers the spreadsheet export.
+ * feed), Festivals (SPEC §7b: add / edit / hide / delete) and Cast albums (SPEC §7c: cast albums and
+ * cast-album song lists users saved for catalog shows — check and remove). Also offers the spreadsheet export.
  * Mounted inside <RequireAuth>.
  */
 import { Download, RefreshCw } from 'lucide-react';
 import { useCallback, useMemo, useState } from 'react';
 import { Link, useSearchParams } from 'react-router';
-import { adminListComments, adminListFestivals, adminListUsers, EXPORT_XLSX_URL, errorMessage } from '../api';
+import { adminListCatalogRecordings, adminListComments, adminListFestivals, adminListUsers, EXPORT_XLSX_URL, errorMessage } from '../api';
 import { TabPanel, Tabs } from '../components/Controls';
 import { ErrorState } from '../components/EmptyState';
 import { Skeleton } from '../components/Skeletons';
@@ -15,13 +16,15 @@ import { useApiData } from '../hooks/useApiData';
 import { useDocumentTitle } from '../hooks/useDocumentTitle';
 import { useAuth } from '../state/AuthProvider';
 import { useSongs } from '../state/SongsProvider';
-import type { AdminUser, Comment, Festival } from '../types';
+import type { AdminCatalogRecording, AdminUser, Comment, Festival } from '../types';
+import { CatalogRecordingsPanel } from './admin/CatalogRecordingsPanel';
 import { CommentsPanel } from './admin/CommentsPanel';
 import { FestivalsPanel } from './admin/FestivalsPanel';
 import { UsersPanel } from './admin/UsersPanel';
 import './AdminPage.css';
 
-type TabId = 'users' | 'comments' | 'festivals';
+type TabId = 'users' | 'comments' | 'festivals' | 'recordings';
+const TABS: readonly TabId[] = ['users', 'comments', 'festivals', 'recordings'];
 const PAGE = 100;
 const WEEK_MS = 7 * 24 * 60 * 60 * 1000;
 
@@ -62,7 +65,7 @@ function AdminsOnly() {
 function AdminBooth() {
   const [params, setParams] = useSearchParams();
   const tabParam = params.get('tab');
-  const tab: TabId = tabParam === 'comments' || tabParam === 'festivals' ? tabParam : 'users';
+  const tab: TabId = TABS.includes(tabParam as TabId) ? (tabParam as TabId) : 'users';
   const setTab = useCallback(
     (t: TabId) => {
       const next = new URLSearchParams(params);
@@ -81,6 +84,10 @@ function AdminBooth() {
   const [festivalsWanted, setFestivalsWanted] = useState(tab === 'festivals');
   if (tab === 'festivals' && !festivalsWanted) setFestivalsWanted(true);
   const festivals = useApiData<{ festivals: Festival[] }>((signal) => adminListFestivals(signal), [], { enabled: festivalsWanted });
+  // Cast albums too (they're only needed when someone looks).
+  const [recordingsWanted, setRecordingsWanted] = useState(tab === 'recordings');
+  if (tab === 'recordings' && !recordingsWanted) setRecordingsWanted(true);
+  const recordings = useApiData<{ shows: AdminCatalogRecording[] }>((signal) => adminListCatalogRecordings(signal), [], { enabled: recordingsWanted });
 
   const userList = useMemo(() => users.data?.users ?? [], [users.data]);
   // Removed comments are hidden locally so "has more" still reflects the size of the server page.
@@ -106,8 +113,9 @@ function AdminBooth() {
     users.reload();
     comments.reload();
     if (festivalsWanted) festivals.reload();
+    if (recordingsWanted) recordings.reload();
   };
-  const busy = users.loading || comments.loading || (festivalsWanted && festivals.loading);
+  const busy = users.loading || comments.loading || (festivalsWanted && festivals.loading) || (recordingsWanted && recordings.loading);
 
   return (
     <div className="container admin-page">
@@ -119,7 +127,7 @@ function AdminBooth() {
           <h1 className="page-title">
             Admin <span className="admin-title-crown" aria-hidden="true">👑</span>
           </h1>
-          <p className="page-subtitle">Look after accounts, keep Backstage Chatter kind, keep festival dates current, and grab the whole song list as a spreadsheet.</p>
+          <p className="page-subtitle">Look after accounts, keep Backstage Chatter kind, keep festival dates current, check cast albums saved for the song catalog, and grab the whole song list as a spreadsheet.</p>
         </div>
         <div className="cluster admin-header-actions">
           <button type="button" className="btn btn-ghost btn-sm" onClick={refreshAll} disabled={busy} data-testid="admin-refresh">
@@ -154,6 +162,7 @@ function AdminBooth() {
           { id: 'users', label: 'Users', badge: users.data ? userList.length : undefined, testId: 'admin-tab-users' },
           { id: 'comments', label: 'Comments', badge: comments.data ? `${commentList.length}${pageFull ? '+' : ''}` : undefined, testId: 'admin-tab-comments' },
           { id: 'festivals', label: 'Festivals', badge: festivals.data ? festivals.data.festivals.length : undefined, testId: 'admin-tab-festivals' },
+          { id: 'recordings', label: 'Cast albums', badge: recordings.data ? recordings.data.shows.length : undefined, testId: 'admin-tab-recordings' },
         ]}
       />
 
@@ -190,6 +199,19 @@ function AdminBooth() {
           <PanelSkeleton label="Loading festivals…" />
         ) : (
           <FestivalsPanel festivals={festivals.data.festivals} onChange={(next) => festivals.setData({ festivals: next })} />
+        )}
+      </TabPanel>
+
+      <TabPanel id="recordings" idPrefix="admin-tab" active={tab === 'recordings'}>
+        {recordings.error && !recordings.data ? (
+          <ErrorState title="Couldn’t load the cast albums" message={errorMessage(recordings.error)} onRetry={recordings.reload} />
+        ) : !recordings.data ? (
+          <PanelSkeleton label="Loading cast albums…" />
+        ) : (
+          <CatalogRecordingsPanel
+            shows={recordings.data.shows}
+            onRemoved={(id) => recordings.setData((prev) => (prev ? { shows: prev.shows.filter((s) => s.id !== id) } : prev))}
+          />
         )}
       </TabPanel>
     </div>

@@ -1,0 +1,159 @@
+{{Infobox musical
+| name = Oklahoma!
+| image = Musical1943-Oklahoma!-OriginalPoster.jpg
+| image_size = 210px
+| caption = Original Broadway poster (1943)
+| music = [[Richard Rodgers]]
+| lyrics= [[Oscar Hammerstein II]]
+| book  = Oscar Hammerstein II
+| basis = {{based on|[[Green Grow the Lilacs (play)|''Green Grow the Lilacs'']]|[[Lynn Riggs]]}}
+| productions = {{ubl|1943 Broadway|1944 National tour|1947 West End|1951 Broadway [[revival (theatre)|revival]]|1979 Broadway revival|1980 West End revival|1998 West End revival|2002 Broadway revival|2003 US tour|2010 UK tour|2015 UK tour|2019 Broadway revival|2021 US tour|2023 West End revival}}
+
+| awards = {{ubl|1944 special [[Pulitzer Prize]]|1993 [[Special Tony Award]]<br />(50th Anniversary)|1999 [[Laurence Olivier Award for Best Musical Revival|Olivier Award for Best Musical Revival]]|2019 [[Tony Award for Best Revival of a Musical]]|2023 [[Laurence Olivier Award for Best Musical Revival|Olivier Award for Best Musical Revival]]}}
+}}
+==Background==
+===Conception===
+===Casting and development===
+==Plot==
+===Act I===
+===Act II===
+==Principal roles and notable performers==
+Sources shown in Productions section except as stated here.
+
+{|class="wikitable"
+|-
+! style="width:100px;"|
+! style="width:200px;"|Description
+! style="width:500px;"|Notable stage performers in major market productions
+ |-
+ |Curly McLain ||A cowboy in love with Laurey ||[[Alfred Drake]]°, [[Harry Stockwell]]°, [[John Raitt]], [[Howard Keel]], [[Ridge Bond]], [[Hugh Jackman]], [[Patrick Wilson]], [[Laurence Guittard]], [[Damon Daunno]], [[Sean Grandillo]], [[Arthur Darvill]]
+ |-
+ |Laurey Williams ||Aunt Eller's niece||[[Joan Roberts]]°, [[Betty Jane Watson]], [[Christine Andreas]], [[Josefina Gabrielle]], [[Florence Henderson]], [[Rebecca Naomi Jones]], [[Sasha Hutchings]], [[Mary Hatcher]], [[Isabel Bigley]]
+ |-
+ |Jud Fry ||A hired hand on Aunt Eller's ranch ||[[Howard da Silva]]°, [[Shuler Hensley]], [[Alfred Molina]]
+ |-
+|Aunt Eller ||Laurey's aunt ||[[Betty Garde]]°, [[Mary Wickes]], [[Andrea Martin]], [[Maureen Lipman]], [[Mary Testa]], [[Liza Sadovy]], [[Patty Duke]], [[Margaret Hamilton (actress)|Margaret Hamilton]],
+ |-
+ |Ado Annie Carnes ||A young woman ||[[Celeste Holm]]°, [[Barbara Cook]], [[Christine Ebersole]], [[Ali Stroker]], [[Marisha Wallace]], [[Shelley Winters]], [[Barbara Cook]], [[Marisha Wallace]]
+ |-
+ |Will Parker ||A young man in love with Ado Annie||[[Lee Dixon (actor)|Lee Dixon]]°, [[Harry Groener]]
+ |-
+ |Andrew Carnes ||Ado Annie's father ||Ralph Riggs°
+ |-
+ |Ali Hakim ||A Persian peddler ||[[Joseph Buloff]]°, [[Peter Polycarpou]], [[Bruce Adler]], [[Will Brill]], [[Eddie Albert]]
+ |-
+ |Gertie Cummings ||A farm girl || [[Jane Lawrence]]°, [[Pamela Britton]]
+ |-
+ |Dream Curly ||Curly in the dream sequence|| [[Marc Platt (dancer)|Marc Platt]]°
+ |-
+ |Dream Laurey ||Laurey in the dream sequence|| [[Katharine Sergava]]°
+ |}
+
+° denotes original Broadway cast
+
+==Musical numbers==
+{{col-begin}}
+{{col-2}}
+; Act I
+* Overture – Orchestra
+* "[[Oh, What a Beautiful Mornin']]" – Curly
+* Laurey's Entrance – Laurey & Curly
+* "[[The Surrey with the Fringe on Top]]" – Curly, Laurey, & Aunt Eller
+* "Kansas City" – Will Parker, Aunt Eller, Male Ensemble
+* "[[I Cain't Say No]]" – Ado Annie
+* Entrance of Ensemble ("I Cain't Say No" and "Oh What a Beautiful Mornin'") – Will, Ado Annie, Curly, Aunt Eller & Ensemble
+* "[[Many a New Day]]" – Laurey and Female Ensemble
+* "[[It's a Scandal! It's a Outrage!]]" – Ali Hakim & Ensemble
+* "[[People Will Say We're in Love]]" – Curly & Laurey
+* "Pore Jud Is Daid" – Curly & Jud
+* "[[Lonely Room]]" – Jud
+* "Out of My Dreams"/"[[Dream Ballet]]" – Laurey & Dream Figures
+{{col-break}}
+; Act II
+* Entr'acte – Orchestra
+* "[[The Farmer and the Cowman]]" – Andrew Carnes, Aunt Eller, Curly, Will, Ado Annie, Laurey & Ensemble
+* "All Er Nuthin'" – Will & Ado Annie
+* "People Will Say We're in Love" (Reprise) – Curly & Laurey
+* "[[Oklahoma (Rodgers and Hammerstein song)|Oklahoma]]" – Curly, Laurey, Aunt Eller, Ike Skidmore, Fred, Andrew Carnes & Ensemble
+* Finale Ultimo ("Oh What a Beautiful Mornin'" and "People Will Say We're in Love") – Company
+{{col-end}}
+
+==Production history==
+===Original Broadway===
+===Early U.S. tours===
+===Original West End===
+===Original Australian===
+===1951 and 1979 Broadway revivals===
+===1980 West End revival===
+===1982 Australian revival===
+===1998 West End revival===
+===2002 Broadway revival===
+===2019 Broadway revival; 2022 London transfer===
+===Other noteworthy productions===
+====Discoveryland====
+====2006 Japan====
+====2009 Chichester Theatre Festival====
+====2010 UK tour====
+====2010 Washington, DC Arena Stage====
+====2012, Seattle, Washington, 5th Avenue Theatre====
+====2015 UK tour====
+====Concerts====
+===1955 film adaptation===
+==Recordings==
+==Reception==
+==Antecedents and influence==
+==Awards and nominations==
+===Original Broadway production===
+{|
+|-
+| links || [[Pulitzer Prize]] [[Pulitzer Prize Special Citations and Awards|Pulitzer Prize Special Awards and Citations]] [[Richard Rodgers]] [[Oscar Hammerstein II]] [[Theatre World Award]] [[Tony Award]] [[Special Tony Award]]
+|}
+===1979 Broadway revival===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Actress in a Musical|Best Performance by a Leading Actress in a Musical]] [[Christine Andreas]] [[Tony Award for Best Featured Actor in a Musical|Best Performance by a Featured Actor in a Musical]] [[Harry Groener]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Featured Actor in a Musical|Outstanding Featured Actor in a Musical]] [[Martin Vidnovic]] [[Theatre World Award]]
+|}
+===1980 West End revival===
+{|
+|-
+| links || [[Laurence Olivier Award]] [[Laurence Olivier Award for Best Actor in a Musical|Actor of the Year in a Musical]] [[John Diedrich]] [[Laurence Olivier Award for Best Newcomer in a Play|Most Promising Newcomer of the Year in Theatre]] [[Alfred Molina]]
+|}
+===1998 West End revival===
+{|
+|-
+| links || [[Critics' Circle Theatre Award]] [[Laurence Olivier Award]] [[Laurence Olivier Award for Best Musical Revival|Outstanding Musical Production]] [[Laurence Olivier Award for Best Actor in a Musical|Best Actor in a Musical]] [[Hugh Jackman]] [[Laurence Olivier Award for Best Actress in a Musical|Best Actress in a Musical]] [[Josefina Gabrielle]] [[Laurence Olivier Award for Best Performance in a Supporting Role in a Musical|Best Supporting Performance in a Musical]] [[Shuler Hensley]] [[Laurence Olivier Award for Best Director|Best Director]] [[Trevor Nunn]] [[Laurence Olivier Award for Best Theatre Choreographer|Best Theatre Choreographer]] [[Susan Stroman]] [[Laurence Olivier Award for Best Set Designer|Best Set Designer]] [[Anthony Ward]] [[Laurence Olivier Award for Best Lighting Design|Best Lighting Designer]] [[David Hersey]]
+|}
+===2002 Broadway revival===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Revival of a Musical|Best Revival of a Musical]] [[Tony Award for Best Actor in a Musical|Best Performance by a Leading Actor in a Musical]] [[Patrick Wilson]] [[Tony Award for Best Featured Actor in a Musical|Best Performance by a Featured Actor in a Musical]] [[Shuler Hensley]] [[Tony Award for Best Featured Actress in a Musical|Best Performance by a Featured Actress in a Musical]] [[Andrea Martin]] [[Tony Award for Best Direction of a Musical|Best Direction of a Musical]] [[Trevor Nunn]] [[Tony Award for Best Choreography|Best Choreography]] [[Susan Stroman]] [[Tony Award for Best Lighting Design|Best Lighting Design]] [[David Hersey]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Revival of a Musical|Outstanding Revival of a Musical]] [[Drama Desk Award for Outstanding Actor in a Musical|Outstanding Actor in a Musical]] [[Drama Desk Award for Outstanding Featured Actor in a Musical|Outstanding Featured Actor in a Musical]] [[Drama Desk Award for Outstanding Featured Actress in a Musical|Outstanding Featured Actress in a Musical]] [[Drama Desk Award for Outstanding Director of a Musical|Outstanding Director of a Musical]] [[Drama Desk Award for Outstanding Choreography|Outstanding Choreography]] [[Drama Desk Award for Outstanding Set Design|Outstanding Set Design]] [[Anthony Ward]] [[Drama Desk Award for Outstanding Lighting Design|Outstanding Lighting Design]] [[Theatre World Award]]
+|}
+===2019 Broadway revival===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Revival of a Musical|Best Revival of a Musical]] [[Tony Award for Best Actor in a Musical|Best Performance by a Leading Actor in a Musical]] [[Damon Daunno]] [[Tony Award for Best Featured Actress in a Musical|Best Performance by a Featured Actress in a Musical]] [[Ali Stroker]] [[Mary Testa]] [[Tony Award for Best Direction of a Musical|Best Direction of a Musical]] [[Daniel Fish]] [[Tony Award for Best Scenic Design in a Musical|Best Scenic Design in a Musical]] [[Laura Jellinek]] [[Tony Award for Best Sound Design of a Musical|Best Sound Design of a Musical]] [[Tony Award for Best Orchestrations|Best Orchestrations]] [[Daniel Kluger (composer)|Daniel Kluger]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Revival of a Musical|Outstanding Revival of a Musical]] [[Drama Desk Award for Outstanding Actor in a Musical|Outstanding Actor in a Musical]] [[Drama Desk Award for Outstanding Actress in a Musical|Outstanding Actress in a Musical]] [[Rebecca Naomi Jones]] [[Drama Desk Award for Outstanding Featured Actor in a Musical|Outstanding Featured Actor in a Musical]] [[Drama Desk Award for Outstanding Featured Actress in a Musical|Outstanding Featured Actress in a Musical]] [[Drama Desk Award for Outstanding Director of a Musical|Outstanding Director of a Musical]] [[Drama Desk Award for Outstanding Scenic Design of a Musical|Outstanding Scenic Design of a Musical]] [[Drama Desk Award for Outstanding Lighting Design for a Musical|Outstanding Lighting Design for a Musical]] [[Drama Desk Award for Outstanding Sound Design in a Musical|Outstanding Sound Design in a Musical]] [[Drama Desk Award for Outstanding Orchestrations|Outstanding Orchestrations]] [[Drama Desk Award for Outstanding Projection Design|Outstanding Projection Design]] [[Drama League Award]] [[Outer Critics Circle Award]] [[Grammy Award]] [[Grammy Award for Best Musical Theater Album|Best Musical Theater Album]] [[Richard Rodgers]] [[Oscar Hammerstein II]]
+|}
+===2023 West End revival===
+{|
+|-
+| links || [[Laurence Olivier Award]] [[Laurence Olivier Award for Best Musical Revival|Best Musical Revival]] [[Laurence Olivier Award for Best Actor in a Musical|Best Actor in a Musical]] [[Arthur Darvill]] [[Laurence Olivier Award for Best Actress in a Musical|Best Actress in a Musical]] [[Laurence Olivier Award for Best Actress in a Supporting Role in a Musical|Best Actress in a Supporting Role in a Musical]] [[Liza Sadovy]] [[Marisha Wallace]] [[Laurence Olivier Award for Best Sound Design|Best Sound Design]] [[Laurence Olivier Award for Best Original Score or New Orchestrations|Best Original Score or New Orchestrations]]
+|}
+==In popular culture==
+==Notes==
+==References==
+==Further reading==
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+starred [[Alfred Drake]].
+played by [[Bambi Linn]].
+starred [[Howard Keel]].
+cast included [[Florence Henderson]].
+starred [[Laurence Guittard]].
+starred [[John Diedrich]].
+cast included [[Henri Szeps]].
+cast included [[Hugh Jackman]].
+starred [[Damon Daunno]].
+cast included [[Sasha Hutchings]].
+starring [[Arthur Darvill]].
+starred [[Gordon MacRae]].

@@ -1,0 +1,156 @@
+{{Infobox Musical
+|name= The Fix
+|subtitle=
+|image= The_Fix,_poster_from_the_Donmar_Warehouse_production,_1997.jpg
+|image_size= 200px
+|caption= Donmar Warehouse poster
+|music= [[Dana P. Rowe]]
+|lyrics= [[John Dempsey (lyricist)|John Dempsey]] 
+|book= [[John Dempsey (lyricist)|John Dempsey]] 
+|basis= 
+|productions= 1997 [[West End theatre|West End]] <br/> 1998, 2015 [[Arlington, Virginia]] <br/>2016 [[West End theatre|Off-West End]]
+}}
+==Production history==
+==Plot==
+==Musical numbers==
+
+=== Donmar Warehouse, 1997 ===
+{{col-begin}}
+{{col-2}}
+;Act 1
+*"Advocate/Architect" &ndash; Ensemble
+*"The Funeral" &ndash; Company
+*"One, Two, Three" ({{audio|thefix-123.ogg|play clip}}) &ndash; Cal, Ensemble
+*"Embrace Tomorrow" &ndash; Violet, Grahame, Bobby
+*"Army Chant/Control" &ndash; Reed, Cal
+*"America's Son" &ndash; Cal, Violet, Grahame, Leslie, Supporters, Newscaster
+*"I See The Future" &ndash; Cal
+*"Lonely is a Two-Way Street" &ndash; Tina
+*"Simple Words" &ndash; Cal, Grahame, Reporters
+*"Alleluia/Flash, Pop, Sizzle!" &ndash; Tina
+*"Sense out of Insanity" &ndash; Grahame
+*"Dangerous Games" &ndash; Gliardi, Frankie, Ensemble
+{{col-break}}
+
+;Act 2
+*"Two Guys at Harvard" &ndash; Grahame, Reed, Violet, Ensemble
+*"First Came Mercy" &ndash; Grahame, Ensemble
+*"Bend the Spoon/One, Two, Three (''reprise'')" &ndash; Tina, Cal
+*"Cleaning House" &ndash; Violet, Peter
+*"Upper Hand" &ndash; Cal, Grahame
+*"Spin" &ndash; Violet
+*"The Ballad of Bobby "Cracker" Barrel" &ndash; Bobby, Ensemble
+*"Child's Play" &ndash; Cal
+*"Simple Words (reprise)" &ndash; Cal, Ensemble
+*"Lion Hunts the Tiger" &ndash; Ensemble
+*"Mistress of Deception" &ndash; Tina, Ensemble
+*"Finale" &ndash; Company
+{{col-end}}
+
+=== 1998 onwards ===
+Source:
+{{col-begin}}
+{{col-2}}
+;Act 1
+*"Let the Games Begin" &ndash; Reed, Ensemble
+*"The Funeral" &ndash; Company
+*"One, Two, Three" ({{audio|thefix-123.ogg|play clip}}) &ndash; Cal, Ensemble
+*"Embrace Tomorrow" &ndash; Violet, Grahame, Bobby
+*"Army Chant/Control" &ndash; Reed, Cal
+*"America's Son" &ndash; Cal, Violet, Grahame, Leslie, Supporters, Newscaster
+*"I See The Future" &ndash; Cal
+*"Lonely is a Two-Way Street" &ndash; Tina
+*"Simple Words" &ndash; Cal, Grahame, Reporters
+*"Alleluia/Flash, Pop, Sizzle!" &ndash; Tina
+*"Who Said?" &ndash; Grahame
+*"Don't Blame the Prince" &ndash; Cal
+*"Dangerous Games" &ndash; Gliardi, Frankie, Ensemble
+{{col-break}}
+
+;Act 2
+*"Two Guys at Harvard" &ndash; Grahame, Reed, Violet, Ensemble
+*"Mercy Me" &ndash; Grahame, Ensemble
+*"One, Two, Three (''reprise'')" &ndash; Tina, Cal
+*"Cleaning House" &ndash; Violet, Peter
+*"Upper Hand" &ndash; Cal, Grahame
+*"Spin" &ndash; Violet
+*"The Ballad of Bobby "Cracker" Barrel" &ndash; Bobby, Ensemble
+*"Child's Play" &ndash; Cal
+*"Simple Words/Dangerous Games (reprise)" &ndash; Cal, Ensemble
+*"Mistress of Deception" &ndash; Tina, Ensemble
+*"Finale" &ndash; Company
+{{col-end}}
+
+== Orchestration ==
+==Characters and original cast==
+{| class="wikitable" style="width:1000;"
+|-
+! Character
+! [[Donmar Warehouse]] <br> <small>1997</small>
+![[Signature Theatre (Arlington, Virginia)|Signature Theatre]] <br> <small>1998</small>
+! Signature Theatre<br> <small>2015</small>
+! [[Union Theatre (London)|Union Theatre]] <br> <small>2016</small>
+! [[Feinstein's/54 Below]] In Concert <br> <small>2017</small>
+|-
+! Cal Chandler
+|colspan='1' align=center| [[John Barrowman]]
+|colspan='1' align=center| Stephen Bienskie
+|colspan='1' align=center| [[Mark Evans (actor)|Mark Evans]]
+|colspan='1' align=center| [[Fra Fee]]
+|colspan='1' align=center| [[Mark Evans (actor)|Mark Evans]]
+|-
+! Reed Chandler
+|colspan='1' align=center| [[David Firth (actor)|David Firth]]
+|colspan='1' align=center| Jim Walton
+|colspan='1' align=center| Bobby Smith
+|colspan='1' align=center| Peter Saul Blewden
+|colspan='1' align=center| Gary Milner
+|-
+! Grahame Chandler
+| colspan="1" align="center" | [[Philip Quast]]
+|colspan='1' align=center| Sal Mistretta
+| colspan="1" align="center" | Lawrence Redmond
+| colspan="1" align="center" | Ken Christiansen
+| colspan="1" align="center" | David Cantor
+|-
+! Violet Chandler
+| colspan="1" align="center" | [[Kathryn Evans]]
+|colspan='1' align=center| Linda Balgord
+| colspan="1" align="center" | Christine Sherrill
+| colspan="1" align="center" | Lucy Williamson
+| colspan="1" align="center" | Sally Ann Triplett
+|-
+! Peter Hale
+| colspan="1" align="center" | David Bardsley
+| colspan='1' align=center| Donna Migliaccio
+| colspan="1" align="center" | Stephen Gregory Smith
+| colspan="1" align="center" | Sam Barrett
+| colspan="1" align="center" | Justin Randolph
+|-
+! Tina McCoy
+| colspan="1" align="center" | [[Krysten Cummings]]
+|colspan='1' align=center| Natalie Toro
+| colspan="1" align="center" | Rachel Zampelli
+| colspan="1" align="center" | Madalena Alberto
+| colspan="1" align="center" | Kristen Gehling
+|-
+! Bobby “Cracker” Barrel
+| colspan="1" align="center" | Bogdan Kominowski
+|colspan='1' align=center| Lawrence Redmond
+| colspan="1" align="center" | Will Gartshore
+| colspan="1" align="center" | Alistair Hill
+| colspan="1" align="center" | Patrick K. Walsh
+|-
+! Anthony Gliardi
+| colspan="1" align="center" | Nicholas Pound
+|colspan='1' align=center| Anthony Galde
+| colspan="1" align="center" | Dan Manning
+| colspan="1" align="center" | Peter Saul Blewden
+| colspan="1" align="center" | Paul Thomas Ryan
+|}
+
+==References==
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+starred [[John Barrowman]].

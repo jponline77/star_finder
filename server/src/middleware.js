@@ -91,6 +91,33 @@ export function canEdit(user, row) {
 
 const userOrIpKey = (req) => (req.user ? `u:${req.user.id}` : `ip:${ipKeyGenerator(req.ip ?? '')}`);
 
+/**
+ * A fixed-window counter that never answers the request itself: `take(req)` is true while the
+ * user/IP is under `limit` in the current window (and counts the call), false after that.
+ */
+export function softLimiter({ windowMs, limit, maxKeys = 10_000 }) {
+  /** @type {Map<string, { n: number, reset: number }>} */
+  const hits = new Map();
+  return {
+    take(req) {
+      const now = Date.now();
+      const key = userOrIpKey(req);
+      let h = hits.get(key);
+      if (!h || h.reset <= now) {
+        if (hits.size >= maxKeys) {
+          for (const [k, v] of hits) if (v.reset <= now) hits.delete(k);
+          if (hits.size >= maxKeys) hits.delete(hits.keys().next().value);
+        }
+        h = { n: 0, reset: now + windowMs };
+        hits.set(key, h);
+      }
+      if (h.n >= limit) return false;
+      h.n++;
+      return true;
+    },
+  };
+}
+
 function limiter({ windowMs, limit, message, keyGenerator = userOrIpKey, ...rest }) {
   return rateLimit({
     windowMs,
@@ -107,7 +134,7 @@ function limiter({ windowMs, limit, message, keyGenerator = userOrIpKey, ...rest
 /**
  * Build the app's rate limiters. Limits can be tuned with env vars (tests raise them):
  * STAR_WRITE_LIMIT (60/min), STAR_READ_LIMIT (1200 GETs/min), STAR_EXPORT_LIMIT (10 downloads/min),
- * STAR_LOOKUP_LIMIT (30/min), STAR_COMMENT_LIMIT (20/min),
+ * STAR_LOOKUP_LIMIT (30/min), STAR_SEARCH_LIMIT (120 catalog searches/min), STAR_COMMENT_LIMIT (20/min),
  * STAR_LOGIN_LIMIT (10 failed / 15 min per IP+email, and per account for current-password checks),
  * STAR_SIGNUP_LIMIT (100/hour per IP), STAR_SIGNUP_CONFLICT_LIMIT (20 "already exists" / hour per IP).
  * Each is per logged-in user, or per IP when logged out, unless noted.
@@ -141,6 +168,16 @@ export function createLimiters(env = {}) {
       limit: num('STAR_LOOKUP_LIMIT', 30),
       message: 'Too many lookups — try again in a minute',
     }),
+    // Catalog typeahead (GET /api/catalog/search): each search costs real CPU on the one Node thread,
+    // so it gets its own budget well below the general read limit. Typing is debounced by the client.
+    search: limiter({
+      windowMs: 60_000,
+      limit: num('STAR_SEARCH_LIMIT', 120),
+      message: 'Too many searches — slow down and try again in a minute',
+    }),
+    // Show pages that ask Apple whether a cast album exists: never a 429 for the page — past this
+    // many a minute (per user, or per IP when logged out) the page just says "couldn't check".
+    appleChecks: softLimiter({ windowMs: 60_000, limit: num('STAR_LOOKUP_LIMIT', 30) }),
     comments: limiter({
       windowMs: 60_000,
       limit: num('STAR_COMMENT_LIMIT', 20),

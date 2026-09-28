@@ -1,0 +1,56 @@
+{{Infobox Musical
+| name        = Carmen Jones
+| image       = Carmen Jones Original Cast Album.jpg
+| image_size  = 260 px
+| caption     = 1944 Original Cast Recording
+| music       = [[Georges Bizet]]
+| lyrics      = [[Oscar Hammerstein II]]
+| book        = Oscar Hammerstein II
+| basis       = ''[[Carmen]]'' <br> by [[Georges Bizet]] <br> [[Henri Meilhac]] <br> [[Ludovic Halévy]] <br> ''[[Carmen (novella)|Carmen]]'' <br> by [[Prosper Mérimée]]
+| productions = 1943 [[Broadway theatre|Broadway]] <br>1945 [[Broadway theatre|Broadway]] <br>1946 [[Broadway theatre|Broadway]] <br>1949 [[Greek Theatre (Los Angeles)|Greek Theatre]] <br> 1954 [[Carmen Jones (film)|Film version]]<br> 1991 [[Old Vic]] <br> 2007 [[Royal Festival Hall]]<br>2018 [[Off-Broadway]]
+
+| awards      = [[Laurence Olivier Award for Best New Musical]]
+}}
+==Plot==
+==Music==
+
+==Songs==
+{{col-begin}}
+{{col-2}}
+; Act 1
+* Overture
+* Lift 'Em Up and Put 'Em Down (''Avec la garde montante'' in Bizet's original opera) – Street Boys
+* Honey Gal o' Mine – Male Chorus
+* Good Luck, Mr. Flyin' Man! – Female Chorus
+* Dat's Love (''[[Habanera (aria)|Habanera]]'' in Bizet's opera) – Carmen and Chorus 
+* You Talk Just like My Maw (''Parle-moi de ma mère'' in Bizet's opera)– Joe and Cindy Lou
+* Murder-Murder – Female Chorus
+* Carmen Jones Is Goin' to Jail! – Pit Chorus
+* Dere's a Cafe on de Corner (''[[Seguidilla]]'' in Bizet's opera) – Carmen and Joe
+* Beat Out Dat Rhythm on a Drum (''Gypsy Song'' in Bizet's opera) – Frankie, Chorus
+* [[Stan' Up and Fight]] (''[[Toreador Song]]'', also known as March of the Toreadors in Bizet's opera) – Husky Miller and Chorus
+* Whizzin' Away Along de Track (''Quintet (Nous avons en tête une affaire)'' in Bizet's opera) – Rum, Dink, Myrt, Frankie, and Carmen
+* Dis Flower (''Flower Song'' in Bizet's opera) – Joe
+* If You Would Only Come Away – Carmen and Joe
+{{col-2}}
+; Act 2
+* De Cards Don't Lie (''Card Song'' in Bizet's opera) – Frankie, Myrt, Carmen, and female chorus
+* Dat Ol' Boy – Carmen
+* Poncho de Panther from Brazil – Frankie, Myrt, Husky Miller, Rum, and Chorus
+* My Joe (''Micaela's Air'' in Bizet's opera) – Cindy Lou
+* Finale (of Act II Scene I) – Carmen, Joe, Cindy Lou, Husky Miller, Rum, Dink, Frankie, and Myrt
+* Git Yer Program for de Big Fight – Chorus
+* Dat's Our Man! (''Les voici'' in Bizet's opera) – Chorus
+* Finale – Carmen, Joe, Chorus
+{{col-end}}
+
+==Awards and nominations==
+===Original London production===
+{|
+|-
+| links || [[Laurence Olivier Award]] [[Laurence Olivier Award for Best New Musical|Best New Musical]] [[Laurence Olivier Award for Best Actor in a Musical|Best Actor in a Musical]] [[Damon Evans (actor)|Damon Evans]] [[Laurence Olivier Award for Best Actress in a Musical|Best Actress in a Musical]] [[Wilhelmenia Fernandez]] [[Laurence Olivier Award for Best Performance in a Supporting Role in a Musical|Best Performance in a Supporting Role in a Musical]] [[Gregg Baker (bass-baritone)|Gregg Baker]]
+|}
+==See also==
+==References==
+==Bibliography==
+==External links==

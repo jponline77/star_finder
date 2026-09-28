@@ -1,0 +1,339 @@
+{{Infobox musical
+| name = Hamilton
+| subtitle = An American Musical
+| image = Hamilton-poster.jpg
+| caption = The [[Broadway theatre|Broadway]] promotional poster for ''Hamilton''
+| alt = 
+| music = [[Lin-Manuel Miranda]]
+| lyrics = Lin-Manuel Miranda
+| book = Lin-Manuel Miranda
+| basis = {{Based on|''[[Alexander Hamilton (book)|Alexander Hamilton]]''|[[Ron Chernow]]}}
+| premiere_date = January 20, 2015
+| premiere_location = [[The Public Theater]], [[New York City]]
+| productions = 2015 [[Off-Broadway]]<br>2015 [[Broadway theatre|Broadway]]<br>2017 First North America tour<br>2017 [[West End theatre|West End]]<br>2018 Second North America tour<br>2019 Third North America tour <br>2021 Australia <br> 2021 Fourth North America tour<br>2022 [[Operettenhaus|Hamburg]]<br>2023 International Tour<br>2023 UK & Ireland Tour
+
+| awards = {{hidden|List of awards|{{•}}[[Tony Award for Best Musical]]<br>{{•}}[[Tony Award for Best Book of a Musical]]<br>{{•}}[[Tony Award for Best Original Score]]<br>{{•}}[[Grammy Award for Best Musical Theater Album]]<br>{{•}}[[Laurence Olivier Award for Best New Musical]]<br>{{•}}[[Laurence Olivier Award for Outstanding Achievement in Music]]<br>{{•}}[[Obie Award]] for Best New American Theatre Work<br>{{•}}[[Pulitzer Prize for Drama]]}}
+| image_size =
+}}
+== Synopsis ==
+=== Act I ===
+=== Act II ===
+==Principal casts==
+===Original production principal casts===
+{|  class="wikitable" style="text-align: center;"
+! scope="col" rowspan=2 | Character
+! scope="col" | Off-Broadway
+! scope="col" | Broadway{{efn|The Original Broadway Cast is also featured in the [[Hamilton (2020 film)|2020 film version]].}}
+! scope="col" | Chicago
+! scope="col" | First U.S. Tour
+! scope="col" | West End
+! scope="col" | Second U.S. Tour
+! scope="col" | Third U.S. Tour
+!Los Angeles
+!Australia
+|-
+!colspan=2|<small>2015</small>
+!<small>2016</small>
+!colspan=2|<small>2017</small>
+!<small>2018</small>
+!<small>2019</small>
+!colspan=1|<small>2021</small>
+!<small>2021</small>
+|-
+! scope="row" | [[Alexander Hamilton]]
+| colspan="2" |[[Lin-Manuel Miranda]]
+| [[Miguel Cervantes (actor)|Miguel Cervantes]]
+| [[Michael Luwoye]]
+| [[Jamael Westman]]
+| [[Joseph Morales]]
+| Julius Thomas III<hr>[[Lin-Manuel Miranda]]{{efn|Miranda only performed the title role during a three-week engagement in Puerto Rico.}}
+| Jamael Westman
+|Jason Arrow
+|-
+! scope="row" | [[Aaron Burr]]
+| colspan="2" |[[Leslie Odom Jr.]]
+| colspan="2" | [[Joshua Henry]]
+| [[Giles Terera]]
+| [[Nik Walker]]
+| Donald Webber Jr.
+| [[Nicholas Christopher (actor)|Nicholas Christopher]]
+|Lyndon Watts
+|-
+! scope="row" | [[Eliza Schuyler Hamilton]]
+| colspan="2" |[[Phillipa Soo]]
+| [[Arianna Afsar]]
+| [[Solea Pfeiffer]]
+| [[Rachelle Ann Go]]
+| [[Shoba Narayan (actress)|Shoba Narayan]]
+| Julia K. Harriman
+|Joanna A. Jones
+|Chloè Zuel
+|-
+! scope="row" | [[Angelica Schuyler Church|Angelica Schuyler]]
+| colspan="2" |[[Renée Elise Goldsberry]]
+| [[Karen Olivo]]
+| [[Emmy Raver-Lampman]]
+| [[Rachel John]]
+| Ta'Rea Campbell
+| colspan="2" | [[Sabrina Sloan]]
+|Akina Edmonds
+|-
+! scope="row" | [[George Washington]]
+| colspan="2" | [[Christopher Jackson (actor)|Christopher Jackson]]
+| Jonathan Kirkland
+| [[Isaiah Johnson (actor)|Isaiah Johnson]]
+| Obioma Ugoala
+| Marcus Choi
+| [[Isaiah Johnson (actor)|Isaiah Johnson]]
+|Carvens Lissaint
+|Matu Ngaropo
+|-
+! scope="row" | [[Marquis de Lafayette]]{{Efn|Act I|name=A1}}
+| colspan="2" rowspan="2" |[[Daveed Diggs]]
+| rowspan=2 | Chris Lee
+| rowspan=2 | [[Jordan Donica]]
+| rowspan=2 | [[Jason Pennycooke]]
+| rowspan=2 | [[Kyle Scatliffe]]
+| rowspan=2 colspan="2" | Simon Longnight
+| rowspan="2" |Victory Ndukwe
+|-
+! scope=row | [[Thomas Jefferson]]{{Efn|Act II|name=A2}}
+|-
+! scope="row" | [[John Laurens]]{{Efn|name=A1}}
+| colspan="2" rowspan="2" |[[Anthony Ramos]]
+| rowspan=2 | Jose Ramos
+| rowspan=2 | [[Rubén Carbajal|Rubén J. Carbajal]]
+| rowspan=2 | [[Cleve September]]
+| rowspan=2 | Elijah Malcomb
+| rowspan=2 colspan="2" | [[Rubén Carbajal|Rubén J. Carbajal]]
+| rowspan="2" |Marty Alix
+|-
+! scope=row | [[Philip Hamilton]]{{Efn|name=A2}}
+|-
+! scope="row" | [[Hercules Mulligan]]{{Efn|name=A1}}
+| colspan="2" rowspan="2" |[[Okieriete Onaodowan]]
+| rowspan=2 | [[Wallace Smith (actor)|Wallace Smith]]
+| rowspan=2 | Mathenee Treco
+| rowspan=2 | Tarinn Callender
+| rowspan=2 | Fergie L. Philippe
+| rowspan=2 | Brandon Armstrong
+| rowspan=2 | [[Wallace Smith (actor)|Wallace Smith]]
+| rowspan="2" |Shaka Cook
+|-
+! scope=row | [[James Madison]]{{Efn|name=A2}}
+|-
+! scope="row" | [[George III of the United Kingdom|King George III]]
+|[[Brian d'Arcy James]]
+| [[Jonathan Groff]]
+| [[Alexander Gemignani]]
+| [[Rory O'Malley]]
+| [[Michael Jibson]]
+| Jon Patrick Walker
+| Rick Negrón
+|[[Rory O'Malley]]
+|Brent Hill
+|-
+! scope="row" | [[Peggy Schuyler]]{{Efn|name=A1}}
+| colspan="2" rowspan=2 | [[Jasmine Cephas Jones]]
+| rowspan=2 | [[Samantha Marie Ware]]
+| rowspan=2 | [[Amber Iman]]
+| rowspan=2 | [[Christine Allado]]
+| rowspan=2 | Danielle Sostre
+| rowspan=2 | [[Darilyn Castillo]]
+| rowspan=2 | [[Taylor Iman Jones]]
+| rowspan="2" |Elandrah Eramiha
+|-
+! scope="row" | [[Maria Reynolds]]{{Efn|name=A2}}
+|}
+
+'''Notes'''
+{{notelist}}
+
+====Off-Broadway====
+* '''King George III''' – [[Jonathan Groff]]
+
+====Broadway====
+* '''Alexander Hamilton''' – [[Javier Muñoz (actor)|Javier Muñoz]], [[Michael Luwoye]], [[Ryan Vasquez]], [[Miguel Cervantes (actor)|Miguel Cervantes]], [[Jon Rua]] ([[standby (theater)|standby]])
+*'''Aaron Burr''' – [[Brandon Victor Dixon]], [[Daniel Breaker]], [[Jin Ha]], [[Nik Walker]], [[Nicholas Christopher (actor)|Nicholas Christopher]]
+* '''Eliza Hamilton''' – [[Lexi Lawson]], [[Denée Benton]], [[Krystal Joy Brown]]
+* '''Angelica Schuyler''' – [[Mandy Gonzalez]]
+* '''George Washington''' - [[Nicholas Christopher (actor)|Nicholas Christopher]], [[Isaiah Johnson (actor)|Isaiah Johnson]]
+* '''Marquis de Lafayette/Thomas Jefferson''' – [[Seth Stewart]], [[James Monroe Iglehart]], [[Kyle Scatliffe]]
+* '''Hercules Mulligan/James Madison''' – [[Wallace Smith (actor)|Wallace Smith]]
+* '''John Laurens/Philip Hamilton''' – [[Jordan Fisher]], [[Rubén Carbajal|Rubén J. Carbajal]]
+*'''King George III''' – [[Andrew Rannells]], [[Rory O'Malley]], [[Taran Killam]], [[Brian d'Arcy James]], [[Euan Morton]], [[Neil Haskell]], [[Jarrod Spector]]
+
+====Chicago====
+*'''Aaron Burr''' – [[Wayne Brady]], [[Daniel Breaker]], [[Jin Ha]]
+* '''Angelica Schuyler''' – [[Montego Glover]]
+
+====First U.S. Tour====
+* '''Aaron Burr''' – [[Nicholas Christopher (actor)|Nicholas Christopher]]
+* '''Eliza Hamilton''' – [[Hannah Cruz]]
+* '''Angelica Schuyler''' – [[Sabrina Sloan]]
+* '''Peggy Schuyler/Maria Reynolds''' – [[Isa Briones]]
+
+====West End====
+*'''Alexander Hamilton''' - [[Alex Sawyer]]
+*'''Aaron Burr''' - [[Leslie Odom Jr.]]
+*'''Angelica Schuyler''' – [[Allyson Ava-Brown]], [[Ava Brennan (actor)|Ava Brennan]], [[Georgina Onuorah]]
+*'''Eliza Schuyler-Hamilton''' - [[Sharon Rose]]
+* '''George Washington''' – [[Trevor Dion Nicholas]]
+* '''King George III''' – [[Jon Robyns]], [[Daniel Boys]]
+* '''Peggy Schuyler/Maria Reynolds''' - [[Courtney-Mae Briggs]]
+
+====Notable Broadway ensemble members====
+* [[Ariana DeBose]] (2015–2016, original Broadway cast)
+* [[Ephraim Sykes]] (2015–2016, original Broadway cast)
+* [[Thayne Jasperson]] (2015–present, original Broadway cast)
+* [[Jon Rua]] (2015–2017, original Broadway cast)
+* [[Sasha Hutchings]] (2015–2016, original Broadway cast)
+* [[JJ Niemann]] (2025)
+
+== Musical numbers ==
+{{Redirect-distinguish|Aaron Burr, Sir|Aaron Burr Sr.}}
+{{Redirect|What Comes Next?|other songs of the same name|What Comes Next (disambiguation)}}
+{{Redirect|The Adams Administration|various presidential administrations|Adams administration (disambiguation)}}
+{{col-begin}}
+{{col-2}}
+'''Act I'''
+* "[[Alexander Hamilton (song)|Alexander Hamilton]]" – Aaron Burr, John Laurens, Thomas Jefferson, James Madison, Alexander Hamilton, Eliza Schuyler, George Washington, Angelica Schuyler, Maria Reynolds, and Company
+* "Aaron Burr, Sir" – Hamilton, Burr, Laurens, Marquis de Lafayette, Hercules Mulligan, and Company
+* "[[My Shot]]" – Hamilton, Laurens, Lafayette, Mulligan, Burr, and Company
+* "[[The Story of Tonight]]" – Hamilton, Laurens, Mulligan, Lafayette, and Company
+* "[[The Schuyler Sisters]]" – Angelica, Eliza, Peggy Schuyler, Burr, and Company
+* "Farmer Refuted" – Samuel Seabury, Hamilton, Burr, Mulligan, and Company
+* "[[You'll Be Back]]" – King George III and Company
+* "[[Right Hand Man (Hamilton song)|Right Hand Man]]" – Washington, Hamilton, Burr, Mulligan, and Company
+* "A Winter's Ball" – Burr, Hamilton, Laurens, and Company
+* "[[Helpless (Hamilton song)|Helpless]]" – Eliza, Hamilton, Angelica, and Company
+* "[[Satisfied (Hamilton song)|Satisfied]]" – Angelica, Laurens, Hamilton, Eliza, and Company
+* "The Story of Tonight (Reprise)" – Laurens, Mulligan, Lafayette, Hamilton, and Burr
+* "[[Wait for It (song)|Wait for It]]" – Burr and Company
+* "Stay Alive" – Hamilton, Washington, Laurens, Lafayette, Mulligan, Charles Lee, Eliza, Angelica, and Company{{efn|name=Company|Credited to full company on the original Broadway cast recording.}}
+* "[[Ten Duel Commandments]]" – Laurens, Hamilton, Lee, Burr, and Company
+* "Meet Me Inside" – Hamilton, Burr, Laurens, Washington, and Company
+* "That Would Be Enough" – Eliza and Hamilton
+* "Guns and Ships" – Burr, Lafayette, Washington, and Company
+* "[[History Has Its Eyes on You]]" – Washington, Hamilton, and Company
+* "[[Yorktown (The World Turned Upside Down)]]" – Hamilton, Lafayette, Laurens, Mulligan, Washington, and Company{{efn|name=Company}}
+* "What Comes Next?" – King George III
+* "[[Dear Theodosia]]" – Burr and Hamilton
+* "[[The Story of Tonight#"Tomorrow There'll Be More of Us/Laurens' Interlude"|Tomorrow There'll Be More of Us]]" – Laurens, Eliza, and Hamilton{{efn|"Tomorrow There'll Be More of Us", a second reprise to "The Story of Tonight", does not appear on the original Broadway cast recording. Miranda explained that it was "more of a scene than a song, the only ''scene'' in the [sung-through] show", and he wanted to reserve the impact of "at least ''one'' revelation" that could be experienced more fully onstage.}}
+* "[[Non-Stop (Hamilton song)|Non-Stop]]" – Burr, Hamilton, Angelica, Eliza, Washington, Lafayette, Mulligan, and Company
+{{col-2}}
+'''Act II'''
+* "What'd I Miss?" – Jefferson, Burr, Madison, Washington, Hamilton, and Company
+* "[[Cabinet Battle#Cabinet Battle #1|Cabinet Battle #1]]" – Washington, Jefferson, Hamilton, and Madison
+* "Take a Break" – Eliza, Philip Hamilton, Hamilton, and Angelica
+* "[[Say No to This]]" – Maria Reynolds, Burr, Hamilton, James Reynolds, and Company
+* "[[The Room Where It Happens]]" – Burr, Hamilton, Jefferson, Madison, and Company
+* "Schuyler Defeated" – Philip, Eliza, Hamilton, and Burr
+* "[[Cabinet Battle#Cabinet Battle #2|Cabinet Battle #2]]" – Washington, Jefferson, Hamilton, and Madison
+* "Washington on Your Side" – Burr, Jefferson, Madison, and Company
+* "[[One Last Time (Hamilton song)|One Last Time]]" – Washington, Hamilton, and Company{{efn|Previously titled "One Last Ride" in the off-Broadway production.}}
+* "I Know Him" – King George III
+* "The Adams Administration" – Burr, Jefferson, Hamilton, Madison, and Company{{efn|name=Company}}
+* "We Know" – Hamilton, Jefferson, Burr, and Madison
+* "Hurricane" – Hamilton, Burr, Washington, Eliza, Angelica, Maria, and Company
+* "[[The Reynolds Pamphlet (song)|The Reynolds Pamphlet]]" – Jefferson, Madison, Burr, Hamilton, Angelica, James Reynolds, and Company{{efn|name=Company}}{{efn|"The Reynolds Pamphlet" The song contains a small part of the song "Congratulations" (Off-Broadway).}}
+* "[[Burn (Hamilton song)|Burn]]" – Eliza
+* "Blow Us All Away" – Philip, Martha, Dolly, George Eacker, Hamilton, and Company
+* "Stay Alive (Reprise)" – Hamilton, Philip, Eliza, Doctor, and Company
+* "[[It's Quiet Uptown]]" – Angelica, Hamilton, Eliza, and Company
+* "[[The Election of 1800]]" – Jefferson, Madison, Burr, Hamilton, and Company
+* "[[Your Obedient Servant (song)|Your Obedient Servant]]" – Burr, Hamilton, and Company
+* "[[Best of Wives and Best of Women]]" – Eliza and Hamilton
+* "[[The World Was Wide Enough]]" – Burr, Hamilton, Angelica, Philip, and Company
+* "[[Who Lives, Who Dies, Who Tells Your Story]]" – Eliza, Washington, Angelica, Burr, Jefferson, Madison, Lafayette, Laurens, Mulligan, and Company{{efn|name=Company}}
+{{col-end}}
+'''Notes'''
+<br>
+{{notelist}}
+
+=== Recordings ===
+
+==== Original Broadway cast album (2015) ====
+{{main|Hamilton (album)|label1 = ''Hamilton'' (album)}}
+
+==== ''The Hamilton Mixtape'' (2016) ====
+{{main|The Hamilton Mixtape|label1 = ''The Hamilton Mixtape''}}
+
+{{Anchor |1=The Hamilton Instrumentals |2=Hamiltunes}}
+==== ''The Hamilton Instrumentals'' (2017) and ''Hamiltunes'' ====
+
+==== ''Hamildrops'' (2017–2018) ====
+{{anchor|Hamildrops}}
+
+== Instrumentation ==
+== Background ==
+== Productions ==
+=== Off-Broadway (2015) ===
+=== Broadway (2015–present) ===
+=== Chicago (2016–2020) ===
+=== North American touring productions (2017–present) ===
+====Angelica Tour (2017–2023, 2024-present) and Phillip Tour (2018–2025)====
+====And Peggy Tour (2019–2023)====
+====Eliza Tour (2021–2022)====
+=== West End (2017–present) ===
+=== Australia (2021–2023) ===
+=== Hamburg (2022–2023) ===
+=== International Tour (2023–2024) ===
+=== UK and Ireland Tour (2023-2025) ===
+== Box office and business ==
+=== Opening and box office records ===
+=== Ticket lottery and Ham4Ham ===
+==Critical response==
+== Honors and awards ==
+=== Original off-Broadway productions ===
+{|
+|-
+| links || [[Lucille Lortel Awards]] [[Thomas Kail]] [[Andy Blankenbuehler]] [[Lin-Manuel Miranda]] [[Leslie Odom Jr.]] [[Phillipa Soo]] [[Daveed Diggs]] [[Brian d'Arcy James]] [[Renée Elise Goldsberry]] [[Paul Tazewell]] [[Howell Binkley]] [[Outer Critics Circle Award]] [[Outer Critics Circle Award for Outstanding New Off-Broadway Musical|Outstanding New Off-Broadway Musical]] [[Outer Critics Circle Award for Outstanding Book of a Musical|Outstanding Book of a Musical]] [[Outer Critics Circle Award for Outstanding New Score|Outstanding New Score]] [[Outer Critics Circle Award for Outstanding Director of a Musical|Outstanding Director of a Musical]] [[Outer Critics Circle Award for Outstanding Choreography|Outstanding Choreography]] [[Drama League Award]] [[Drama League Distinguished Performance Award|Distinguished Performance]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Musical|Outstanding Musical]] [[Drama Desk Award for Outstanding Actor in a Musical|Outstanding Actor in a Musical]] [[Drama Desk Award for Outstanding Featured Actor in a Musical|Outstanding Featured Actor in a Musical]] [[Drama Desk Award for Outstanding Featured Actress in a Musical|Outstanding Featured Actress in a Musical]] [[Drama Desk Award for Outstanding Director of a Musical|Outstanding Director of a Musical]] [[Drama Desk Award for Outstanding Music|Outstanding Music]] [[Drama Desk Award for Outstanding Lyrics|Outstanding Lyrics]] [[Drama Desk Award for Outstanding Book of a Musical|Outstanding Book of a Musical]] [[Drama Desk Award for Outstanding Orchestrations|Outstanding Orchestrations]] [[Alex Lacamoire]] [[Drama Desk Award for Outstanding Set Design|Outstanding Set Design]] [[Drama Desk Award for Outstanding Costume Design|Outstanding Costume Design]] [[Drama Desk Award for Outstanding Lighting Design|Outstanding Lighting Design]] [[Drama Desk Award for Outstanding Sound Design in a Musical|Outstanding Sound Design in a Musical]] [[Drama Desk Special Award|Special Award]] [[New York Drama Critics' Circle#New York Drama Critics' Circle Award|New York Drama Critics' Circle Awards]] [[Theatre World Award]] [[Clarence Derwent Awards]] [[Obie Award]]
+|}
+=== Original Broadway production ===
+{|
+|-
+| links || [[70th Tony Awards|Tony Awards]] [[Tony Award for Best Musical|Best Musical]] [[Tony Award for Best Book of a Musical|Best Book of a Musical]] [[Lin-Manuel Miranda]] [[Tony Award for Best Original Score|Best Original Score]] [[Tony Award for Best Direction of a Musical|Best Direction of a Musical]] [[Thomas Kail]] [[Tony Award for Best Actor in a Musical|Best Actor in a Musical]] [[Leslie Odom Jr.]] [[Tony Award for Best Actress in a Musical|Best Actress in a Musical]] [[Phillipa Soo]] [[Tony Award for Best Featured Actor in a Musical|Best Featured Actor in a Musical]] [[Daveed Diggs]] [[Jonathan Groff]] [[Christopher Jackson (actor)|Christopher Jackson]] [[Tony Award for Best Featured Actress in a Musical|Best Featured Actress in a Musical]] [[Renée Elise Goldsberry]] [[Tony Award for Best Scenic Design of a Musical|Best Scenic Design of a Musical]] [[Tony Award for Best Costume Design of a Musical|Best Costume Design of a Musical]] [[Paul Tazewell]] [[Tony Award for Best Lighting Design of a Musical|Best Lighting Design of a Musical]] [[Howell Binkley]] [[Tony Award for Best Choreography|Best Choreography]] [[Andy Blankenbuehler]] [[Tony Award for Best Orchestrations|Best Orchestrations]] [[Alex Lacamoire]] [[Drama League Award]] [[Pulitzer Prize]] [[Pulitzer Prize for Drama|Drama]] [[58th Annual Grammy Awards|Grammy Awards]] [[Grammy Award for Best Musical Theater Album|Best Musical Theater Album]] [[Jasmine Cephas Jones]] [[Okieriete Onaodowan]] [[Anthony Ramos (actor)|Anthony Ramos]] [[Bill Sherman (composer)|Bill Sherman]] [[Questlove|Ahmir Thompson]] [[Black Thought|Tariq Trotter]] [[Fred and Adele Astaire Awards]] [[NAACP Image Awards]] [[NAACP Image Award for Outstanding Duo or Group|Outstanding Duo, Group or Collaboration]] [[Billboard Music Award]] [[Billboard Music Award for Top Soundtrack|Top Soundtrack/Cast Album]] [[Kennedy Center Honors]]
+|}
+=== Original West End production ===
+{|
+|-
+| links || [[Critics' Circle Theatre Award]] [[Critics' Circle Theatre Award#The Peter Hepple Award for Best Musical|Best Musical]] [[Laurence Olivier Award]] [[Laurence Olivier Award for Best New Musical|Best New Musical]] [[Laurence Olivier Award for Outstanding Achievement in Music|Outstanding Achievement in Music]] [[Alex Lacamoire]] [[Lin-Manuel Miranda]] [[Laurence Olivier Award for Best Actor in a Musical|Best Actor in a Musical]] [[Giles Terera]] [[Laurence Olivier Award for Best Actor in a Supporting Role in a Musical|Best Actor in a Supporting Role in a Musical]] [[Michael Jibson]] [[Jason Pennycooke]] [[Laurence Olivier Award for Best Actress in a Supporting Role in a Musical|Best Actress in a Supporting Role in a Musical]] [[Rachel John]] [[Laurence Olivier Award for Best Costume Design|Best Costume Design]] [[Paul Tazewell]] [[Laurence Olivier Award for Best Lighting Design|Best Lighting Design]] [[Howell Binkley]] [[Laurence Olivier Award for Best Sound Design|Best Sound Design]] [[Laurence Olivier Award for Best Director|Best Director]] [[Thomas Kail]] [[Laurence Olivier Award for Best Theatre Choreographer|Best Theatre Choreographer]] [[Andy Blankenbuehler]]
+|}
+=== Original Australian production ===
+{|
+|-
+| links || [[Sydney Theatre Awards]]
+|}
+=== Accolades ===
+== Concept ==
+=== Casting diversity ===
+=== Historical accuracy ===
+==== Chronology and events ====
+==== Critical analysis and scholarship ====
+=== Use in education ===
+== Legacy and impact ==
+=== $10 bill ===
+=== ''Hamilton: The Revolution'' ===
+=== ''Hamilton's America'' ===
+=== ''Hamilton: The Exhibition'' ===
+===''Hamilton'' for Puerto Rico===
+=== 2016 Vice President–elect Pence controversy ===
+=== Parodies ===
+==== Scamilton production ====
+=== Ham4Progress ===
+====Education====
+====Civic engagement====
+====Racial justice====
+====Gender equality====
+==Adaptations==
+===Filmed stage production===
+===Potential film adaptation===
+== See also ==
+==References==
+== Further reading ==
+== External links ==
+
+== Actors mentioned in prose (fixture) ==
+starring [[George Arliss]].
+cast included [[Miguel Cervantes (actor)|Miguel Cervantes]].

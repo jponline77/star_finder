@@ -1,0 +1,386 @@
+{{Infobox Musical
+| name        = Candide
+| subtitle    =
+| image       = Candide playbill.jpg
+| caption     = Playbill from 1974 revival
+| music       = [[Leonard Bernstein]]
+| lyrics      = {{plainlist|
+*[[Richard Wilbur]] (primary)
+* [[John La Touche (lyricist)|John Latouche]]
+* [[Dorothy Parker]]
+* [[Lillian Hellman]]
+* [[Stephen Sondheim]]
+* [[Leonard Bernstein]]}}
+| book        = {{plainlist|
+* [[Lillian Hellman]] (1956 version)
+* [[Hugh Wheeler]] (1974 version)}}
+| basis       = ''[[Candide]]'', novella by [[Voltaire]]
+| productions = {{plainlist|
+*1956 [[Broadway theatre|Broadway]]
+*1957 [[New York Philharmonic]]{{citation needed|date=May 2020}}
+*1973 [[Broadway theatre|Broadway]] [[revival (theatre)|revival]]
+*1982 [[New York City Opera]]
+*1988 [[Scottish Opera|Scottish Opera Version]]
+*1997 [[Broadway theatre|Broadway]] [[revival (theatre)|revival]]
+*1999 [[Royal National Theatre]]
+*2004 & 2005 [[New York Philharmonic]]
+*2006 [[Théâtre du Châtelet]]
+*2008 [[New York City Opera]]{{citation needed|date=May 2020}}
+*2010 [[Goodman Theatre|Goodman Theatre (Chicago)]], [[5th Avenue Theatre|5th Avenue Theatre (Seattle)]] & [[Shakespeare Theatre Company|Shakespeare Theatre (DC)]]
+*2013 [[Menier Chocolate Factory]]{{citation needed|date=May 2020}}
+*2017 [[New York City Opera]]
+*2018 [[Washington National Opera|Kennedy Center]]{{citation needed|date=May 2020}}
+}}
+
+| awards      = {{plainlist|
+*[[Tony Award for Best Book]]
+*[[Drama Desk Award|Drama Desk for Outstanding Book]]}}
+}}
+==Origins==
+==Performance history==
+===1956 original Broadway production===
+===European premieres===
+===Later productions===
+==Roles==
+* Candide ([[tenor]])
+* Dr. Pangloss ([[baritone]]; doubles with Martin in the 1956 stage version and Bernstein's 1989 revision. In the Hal Prince versions, he doubles with several other characters, including the narrator Voltaire and the Governor.)
+* Maximilian (baritone, but can be sung by a tenor; it is a speaking role in the original 1956 version.)
+* [[Cunegonde]] ([[soprano]])
+* Paquette ([[mezzo-soprano]]) (Although a major character in Voltaire's novella and all revivals of the show, she is a walk-on part with only one line in the 1956 stage version.)
+* The Old Lady (mezzo-soprano)
+* Martin (baritone. Doubles with Pangloss in the 1956 version and some later versions. Does not appear in the 1973 version.)
+* Cacambo (speaking role. Does not appear in the 1956 or 1973 versions. Doubles with Pangloss and Martin in Bernstein's 1989 revisions.)
+
+==Original principal casts==
+{| class="wikitable"
+|-
+! Character
+! Original Broadway cast <br> <small>1956</small>
+! Original London cast <br> <small>1959</small>
+! 1st Broadway revival <br> <small>1974</small>
+! New York City Opera <br> <small>1982</small>
+! Scottish Opera <br> <small>1988</small>
+! 2nd Broadway revival <br> <small>1997</small>
+! London revival <br> <small>1999</small>
+! Philharmonic concert <br> <small>2004</small>
+|-
+! Voltaire/Dr. Pangloss
+| style="text-align:center;"|[[Max Adrian]]
+| style="text-align:center;"|[[Laurence Naismith]]
+| style="text-align:center;"|[[Lewis J. Stadlen]]
+| style="text-align:center;"|[[John Lankston]]<br> Joseph McKee
+| style="text-align:center;"|[[Nickolas Grace]]
+| style="text-align:center;"|[[Jim Dale]]
+| style="text-align:center;"|[[Simon Russell Beale]]
+| style="text-align:center;"|[[Thomas Allen (baritone)|Sir Thomas Allen]]
+|-
+! Candide
+| style="text-align:center;"|[[Robert Rounseville]]
+| style="text-align:center;"|[[Denis Quilley]]
+| style="text-align:center;"|[[Mark Baker (actor)|Mark Baker]]
+| style="text-align:center;"|David Eisler
+| style="text-align:center;"|Mark Beudert
+| style="text-align:center;"|[[Jason Danieley]]
+| style="text-align:center;"|[[Daniel Evans (actor)|Daniel Evans]]
+| style="text-align:center;"|[[Paul Groves (tenor)|Paul Groves]]
+|-
+! Cunegonde
+| style="text-align:center;"|[[Barbara Cook]]
+| style="text-align:center;"|[[Mary Costa]]
+| style="text-align:center;"|Maureen Brennan
+| style="text-align:center;"|[[Erie Mills]]
+| style="text-align:center;"|[[Marilyn Hill Smith]]
+| style="text-align:center;"|[[Harolyn Blackwell]]
+| style="text-align:center;"|Alex Kelly
+| style="text-align:center;"|[[Kristin Chenoweth]]
+|-
+! Old Lady
+| style="text-align:center;"|[[Irra Petina]]
+| style="text-align:center;"|[[Edith Coates]]
+| style="text-align:center;"|[[June Gable]]
+| style="text-align:center;"|[[Muriel Costa-Greenspon]]<br>[[Judith Christin]]
+| style="text-align:center;"|[[Ann Howard (mezzo-soprano)|Ann Howard]]
+| style="text-align:center;"|[[Andrea Martin]]
+| style="text-align:center;"|Beverley Klein
+| style="text-align:center;"|[[Patti LuPone]]
+|-
+! Maximilian
+| style="text-align:center;"|[[Louis Edmonds]]
+| style="text-align:center;"|Dennis Stephenson
+| style="text-align:center;"|[[Sam Freed]]
+| style="text-align:center;"|Scott Reeve <br> James Javore
+| style="text-align:center;"|Mark Tinkler
+| style="text-align:center;"|[[Brent Barrett]]
+| style="text-align:center;"|[[Simon Paisley Day|Simon Day]]
+| style="text-align:center;"|[[Jeff Blumenkrantz]]
+|-
+! Paquette
+| style="text-align:center;"|Gloria Stevens
+| style="text-align:center;"|N/A
+| colspan="2" style="text-align:center;"|Deborah St. Darr
+| style="text-align:center;"|Gaynor Miles
+| style="text-align:center;"|Stacey Logan
+| style="text-align:center;"|Elizabeth Renihan
+| style="text-align:center;"|[[Janine LaManna]]
+|-
+! Governor of Buenos Aires
+| style="text-align:center;"|William Olvis
+| style="text-align:center;"|[[Ron Moody]]
+| style="text-align:center;"|[[Lewis J. Stadlen]]
+| style="text-align:center;"|[[John Lankston]]<br>Joseph McKee
+| style="text-align:center;"|[[Bonaventura Bottone]]
+| style="text-align:center;"|[[Jim Dale]]
+| style="text-align:center;"|[[David Burt (actor)|David Burt]]
+| style="text-align:center;"|John Herrera
+|-
+!Cacambo
+| colspan="4" style="text-align:center;"|N/A
+| rowspan="2" style="text-align:center;"|[[Nickolas Grace]]
+| style="text-align:center;"|N/A
+| style="text-align:center;"|[[Clive Rowe]]
+| style="text-align:center;"|[[Michael McCormick (actor)|Michael McCormick]]
+|-
+!Martin
+| style="text-align:center;"|[[Max Adrian]]
+| style="text-align:center;"|[[Laurence Naismith]]
+| colspan="2" style="text-align:center;"|N/A
+| style="text-align:center;"|N/A
+| style="text-align:center;"|[[Denis Quilley]]
+| style="text-align:center;"|N/A
+|}
+
+==Synopsis==
+===Original Broadway version (1956)===
+===Bernstein's "Final Revised Version" (1989)===
+==Music==
+===Overture===
+
+==="Glitter and Be Gay"===
+
+Subsequent performers of the role of Cunegonde have included:
+* [[Mary Costa]] (in the 1959 London premiere)
+* [[Mimi Coertse]] (in the 1963 Vienna premiere)
+* [[Madeline Kahn]] (in a 1968 concert version)
+* Maureen Brennan (In [[Hal Prince]]'s first Broadway revival of the show in 1974)
+* Erie Mills (at the [[New York City Opera]] in 1982)
+* [[June Anderson]] (under Bernstein's direction in concerts and a 1989 recording shortly before his death)
+* [[Constance Hauman]] (understudy to Anderson, filled in for at least one performance)
+* [[Elizabeth Futral]] (at [[Lyric Opera of Chicago]] in 1994)
+* [[Michael Callen]] (in his 1996 posthumously released LEGACY 2-CD album)
+* [[Harolyn Blackwell]] (in Hal Prince's 1997 Broadway revival of the show).
+* [[Kristin Chenoweth]] (in a 2004 concert production with the [[New York Philharmonic]]; recorded with many other orchestras including the [[Boston Pops Orchestra|Boston Pops]])
+* [[Lauren Molina]] (in [[Mary Zimmerman]]'s 2010 production at the [[Goodman Theatre]])
+* [[Jessica Pratt (soprano)|Jessica Pratt]] (at [[Teatro dell'Opera di Roma]] in 2012)
+* [[Scarlett Strallen]] (in the 2013 [[Menier Chocolate Factory]] production)
+
+==Musical numbers==
+
+===Original production (1956)===
+All music by Bernstein, and lyrics by Richard Wilbur unless noted otherwise
+{{col-begin}}
+{{col-2}}
+
+Act 1
+*Overture – Orchestra
+
+Scene 1: Westphalia
+*Opening: The Best of All Possible Worlds – Dr. Pangloss, Chorus, Cunegonde, Candide
+*Duet: Oh, Happy We – Candide and Cunegonde 
+*Chorus: Wedding Chorale – Chorus
+
+Scene 1A: Candide Travels to Lisbon
+*Meditation: It Must Be So – Candide
+
+Scene 2: Lisbon
+*Ensemble: Lisbon Sequence: Lisbon Fair / The Prediction / Dear Boy / The Inquisition: Auto-da-Fé* – Infant Casmira, Conjuror, Pangloss, The Inquisitors, and Chorus (Lyrics by Bernstein)
+*Ensemble: Lisbon Sequence: Lisbon Fair / The Prediction / Pray For Us – Infant Casmira, Conjuror, and Chorus (Lyrics by Bernstein)
+
+Scene 2A: Candide Travels to Paris
+*Meditation: It Must Be Me – Candide
+
+Scene 3: Paris
+*Mazurka: The Paris Waltz – Orchestra
+*Aria: Glitter and Be Gay – Cunegonde
+*Duet: You Were Dead, You Know – Candide and Cunegonde (Lyrics by John Latouche and Wilbur)
+
+Scene 3A: They Travel to Buenos Aires
+*Ensemble: Pilgrims' Procession – Pilgrim Mother, Pilgrim Father, Cunegonde, Old Lady, Candide, Chorus
+*Chorus: Alleluia – Pilgrims
+
+Scene 4: Buenos Aires
+*Serenade: My Love – Governor of Buenos Aires, Cunegonde, Old Lady (Lyrics by Latouche and Wilbur) 
+*Tango: I Am Easily Assimilated – Old Lady, Chorus, Cunegonde (Lyrics by Bernstein)
+*Quartet: Finale act 1 – Candide, Cunegonde, Governor of Buenos Aires, Old Lady
+{{col-break}}
+
+Act 2
+
+Entr'acte – Orchestra
+
+Scene 1: Buenos Aires
+*Trio: Quiet – Old Lady, Governor of Buenos Aires, Cunegonde
+*Ballad: Eldorado – Candide, Chorus (Lyrics by Lillian Hellman)
+*Schottische: Bon Voyage – Chorus, Governor of Buenos Aires
+
+Scene 2: Venice
+*Ensemble: Money, Money, Money (Venice Gambling Scene) – Croupier and Gamblers
+*Waltz: What's the Use? – Madame Sofronia, Ferone, Prefect of Police, Prince Ivan, Chorus
+*Gavotte: The Venice Gavotte – Madame Sofronia, Candide, Dr. Pangloss, Cunegonde (Lyrics by Dorothy Parker)
+
+Scene 3: Westphalia
+*Finale: Make Our Garden Grow – Candide, Cunegonde, Company
+{{col-end}}
+
+:* This version of the "Lisbon Sequence" was rewritten after the Boston try-out; it removed the songs "Auto-da-Fé" and "Dear Boy", reinstated in most revivals.
+
+===1973 production===
+{{col-begin}}
+*Life is Happiness Indeed – Candide, Cunegonde, Maximilian, Paquette
+*The Best of All Possible Worlds – Pangloss, Candide, Cunegonde, Maximilian, Paquette
+*Oh Happy We – Candide, Cunegonde
+*It Must Be So – Candide
+*O Miserere – Company
+*Oh Happy We (reprise) – Candide, Cunegonde
+*[[Glitter and Be Gay]]
+*Auto da Fe (What A Day) – Company
+*This World – Candide
+*You Were Dead, You Know – Candide, Cunegonde
+*I Am Easily Assimilated – Old Lady, 3 Dons
+*I Am Easily Assimilated (reprise) – Old Lady, Candide, Cunegonde
+*My Love – Governor, Maximilian
+*Alleluia – Company
+*Sheep Song – 2 Sheep, Lion, Paquette, Candide
+*Bon Voyage – Governor and Company
+*The Best of All Possible Worlds (reprise) – Old Lady, Candide, Paquette, 2 Sheep
+*You Were Dead, You Know – Candide, Cunegonde
+*Make Our Garden Grow – Company
+{{col-end}}
+
+:* The 1973 revival had a couple of songs added (music by Bernstein and lyrics by Stephen Sondheim unless otherwise noted); "Life Is Happiness Indeed", "Auto Da Fe (What a Day)" (lyrics by Sondheim and Latouche), "This World", "The Sheep's Song", and "O Miserere".
+
+=== 1982 production (NY City Opera House Version) ===
+{{col-begin}}
+{{col-2}}
+
+Act 1
+* [[#Overture|Overture]]
+* Life Is Happiness, Indeed
+* Parade
+* The Best of All Possible Worlds
+* Oh, Happy We
+* Candide Begins His Travels
+* It Must Be So
+* Westphalian Fanfare, Chorale and Battle Music
+* Transition Music (Entrance of The Jew)
+* [[#"Glitter and Be Gay"|Glitter and Be Gay]]
+* Earthquake Music
+* Dear Boy
+* Auto-da-Fé (What a day)
+* Candide's Lament
+* You Were Dead, You Know
+* Travel ("To the stables")
+* I Am Easily Assimilated
+* I Am Easily Assimilated Reprise
+* Quartet Finale
+{{col-break}}
+
+Act 2
+* Entr'acte and Ballad of the New World
+* My Love
+* Barcarolle (The Old Lady's Tale)
+* Alleluia
+* Eldorado Underscore
+* Sheep's Song
+* Governor's Waltz
+* Bon Voyage — Schottische
+* Quiet
+* The Best of All Possible Worlds Reprise
+* What's the Use?
+* You Were Dead, You Know Reprise
+* Barcarolle Reprise
+* Finale: Make Our Garden Grow
+{{col-end}}
+
+=== 1989 production ===
+Bernstein's "final revised version", recorded in 1989:
+{{col-begin}}
+{{col-2}}
+
+Act 1
+* [[#Overture|Overture]]
+* Westphalia Chorale
+* Life Is Happiness Indeed
+* The Best of All Possible Worlds
+* Universal Good
+* Oh, Happy We
+* It Must Be So (Candide's Meditation)
+* Westphalia
+* Battle Music (Mazurka)
+* Candide's Lament
+* Dear Boy
+* Auto-da-Fé (What a day)
+* Candide Begins His Travels; It Must Be Me (2nd Meditation)
+* The Paris Waltz
+* [[#"Glitter and Be Gay"|Glitter and Be Gay]]
+* You Were Dead, You Know
+* I Am Easily Assimilated (Old Lady's Tango)
+* Quartet Finale
+{{col-break}}
+
+Act 2
+* Entr'acte
+* Universal Good
+* My Love
+* We Are Women
+* The Pilgrim's Procession – Alleluia
+* Quiet
+* Introduction To Eldorado
+* The Ballad Of Eldorado
+* Words, Words, Words (Martin's Laughing Song)
+* Bon Voyage
+* The Kings' Barcarolle
+* Money, Money, Money
+* What's the Use?
+* The Venice Gavotte
+* Nothing More Than This
+* Universal Good
+* Make Our Garden Grow
+{{col-end}}
+
+==Awards and nominations==
+===Original Broadway production===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Musical|Best Musical]] [[Tony Award for Best Performance by a Featured Actress in a Musical|Best Performance by a Featured Actress in a Musical]] [[Irra Petina]] [[Tony Award for Best Conductor and Musical Director|Best Conductor and Musical Director]] [[Tony Award for Best Scenic Design|Best Scenic Design]] [[Oliver Smith (designer)|Oliver Smith]] [[Tony Award for Best Costume Design|Best Costume Design]] [[Irene Sharaff]]
+|}
+===1973 Broadway revival===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Book of a Musical|Best Book of a Musical]] [[Hugh Wheeler]] [[Tony Award for Best Performance by a Leading Actor in a Musical|Best Performance by a Leading Actor in a Musical]] [[Lewis J. Stadlen]] [[Tony Award for Best Performance by a Featured Actor in a Musical|Best Performance by a Featured Actor in a Musical]] [[Mark Baker (actor)|Mark Baker]] [[Tony Award for Best Performance by a Featured Actress in a Musical|Best Performance by a Featured Actress in a Musical]] [[June Gable]] [[Tony Award for Best Direction of a Musical|Best Direction of a Musical]] [[Harold Prince]] [[Tony Award for Best Scenic Design|Best Scenic Design]] [[Franne Lee]] [[Eugene Lee (designer)|Eugene Lee]] [[Tony Award for Best Costume Design|Best Costume Design]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Book of a Musical|Outstanding Book of a Musical]] [[Drama Desk Award for Outstanding Director|Outstanding Director]] [[Drama Desk Award for Outstanding Choreography|Outstanding Choreography]] [[Patricia Birch]] [[Drama Desk Award for Outstanding Set Design|Outstanding Set Design]] [[Drama Desk Award for Outstanding Costume Design|Outstanding Costume Design]] [[New York Drama Critics' Circle|New York Drama Critics' Circle Award]]
+|}
+===1988 Old Vic production===
+{|
+|-
+| links || [[Laurence Olivier Award]] [[Laurence Olivier Award for Best New Musical|Musical of the Year]] [[Richard Hudson (stage designer)|Richard Hudson]] [[Laurence Olivier Award for Best Actress in a Musical]] [[Patricia Routledge]] [[Laurence Olivier Award for Best Actor in a Musical]] [[Nickolas Grace]]
+|}
+===1997 Broadway revival===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Revival of a Musical|Best Revival of a Musical]] [[Tony Award for Best Performance by a Leading Actor in a Musical|Best Performance by a Leading Actor in a Musical]] [[Jim Dale]] [[Tony Award for Best Performance by a Featured Actress in a Musical|Best Performance by a Featured Actress in a Musical]] [[Andrea Martin]] [[Tony Award for Best Costume Design|Best Costume Design]] [[Judith Dolan]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Revival of a Musical|Outstanding Revival of a Musical]] [[Drama Desk Award for Outstanding Actor in a Musical|Outstanding Actor in a Musical]] [[Jason Danieley]] [[Drama Desk Award for Outstanding Featured Actress in a Musical|Outstanding Featured Actress in a Musical]] [[Drama Desk Award for Outstanding Set Design|Outstanding Set Design]]
+|}
+===1999 National Theatre London production===
+{|
+|-
+| links || [[Laurence Olivier Award]] [[Laurence Olivier Award for Best Musical Revival|Best Musical Revival]] [[Laurence Olivier Award for Best Actor in a Musical|Best Actor in a Musical]] [[Simon Russell Beale]] [[Daniel Evans (actor)|Daniel Evans]] [[Laurence Olivier Award for Best Performance in a Supporting Role in a Musical|Best Performance in a Supporting Role in a Musical]] [[Denis Quilley]] [[Laurence Olivier Award for Best Theatre Choreographer|Best Theatre Choreographer]] [[Peter Darling]] [[Laurence Olivier Award for Best Costume Design|Best Costume Design]] [[John Napier (designer)|John Napier]]
+|}
+==References==
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+cast included [[Denis Quilley]].
+cast included [[Denis Quilley]], [[Mary Costa]], [[Laurence Naismith]], [[Edith Coates]].
+starred [[Mark Baker (actor)|Mark Baker]].
+with a cast that included David Eisler as Candide, [[Erie Mills]], [[John Lankston]], [[Muriel Costa-Greenspon]], [[Don Yule]], [[James Billings]].
+cast included: [[Jason Danieley]], [[Harolyn Blackwell]], [[Jim Dale]], [[Andrea Martin]], [[Brent Barrett]].
+starred [[Akinori Nakagawa]].
+cast featured [[Paul Groves (tenor)|Paul Groves]], [[Kristin Chenoweth]], [[Thomas Allen (baritone)|Thomas Allen]], [[Patti LuPone]], [[Jeff Blumenkrantz]], [[Stanford Olsen]], [[Westminster Choir College]], [[Juilliard School]].

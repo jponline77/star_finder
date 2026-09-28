@@ -1,0 +1,254 @@
+{{Infobox musical
+| name = & Juliet
+| image = &JulietTheatrePoster.jpeg
+| caption = Poster for the West End production
+| image_size = 
+| music = [[Max Martin]] and others<br />'''Arranged by:''' [[Bill Sherman]]
+| lyrics = Max Martin and others
+| book = [[David West Read]]
+| basis = {{Based on|''[[Romeo and Juliet]]''|[[William Shakespeare]]}}
+| premiere_date = 2019
+| premiere_location = [[Manchester Opera House]]
+| productions = 2019 Manchester<br />2019 [[West End theatre|West End]]<br />2022 [[Broadway theatre|Broadway]]<br />2024 UK & Ireland tour<br />2024 US tour
+}}
+==Synopsis==
+===Act One===
+===Act Two===
+==Cast and characters==
+{| class="wikitable"
+|+
+! rowspan="2" |Character
+!Manchester
+!West End
+!Broadway
+!UK Tour
+!US  Tour
+|-
+! colspan="2" |<small>2019</small>
+! colspan="1" |<small>2022</small>
+! colspan="2" | <small>2024</small>
+|-
+![[Juliet Capulet]]
+| colspan="2" align="center" | [[Miriam-Teak Lee]]
+| colspan="1" align="center" |[[Lorna Courtney]]
+| align="center" | Gerardine Sacdalan
+| align="center" | Rachel Webb
+|-
+![[Anne Hathaway (wife of Shakespeare)|Anne Hathaway]]/April
+| colspan="2" align="center" | [[Cassidy Janson]]
+| colspan="1" align="center" |[[Betsy Wolfe]]
+| align="center" |Lara Denning
+| align="center" | [[Teal Wicks]]
+|-
+![[William Shakespeare]]
+| colspan="2" align="center" | [[Oliver Tompsett]]
+| colspan="1" align="center" |[[Stark Sands]]
+| align="center" | [[Matt Cardle]]
+| align="center" | [[Corey Mach]]
+|-
+!Lance Du Bois
+| colspan="2" align="center" | [[David Bedella]]
+| colspan="1" align="center" |[[Paulo Szot]]
+| align="center" | [[Dr Ranj Singh]]
+| align="center" | Paul-Jordan Jansen
+|-
+!May
+| colspan="2" align="center" | Arun Blair-Mangat
+| colspan="1" align="center" |Justin David Sullivan
+| align="center" | Jordan Broatch
+| align="center" | Nick Drake
+|-
+![[Romeo Montague]]
+| colspan="2" align="center" | [[Jordan Luke Gage]]
+| colspan="1" align="center" |Ben Jackson Walker
+| align="center" | Jack Danson
+| align="center" | Michael Canu
+|-
+![[Nurse (Romeo and Juliet)|Angélique/Nurse]]
+| colspan="3" align="center" | [[Melanie La Barrie]]
+| align="center" |Sandra Marvin
+| align="center" | [[Kathryn Allison]]
+|-
+! François Du Bois
+| colspan="2" align="center" | Tim Mahendran
+| colspan="1" align="center" |[[Philippe Arroyo]]
+| align="center" | Kyle Cox
+| align="center" | Mateus Leite Cardoso
+|}
+
+===Notable cast replacements===
+
+'''West End (2019–23)'''
+*Romeo Montague: [[Tom Francis (actor)|Tom Francis]]
+*Angelique/Nurse: [[Keala Settle]]
+*May: [[Jo Foster]]
+
+'''Broadway (2022–)'''
+*Juliet Capulet: [[Maya Boyd]]
+*William Shakespeare: [[Oliver Tompsett]], [[Drew Gehling]] [[Corey Mach]]
+*Anne Hathaway: [[Alison Luff]], [[Teal Wicks]]
+*Lance Du Bois: [[David Bedella]], [[Joey Fatone]], [[Hayden Tee]], [[James Monroe Iglehart]]
+*Angelique/Nurse: [[Charity Angél Dawson]], [[Kandi Burruss]]
+
+'''UK Tour (2024–25)'''
+*William Shakespeare: [[Jay McGuiness]]
+*Lance Du Bois: [[Lee Latchford-Evans]]
+
+==Musical numbers==
+
+{| class="wikitable"
+|+
+!Performer(s)
+!Song
+!Original Artist
+|-
+!colspan="3"|Act 1
+|-
+|Shakespeare and Company
+|"[[Larger than Life (Backstreet Boys song)|Larger than Life]]"
+|rowspan="2"|[[Backstreet Boys]]
+|-
+|Anne, Shakespeare and Company
+|"[[I Want It That Way]]"
+|-
+|Juliet
+|"[[...Baby One More Time]]"
+|[[Britney Spears]]
+|-
+|Rosaline, Anne, Shakespeare, Lord Capulet, Lady Capulet, Juliet and Company
+|"[[Show Me the Meaning of Being Lonely]]"
+|[[Backstreet Boys]]
+|-
+|Juliet, Anne, Angelique and May
+|"[[Domino (Jessie J song)|Domino]]"
+|[[Jessie J]]
+|-
+|rowspan="2"|Juliet, Anne, Angelique, May  and Company
+|"[[Show Me Love (Robyn song)|Show Me Love]]"
+|[[Robyn]]
+|-
+|"[[Blow (Kesha song)|Blow]]"
+|[[Kesha]]
+|-
+|May and Juliet
+|"[[I'm Not a Girl, Not Yet a Woman]]"
+|rowspan="2"|[[Britney Spears]]
+|-
+|François and Juliet
+|"[[Overprotected]]"
+|-
+|Juliet, François, Angelique and Company
+|"[[Confident (Demi Lovato song)|Confident]]"
+|[[Demi Lovato]]
+|-
+|Angelique and Lance
+|"[[Teenage Dream (Katy Perry song)|Teenage Dream]]" / "[[Break Free (song)|Break Free]]"
+|[[Katy Perry]] / [[Ariana Grande]] feat. [[Zedd]]
+|-
+|Juliet and Angelique
+|"[[Oops!... I Did It Again (song)|Oops!...I Did It Again]]"
+|[[Britney Spears]]
+|-
+|May, François, and Company
+|"[[I Kissed a Girl]]"
+|[[Katy Perry]]
+|-
+|Romeo, Shakespeare, Juliet, Anne and Company
+|"[[It's My Life (Bon Jovi song)|It's My Life]]"
+|[[Bon Jovi]]
+|-
+!colspan="3"|Act 2
+|-
+|Romeo
+|"[[Love Me like You Do]]"
+|[[Ellie Goulding]]
+|-
+|Juliet and Female Ensemble
+|"[[Since U Been Gone]]"
+|[[Kelly Clarkson]]
+|-
+|May and François
+|"[[Whataya Want from Me]]"
+|[[Adam Lambert]]
+|-
+|rowspan="2"|Juliet, Romeo and Company
+|"One More Try"
+|Original song
+|-
+|"[[Problem (Ariana Grande song)|Problem]]" / "[[Can't Feel My Face]]"
+|[[Ariana Grande]] and [[Iggy Azalea]] / [[The Weeknd]]
+|-
+|Anne and Juliet
+|"[[That's the Way It Is (Celine Dion song)|That's the Way It Is]]"
+|[[Céline Dion]]
+|-
+|Shakespeare, Romeo, May, François, Lance and Company
+|"[[Everybody (Backstreet's Back)]]"
+|rowspan="2"|[[Backstreet Boys]]
+|-
+|François
+|"[[As Long as You Love Me (Backstreet Boys song)|As Long as You Love Me]]"
+|-
+|François and May
+|"[[It's Gonna Be Me]]"
+|[[*NSYNC]]
+|-
+|Juliet
+|"[[Stronger (Britney Spears song)|Stronger]]"
+|[[Britney Spears]]
+|-
+|Lance, François and May
+|"[[Shape of My Heart (Backstreet Boys song)|Shape of My Heart]]"
+|[[Backstreet Boys]]
+|-
+|Angelique and Company
+|"[[Fuckin' Perfect]]"
+|[[P!nk]]
+|-
+|Juliet and Company
+|"[[Roar (song)|Roar]]"
+|[[Katy Perry]]
+|-
+|Shakespeare, Anne, Juliet, Romeo and Company
+|"[[I Want It That Way]]" (Reprise)
+|[[Backstreet Boys]]
+|-
+|Shakespeare, Anne and Company
+|"[[Can't Stop the Feeling!]]"
+|[[Justin Timberlake]]
+|}
+
+==Productions==
+===Manchester (2019)===
+===West End (2019–2023)===
+===Toronto (2022, 2025–2026)===
+===Broadway (2022–present)===
+===Melbourne (2023)===
+===Singaporean and Australian Tour (2023–2024)===
+===UK tour (2024–2025)===
+===North American Tour (2024–present)===
+===Hamburg (2024–2026)===
+=== Stockholm (2026–present) ===
+=== New Zealand (2026) ===
+===Planned productions===
+==Reception==
+==Awards==
+===Original West End production===
+{|
+|-
+| links || [[2020 Laurence Olivier Awards|Laurence Olivier Awards]] [[Laurence Olivier Award for Best New Musical|Best New Musical]] [[Laurence Olivier Award for Best Actress in a Musical|Best Actress in a Musical]] [[Miriam-Teak Lee]] [[Laurence Olivier Award for Best Actor in a Supporting Role in a Musical|Best Actor in a Supporting Role in a Musical]] [[David Bedella]] [[Laurence Olivier Award for Best Actress in a Supporting Role in a Musical|Best Actress in a Supporting Role in a Musical]] [[Cassidy Janson]] [[Laurence Olivier Award for Best Theatre Choreographer|Best Theatre Choreographer]] [[Laurence Olivier Award for Best Set Design|Best Set Design]] [[Soutra Gilmour]] [[Laurence Olivier Award for Best Costume Design|Best Costume Design]] [[Paloma Young]] [[Laurence Olivier Award for Best Lighting Design|Best Lighting Design]] [[Laurence Olivier Award for Outstanding Musical Contribution|Outstanding Musical Contribution]] [[Bill Sherman]] [[Grace Mouat]]
+|}
+===2022 Broadway production===
+{|
+|-
+| links || [[Tony Awards]] [[Tony Award for Best Musical|Best Musical]] [[Tony Award for Best Book of a Musical|Best Book of a Musical]] [[Tony Award for Best Actress in a Musical|Best Actress in a Musical]] [[Lorna Courtney]] [[Tony Award for Best Featured Actress in a Musical|Best Featured Actress in a Musical]] [[Betsy Wolfe]] [[Tony Award for Best Costume Design of a Musical|Best Costume Design of a Musical]] [[Tony Award for Best Lighting Design of a Musical|Best Lighting Design of a Musical]] [[Tony Award for Best Sound Design of a Musical|Best Sound Design of a Musical]] [[Gareth Owen (sound designer)|Gareth Owen]] [[Tony Award for Best Choreography|Best Choreography]] [[Tony Award for Best Orchestrations|Best Orchestrations]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Musical|Outstanding Musical]] [[Drama Desk Award for Outstanding Book of a Musical|Outstanding Book of a Musical]] [[David West Read]] [[Outer Critics Circle Award]] [[Outer Critics Circle Award for Outstanding New Broadway Musical|Outstanding New Broadway Musical]] [[Outer Critics Circle Award for Outstanding Featured Performer in a Broadway Musical|Outstanding Featured Performer in a Broadway Musical]] [[Outer Critics Circle Award for Outstanding Book of a Musical|Outstanding Book of a Musical]] [[Outer Critics Circle Award for Outstanding Costume Design|Outstanding Costume Design]] [[Outer Critics Circle Award for Outstanding Orchestrations|Outstanding Orchestrations]] [[Outer Critics Circle Award for Outstanding Choreography|Outstanding Choreography]] [[Chita Rivera Awards for Dance and Choreography|Chita Rivera Awards]]
+|}
+==See also==
+==References==
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+cast included [[Oliver Tompsett]].
+played by [[Keala Settle]].
+starred [[Lorna Courtney]].
+starring [[Joanné Nugas]].

@@ -1,0 +1,128 @@
+{{Infobox musical
+| name              = Roman Holiday
+| subtitle          = 
+| image             = Roman Holiday promotional art.jpg
+| image_size        = 170px
+| caption           = Promotional artwork
+| music             = [[Cole Porter]]
+| lyrics            = Cole Porter
+| book              = Paul Blake, Kathy Speer, and Terry Grossman
+| basis             = 1953 film ''[[Roman Holiday]]''
+| setting           = [[Rome]]
+| premiere_date = July 9, 2001
+| premiere_location = [[The Muny]], [[St. Louis, Missouri]]
+| productions       = 2001 [[St. Louis|St. Louis, Missouri]]<br />2012 [[Minneapolis|Minneapolis, Minnesota]]<br />2017 [[San Francisco|San Francisco, California]]
+| awards            = 
+}}
+== Productions ==
+==Musical numbers==
+''Guthrie Theater''
+{{col-begin}}
+{{col-2}}
+; Act I
+* "Overture"
+* "Once Upon a Time" – Princess
+* "I'm Throwing a Ball Tonight" – Joe, Ensemble
+* "Experiment" – Countess, Princess
+* "Why Shouldn't I?" – Princess
+* "Ace In the Hole" – Joe, Ensemble
+* "Let's Be Buddies" – Joe, Princess
+* "Look What I Found" – Joe, Princess, Ensemble
+* "Wouldn't It Be Fun?" – Irving, Princess, Joe
+* "Most Gentlemen Don't Like Love" – Francesca, Princess
+* "Ridin' High" – Joe, Princess, Ensemble
+{{col-break}}
+; Act II
+* "Entr'acte"
+* "A Picture of Me Without You" – Joe, Princess, Irving
+* "Use Your Imagination" – Princess, Joe
+* "Just One of Those Things" – Francesca, Male Quartet
+* "Easy to Love" – Joe
+* "Ev'ry Time We Say Goodbye" – Princess, Joe
+* "I Sleep Easier Now" – Countess 
+* "Night and Day" – Joe
+* "Experiment (Reprise)" – Princess
+{{col-end}}
+
+''Golden Gate Theatre''
+{{col-begin}}
+{{col-2}}
+; Act I
+* "Why Shouldn't I" – Princess
+* "You Do Something to Me" – Francesca and Ensemble
+* "Take Me Back to Manhattan" – Joe, Irving and Ensemble
+* "Let's Step Out" – Princess
+* "Let's Step Out (Reprise)" – Princess
+* "Experiment" – Joe
+* "Experiment Ballet" – Princess, Joe and Ensemble
+* "Look What I Found" – Joe, Princess and Ensemble
+* "Night and Day" – Irving and Francesca
+* "Look What I Found (Reprise)" – Princess, Joe and Irving
+* "Ridin' High" – Joe, Princess and Ensemble
+* "Why Shouldn't I (Reprise)" – Princess
+{{col-break}}
+; Act II
+* "Most Gentlemen Don't Like Love" – Francesca and Ladies
+* "Night and Day (Reprise)" – Irving
+* "Use Your Imagination" – Princess and Joe
+* "Begin the Beguine" – Francesca and Men
+* "You Do Something to Me (Reprise)" – Irving and Francesca
+* "Easy to Love" – Joe
+* "Goodbye, Little Dream" – Princess
+* "Just One of Those Things" – Princess and Joe
+* "Experiment (Reprise)" – Princess
+{{col-end}}
+
+==Characters and original cast==
+{| class="wikitable" style="width:1000;"
+|-
+! Character
+! [[The Muny]]<br /><small>(2001)</small>
+! Guthrie Reading<br /><small>(2012)</small>
+! [[Guthrie Theater]]<br /><small>(2012)</small>
+! Workshop<br /><small>(2016)</small>
+! [[Golden Gate Theatre]]<br /><small>(2017)</small>
+! [[Shanghai]] Reading<br /><small>(2018)</small>
+|-
+! Princess Ann
+|colspan='1' align=center| [[Catherine Brunell]]
+|colspan='1' align=center| [[Laura Osnes]]
+|colspan='1' align=center| [[Stephanie Rothenberg]]
+|colspan='1' align=center| [[Laura Osnes]]
+|colspan='1' align=center| [[Stephanie Styles]]
+|colspan='1' align=center| Lorna Want
+|-
+! Joe Bradley
+|colspan='1' align=center| [[Jeff McCarthy]]
+|colspan='1' align=center| [[John Behlmann]]
+|colspan='1' align=center| Edward Watts
+|colspan='2' align=center| [[Drew Gehling]]
+|colspan='1' align=center| Michael Xavier
+|-
+! Francesca Cervelli
+|colspan='1' align=center| [[Priscilla Lopez]]
+|colspan='1' align=center| 
+|colspan='1' align=center| Christina Baldwin
+|colspan='1' align=center| 
+|colspan='2' align=center| [[Sara Chase]]
+|-
+! Irving Radovich
+|colspan='1' align=center| [[Jim Walton (actor)|Jim Walton]]
+|colspan='1' align=center| 
+|colspan='1' align=center| [[Jim Stanek]]
+|colspan='1' align=center| 
+|colspan='1' align=center| [[Jarrod Spector]]
+|colspan='1' align=center| 
+|-
+! Countess
+|colspan='1' align=center| [[Karen Morrow]]
+|colspan='1' align=center|
+
+|colspan='1' align=center| Michelle Barber
+|colspan='1' align=center| 
+|colspan='1' align=center| [[Georgia Engel]]
+|colspan='1' align=center| 
+|-
+|}
+
+==References==

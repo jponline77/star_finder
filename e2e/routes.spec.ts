@@ -34,7 +34,17 @@ const ROUTES: RouteCase[] = [
   { name: 'login', who: 'anon', path: '/login', ready: 'login-form' },
   { name: 'signup', who: 'anon', path: '/signup', ready: 'signup-form' },
   { name: '404', who: 'anon', path: '/this-scene-was-cut', ready: 'not-found' },
-  { name: 'add song', who: 'user', path: '/add', ready: 'add-song-form' },
+  { name: 'add song', who: 'user', path: '/add', ready: 'find-song' },
+  { name: 'add song (by hand)', who: 'user', path: '/add?manual=1', ready: 'add-song-form' },
+  {
+    name: 'add song (a catalog show’s song list)',
+    who: 'user',
+    path: async (p) => {
+      const { results } = await (await p.request.get('/api/catalog/search?q=hadestown')).json();
+      return `/add?catalogShow=${results.find((r: { type: string }) => r.type === 'show').id}`;
+    },
+    ready: 'catalog-song',
+  },
   { name: 'edit song', who: 'user', path: async (p) => `/songs/${(await apiCreateSolo(p.request)).id}/edit`, ready: 'add-song-form' },
   { name: 'my stuff', who: 'user', path: '/me', ready: 'me-pass' },
   { name: 'admin', who: 'admin', path: '/admin', ready: 'users-table' },

@@ -8,7 +8,8 @@ import { defineConfig, devices } from '@playwright/test';
  * from the committed seed files into test-results/ (e2e/prepare-db.mjs), then Express serves the
  * API + client/dist on port 3501 (E2E_PORT to change it; E2E_DATA_DIR moves the test-results/
  * data). Nothing in server/data or server/uploads is read, and nothing under server/ is modified
- * (server/media is only copied from).
+ * (server/media is only copied from). The song catalog (SPEC §7c) is the fixture in
+ * server/test/fixtures/catalog.json.gz, and the catalog specs mock Apple, so the suite stays offline.
  * e2e/global-setup.ts then signs up the admin account (admin@test.local) and promotes it with
  * `make-admin`.
  *
@@ -72,6 +73,8 @@ export default defineConfig({
       STAR_DB_PATH: out('e2e.db'),
       STAR_UPLOADS_DIR: out('e2e-uploads'),
       STAR_MEDIA_DIR: out('e2e-media'),
+      // the small fixture catalog (6 shows) instead of the full one: fast startup, predictable results
+      STAR_CATALOG_PATH: path.join(__dirname, 'server', 'test', 'fixtures', 'catalog.json.gz'),
       // one IP runs every test — lift the per-minute/per-day limits (login limits stay real)
       STAR_WRITE_LIMIT: '100000',
       STAR_READ_LIMIT: '100000',

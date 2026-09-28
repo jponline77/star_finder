@@ -1,0 +1,206 @@
+{{Infobox album
+| name         = Hamilton (Original Broadway Cast Recording)
+| type         = cast
+| artist       = the original [[Broadway theatre|Broadway]] cast of ''[[Hamilton (musical)|Hamilton]]''
+| cover        = Hamilton_cast_recording_cover.jpeg
+| alt          = 
+| released     = {{start date|2015|9|25}}
+| recorded     = August 16–21, 2015
+| studio       = * [[Avatar Recording Studios|Avatar]] (New York, New York)
+* Invictus Sound, Long Island, NYC
+| genre        = {{hlist|{{nowrap|[[Show tune]]s}}|[[Hip hop music|hip hop]]|[[Contemporary R&B|R&B]]|[[Soul music|soul]]}}
+| length       = 142:13
+| label        = [[Atlantic Records|Atlantic]]
+| producer     = {{hlist|[[Alex Lacamoire]]|[[Bill Sherman (composer)|Bill Sherman]]|[[Lin-Manuel Miranda]] (also {{abbr|exec.|executive producer}})|[[Questlove|Ahmir Thompson]] (also exec.)|[[Black Thought|Tariq Trotter]] (also exec.)}}
+| prev_title   = 
+| prev_year    = 
+| next_title   = 
+| next_year    = 
+}}
+==Commercial performance==
+==Critical reception==
+==Track listing==
+{{track listing
+| headline      = Act One
+| all_writing   = [[Lin-Manuel Miranda]]
+| extra_column  = Performer(s)
+| title1        = [[Alexander Hamilton (song)|Alexander Hamilton]]
+| extra1        = {{hlist|[[Leslie Odom Jr.]]|[[Anthony Ramos (actor)|Anthony Ramos]]|[[Daveed Diggs]]|[[Okieriete Onaodowan]]|[[Lin-Manuel Miranda]]|[[Phillipa Soo]]|[[Christopher Jackson (actor)|Christopher Jackson]]|Original Broadway Cast of Hamilton}}
+| length1       = 3:56
+| title2        = Aaron Burr, Sir
+| extra2        = {{hlist|Miranda|Odom Jr.|Ramos|Diggs|Onaodowan}}
+| length2       = 2:36
+| title3        = [[My Shot]]
+| extra3        = {{hlist|Miranda|Ramos|Diggs|Onaodowan|Odom Jr.|Cast}}
+| length3       = 5:33
+| title4        = [[The Story of Tonight]]
+| extra4        = {{hlist|Miranda|Ramos|Onaodowan|Diggs|Cast}}
+| length4       = 1:31
+| title5        = [[The Schuyler Sisters]]
+| extra5        = {{hlist|[[Renée Elise Goldsberry]]|Soo|[[Jasmine Cephas Jones|Jasmine Cephas-Jones]]|Odom Jr.|Cast}}
+| length5       = 3:06
+| title6        = Farmer Refuted
+| extra6        = {{hlist|[[Thayne Jasperson]]|Miranda|Cast}}
+| length6       = 1:52
+| title7        = [[You'll Be Back]]
+| extra7        = {{hlist|[[Jonathan Groff]]|Cast}}
+| length7       = 3:28
+| title8        = [[Right Hand Man (Hamilton song)|Right Hand Man]]
+| extra8        = {{hlist|Jackson|Miranda|Odom Jr.|Cast}}
+| length8       = 5:21
+| title9        = A Winter's Ball
+| extra9        = {{hlist|Odom Jr.|Miranda|Cast}}
+| length9       = 1:09
+| title10       = [[Helpless (Hamilton song)|Helpless]]
+| extra10       = {{hlist|Soo|Cast}}
+| length10      = 4:09
+| title11       = [[Satisfied (Hamilton song)|Satisfied]]
+| extra11       = {{hlist|Goldsberry|Cast}}
+| length11      = 5:29
+| title12       = [[The Story of Tonight#Reprises|The Story of Tonight (Reprise)]]
+| extra12       = {{hlist|Ramos|Onaodowan|Diggs|Miranda|Odom Jr.}}
+| length12      = 1:55
+| title13       = [[Wait for It (song)|Wait for It]]
+| extra13       = {{hlist|Odom Jr.|Cast}}
+| length13      = 3:13
+| title14       = Stay Alive
+| extra14       = Cast
+| length14      = 2:39
+| title15       = [[Ten Duel Commandments]]
+| extra15       = {{hlist|Ramos|Miranda|[[Jon Rua]]|Odom Jr.|Cast}}
+| length15      = 1:46
+| title16       = Meet Me Inside
+| extra16       = {{hlist|Miranda|Odom Jr.|Ramos|Jackson|Cast}}
+| length16      = 1:23
+| title17       = That Would Be Enough
+| extra17       = {{hlist|Soo|Miranda}}
+| length17      = 2:58
+| title18       = Guns and Ships
+| extra18       = {{hlist|Odom Jr.|Diggs|Jackson|Cast}}
+| length18      = 2:07
+| title19       = [[History Has Its Eyes On You]]
+| extra19       = {{hlist|Jackson|Miranda|Cast}}
+| length19      = 1:37
+| title20       = [[Yorktown (The World Turned Upside Down)]]
+| extra20       = Cast
+| length20      = 4:02
+| title21       = [[You'll Be Back#Synopsis|What Comes Next?]]
+| extra21       = Groff
+| length21      = 1:39
+| title22       = [[Dear Theodosia]]
+| extra22       = {{hlist|Odom Jr.|Miranda}}
+| length22      = 3:04
+| title23       = [[Non-Stop (Hamilton song)|Non-Stop]]
+| extra23       = {{hlist|Odom Jr.|Miranda|Goldsberry|Soo|Jackson|Cast}}
+| length23      = 6:25
+| total_length  = 70:58
+}}
+
+{{track listing
+| headline      = Act Two
+| extra_column  = Performer(s)
+| title1        = What'd I Miss
+| extra1        = {{hlist|Diggs|Odom Jr.|Onaodowan|Cast}}
+| length1       = 3:56
+| title2        = [[Cabinet Battle#Cabinet Battle #1|Cabinet Battle #1]]
+| extra2        = {{hlist|Jackson|Diggs|Miranda|Onaodowan}}
+| length2       = 3:35
+| title3        = Take a Break
+| extra3        = {{hlist|Soo|Ramos|Miranda|Goldsberry}}
+| length3       = 4:46
+| title4        = [[Say No to This]]
+| extra4        = {{hlist|Cephas-Jones|Odom Jr.|Miranda|Sydney James Harcourt|Cast}}
+| length4       = 4:02
+| title5        = [[The Room Where It Happens]]
+| extra5        = {{hlist|Odom Jr.|Miranda|Diggs|Onaodowan|Cast}}
+| length5       = 5:18
+| title6        = Schuyler Defeated
+| extra6        = {{hlist|Ramos|Soo|Miranda|Odom Jr.}}
+| length6       = 1:03
+| title7        = [[Cabinet Battle#Cabinet Battle #2|Cabinet Battle #2]]
+| extra7        = {{hlist|Jackson|Diggs|Miranda|Onaodowan}}
+| length7       = 2:22
+| title8        = Washington On Your Side
+| extra8        = {{hlist|Odom Jr.|Diggs|Onaodowan|Cast}}
+| length8       = 3:01
+| title9        = [[One Last Time (Hamilton)|One Last Time]]
+| extra9        = {{hlist|Jackson|Miranda|Cast}}
+| length9       = 4:56
+| title10       = [[You'll Be Back#Synopsis|I Know Him]]
+| extra10       = Groff
+| length10      = 1:37
+| title11       = [[The Adams Administration]]
+| extra11       = Cast
+| length11      = 0:54
+| title12       = We Know
+| extra12       = {{hlist|Miranda|Diggs|Odom Jr.|Onaodowan}}
+| length12      = 2:22
+| title13       = Hurricane
+| extra13       = {{hlist|Miranda|Cast}}
+| length13      = 2:23
+| title14       = [[The Reynolds Pamphlet (song)|The Reynolds Pamphlet]]
+| extra14       = Cast
+| length14      = 2:08
+| title15       = [[Burn (Hamilton song)|Burn]]
+| extra15       = Soo
+| length15      = 3:45
+| title16       = Blow Us All Away
+| extra16       = {{hlist|Ramos|[[Ariana DeBose]]|Sasha Hutchings|[[Ephraim Sykes]]|Miranda|Cast}}
+| length16      = 2:53
+| title17       = Stay Alive (Reprise)
+| extra17       = {{hlist|Miranda|Ramos|Soo|Cast}}
+| length17      = 1:51
+| title18       = [[It's Quiet Uptown]]
+| extra18       = {{hlist|Goldsberry|Miranda|Soo|Cast}}
+| length18      = 4:30
+| title19       = [[The Election of 1800|The Election of 1800]]
+| extra19       = {{hlist|Diggs|Onaodowan|Odom Jr.|Miranda|Cast}}
+| length19      = 3:57
+| title20       = [[Your Obedient Servant (song)|Your Obedient Servant]]
+| extra20       = {{hlist|Odom Jr.|Miranda|Cast}}
+| length20      = 2:30
+| title21       = [[Best of Wives and Best of Women]]
+| extra21       = {{hlist|Soo|Miranda}}
+| length21      = 0:47
+| title22       = [[The World Was Wide Enough]]
+| extra22       = {{hlist|Odom Jr.|Miranda|Cast}}
+| length22      = 5:02
+| title23       = [[Who Lives, Who Dies, Who Tells Your Story]]
+| extra23       = Cast
+| length23      = 3:37
+| total_length  = 71:15
+2:22:13
+}}
+
+'''Interpolations'''
+* "My Shot" contains elements of "[[Shook Ones Pt. II]]" written by [[Prodigy (rapper)|Albert Johnson]] and [[Havoc (musician)|Kejuan Waliek Muchita]]; "[[Going Back to Cali (The Notorious B.I.G. song)|Going Back to Cali]]" written by [[Easy Mo Bee|Osteen Harvey Jr.]], [[Roger Troutman]] and [[The Notorious B.I.G.|Christopher Wallace]]; and "[[You've Got to Be Carefully Taught]]" from ''[[South Pacific (musical)|South Pacific]]'', music by [[Richard Rodgers]] and lyrics by [[Oscar Hammerstein II]].
+* "Right Hand Man" contains elements of "[[The Modern Major General]]" from ''[[The Pirates of Penzance]]'' written by [[W. S. Gilbert]] and [[Arthur Sullivan]].
+* "Ten Duel Commandments" contains elements of "[[Ten Crack Commandments]]" written by [[DJ Premier|Christopher E. Martin]], [[The Notorious B.I.G.|Christopher Wallace]], and Khary Kimani Turner.
+* "Meet Me Inside" contains elements of "[[Party Up (Up in Here)]]" written by [[Swizz Beatz|Kasseem Dean]] and [[DMX (rapper)|Earl Simmons]].
+* "Cabinet Battle #1" contains elements of "[[The Message (Grandmaster Flash and the Furious Five song)|The Message]]" written by [[Clifton "Jiggs" Chase|Clifton Nathaniel Chase]], [[Duke Bootee|Edward G. Fletcher]], [[Melle Mel|Melvin Glover]], and [[Sylvia Robinson]].
+* "Say No to This" contains elements of "Nobody Needs to Know" from ''[[The Last Five Years]]'', music and lyrics by [[Jason Robert Brown]].
+* "Cabinet Battle #2" contains elements of "[[Juicy (The Notorious B.I.G. song)|Juicy (It's All Good)]]" written by [[Sean Combs]], [[James Mtume]], [[Trackmasters|Jean-Claude Olivier]], and Wallace.
+* "Blow Us All Away" contains elements of "Ten Crack Commandments" written by Martin, Wallace, and Turner; and "Shook Ones Pt. II" written by Johnson and Muchita.
+* "The World Was Wide Enough" contains elements of "Ten Crack Commandments" written by Martin, Wallace, and Turner.
+'''Notes'''
+
+* Lin-Manuel Miranda made a conscious decision to exclude one scene in the performance from the cast album, "Tomorrow There'll Be More of Us", also known as Laurens' Interlude.
+
+==Personnel==
+==Charts==
+===Weekly charts===
+===Year-end charts===
+===Decade-end charts===
+==Certifications==
+===Song certifications===
+{|
+|-
+| links || [[Recording Industry Association of America|RIAA]] [[British Phonographic Industry|BPI]]
+|}
+==Awards==
+{|
+|-
+| links || [[Grammy Award]] [[Grammy Award for Best Musical Theater Album|Best Musical Theater Album]] [[NAACP Image Award]] [[Billboard Music Award|''Billboard'' Music Award]] [[Billboard Music Award for Top Soundtrack|''Billboard'' Music Award for Top Soundtrack/Cast Album]]
+|}
+==References==
+==External links==

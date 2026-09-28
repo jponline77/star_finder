@@ -1,0 +1,213 @@
+{{Infobox musical
+| name = Road Show
+| image = Road Show 2009 cast recording.jpg
+| caption = Cover art of 2008 Off-Broadway cast recording
+| music = [[Stephen Sondheim]]
+| lyrics = [[Stephen Sondheim]]
+| book = [[John Weidman]]
+| basis = Adventures of [[Addison Mizner]] and [[Wilson Mizner]]
+| productions = 2003 [[Chicago]] <br> 2003 [[Washington, D.C.]] <br> 2008 [[Off-Broadway]]<br>2011 [[West End theatre|West End]] <br> 2019 [[Off-Broadway]] <br> 2024 [[Off-West End]]
+| awards = 
+| image_size = 
+}}
+== Synopsis ==
+==Musical numbers==
+
+=== ''Wise Guys'', 1997 New York Theater Workshop ===
+{{col-begin}}
+{{col-2}}
+;As presented in the 1997 ''Wise Guys'' reading
+;Act I
+* First Vaudeville - Wilson and Addison
+* Benicia - Mama and Ensemble
+* My Two Young Men - Mama
+* Gold! - Prospector, Wilson, Addison, Mama, and Ensemble
+* Second Vaudeville - Wilson and Addison
+* Next to You - Wilson, Addison, and Mama
+* Addison's Trip - Addison and Ensemble
+* Dowagers - Addison
+* The Good Life - Wilson
+* The Game - Wilson
+* Journalists - Wilson
+* What's Next? - Wilson
+* The Game (reprise) - Wilson
+* What's Next? (reprise) - Wilson and Ensemble
+* Third Vaudeville - Wilson and Addison
+* What's Next? (reprise) - Addison
+* I'm on My Way (reprise) - Addison
+{{col-break}}
+
+;Act II
+* Fourth Vaudeville - Wilson and Addison
+* Palm Beach Sequence - Addison, Paris and Ensemble
+* Fifth Vaudeville - Addison, Paris, and Wilson
+* Boca Raton Sequence - Ensemble
+* Get Out of My Life/Go - Wilson and Addison
+* Final Vaudeville - Wilson and Addison
+
+{{col-end}}
+
+=== ''Wise Guys'', 1999 New York Theater Workshop ===
+{{col-begin}}
+{{col-2}}
+;Act I
+* Wise Guys - Addison and Wilson
+* It's in Your Hands - Papa Mizner
+* My Two Young Men - Mama Mizner
+* Gold - Prospector
+* You and Me Together - Wilson
+* The Game - Wilson
+* Wise Guys (reprise) - Addison and Wilson
+* Next to You - Addison and Wilson
+* Addison's Trip (On My Way) - Addison and Ensemble
+* Stay Right Where You Are - Wilson and Myra
+* That Was a Year - Wilson and Ensemble
+* A Little House for Mama - Addison
+* Isn't He Something? - Mama Mizner
+* Wise Guys (reprise) - Addison and Wilson
+{{col-break}}
+
+;Act II
+
+* Talent - Paris Singer
+* You - Addison and Paris
+* Make It Through the Night - Addison
+* Wise Guys (reprise) - Addison, Wilson and Paris
+* Boca Raton - Wilson, Addison, Ensemble
+* It's in Your Hands Now - Wilson, Addison, Ensemble
+* Call it Home - Wilson
+* Get Out of My Life - Addison
+* Wise Guys (reprise) - Addison and Wilson
+
+{{col-end}}
+
+=== ''Bounce'', 2003 Chicago/Kennedy Center ===
+{{col-begin}}
+{{col-2}}
+;Act I
+* Bounce – Wilson, Addison
+* Opportunity – Papa, Mama
+* Gold! – Prospector, Wilson, Mama, Addison, Alaskans
+* Gold! (Reprise) –
+* What's Your Rush? –  Nellie
+* The Game – Wilson
+* Next to You – Addison, Wilson, Mama
+* Addison's Trip (Around the World) – Addison, Salesman, Guatemalans, Servants
+* The Best Thing That Ever Happened – Wilson, Nellie
+* I Love This Town - Wilson, Nellie, Addison, and Company
+* Alaska – Mrs. Yerkes, Wilson  §
+* New York Sequence - Wilson, Nellie, Reporters, Photographer, Ketchel, Armstrong, Jockey, Gamblers, Policeman, Wilson's Women §
+* Isn't He Something? – Mama
+* Bounce (Reprise) – Addison, the cast.
+{{col-break}}
+
+;Act II
+* The Game – Addison, Nellie, Wilson, Promoter
+* Talent – Hollis
+* You – Addison, Hollis, Aristocrats
+* Addison's City – Hollis, Wilson, Nellie, Addison
+* Get Rich Quick - Company
+* Boca Raton – Boca Girl, Sportsmen, Fashion Models, Yachtsmen, Caruso, Salvador Dalí, Wilson, Addison, Nellie, Hollis, Prospector, Varmints, Bobby Jones, Mae West, Princess Ghika, Chorus §
+* Last Fight – Addison, Wilson
+* Bounce (Reprise) – Wilson, Addison
+{{col-end}}
+§ In Chicago production, not in Kennedy Center
+
+=== ''Road Show'', 2008 Off-Broadway ===
+'''Act I'''
+* Waste – Full Company
+* It's in Your Hands Now – Papa
+* Gold! – Full Company
+* Brotherly Love – Addison, Wilson
+* The Game – Wilson
+* Addison's Trip – Full Company
+* That Was a Year – Full Company
+* Isn't He Something! – Mama
+* Land Boom! – Real Estate Agent
+* Talent – Hollis
+* You – Full Company
+* The Best Thing That Ever Has Happened – Addison, Hollis
+* The Game (Reprise) – Wilson
+* Addison's City – Addison, Hollis, Wilson
+* Boca Raton – Full Company
+* Get Out – Addison
+* Go – Wilson
+* Finale – Addison, Wilson
+
+==Background and Early Workshops==
+==Lawsuit==
+==Production history==
+==Notable casts==
+{| class="wikitable"
+! rowspan="2" |Character
+!New York Theatre
+!Chicago
+!Kennedy Center
+!Off-Broadway
+!Off-West End
+!Encores! Off-Center
+!Off-West End Revival
+|-
+!1999
+!2002
+!2003
+!2008
+!<small>2011</small>
+!2019
+!2024
+|-
+! [[Addison Mizner]]
+| align="center" |[[Nathan Lane]]
+| colspan="2" align="center" |[[Richard Kind]]
+| align="center" | [[Alexander Gemignani]]
+| align="center" |[[Michael Jibson]]
+| colspan="1" align="center" |[[Brandon Uranowitz]]
+| align="center" |Oliver Sidney
+|-
+! [[Wilson Mizner]]
+| align="center" |[[Victor Garber]] 
+| colspan="2" align="center" | [[Howard McGillin]]
+| align="center" |[[Michael Cerveris]]
+| align="center" |[[David Bedella]]
+| colspan="1" align="center" |[[Raúl Esparza]]
+| align="center" |Reece Richardson
+|-
+!Mama Mizner
+| align="center" |Candy Buckley
+| colspan="2" align="center" |[[Jane Powell]]
+| align="center" |[[Alma Cuervo]]
+| align="center" |[[Gillian Bevan]]
+| colspan="1" align="center" |[[Mary Beth Peil]]
+| align="center" |Katherine Strohmaier
+|-
+!Papa Mizner
+| align="center" |[[William Hardy (actor)|William Parry]]
+| colspan="2" align="center" |Herndon Lackey
+| align="center" |William Parry
+| align="center" |[[Glyn Kerslake]]
+| colspan="1" align="center" |[[Chuck Cooper (actor)|Chuck Cooper]]
+| align="center" |Robert Finlayson
+|-
+!Hollis Bessemer
+| align="center" |[[Michael C. Hall]]
+<sub>(as Paris Singer)</sub>
+| colspan="2" align="center" |[[Gavin Creel]]
+| align="center" |[[Claybourne Elder]]
+| align="center" |[[Jon Robyns]]
+| colspan="1" align="center" |[[Jin Ha]]
+| align="center" |Rhys Lambert
+|}
+
+==Historical Liberties==
+==Critical response==
+==Recordings==
+==References==
+== External links ==
+
+== Actors mentioned in prose (fixture) ==
+starring [[Bob Hope]].
+starred [[Nathan Lane]].
+starred [[Richard Kind]].
+starred [[Michael Cerveris]].
+starring [[Andrew Rothenberg]].
+starred [[Brandon Uranowitz]].

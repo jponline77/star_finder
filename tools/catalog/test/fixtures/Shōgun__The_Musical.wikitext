@@ -1,0 +1,92 @@
+{{Infobox Musical
+|name= Shōgun
+|subtitle=The Musical
+|image= ShogunTheMusical.jpg
+|caption= Promotional Button
+|music= [[Paul Chihara]]
+|lyrics= John Driver
+|book= John Driver 
+|basis= ''[[Shōgun (novel)|Shōgun]]'' <br> by [[James Clavell]]
+|productions= 1990 [[Kennedy Center]] <br> 1990 [[Broadway theatre|Broadway]]
+
+|awards= 
+}}
+==History==
+==Casts==
+
+=== Original cast ===
+{| class="wikitable" style="width:3; text-align:center;"
+|-
+! rowspan=2 style="width:9%;" | Character
+! style="width:9%;" | Kennedy Center 
+! style="width:9%;" | Broadway 
+|-
+!<small>1990</small>
+!<small>1990</small>
+|-
+! [[John Blackthorne]]
+| style="text-align:center;" | [[Peter Karrie]]
+| style="text-align:center;" | [[Philip Casnoff]]
+|-
+! Lady Mariko
+| colspan="2" style="text-align:center;" | [[June Angela]]
+|-
+! Lord Toranaga
+| colspan="2" style="text-align:center;" | Francis Ruivivar
+|-
+! Father Alvito
+| colspan="2" style="text-align:center;" | John Herrera
+|-
+! Lord Buntaro
+| colspan="2" style="text-align:center;" | Joseph Foronda
+|-
+! Lord Ishido
+| colspan="2" style="text-align:center;" | [[Alan Muraoka]]
+|}
+
+==Songs==
+{{col-begin}}
+{{col-2}}
+;Act I
+* "Karma" - Orchestra
+* "Night of Screams" - Sailor, John Blackthorne and Ensemble
+* "This is Samurai" - Samurai
+* "How Nice to See You" - Lord Toranaga, Lord Buntaro, Father Alvito and Lady Mariko
+* "Impossible Eyes" - Lady Mariko and John Blackthorne
+* "He Let Me Live" - Lady Mariko
+* "Honto" - John Blackthorne
+* "Assassination" - Father Alvito and Ferriera
+* "Shogun" - Hostages
+* "Royal Blood" - Lord Ishido and Lord Toranaga
+* "An Island" - Lord Toranaga
+* "No Word for Love" - Lady Mariko
+* "Mad Rum Below/Escape" - John Blackthorne and Ensemble
+* "Karma (Reprise)" - Toranaga and Ensemble
+* "Born to Be Together" - Lady Mariko and John Blackthorne
+{{col-break}}
+;Act II
+* "Fireflies" - Ensemble, Lady Mariko and John Blackthorne
+* "Sail Home" - John Blackthorne
+* "Rum Below" - John Blackthorne, Lord Toranaga and Ensemble
+* "Pillowing" - Gyoko, Kiku and Ladies
+* "Born to Be Together (Reprise)" - Lady Mariko and John Blackthorne
+* "No Man" - John Blackthorne
+* "Cha-No-Yu" - Lady Mariko and Lord Buntaro
+* "Absolution" - Father Alvito, An Acolyte, Ensemble and Lady Mariko
+* "Poetry Competition" - Lord Ishido, Sazuko and Lady Mariko
+* "Death Walk" - Ensemble and John Blackthorne
+* "One Candle" - Lady Mariko and John Blackthorne
+* "Ninja Raid" - Orchestra
+* "One Candle (Reprise)" - Lady Mariko and John Blackthorne
+* "Winter Battle" - Orchestra
+* "Resolutions" - Lord Toranaga and Ensemble
+* "Trio" - Lord Toranaga, John Blackthorne and Lady Mariko
+* "Finale" - Ensemble
+{{col-end}}
+
+==Awards and nominations==
+==References==
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+cast included [[June Angela]].

@@ -1,0 +1,321 @@
+{{Infobox musical
+|name= Titanic
+|subtitle= 
+|image= Titanic musical Broadway poster.jpg
+|caption= Poster for the 1997 Broadway production
+|music= [[Maury Yeston]]
+|lyrics= Maury Yeston
+|book= [[Peter Stone (writer)|Peter Stone]]
+|basis= 
+|premiere_date = {{start date|1997|4|23}}
+|premiere_location = [[Lunt-Fontanne Theatre]]
+|productions= 1997 [[Broadway theatre|Broadway]]<br />1999 US tour<br />2018 UK tour<br />2024 [[Encores!]]
+
+|awards= [[Tony Award for Best Musical]] <br> [[Tony Award for Best Score]] <br> [[Tony Award for Best Book]] <br>[[Tony Award for Best Orchestrations]]
+}}
+==Background==
+==Productions==
+===1997 original Broadway production===
+===First US National tour===
+===Ensemble version===
+===Signature Theatre production===
+===Concert productions===
+===International productions===
+=== Filmed Version ===
+==Synopsis==
+=== Prologue: The Launching ===
+=== Act 1 ===
+=== Act 2 ===
+==Musical numbers==
+{{col-begin}}
+{{col-2}}
+;Act I
+* "Overture" – Orchestra 
+* "Prologue: In Every Age" – Andrews
+* "The Launching: How Did They Build Titanic?" – Barrett
+* "The Launching: Fare-thee-well" – Barrett, Bride & Fleet
+* "The Launching: There She Is" – Barrett, Bride, Fleet, Hartley, Sailor, Stoker, Stevedore, Pitman, Lightholler, Hitchens, Murdoch, Smith, Bellboy, Ensemble
+* "The Launching: The Largest Floating Object in The World" – Ismay, Andrews & Smith
+* "The Launching: I Must Get On That Ship" – Pitman, Kate McGowan, Kate Mullins, Kate Murphey, Charles, Edgar, Caroline, Alice, Ensemble
+* "The Launching: The First Class Roster" – Pitman and Alice
+* "The Launching: Godspeed Titanic" – Pitman & Company
+* "Barrett's Song (The screws are turning)" – Barrett
+* "What A Remarkable Age This Is" – Etches, 1st-Class Passengers, Servants
+* "To Be A Captain" – Murdoch
+* "Lady's Maid" – Kate McGowan, Kate Mullins, Kate Murphey, Ensemble
+* "I Give You My Hand" – Charles Clarke and Caroline Neville
+* "The Proposal" / "The Night Was Alive" – Barrett & Bride
+* "God Lift Me Up (Hymn)" – 1st-Class passengers
+* "Doing The Latest [[Ragtime|Rag]]" – Hartley, Bricoux, Taylor, Ensemble
+* "I Have Danced" – Alice & Edgar
+* "No Moon" – Fleet & Company
+* "Autumn" – Hartley
+* Finale Act One – Company
+{{col-break}}
+;Act II
+* "Entr'acte" – Orchestra
+* "Wake Up, Wake Up!" – Etches, Stewards, 1st-, 2nd-, & 3rd-class passengers*
+* "Dressed In Your Pyjamas In the Grand Salon" – Company
+* "The Staircase" – The Three Kates, Farrell, Barrett*
+* "The Blame" – Ismay, Andrews & Smith
+* "To the Lifeboats" – Company
+* "We'll Meet Tomorrow" – Barrett, Clarke, & Company
+* "To Be A Captain" (Reprise) – Etches
+* "Still" – Ida & Isidor
+* "Mr. Andrews' Vision" – Andrews
+* "The Foundering" – Bride & Survivors*
+* Finale – "In Every Age" / "Godspeed, Titanic" (Reprise) – Company
+{{col-end}}*Not included in the cast recording
+
+== Instrumentation ==
+==Cast and characters==
+{| class="wikitable"
+! rowspan="2" | Character
+! Broadway
+! First U.S. National Tour
+! City Center Encores
+|-
+!<small>1997</small>
+!<small>1999</small>
+!<small>2024</small>
+|-
+| colspan="4" align="center" | '''Crew and staff aboard the RMS ''Titanic'''''
+|-
+! [[Captain (nautical)|Captain]] [[Edward Smith (sea captain)|Edward Smith]]
+| align="center" | [[John Cunningham (actor)|John Cunningham]]
+| align="center" | William Parry
+| align="center" | [[Chuck Cooper (actor)|Chuck Cooper]]
+|-
+! [[Chief Mate|1st Officer]] [[William McMaster Murdoch|William Murdoch]]
+| align="center" | [[David Costabile]]
+| align="center" | [[David Pittu]]
+| align="center" | [[Adam Chanler-Berat]]
+|-
+! [[Second Mate|2nd Officer]] [[Charles Lightoller]]
+| align="center" | [[John Bolton (actor)|John Bolton]]
+| align="center" | John Leone
+| align="center" | Michael Maliakel
+|-
+! [[Third Mate|3rd Officer]] [[Herbert Pitman]]
+| align="center" | [[Matthew Bennett (TV producer)|Matthew Bennett]]
+| align="center" | Raymond Sage
+| align="center" | Daniel Beeman
+|-
+![[Joseph Boxhall|4th Officer Joseph Boxhall]]
+| align="center" | Andy Taylor
+| align="center" | Ken Triwush
+| align="center" | [[Brandon Contreras]]
+|-
+! [[Chief Engineer]] [[Joseph Bell (engineer)|Joseph Bell]]
+| align="center" | [[Ted Sperling]]
+| align="center" | Bruce Thompson
+| align="center" | Matthew Scott
+|-
+! [[Harold Bride]], [[Radioman]]
+| align="center" | [[Martin Moran (actor)|Martin Moran]]
+| align="center" | Dale Sandish
+| align="center" | Alex Joseph Grayson
+|-
+! [[Frederick Fleet]], [[Lookout]]
+| align="center" | David Elder
+| align="center" | Timothy J. Alex
+| align="center" | Nathan Salstone
+|-
+! [[Frederick Barrett]], [[Stoker (occupation)|Stoker]]
+| colspan="2" align="center" | [[Brian d’Arcy James]]
+| align="center" | [[Ramin Karimloo]]
+|-
+! [[Robert Hichens (RMS Titanic)|Robert Hichens]], [[Quartermaster]]
+| align="center" | [[Adam Alexi-Malle]]
+| align="center" | [[Matthew Yang King]]
+| align="center" | Daniel Torres
+|-
+! Henry Etches, [[Chief Steward|1st Class Steward]]
+| align="center" | [[Allan Corduner]]
+| align="center" | Edward Conery
+| align="center" | Eddie Cooper
+|-
+! [[Stewardess]] Hutchinson
+| align="center" | Stephanie Park
+| align="center" | Jennifer Waldman
+|-
+! Stewardess Robinson
+| align="center" | [[Michele Ragusa]]
+| align="center" | Kristi Barber
+|-
+! [[Bellboy]]
+| align="center" | Mara Stephens
+| align="center" | Rebecca Lowman
+| align="center" | Ari Notartomaso
+|-
+! [[Bandmaster]] [[Wallace Hartley]]
+| align="center" | [[Ted Sperling]]
+| align="center" | Bruce Thompson
+| align="center" | Matthew Scott
+|-
+! Bandsman Bricoux
+| align="center" | [[Adam Alexi-Malle]]
+| align="center" | [[Matthew Yang King]]
+| align="center" | Daniel Torres
+|-
+! Bandsman Taylor
+| align="center" | Andy Taylor
+| align="center" | 
+| align="center" | [[Brandon Contreras]]
+|-
+| colspan="4" align="center" | '''1st Class'''
+|-
+! [[J. Bruce Ismay|Bruce Ismay]], director of the [[White Star Line]]
+| align="center" | [[David Garrison]]
+| align="center" | Adam Heller
+| align="center" | [[Brandon Uranowitz]]
+|-
+! [[Thomas Andrews (shipbuilder)|Thomas Andrews]], the designer of the ship
+| align="center" | [[Michael Cerveris]]
+| align="center" | [[Kevin Gray (actor)|Kevin Gray]]
+| align="center" | [[Jose Llana]]
+|-
+! [[John Jacob Astor IV|John Jacob Astor]]
+| align="center" | [[William Youmans]]
+| align="center" | Rob Donohoe
+| align="center" | Evan Harrington
+|-
+! [[Madeline Astor]]
+| align="center" | Lisa Datz
+| align="center" | Joann Merhaut
+| align="center" | Leslie Donna Flesner
+|-
+! Mme. Aubert
+| align="center" | Kimberly Hester
+| align="center" | Carole Denise
+| align=center| [[Ali Ewoldt]]
+|-
+! Charlotte Drake Cardoza (based on [[Charlotte Drake Cardeza]])
+| align="center" | [[Becky Ann Baker]]
+| align="center" | Margo Skinner
+| align="center" | Ashley Blanchet
+|-
+! Edith Corse Evans
+| align="center" | Mindy Cooper
+| align="center" | Sarah Solie Shannon
+| align="center" | Amy Justman
+|-
+! [[Benjamin Guggenheim]]
+| align="center" | Joseph Kolinski
+| align="center" | Ken Krugman
+| align="center" | Timothy McDevitt
+|-
+! [[Isidor Straus]]
+| align="center" | [[Larry Keith]]
+| align="center" | S. Marc Jordan
+| align="center" | [[Chip Zien]]
+|-
+! [[Ida Straus]]
+| align="center" | [[Alma Cuervo]]
+| align="center" | Tiana Elg
+| align="center" | [[Judy Kuhn]]
+|-
+! [[John B. Thayer]]
+| align="center" | [[Michael Mulheren]]
+| align="center" | Bob Lauder Jr.
+| align="center" | Kent Overshown
+|-
+! [[Jack Thayer]]
+| align="center" | Charles McAteer
+| align="center" | Kristi Barber
+|-
+! [[Marian Thayer]]
+| align="center" | Robin Irwin
+| align="center" | Stacie James
+| align="center" | Lindsay Roberts
+|-
+! [[George Dunton Widener|George Widener]]
+| align="center" | [[Henry Stram]]
+| align="center" | Michael Shelle
+| align="center" | Matthew Scott
+|-
+! [[Eleanor Widener]]
+| align="center" | Jody Gelb
+| align="center" | Laura Kenyon
+| align="center" | Leah Horowitz
+|-
+! J. H. Rogers
+| align="center" | Andy Taylor
+| align="center" | Ken Triwush
+| align="center" | [[Brandon Contreras]]
+|-
+! The Major
+| align="center" | [[Matthew Bennett (TV producer)|Matthew Bennett]]
+| align="center" | Raymond Sage
+| align="center" | Daniel Torres
+|-
+| colspan="4" align="center" | '''2nd Class'''
+|-
+! Edgar Beane (based on Edward Beane)
+| align="center" | Bill Buell
+| align="center" | David Beditz
+| align="center" | [[Drew Gehling]]
+|-
+! Alice Beane (based on Ethel Beane)
+| align="center" | [[Victoria Clark]]
+| align="center" | Liz McConahay
+| align="center" | [[Bonnie Milligan]]
+|-
+! Charles Clarke
+| align="center" | [[Don Stephenson]]
+| align="center" | Philip Lehl
+| align="center" | A.J. Shively
+|-
+! Caroline Neville (based on Ada Maria Clarke)
+| align="center" | Judith Blazer
+| align="center" | Christianne Tisdale
+| align="center" | Emilie Kouatchou
+|-
+| colspan="4" align="center" | '''3rd Class'''
+|-
+! Kate McGowan
+| align="center" | Jennifer Piech
+| align="center" | Melissa Bell
+| align="center" | Samantha Williams
+|-
+! Kate Murphey
+| align="center" | Theresa McCarthy
+| align="center" | Kate Suber
+| align="center" | [[Lilli Cooper]]
+|-
+! Kate Mullins
+| align="center" | [[Erin Hill]]
+| align="center" | Jodi Jinks
+| align="center" | Ashley Blanchet
+|-
+! Jim Farrell
+| align="center" | Clarke Thorell
+| align="center" | Richard Roland
+| align="center" | [[Andrew Durand]]
+|-
+| colspan="4" align="center" | '''On Shore'''
+|-
+! Frank Carlson
+| align="center" | [[Henry Stram]]
+| align="center" | Michael Shelle
+|-
+|}
+
+==Awards and nominations==
+===Original Broadway production===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Musical|Best Musical]] [[Tony Award for Best Book of a Musical|Best Book of a Musical]] [[Peter Stone (writer)|Peter Stone]] [[Tony Award for Best Original Score|Best Original Score]] [[Maury Yeston]] [[Tony Award for Best Scenic Design|Best Scenic Design]] [[Stewart Laing]] [[Tony Award for Best Orchestrations|Best Orchestrations]] [[Jonathan Tunick]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Orchestrations|Outstanding Orchestrations]] [[Drama League Award]] [[Outer Critics Circle Award]] [[Richard Jones (director)|Richard Jones]] [[Paul Gallo]] [[Grammy Award]] [[Grammy Award for Best Musical Show Album|Best Musical Show Album]]
+|}
+==References==
+==Notes==
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+cast included [[John Cunningham (actor)|John Cunningham]].
+cast included [[John Cunningham (actor)|John Cunningham]], [[David Garrison]], [[Larry Keith]], [[Alma Cuervo]], [[Michael Cerveris]], [[Victoria Clark]], [[Don Stephenson]], [[Brian d'Arcy James]].
+cast included [[Bonnie Milligan]].
+played by [[Jesse Eisenberg]].
+cast included [[Bonnie Milligan]], [[Chuck Cooper (actor)|Chuck Cooper]], [[Edward Smith (sea captain)|Edward Smith]], [[Drew Gehling]], [[Ramin Karimloo]], [[Judy Kuhn]], as [[Ida Straus]], [[Brandon Uranowitz]], as [[J. Bruce Ismay|Bruce Ismay]], [[Chip Zien]].
+starring [[Nick Tate]].
+starring [[Anthony Warlow]].

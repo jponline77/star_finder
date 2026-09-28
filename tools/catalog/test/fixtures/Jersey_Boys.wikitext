@@ -1,0 +1,266 @@
+{{Infobox musical
+|name= Jersey Boys
+|image=Jersey Boys opening night Playbill cover.jpg
+|caption=''Playbill'' cover on opening night of the original Broadway run (2005)
+|music= [[Bob Gaudio]] and [[Bob Crewe]]
+|lyrics= Bob Gaudio and Bob Crewe
+|book= [[Marshall Brickman]] <br />[[Rick Elice]]
+|basis= Songs by [[The Four Seasons (band)|The Four Seasons]]
+|productions= 2004 [[La Jolla Playhouse]]<br />2005 [[Broadway theatre|Broadway]]<br />2006 US tour<br />2008 [[West End theatre|West End]]<br />2011 US tour<br />2014 UK tour<br />2017 UK tour<br />2021 West End revival<br />2025 [[São Paulo]] 
+|awards= [[Tony Award for Best Musical]]<br />[[Laurence Olivier Award for Best New Musical]]<br />[[Grammy Award for Best Musical Show Album]]}}
+==Development==
+==Productions==
+===Broadway===
+===Off-Broadway===
+===U.S. tour===
+===West End===
+===UK tour===
+===Australia and New Zealand===
+===Canada===
+===The Netherlands===
+===Japan===
+===Brazil===
+===International tours===
+==Synopsis==
+===Act I===
+===Act II===
+==Principal roles and casts==
+===Original casts===
+{| class="wikitable sortable" style="width:100%;"
+|-
+! rowspan="2" scope="col" class="unsortable" | Character
+! rowspan="2" scope="col" class="unsortable" | Description
+! scope="col" class="unsortable" | Broadway
+! scope="col" class="unsortable" | First U.S. National Tour
+! scope="col" class="unsortable" | West End
+! scope="col" class="unsortable" | International Tour
+! scope="col" class="unsortable" | West End Revival
+! scope="col" class="unsortable" | UK Tour
+! scope="col" class="unsortable" | 20th Anniversary U.S Tour
+|-
+!2005
+!2006
+!2008
+!2017
+! colspan="2" |2021
+!2026
+|-
+! scope="row"| [[Frankie Valli]]
+| Lead vocalist of the Four Seasons, noted for his short stature and powerful upper range.
+| style="text-align:center;"| [[John Lloyd Young]]
+| style="text-align:center;"| Christopher Kale Jones
+| style="text-align:center;"| [[Ryan Molloy]]
+| style="text-align:center;"| Luke Street / Jonathan Vickers
+| style="text-align:center;"| [[Ben Joyce (actor)|Ben Joyce]]
+| style="text-align:center;"| Michael Pickering / Luke Suri
+| style="text-align:center;"| Coby Oram / Andrew Martin McGuire
+|-
+! scope="row"| [[Bob Gaudio]]
+| Songwriter and keyboardist of The Four Seasons. The youngest and last member to join the group, more intellectual and middle-class than the other three.
+| style="text-align:center;"| Daniel Reichard
+| style="text-align:center;"| [[Erich Bergen]]
+| style="text-align:center;"| [[Stephen Ashfield]]
+| style="text-align:center;"| Matt Blaker
+| style="text-align:center;"| Adam Bailey
+| style="text-align:center;"| Blair Gibson 
+| style="text-align=center;"| Peyton Schoenhofer
+|-
+! scope="row"| [[Nick Massi]]
+| Bassist and arranger of The Four Seasons, recognized as a savant by the other members of the group.
+| style="text-align:center;"| [[J. Robert Spencer]]
+| style="text-align:center;"| Michael Ingersoll
+| style="text-align:center;"| [[Philip Bulcock]]
+| style="text-align:center;"| Nick Martland
+| style="text-align:center;"| Karl James Wilson
+| style="text-align:center;"| Lewis Griffiths
+| style="text-align:center;"| Owen McCredie
+|-
+! scope="row"| [[Tommy DeVito (musician)|Tommy DeVito]]
+| Founder, guitarist and manager of the Four Seasons from its beginnings until being bought out to cover his gambling debts.
+| style="text-align:center;"| [[Christian Hoff]]
+| style="text-align:center;"| Deven May
+| style="text-align:center;"| [[Glenn Carter]]
+| style="text-align:center;"| Andrew Bryant
+| style="text-align:center;"| Benjamin Yates
+| style="text-align:center;"| Dalton Wood
+| style="text-align:center;"| Harry Sperduto
+|-
+! scope="row"| [[Joe Pesci]]{{efn|name=cast2|1=Actors are also understudies for Frankie Valli.}}
+| An excited teenager who works at the Four Seasons bowling alley and helps introduce Gaudio to the group. He later hires Tommy after Tommy is banished to Las Vegas.
+| style="text-align:center;"| Michael Longoria
+| style="text-align:center;"| Rick Faugno
+| style="text-align:center;"| Jye Frasca
+| style="text-align:center;"| Christian Tyler-Wood
+| style="text-align:center;"| Matteo Johnson
+| style="text-align:center;"| George Salmon
+| style="text-align:center;"| Grant Weathington
+|-
+! scope="row"| [[Bob Crewe]]
+| A Brill Building producer and composer who gives the quartet its break into the business and begins writing songs with Gaudio. Portrayed as openly gay and having a fondness for astrology.
+| style="text-align:center;"| Peter Gregus
+| style="text-align:center;"| [[John Altieri]]
+| style="text-align:center;"| Simon Adkins
+| style="text-align:center;"| Ryan Bennett
+| style="text-align:center;"| Ben Irish
+| style="text-align:center;"| Michael Levi
+| style="text-align:center;"| Andrew Sattler
+|-
+! scope="row"| [[Angelo DeCarlo|Gyp DeCarlo]]
+| The head of New Jersey's organized crime syndicate and proprietor of the Sea Breeze Lounge, who employs Tommy in the band's early days and helps bail the group's members out of trouble.
+| style="text-align:center;"| Mark Lotito
+| style="text-align:center;"| [[Joseph Siravo]]
+| style="text-align:center;"| [[Stuart Milligan]]
+| style="text-align:center;"| Neil Stewart
+| style="text-align:center;"| Mark Isherwood
+| style="text-align:center;"| Jordan James
+| style="text-align:center;"| Jason Winfield
+|-
+! scope="row"| Norm Waxman
+| Tommy's loan shark.
+| style="text-align:center;"| Donnie Kehr
+| style="text-align:center;"| Miles Aubrey
+| style="text-align:center;"| Joseph Prouse
+| style="text-align:center;"| Joe Leather
+| style="text-align:center;"| Carl Douglas (Hank/Norm)
+| style="text-align:center;"| Norton James
+| style="text-align:center;"| Ryan Hurley
+|-
+! scope="row"| Mary Delgado
+| Frankie Valli's first wife, and mother to his daughters, of whom only one (Francine) is seen. A tempestuous, "type A" personality who divorces Frankie at the peak of the group's success.
+| style="text-align:center;"| Jennifer Naimo
+| style="text-align:center;"| Jackie Seiden
+| style="text-align:center;"| Suzy Bastone
+| style="text-align:center;"| Lisa Anne Lynch
+| style="text-align:center;"| Melanie Bright
+| style="text-align:center;"| Emma Crossley
+| style="text-align:center;"| Eliza Levy
+|-
+! scope="row"| Francine Valli
+| Frankie's daughter with Mary. Frankie is especially fond and protective of her, despite difficulties posed with his career as a touring singer, which Francine hopes to emulate.
+| style="text-align:center;"| Sara Schmidt
+| style="text-align:center;"| Melissa Strom
+| style="text-align:center;"| Michelle Francis
+| style="text-align:center;"| Chloe Carrington
+| style="text-align:center;"| Helen Ternent
+| style="text-align:center;"| Daisy Steere 
+| style="text-align:center;"| Sarah Coleman
+|-
+! scope="row"| Lorraine
+| A reporter from Detroit who begins dating Frankie after he splits with Mary. Later splits when she refuses to take in Francine.
+| style="text-align:center;"| Erica Piccininni
+| style="text-align:center;"| Sandra DeNise
+| style="text-align:center;"| [[Amy Pemberton (British actress)|Amy Pemberton]]
+| style="text-align:center;"| Kate Leiper
+| style="text-align:center;"| Koko Basigara
+| style="text-align:center;"| Ellie Seaton
+| style="text-align:center;"| Alexis Aponte
+|-
+! scope="row"| Barry Belson
+| The radio disc jockey who breaks "Sherry" to fame with a day-long marathon. Belson is based on [[Joey Reynolds]], who "bitterly resent(ed)" not being named.
+| style="text-align:center;"| [[Tituss Burgess]]
+| style="text-align:center;"| Brandon Mattheius
+| style="text-align:center;"| Tee Jaye
+| style="text-align:center;"| Unknown
+| style="text-align:center;"| Jacob McIntosh
+| style="text-align:center;"| Damien Winchester
+| style="text-align:center;"| Nicholas Dion Reese
+|-
+!Hank Majewski
+|A guitarist who is part of The Four Lovers alongside Tommy DeVito, Nick Massi, and Frankie Valli, before they evolve into The Four Seasons.
+| style="text-align: center;" |Steve Gouveia
+| style="text-align: center;" |Erik Bates
+| style="text-align: center;" |Griffin Stevens
+| style="text-align: center;" |Unknown
+| style="text-align: center;" |Carl Douglas (Hank/Norm)
+| style="text-align: center;" |Dougie Carter
+| style="text-align: center;" |Sam Joseph
+|}
+{{notelist}}
+
+===Notable replacements===
+====Broadway (2005–2017)====
+*'''Frankie Valli:''' [[Mark Ballas]], [[Ryan Molloy]], [[Jarrod Spector]]
+*'''Bob Gaudio:''' [[Sebastian Arcelus]], [[Drew Gehling]], [[Andrew Rannells]], [[Drew Seeley]], [[Colin Donnell]] (u/s)
+*'''Nick Massi:''' [[Colin Donnell]] (u/s)
+*'''Tommy DeVito:''' [[Richard H. Blake]], [[Andy Karl]], [[Jeremy Kushnier]]
+
+==Music==
+===Musical numbers===
+{{col-begin}}
+{{col-2}}
+; Act I
+* "[[Ces soirées-là]] (Oh What a Night) - Paris, 2000" – French Rap Star [[Yannick (rapper)|Yannick]] and Backup Group
+* "[[Silhouettes (The Rays song)|Silhouettes]]" – Tommy DeVito, Nick Massi, Nick DeVito and Frankie Valli ☆
+* "[[You're the Apple of My Eye]]" – Tommy DeVito, Nick Massi and Nick DeVito ☆
+* "[[I Can't Give You Anything but Love, Baby|I Can't Give You Anything But Love]]" – Frankie Valli ☆
+* "[[Earth Angel]]" – Tommy DeVito and Full Company ☆
+* "[[A Sunday Kind of Love]]" – Frankie Valli, Tommy DeVito, Nick Massi and Nick's Date ☆
+* "[[Lucky Boy (1929 film)#Music|My Mother's Eyes]]" – Frankie Valli ☆
+* "I Go Ape" – The Four Lovers ★
+* "[[Short Shorts|(Who Wears) Short Shorts]]" – [[The Royal Teens]] ☆
+* "[[I'm in the Mood for Love]]" / "[[Moody's Mood for Love]]" – Frankie Valli ☆
+* "Cry for Me" – Bob Gaudio, Frankie Valli, Tommy DeVito and Nick Massi
+* "An Angel Cried" – [[The Rays|Hal Miller and The Rays]] □
+* "I Still Care" – Miss Frankie Nolan and The Romans □
+* "Trance" – Billy Dixon and The Topix □
+* "[[Sherry (song)|Sherry]]" – The Four Seasons
+* "[[Big Girls Don't Cry (The Four Seasons song)|Big Girls Don't Cry]]" – The Four Seasons
+* "[[Walk Like a Man (The Four Seasons song)|Walk Like a Man]]" – The Four Seasons
+* "[[December, 1963 (Oh, What a Night)]]" – Bob Gaudio and Full Company
+* "[[My Boyfriend's Back (song)|My Boyfriend's Back]]" – The Angels
+* "[[My Eyes Adored You]]" – Frankie Valli, Mary Delgado and The Four Seasons
+* "[[Dawn (Go Away)]]" – The Four Seasons
+* "Walk Like a Man" (reprise) – Full Company ★
+{{col-2}}
+; Act II
+* "[[Big Man in Town]]" – The Four Seasons
+* "[[Beggin']]" – The Four Seasons
+* "[[Stay (Maurice Williams song)|Stay]]" – Bob Gaudio, Frankie Valli and Nick Massi ■
+* "[[Let's Hang On!]] (To What We've Got)" – Bob Gaudio and Frankie Valli ■
+* "[[Opus 17 (Don't You Worry 'bout Me)]]" – Bob Gaudio, Frankie Valli and The New Seasons ■
+* "[[Bye, Bye, Baby (Baby Goodbye)|Bye Bye Baby]]" – Frankie Valli and The Four Seasons ■
+* "[[C'mon Marianne]]" – Frankie Valli and The Four Seasons
+* "[[Can't Take My Eyes Off You]]" – Frankie Valli
+* "[[Working My Way Back to You]]" – Frankie Valli and The Four Seasons
+* "[[Fallen Angel (Rogue song)|Fallen Angel]]" – Frankie Valli
+* "[[Rag Doll (The Four Seasons song)|Rag Doll]]" – The Four Seasons
+* "[[Who Loves You (song)|Who Loves You]]" – The Four Seasons and Full Company
+* "December, 1963 (Oh, What a Night) reprise" - The Four Seasons and Full Company ★
+
+☆ On the cast album in "The Early Years: Scrapbook"
+
+★ Not on the cast album
+
+□ On the cast album in "Backup Sessions"
+
+{{col-end}}
+
+===Instrumentation===
+{{unreferenced section|date=May 2024}}
+
+==Critical response==
+==Recording and adaptations==
+==Charity performances==
+==Alumni concerts==
+=== ''The Midtown Men'' ===
+=== Under the Streetlamp ===
+==Awards and honors==
+===Original Broadway production===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Musical|Best Musical]] [[Tony Award for Best Book of a Musical|Best Book of a Musical]] [[Rick Elice]] [[Marshall Brickman]] [[Tony Award for Best Actor in a Musical|Best Actor in a Musical]] [[John Lloyd Young]] [[Tony Award for Best Featured Actor in a Musical|Best Featured Actor in a Musical]] [[Christian Hoff]] [[Tony Award for Best Direction of a Musical|Best Direction of a Musical]] [[Des McAnuff]] [[Tony Award for Best Orchestrations|Best Orchestrations]] [[Steve Orich]] [[Tony Award for Best Scenic Design|Best Scenic Design of a Musical]] [[Tony Award for Best Lighting Design|Best Lighting Design of a Musical]] [[Howell Binkley]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Musical|Outstanding Musical]] [[Drama Desk Award for Outstanding Book of a Musical|Outstanding Book of a Musical]] [[Drama Desk Award for Outstanding Actor in a Musical|Outstanding Actor in a Musical]] [[Drama Desk Award for Outstanding Featured Actor in a Musical|Outstanding Featured Actor in a Musical]] [[Drama Desk Award for Outstanding Choreography|Outstanding Choreography]] [[Sergio Trujillo]] [[Drama Desk Award for Outstanding Director of a Musical|Outstanding Director of a Musical]] [[Drama Desk Award for Outstanding Sound Design|Outstanding Sound Design]] [[Grammy Award]] [[Grammy Award for Best Musical Show Album|Best Musical Show Album]]
+|}
+===Original London production===
+{|
+|-
+| links || [[Laurence Olivier Award]] [[Laurence Olivier Award for Best New Musical|Best New Musical]] [[Laurence Olivier Award for Best Actor in a Musical|Best Actor in a Musical]] [[Ryan Molloy]] [[Laurence Olivier Award for Best Theatre Choreographer|Best Theatre Choreographer]] [[Sergio Trujillo]] [[Laurence Olivier Award for Best Director|Best Director]] [[Des McAnuff]] [[Laurence Olivier Award for Best Sound Design|Best Sound Design]]
+|}
+==In popular culture==
+==Notes==
+==References==
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+played by [[Kat Hoyos]].
+starring [[Nick Jonas]].
+played by [[Mark Wahlberg]].

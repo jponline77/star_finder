@@ -1,0 +1,127 @@
+{{Infobox musical
+|name= Platinum
+|subtitle=
+|image= 
+|caption= 
+|music= [[Gary William Friedman]]
+|lyrics= [[Will Holt]]
+|book= [[Will Holt]]<br>[[Bruce Vilanch]]
+|basis= 
+|productions=1977 [[Studio Arena Theater]]<br>1978 [[Broadway theatre|Broadway]]<br>1983 Off-Broadway<br>2010 [[New York International Fringe Festival|FringeNYC]] (Revised)
+
+|awards= 
+}}
+==Background==
+== Original cast and characters ==
+{| class="wikitable" style="width:50%; text-align:center"
+!scope="col"|Character
+!Broadway (1978)
+|-
+!Lila Halliday
+| colspan="1" |[[Alexis Smith]]
+|-
+!Dan Danger
+| colspan="1” |[[Richard Cox (actor)|Richard Cox]]
+|-
+!Crystal Mason
+| colspan="1” |[[Lisa Mordente]]
+|-
+!Robin
+| colspan="1" |Robin Grean
+|-
+!Damita
+| colspan="1" |[[Damita Jo Freeman]]
+|-
+!Avery
+| colspan="1" |Avery Sommers
+|-
+!Jeff Leff
+| colspan="1" |[[Stanley Kamel]]
+|-
+!Shultz
+| colspan="1" |Tony Shultz
+|-
+!Wenndy
+| colspan="1" |Wenndy Leigh Mackenzie
+|-
+!Boris
+| colspan="1" |John Hammil
+|-
+!Christine
+| colspan="1" |Christine Faith
+|-
+!Alan Fairmont / Mink
+| colspan="1" |[[Jonathan Freeman (actor)|Jonathan Freeman]]
+|}
+
+==Songs==
+*'''1977 world premiere production'''
+{{col-begin}}
+{{col-2}}
+* Sunset City
+* Nothing But
+* Back With a Beat
+* Rock is My Way of Life
+* Destiny
+* Disco Destiny
+* Waltz
+* Retreat
+{{col-break}}
+* Moments
+* Montage
+* Trials and Tribulations/I Like You
+* True Music
+* Retreat (Reprise)
+* Good Time Song
+* Finale
+{{col-end}}
+
+*'''1978 Broadway production'''
+{{col-begin}}
+{{col-2}}
+;Act One
+* Back With a Beat/Nothing But
+* Sunset
+* Ride Baby Ride
+* Destiny
+* Disco Destiny
+* I Am the Light
+* Movie Star Mansion
+{{col-break}}
+;Act Two
+* Platinum Dreams
+* Trials and Tribulations/I Like You
+* 1945
+* Too Many Mirrors
+* Old Times, Good Times
+{{col-end}}
+
+*'''1984 Village Gate NYC production'''
+{{col-begin}}
+{{col-2}}
+* Living on Sunset
+* Nothing But
+* The Funky
+* Destiny
+* Back With a Beat
+* Standing In Need
+* Rock is My Way of Life
+* Sunset Dreams
+{{col-break}}
+* Dan's Rap
+* Cheap Chablis
+* Bug On The Windshield Of Life
+* 1945
+* Retreat
+* I Am The Light
+* Moments
+* Old Times, Good Times
+* This One's for Me
+{{col-end}}
+
+==Production history==
+==Critical reception==
+==Awards and nominations==
+==Notes==
+==References==
+==External links==

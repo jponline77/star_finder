@@ -105,7 +105,10 @@ function toSong(row, parts) {
     parts: parts ?? [],
     media: {
       previewUrl: row.preview_url ?? null,
-      artworkUrl: row.artwork_path ?? null,
+      // Album art: the owner's upload wins; removing it falls back to the recording's art.
+      artworkUrl: row.custom_artwork_path ?? row.artwork_path ?? null,
+      artworkSource: row.custom_artwork_path ? 'upload' : row.artwork_path ? 'recording' : null,
+      recordingArtworkUrl: row.artwork_path ?? null,
       appleMusicUrl: row.apple_music_url ?? null,
       recordingName: row.recording_name ?? null,
       recordingArtist: row.recording_artist ?? null,
@@ -113,6 +116,7 @@ function toSong(row, parts) {
       audioLink: row.audio_link ?? null,
     },
     source: row.source,
+    catalogSongId: row.catalog_song_id ?? null,
     createdBy: creatorRef(row),
     commentCount: row.comment_count ?? 0,
     createdAt: row.created_at,
@@ -310,6 +314,7 @@ function toShow(row) {
     imageCredit: row.image_credit ?? null,
     imageSourceUrl: row.image_source_url ?? null,
     source: row.source,
+    catalogShowId: row.catalog_show_id ?? null,
     createdBy: creatorRef(row),
     commentCount: row.comment_count ?? 0,
     songCount: row.song_count ?? 0,

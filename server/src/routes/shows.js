@@ -7,13 +7,14 @@ import { slugify, uniqueSlug } from '../lib/slug.js';
 import {
   singleFileUpload, sniffImage, saveBuffer, deleteIfUnreferenced, requireFile, removeTemp, IMAGE_MAX_BYTES,
 } from '../lib/uploads.js';
-import { stripImageMetadata } from '../lib/image-meta.js';
+import { stripImageMetadata, imageDimensions, imageSizeProblem } from '../lib/image-meta.js';
 import { downloadRemoteImage } from '../lib/remote-image.js';
 import { requireUser, canEdit } from '../middleware.js';
 import {
   listShows, getShow, getShowDetail, findShowRow, showTombstoneKey, othersCommentCount,
 } from '../repo.js';
 import { nowIso } from '../db.js';
+import { siteShowMatchesCatalog, catalogShowCredits, relinkSiteRows } from '../lib/catalog.js';
 
 const NOT_YOURS = 'You can only edit shows you added';
 
@@ -111,9 +112,33 @@ export function showsRouter(ctx) {
     res.json(getShowDetail(db, row.id));
   });
 
+  /**
+   * POST's optional `catalogShowId` (SPEC §7c: a show created from the catalog): must exist and be
+   * the same show by name; fills composer/lyricist/book/year/Wikipedia link the body left empty.
+   */
+  function applyCatalogShow(body, values) {
+    if (body.catalogShowId === undefined || body.catalogShowId === null || body.catalogShowId === '') return null;
+    const v = new Validator();
+    const id = v.integer('catalogShowId', body.catalogShowId, { min: 1, label: 'Catalog show' });
+    v.check();
+    if (!db.prepare('SELECT 1 FROM catalog_shows WHERE id = ?').get(id)) {
+      throw badRequest('Please fix the highlighted fields', { catalogShowId: "That show isn't in the catalog" });
+    }
+    if (!siteShowMatchesCatalog(db, { name: values.name, catalog_show_id: null }, id)) {
+      const cat = db.prepare('SELECT title FROM catalog_shows WHERE id = ?').get(id);
+      throw badRequest('Please fix the highlighted fields', { catalogShowId: `The catalog show is “${cat.title}”, not “${values.name}”` });
+    }
+    const c = catalogShowCredits(db, id);
+    for (const col of ['composer', 'lyricist', 'book_writer', 'year', 'wiki_url']) {
+      if (values[col] === null || values[col] === undefined) values[col] = c[col];
+    }
+    return id;
+  }
+
   r.post('/', requireUser, async (req, res) => {
     caps.checkShows(req.user);
     const { values, imageUrl } = parseShowBody(req.body, { partial: false });
+    const catalogShowId = applyCatalogShow(req.body, values);
     const dup = duplicateName(values.name);
     if (dup) throw duplicateError(dup.id);
     let imagePath = null;
@@ -125,15 +150,17 @@ export function showsRouter(ctx) {
         if (again) throw duplicateError(again.id);
         const slug = uniqueSlug(values.name, (s) => Boolean(slugTaken.get(s)));
         const now = nowIso();
-        return Number(db.prepare(`
+        const newId = Number(db.prepare(`
           INSERT INTO shows (name, slug, composer, lyricist, book_writer, year, licensor, licensing_note, description,
-            wiki_url, image_path, image_credit, image_source_url, source, created_by, created_at, updated_at)
-          VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, 'community', ?, ?, ?)`).run(
+            wiki_url, image_path, image_credit, image_source_url, catalog_show_id, catalog_link, source, created_by, created_at, updated_at)
+          VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, 'community', ?, ?, ?)`).run(
           values.name, slug, values.composer, values.lyricist, values.book_writer, values.year, values.licensor,
           values.licensing_note, values.description, values.wiki_url, imagePath,
           imagePath ? values.image_credit ?? defaultCredit(imageUrl) : values.image_credit, imagePath ? imageUrl : null,
-          req.user.id, now, now,
+          catalogShowId, catalogShowId ? 'manual' : null, req.user.id, now, now,
         ).lastInsertRowid);
+        if (!catalogShowId) relinkSiteRows(db, { showIds: [newId], songIds: [] }); // same name as a catalog show → linked
+        return newId;
       })();
     } catch (err) {
       if (imagePath) await deleteIfUnreferenced(db, uploadsDir, imagePath);
@@ -142,10 +169,33 @@ export function showsRouter(ctx) {
     res.status(201).json(getShow(db, id));
   });
 
+  /**
+   * PUT's optional `catalogShowId` — which catalog show this site show is (SPEC §7c): a catalog id
+   * (the owner's pick must have the same name; an admin may link any catalog show), null ("not in
+   * the catalog": never linked automatically) or 'auto' (back to automatic matching by name). A
+   * choice sticks ('manual'/'none') until changed.
+   * @returns {undefined|{ id: number|null, link: 'manual'|'none'|null }}
+   */
+  function parseCatalogLink(body, user, name) {
+    if (body.catalogShowId === undefined) return undefined;
+    if (body.catalogShowId === null || body.catalogShowId === '') return { id: null, link: 'none' };
+    if (body.catalogShowId === 'auto') return { id: null, link: null };
+    const v = new Validator();
+    const id = v.integer('catalogShowId', body.catalogShowId, { min: 1, label: 'Catalog show' });
+    v.check();
+    const cat = db.prepare('SELECT title FROM catalog_shows WHERE id = ?').get(id);
+    if (!cat) throw badRequest('Please fix the highlighted fields', { catalogShowId: "That show isn't in the catalog" });
+    if (user.role !== 'admin' && !siteShowMatchesCatalog(db, { name, catalog_show_id: null }, id)) {
+      throw badRequest('Please fix the highlighted fields', { catalogShowId: `The catalog show is “${cat.title}”, not “${name}”` });
+    }
+    return { id, link: 'manual' };
+  }
+
   // Partial update: only keys present in the body change. `imageUrl: null` removes the image.
   r.put('/:id', requireUser, async (req, res) => {
     const row = loadEditable(req);
     const { values, imageUrl } = parseShowBody(req.body, { partial: true });
+    const catalogLink = parseCatalogLink(req.body, req.user, values.name ?? row.name);
     if (values.name !== undefined) {
       const dup = duplicateName(values.name, row.id);
       if (dup) throw duplicateError(dup.id);
@@ -178,11 +228,19 @@ export function showsRouter(ctx) {
           if (again) throw duplicateError(again.id);
         }
         const cols = Object.keys(sets).filter((c) => (current[c] ?? null) !== (sets[c] ?? null));
+        // The catalog link is bookkeeping, not an edit (no updated_at/edited_at).
+        if (catalogLink) {
+          db.prepare('UPDATE shows SET catalog_show_id = ?, catalog_link = ? WHERE id = ?').run(catalogLink.id, catalogLink.link, row.id);
+        }
         // A save that changes nothing isn't an edit (the importer keeps edited spreadsheet rows as they are).
-        if (!cols.length) return { oldImage: null };
-        const now = nowIso();
-        db.prepare(`UPDATE shows SET ${cols.map((c) => `${c} = ?`).join(', ')}, updated_at = ?, edited_at = ? WHERE id = ?`)
-          .run(...cols.map((c) => sets[c]), now, now, row.id);
+        if (cols.length) {
+          const now = nowIso();
+          db.prepare(`UPDATE shows SET ${cols.map((c) => `${c} = ?`).join(', ')}, updated_at = ?, edited_at = ? WHERE id = ?`)
+            .run(...cols.map((c) => sets[c]), now, now, row.id);
+        }
+        // The show's songs follow a new link; a renamed show with an automatic link is matched again
+        // by its new name.
+        if (catalogLink || (cols.includes('name') && !current.catalog_link)) relinkSiteRows(db, { showIds: [row.id] });
         return { oldImage: cols.includes('image_path') ? current.image_path : null };
       })();
     } catch (err) {
@@ -220,9 +278,10 @@ export function showsRouter(ctx) {
     loadEditable(req); // 401/403/404 before the body is read
     next();
   }, uploadGuard.before, imageUpload, async (req, res) => {
-    const file = requireFile(req);
+    const file = req.file;
     let show;
     try {
+      requireFile(req); // an empty upload still left a temp file: the finally below removes it
       const row = loadEditable(req);
       const bytes = await fs.promises.readFile(file.path); // ≤ 5 MB
       const kind = sniffImage(bytes);
@@ -230,6 +289,9 @@ export function showsRouter(ctx) {
       // Phone photos carry GPS position, camera serials and timestamps — never publish those.
       const clean = stripImageMetadata(bytes, kind.ext);
       if (!clean) throw badRequest("That image file looks damaged — try saving it again as a JPEG or PNG", { file: 'Damaged image' });
+      // A few MB of compressed pixels can declare gigapixels: every visitor's browser would decode it.
+      const tooBig = imageSizeProblem(imageDimensions(clean, kind.ext));
+      if (tooBig) throw badRequest(tooBig, { file: 'Image is too large' });
       uploadGuard.checkQuota(req.user, { newBytes: clean.length, ownerId: row.created_by, replacedPath: row.image_path });
       const publicPath = await saveBuffer(uploadsDir, 'images', clean, kind.ext, '/uploads');
       let previous;

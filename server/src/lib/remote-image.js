@@ -6,7 +6,7 @@ import path from 'node:path';
 import { isAllowedImageHost } from './validate.js';
 import { sniffImage } from './media-types.js';
 import { IMAGE_MAX_BYTES, saveBuffer } from './uploads.js';
-import { stripImageMetadata } from './image-meta.js';
+import { stripImageMetadata, imageDimensions, imageSizeProblem } from './image-meta.js';
 
 export const IMAGE_USER_AGENT = 'STARSongFinder/1.0 (school musical theatre song finder)';
 
@@ -144,6 +144,9 @@ export async function downloadRemoteImage(rawUrl, { uploadsDir, subdir, prefix =
   const img = await fetchRemoteImage(rawUrl, { fetchImpl });
   const clean = stripImageMetadata(img.buffer, img.ext);
   if (!clean) throw new RemoteImageError('That image file is damaged or not a supported image');
+  // Same size rule as uploads: never publish a picture that decodes to gigapixels.
+  const tooBig = imageSizeProblem(imageDimensions(clean, img.ext));
+  if (tooBig) throw new RemoteImageError('Image is too large');
   return saveBuffer(uploadsDir, subdir, clean, img.ext, '/uploads', prefix);
 }
 

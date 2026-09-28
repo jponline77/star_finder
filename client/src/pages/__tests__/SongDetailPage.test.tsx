@@ -1,5 +1,5 @@
 import { beforeEach, describe, expect, it, vi } from 'vitest';
-import { fireEvent, screen, waitFor, within } from '@testing-library/react';
+import { act, fireEvent, screen, waitFor, within } from '@testing-library/react';
 import { renderWithProviders } from '../../test/render';
 import { makeShow, makeSong, makeUser, part } from '../../test/fixtures';
 import type { ShowDetail, Song, SongDetail } from '../../types';
@@ -16,6 +16,11 @@ vi.mock('../../api', async (importOriginal) => {
     deleteSong: vi.fn(),
     uploadSongAudio: vi.fn(),
     deleteSongAudio: vi.fn(),
+    uploadSongArtwork: vi.fn(),
+    deleteSongArtwork: vi.fn(),
+    updateSong: vi.fn(),
+    getCatalogRecordings: vi.fn(),
+    lookupItunes: vi.fn(),
     listSongs: vi.fn(),
     getMeta: vi.fn(),
   };
@@ -265,5 +270,147 @@ describe('SongDetailPage', () => {
     setup();
     await waitFor(() => expect(screen.getByTestId('comment-count-link')).toHaveTextContent('1 comment'));
     expect(screen.getByTestId('comment-count-link')).toHaveAttribute('href', '#chatter');
+  });
+
+  describe('album art & audio panel (SPEC §7c)', () => {
+    const media = makeSong().media;
+    const mine = makeSong({
+      id: 5,
+      title: 'My Song',
+      source: 'community',
+      createdBy: { id: 7, displayName: 'Stage Kid' },
+      show: shrek,
+      lengthSeconds: null,
+      catalogSongId: 77,
+      genre: 'Comedy',
+      parts: [part('Donkey', 'Tenor')],
+    });
+
+    it('owners get friendly empty states: "Add album art" and "Add a backing track"', async () => {
+      setup({ user: makeUser({ id: 7 }), song: mine });
+      expect(await screen.findByTestId('media-panel')).toHaveTextContent('only you and admins see this');
+      expect(screen.getByTestId('hero-add-art')).toHaveTextContent('Add album art');
+      expect(screen.getByTestId('add-backing-track')).toHaveTextContent('Add a backing track');
+      expect(screen.getByRole('heading', { name: /Add album art/ })).toBeInTheDocument();
+      expect(screen.getByRole('heading', { name: /Add your backing track \(no vocals\)/ })).toBeInTheDocument();
+      fireEvent.click(screen.getByTestId('hero-add-art'));
+      expect(document.activeElement).toBe(screen.getByTestId('art-choose'));
+      fireEvent.click(screen.getByTestId('add-backing-track'));
+      expect(document.activeElement).toBe(screen.getByTestId('audio-choose'));
+    });
+
+    it('visitors see no media tools', async () => {
+      setup({ user: null, song: mine });
+      await screen.findByTestId('song-detail-title');
+      expect(screen.queryByTestId('media-panel')).toBeNull();
+      expect(screen.queryByTestId('hero-add-art')).toBeNull();
+      expect(screen.queryByTestId('add-backing-track')).toBeNull();
+    });
+
+    it('uploads album art straight away (checked first), then can go back to the recording’s art', async () => {
+      const withRecording = { ...mine, media: { ...media, previewUrl: 'https://audio-ssl.itunes.apple.com/p.m4a', recordingName: 'Shrek (OBC)', artworkUrl: '/uploads/art/rec.jpg', artworkSource: 'recording' as const } };
+      const uploaded = { ...withRecording, media: { ...withRecording.media, artworkUrl: '/uploads/art/mine.png', artworkSource: 'upload' as const } };
+      setup({ user: makeUser({ id: 7 }), song: withRecording });
+      await screen.findByTestId('media-panel');
+      expect(screen.getByTestId('art-preview')).toHaveAttribute('data-state', 'recording');
+      expect(screen.queryByTestId('hero-add-art')).toBeNull();
+      fireEvent.change(screen.getByTestId('art-file-input'), { target: { files: [new File(['<svg/>'], 'logo.svg', { type: 'image/svg+xml' })] } });
+      expect(screen.getByTestId('art-upload-error')).toHaveTextContent('SVG');
+      expect(mocked.uploadSongArtwork).not.toHaveBeenCalled();
+
+      mocked.uploadSongArtwork.mockResolvedValue(uploaded);
+      const file = new File([new Uint8Array(2048)], 'mine.png', { type: 'image/png' });
+      fireEvent.change(screen.getByTestId('art-file-input'), { target: { files: [file] } });
+      await waitFor(() => expect(screen.getByTestId('art-preview')).toHaveAttribute('data-state', 'upload'));
+      expect(mocked.uploadSongArtwork).toHaveBeenCalledWith(5, file, expect.objectContaining({ onProgress: expect.any(Function) }));
+      expect(screen.queryByTestId('art-remove')).toBeNull(); // with a recording, "Use recording art" is the way back
+
+      mocked.deleteSongArtwork.mockResolvedValue(withRecording);
+      fireEvent.click(screen.getByTestId('art-use-recording'));
+      fireEvent.click(await screen.findByTestId('confirm-button'));
+      await waitFor(() => expect(screen.getByTestId('art-preview')).toHaveAttribute('data-state', 'recording'));
+      expect(mocked.deleteSongArtwork).toHaveBeenCalledWith(5);
+    });
+
+    it('shows a friendly error when the art upload is refused', async () => {
+      setup({ user: makeUser({ id: 7 }), song: mine });
+      await screen.findByTestId('media-panel');
+      mocked.uploadSongArtwork.mockRejectedValue(new api.ApiError(413, 'Too big'));
+      fireEvent.change(screen.getByTestId('art-file-input'), { target: { files: [new File([new Uint8Array(10)], 'a.jpg', { type: 'image/jpeg' })] } });
+      expect(await screen.findByTestId('art-upload-error')).toHaveTextContent('too big (max 5 MB)');
+    });
+
+    it('changes the recording (PUT with the song’s own fields) and offers its length', async () => {
+      const withTrack = { ...mine, media: { ...media, previewUrl: 'https://audio-ssl.itunes.apple.com/p.m4a', recordingName: 'Shrek (OBC)' } };
+      mocked.getCatalogRecordings.mockResolvedValue({
+        candidates: [
+          { trackId: 1, trackName: 'My Song', collectionName: 'Shrek (OBC)', artistName: 'Cast', previewUrl: 'https://audio-ssl.itunes.apple.com/p.m4a', artworkUrl: null, appleMusicUrl: null, durationSeconds: 150, score: 90 },
+          { trackId: 2, trackName: 'My Song', collectionName: 'Shrek (London)', artistName: 'Cast', previewUrl: 'https://audio-ssl.itunes.apple.com/q.m4a', artworkUrl: null, appleMusicUrl: null, durationSeconds: 163, score: 80 },
+        ],
+      });
+      setup({ user: makeUser({ id: 7 }), song: withTrack });
+      expect(await screen.findByTestId('current-recording')).toHaveTextContent('Shrek (OBC)');
+      fireEvent.click(screen.getByTestId('change-recording'));
+      await screen.findAllByTestId('preview-candidate');
+      expect(mocked.getCatalogRecordings).toHaveBeenCalledWith(77, expect.any(AbortSignal));
+      expect(screen.getByTestId('use-preview-0')).toHaveAttribute('aria-pressed', 'true'); // the current one
+      expect(screen.queryByTestId('chosen-preview')).toBeNull();
+
+      const switched = { ...withTrack, media: { ...withTrack.media, previewUrl: 'https://audio-ssl.itunes.apple.com/q.m4a', recordingName: 'Shrek (London)' } };
+      mocked.updateSong.mockResolvedValueOnce(switched);
+      fireEvent.click(screen.getByTestId('use-preview-1'));
+      await waitFor(() => expect(screen.getByTestId('current-recording')).toHaveTextContent('Shrek (London)'));
+      const [id, body] = mocked.updateSong.mock.calls[0]!;
+      expect(id).toBe(5);
+      expect(body).toMatchObject({ kind: 'solo', title: 'My Song', showId: 2, genre: 'Comedy', catalogSongId: 77, parts: [{ character: 'Donkey', vocalRange: 'Tenor' }] });
+      expect(body.preview).toMatchObject({ itunesTrackId: 2, recordingName: 'Shrek (London)' });
+
+      const chip = await screen.findByTestId('recording-length-suggestion');
+      expect(chip).toHaveTextContent('Suggested: 2:43');
+      mocked.updateSong.mockResolvedValueOnce({ ...switched, lengthSeconds: 163 });
+      fireEvent.click(screen.getByTestId('recording-length-suggestion-apply'));
+      await waitFor(() => expect(mocked.updateSong).toHaveBeenCalledTimes(2));
+      expect(mocked.updateSong.mock.calls[1]![1]).toMatchObject({ lengthSeconds: 163 });
+      await waitFor(() => expect(screen.queryByTestId('recording-length-suggestion')).toBeNull());
+    });
+
+    it('keeps keyboard focus when the recording picker opens, closes, or saves a choice', async () => {
+      const withTrack = { ...mine, media: { ...media, previewUrl: 'https://audio-ssl.itunes.apple.com/p.m4a', recordingName: 'Shrek (OBC)' } };
+      mocked.getCatalogRecordings.mockResolvedValue({
+        candidates: [
+          { trackId: 1, trackName: 'My Song', collectionName: 'Shrek (OBC)', artistName: 'Cast', previewUrl: 'https://audio-ssl.itunes.apple.com/p.m4a', artworkUrl: null, appleMusicUrl: null, durationSeconds: 150, score: 90, castAlbum: true, albumLabel: 'original cast recording' },
+          { trackId: 2, trackName: 'My Song', collectionName: 'Shrek (London)', artistName: 'Cast', previewUrl: 'https://audio-ssl.itunes.apple.com/q.m4a', artworkUrl: null, appleMusicUrl: null, durationSeconds: 163, score: 88, castAlbum: true, albumLabel: 'cast recording' },
+        ],
+      });
+      setup({ user: makeUser({ id: 7 }), song: withTrack });
+      const open = await screen.findByTestId('change-recording');
+      act(() => open.focus());
+      fireEvent.click(open);
+      // opening: focus lands on the picker (not <body>)
+      await waitFor(() => expect(screen.getByTestId('recording-picker-region')).toHaveFocus());
+      expect(screen.getByTestId('recording-picker-region')).toHaveAccessibleName('Choose a recording');
+      await screen.findAllByTestId('preview-candidate');
+      // every ▶ names its album
+      expect(screen.getAllByTestId('play-preview').map((b) => b.getAttribute('aria-label'))).toEqual(
+        expect.arrayContaining(['Play preview of My Song — Shrek (OBC), Cast', 'Play preview of My Song — Shrek (London), Cast']),
+      );
+
+      // Close → back on the button that opened it
+      const close = screen.getByTestId('close-recordings');
+      act(() => close.focus());
+      fireEvent.click(close);
+      await waitFor(() => expect(screen.getByTestId('change-recording')).toHaveFocus());
+
+      // choose another → saved → back on the button
+      fireEvent.click(screen.getByTestId('change-recording'));
+      await screen.findAllByTestId('preview-candidate');
+      mocked.updateSong.mockResolvedValueOnce({ ...withTrack, media: { ...withTrack.media, previewUrl: 'https://audio-ssl.itunes.apple.com/q.m4a', recordingName: 'Shrek (London)' } });
+      const use = screen.getByTestId('use-preview-1');
+      act(() => use.focus());
+      fireEvent.click(use);
+      await waitFor(() => expect(screen.getByTestId('current-recording')).toHaveTextContent('Shrek (London)'));
+      await waitFor(() => expect(screen.getByTestId('change-recording')).toHaveFocus());
+      expect(document.activeElement).not.toBe(document.body);
+    });
   });
 });

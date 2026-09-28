@@ -9,6 +9,8 @@ import { createApp } from '../src/app.js';
 
 export const FIXTURES = path.join(path.dirname(fileURLToPath(import.meta.url)), 'fixtures');
 export const fixture = (name) => fs.readFileSync(path.join(FIXTURES, name));
+/** Small song catalog in the real catalog.json.gz format (SPEC §7c); catalog.json is its readable source. */
+export const CATALOG_FIXTURE = path.join(FIXTURES, 'catalog.json.gz');
 
 export const CSRF = { 'X-Requested-With': 'star-song-finder' };
 export const silentLogger = { info() {}, warn() {}, error() {} };
@@ -23,9 +25,11 @@ export const noNetwork = async (url) => {
  * Fresh app on a temp DB + temp uploads/media dirs. Rate limits are raised unless overridden in env.
  * The festivals table is seeded from the real seed/festivals.json unless `festivalsSeedPath` says
  * otherwise (null = start with no festivals). `dbFile` reuses an existing database file.
- * @param {{ env?: Record<string,string>, fetchImpl?: typeof fetch, logger?: object, festivalsSeedPath?: string|null, dbFile?: string }} [opts]
+ * The song catalog isn't loaded unless `catalogPath` is given (e.g. CATALOG_FIXTURE).
+ * @param {{ env?: Record<string,string>, fetchImpl?: typeof fetch, logger?: object, festivalsSeedPath?: string|null, dbFile?: string,
+ *   catalogPath?: string|null }} [opts]
  */
-export function makeTestApp({ env = {}, fetchImpl = noNetwork, logger = silentLogger, festivalsSeedPath, dbFile } = {}) {
+export function makeTestApp({ env = {}, fetchImpl = noNetwork, logger = silentLogger, festivalsSeedPath, dbFile, catalogPath = null } = {}) {
   const dir = fs.mkdtempSync(path.join(os.tmpdir(), 'star-test-'));
   const db = openDb(dbFile ?? path.join(dir, 'test.db'));
   const uploadsDir = path.join(dir, 'uploads');
@@ -38,10 +42,11 @@ export function makeTestApp({ env = {}, fetchImpl = noNetwork, logger = silentLo
     env: {
       STAR_WRITE_LIMIT: '100000', STAR_COMMENT_LIMIT: '100000', STAR_LOOKUP_LIMIT: '100000', STAR_SIGNUP_LIMIT: '100000',
       STAR_READ_LIMIT: '100000', STAR_EXPORT_LIMIT: '100000', STAR_DAILY_SONG_LIMIT: '100000', STAR_DAILY_SHOW_LIMIT: '100000',
-      STAR_MIN_FREE_MB: '0',
+      STAR_MIN_FREE_MB: '0', STAR_SEARCH_LIMIT: '100000', STAR_APPLE_LIMIT: '100000',
       ...env,
     },
     logger,
+    catalogPath,
     ...(festivalsSeedPath !== undefined ? { festivalsSeedPath } : {}),
   });
   const cleanup = () => {

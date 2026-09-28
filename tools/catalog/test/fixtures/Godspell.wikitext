@@ -1,0 +1,213 @@
+{{Infobox musical
+|name        = Godspell
+|image       = Godspell.jpg
+|caption     = Original cast recording
+|music       = [[Stephen Schwartz]]
+|lyrics      = Stephen Schwartz
+|book        = [[John-Michael Tebelak]]
+|basis       = [[Gospel of Matthew]] (primarily)
+|productions = 1971 Off-Broadway <br /> 1971 London <br /> 1976 Broadway <br />1988 Off-Broadway <br />2000 Off-Broadway <br />2001 US Tour <br /> 2007 UK Tour <br /> 2011 Broadway <br /> 2012 US tour
+
+|awards      = 
+}}
+==Characters==
+In the original script, licensed through Theatre Maximus, the "Christ" character and the "John" and "Judas" role are assigned the names of the original performers, Stephen and David.
+
+== Casts ==
+Since the names of the characters are normally changed to the cast members' names in professional productions, the names here match the character's main solo, excluding Jesus and John/Judas. These are the names the characters are referred to in the licensing of the show.
+{{sticky header}}
+{| class="wikitable sticky-header"
+|+ Notable Casts
+! Character
+!Off-Broadway<br />(1971)
+!London<br />(1971)
+!Toronto<br />(1972)
+!Film<br />(1973)
+!Broadway<br />(1976)
+!Broadway<br />(2011)
+|- style="text-align: center;"
+! Jesus
+|Stephen Nathan
+|[[David Essex]]
+| colspan="2" |[[Victor Garber]]
+|[[Don Scardino]]
+|[[Hunter Parrish]]
+|- style="text-align: center;"
+! John the Baptist/Judas
+|[[David Haskell]]
+|[[Jeremy Irons]]
+|Gerry Salsberg
+|[[David Haskell]]
+|Tom Rolfing
+|[[Wallace Smith (actor)|Wallace Smith]]
+|- style="text-align: center;"
+! "Day by Day"
+|Robin Lamont
+|[[Julie Covington]]
+|[[Andrea Martin]]
+|Robin Lamont
+|Robin Lamont
+|[[Anna Maria Perez de Tagle]]
+|- style="text-align: center;"
+! "Learn Your Lessons Well"
+|[[Gilmer McCormick]]
+|Verity-Anne Meldrum
+|[[Gilda Radner]]
+|[[Gilmer McCormick]]
+|Marley Sims
+|Celisse Henderson
+|- style="text-align: center;"
+! "Bless the Lord"
+|Joanne Jonas
+|[[Marti Webb]]
+|Avril Marie Chown
+|[[Lynne Thigpen]]
+|Valerie Williams
+|[[Lindsay Mendez]]
+|- style="text-align: center;"
+! "All Good Gifts"
+|[[Lamar Alford]]
+|Tom Saffery
+|Rudy Webb
+|[[Merrell Jackson]]
+|[[Lamar Alford]]
+|[[Telly Leung]]
+|- style="text-align: center;"
+! "Light of the World"
+|Herb Braha
+|Deryk Parkin
+|[[Eugene Levy]]
+|Jerry Sroka
+|Laurie Faso
+|[[George Salazar]]
+|- style="text-align: center;"
+! "Turn Back, O Man"
+|[[Sonia Manzano]]
+|[[Gay Soper]]
+|[[Jayne Eastwood]]
+|Joanne Jonas
+|[[Lois Foraker]]
+|[[Morgan James]]
+|- style="text-align: center;"
+! "By My Side"
+|Peggy Gordon
+|Jacquie-Ann Carr
+|Valda Aviks
+|Katie Hanley
+|Elizabeth Lathram
+|[[Uzo Aduba]]
+|- style="text-align: center;"
+! "We Beseech Thee"
+|[[Jeffrey Mylett]]
+|Neil Fitzwiliam
+|[[Martin Short]]
+|[[Jeffrey Mylett]]
+|Bobby Lee
+|Nick Blaemire
+|}
+
+== Synopsis ==
+=== Act I ===
+=== Intermission ===
+=== Act II ===
+==Musical numbers==
+=== Off-Broadway production ===
+{{col-begin}}
+{{col-2}}
+'''Act I'''
+*"Prologue / Tower of Babble" – Company
+*"Prepare Ye the Way of the Lord" – David and Company
+*"Save the People" – Stephen and Company
+*"[[Day by Day (Godspell song)|Day by Day]]" – Robin and Company
+*"Learn Your Lessons Well" – Gilmer
+*"Bless the Lord" – Joanne and Company
+*"All for the Best" – Stephen and David
+*"All Good Gifts" – Lamar and Company
+*"Light of the World" – Herb and Company
+{{col-break}}
+'''Act II'''
+*"Learn Your Lessons Well (Reprise)" – Lamar and Company
+*"Turn Back, O Man" – Sonia and Company
+*"Alas for You" – Stephen
+*"By My Side" – Peggy and Company
+*"We Beseech Thee" – Jeffrey and Company
+*"On the Willows" – Band
+*"Finale" – Company
+{{col-end}}
+
+=== 2011 Broadway revival ===
+{{col-begin}}
+{{col-2}}
+'''Act I'''
+*"Tower of Babble" – cast
+*"Prepare Ye" – John the Baptist and cast
+*"Save the People" – Jesus and cast
+*"Day by Day" – Anna Maria and cast
+*"Learn Your Lessons Well" – Celisse and cast
+*"Bless the Lord" – Lindsay and cast
+*"All for the Best" – Jesus, Judas and cast
+*"All Good Gifts" – Telly and cast
+*"Light of the World" – George and cast
+{{col-break}}
+'''Act II'''
+*"Turn Back, O Man" – Morgan, Jesus, and cast
+*"Alas for You" – Jesus
+*"By My Side" – Uzo and cast
+*"We Beseech Thee" – Nick and cast
+*"Beautiful City" – Jesus
+*"On the Willows" – Judas and the Band (or ensemble)
+*"Finale" – Jesus and cast
+{{col-end}}
+
+===Tower of Babble===
+
+===Beautiful City===
+
+== Production history<span class="anchor" id="Prod Hx"></span> ==
+=== 1970: Carnegie Mellon University ===
+=== 1971: La MaMa and off-Broadway ===
+=== 1971: Australia ===
+=== 1971: London ===
+=== 1972: Washington, D.C. ===
+=== 1972: Chicago ===
+=== 1972: Toronto ===
+=== 1973: Maseru ===
+=== 1974: Spain ===
+=== 1974: Tehran ===
+=== 1976: Broadway ===
+=== 1981: La MaMa revival ===
+=== 1988: Off-Broadway ===
+=== 2000: Off-Broadway ===
+=== 2001: North American tour ===
+=== 2007: UK tour ===
+===2011: Broadway revival===
+=== 2016: São Paulo ===
+===2020: Berkshire Theatre Group===
+===2022: Spain ===
+== Adaptations ==
+=== ''Godspell, Jr.'' ===
+=== 1973 film ===
+== Controversy ==
+=== Ending interpretation ===
+==Awards and nominations==
+===Original Broadway production===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Original Score|Best Original Score]] [[Stephen Schwartz]]
+|}
+==References==
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+cast included (listed in speaking order): Andrew Rohrer, Mary Mazziotti, Martha Jacobs, Robin Lamont, Robert Miller, [[Sonia Manzano]], [[David Haskell]].
+cast included [[Lamar Alford]].
+cast included [[Lamar Alford]], [[David Haskell]], [[Sonia Manzano]], [[Gilmer McCormick]], [[Jeffrey Mylett]].
+cast included [[Colleen Hewett]].
+cast included [[Colleen Hewett]], [[Colette Mann|Collette Mann]], [[George Spartels]].
+cast consisted of [[Bart Braverman|Bartley Braverman]], [[D'Jamin Bartlett|Doris Jamin]], [[Irving Allen Lee|Irving Lee]], [[Dean Pitchford]], [[Lynne Thigpen]].
+cast featured [[Lamar Alford]], [[Lois Foraker]], [[Don Scardino]].
+cast included [[Lamar Alford]], [[Paul Kreppel]], [[Sonia Manzano]], [[Melanie Mayron]], [[Danny Rutigliano]].
+cast included [[Trini Alvarado]].
+cast included [[Trini Alvarado]], [[Anne Bobby]], [[Bill Damaschke]], [[Laura Dean (actress)|Laura Dean]], [[Eddie Korbich]], [[Mia Korf]], [[Robert Duncan McNeill|Robert McNeill]], [[Harold Perrineau]], [[Jeffrey Steefel]].
+cast included [[Ryan Molloy]].
+cast included [[Ryan Molloy]], [[Stephen Gately]].

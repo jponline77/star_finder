@@ -6,8 +6,14 @@ import type { Song } from '../../types';
 import SongFormPage from '../SongFormPage';
 import { json, mockFetch } from './mockFetch';
 import { fireConfetti } from '../../components/Confetti';
+import * as apiModule from '../../api';
 
 vi.mock('../../components/Confetti', () => ({ fireConfetti: vi.fn(() => () => undefined), Confetti: () => null }));
+vi.mock('../../api', async (importOriginal) => {
+  const actual = await importOriginal<typeof import('../../api')>();
+  return { ...actual, uploadSongArtwork: vi.fn(), uploadSongAudio: vi.fn() };
+});
+const mockedApi = vi.mocked(apiModule);
 
 const wicked = { id: 1, name: 'Wicked', slug: 'wicked', imageUrl: null };
 const hadestown = { id: 2, name: 'Hadestown', slug: 'hadestown', imageUrl: '/media/shows/hadestown.png' };
@@ -35,7 +41,7 @@ function routes(extra: Parameters<typeof mockFetch>[0] = {}) {
   });
 }
 
-const renderAdd = (route = '/add') => renderWithProviders(<SongFormPage />, { route, path: '/add', user, songs, meta });
+const renderAdd = (route = '/add?manual=1') => renderWithProviders(<SongFormPage />, { route, path: '/add', user, songs, meta });
 
 const type = (testId: string, value: string) => fireEvent.change(screen.getByTestId(testId), { target: { value } });
 
@@ -114,7 +120,7 @@ describe('SongFormPage — add', () => {
 
   it('shows an error summary and never calls the API when required fields are missing', async () => {
     const api = routes();
-    renderAdd('/add?kind=duet');
+    renderAdd('/add?manual=1&kind=duet');
     expect(screen.getByTestId('song-kind-duet')).toHaveAttribute('aria-checked', 'true');
     type('song-length', '9:99');
     fireEvent.click(screen.getByTestId('submit-song'));
@@ -239,13 +245,17 @@ describe('SongFormPage — add', () => {
     fireEvent.click(screen.getByTestId('find-preview'));
     const items = await screen.findAllByTestId('preview-candidate');
     expect(items).toHaveLength(2);
-    expect(items[0]).toHaveTextContent('Great match · 100%');
-    expect(items[1]).toHaveTextContent('Maybe · 60%');
+    expect(items[0]).toHaveTextContent('Great match');
+    expect(items[1]).toHaveTextContent('Maybe');
     expect(api.calls('GET /api/lookup/itunes')[0]?.query.get('show')).toBe('Wicked');
+    // a plain title search never picks for you
+    expect(screen.queryByTestId('chosen-preview')).toBeNull();
     fireEvent.click(screen.getByTestId('use-preview-0'));
     expect(screen.getByTestId('chosen-preview')).toHaveTextContent('Kristin Chenoweth');
-    fireEvent.click(screen.getByTestId('use-preview-length'));
+    // the empty length is filled from the recording, with a suggestion chip saying where it came from
     expect(screen.getByTestId('song-length')).toHaveValue('3:44');
+    expect(screen.getByTestId('length-suggestion')).toHaveTextContent('from Wicked (Original Broadway Cast Recording)');
+    expect(screen.getByTestId('use-preview-0')).toHaveAttribute('aria-pressed', 'true');
     fireEvent.click(screen.getByTestId('submit-song'));
     await waitFor(() => expect(api.calls('POST /api/songs')).toHaveLength(1));
     expect(api.calls('POST /api/songs')[0]?.body.preview).toEqual({
@@ -333,14 +343,17 @@ describe('SongFormPage — add', () => {
     routes();
     const { router } = renderAdd();
     type('song-title', 'Half-finished');
-    fireEvent.click(screen.getByRole('link', { name: /Back to all songs/ }));
+    fireEvent.click(screen.getByRole('link', { name: /Back to the catalog/ }));
     expect(await screen.findByTestId('leave-confirm')).toHaveTextContent('Leave without saving?');
-    expect(router.state.location.pathname).toBe('/add');
+    expect(router.state.location.search).toBe('?manual=1');
     fireEvent.click(screen.getByRole('button', { name: 'Keep editing' }));
-    expect(router.state.location.pathname).toBe('/add');
-    fireEvent.click(screen.getByRole('link', { name: /Back to all songs/ }));
+    expect(router.state.location.search).toBe('?manual=1');
+    // leaving the page altogether is guarded too
+    fireEvent.click(screen.getByRole('link', { name: 'Cancel' }));
     fireEvent.click(await screen.findByTestId('leave-confirm-button'));
-    await waitFor(() => expect(router.state.location.pathname).toBe('/songs'));
+    await waitFor(() => expect(router.state.location.search).toBe(''));
+    expect(router.state.location.pathname).toBe('/add');
+    expect(await screen.findByTestId('find-song')).toBeInTheDocument();
   });
 
   it('keeps the typed form when the session has ended, and restores it after logging back in', async () => {
@@ -352,14 +365,14 @@ describe('SongFormPage — add', () => {
     type('song-notes', 'Long director notes that took ages to write.');
     fireEvent.click(screen.getByTestId('submit-song'));
     await waitFor(() => expect(first.router.state.location.pathname).toBe('/login'));
-    expect(first.router.state.location.search).toBe('?next=%2Fadd');
+    expect(first.router.state.location.search).toBe('?next=%2Fadd%3Fmanual%3D1');
     expect(screen.getByText(/we’ll bring back what you typed/)).toBeInTheDocument();
     first.unmount();
     expect(window.sessionStorage.getItem('star.draft.v1:song-form:add')).toContain('The Wizard and I');
     const saved = window.sessionStorage.getItem('star.draft.v1:song-form:add')!;
 
     // someone else logging in on this tab doesn't get it (and it's discarded)
-    const other = renderWithProviders(<SongFormPage />, { route: '/add', path: '/add', user: makeUser({ id: 99 }), songs, meta });
+    const other = renderWithProviders(<SongFormPage />, { route: '/add?manual=1', path: '/add', user: makeUser({ id: 99 }), songs, meta });
     expect(screen.getByTestId('song-title')).toHaveValue('');
     expect(window.sessionStorage.getItem('star.draft.v1:song-form:add')).toBeNull();
     other.unmount();
@@ -397,9 +410,9 @@ describe('SongFormPage — add', () => {
     expect(fireConfetti).not.toHaveBeenCalled();
   });
 
-  it('pre-selects a show from ?show=<slug>', () => {
+  it('pre-selects a show from ?manual=1&show=<slug>', () => {
     routes();
-    renderAdd('/add?show=hadestown');
+    renderAdd('/add?manual=1&show=hadestown');
     expect(screen.getByTestId('song-show')).toHaveValue('Hadestown');
   });
 });
@@ -473,5 +486,45 @@ describe('SongFormPage — edit', () => {
     routes({ 'GET /api/songs/999': () => json(404, { error: 'Song not found' }) });
     renderWithProviders(<SongFormPage />, { route: '/songs/999/edit', path: '/songs/:id/edit', user, songs, meta });
     expect(await screen.findByText('We can’t find that song')).toBeInTheDocument();
+  });
+
+  it('media in edit mode: a new image uploads after the PUT; the catalog link is kept', async () => {
+    const linked = { ...mine, catalogSongId: 44 };
+    const { api, router } = renderEdit(linked);
+    await screen.findByTestId('add-song-form');
+    expect(screen.getByTestId('song-art-preview')).toHaveAttribute('data-state', 'recording');
+    const file = new File([new Uint8Array(100)], 'poster.png', { type: 'image/png' });
+    mockedApi.uploadSongArtwork.mockResolvedValue({ ...linked, media: { ...linked.media, artworkUrl: '/uploads/art/p.png', artworkSource: 'upload' } });
+    fireEvent.change(screen.getByTestId('song-art-file-input'), { target: { files: [file] } });
+    expect(screen.getByTestId('song-art-preview')).toHaveAttribute('data-state', 'pending');
+    fireEvent.click(screen.getByTestId('submit-song'));
+    await waitFor(() => expect(router.state.location.pathname).toBe('/songs/60'));
+    expect(api.calls('PUT /api/songs/60')[0]?.body).toMatchObject({ catalogSongId: 44 });
+    expect(mockedApi.uploadSongArtwork).toHaveBeenCalledWith(60, file, expect.any(Object));
+  });
+
+  it('media in edit mode: "Use recording art" removes the uploaded image after saving; changing the show clears the catalog link', async () => {
+    const uploaded = {
+      ...mine,
+      catalogSongId: 44,
+      media: { ...mine.media, artworkUrl: '/uploads/art/mine.png', artworkSource: 'upload' as const, audioUrl: '/uploads/audio/t.mp3' },
+    };
+    const { api, router } = renderEdit(uploaded, user, {
+      'DELETE /api/songs/60/artwork': () => json(200, { ...uploaded, media: { ...uploaded.media, artworkSource: 'recording' } }),
+      'DELETE /api/songs/60/audio': () => json(200, { ...uploaded, media: { ...uploaded.media, audioUrl: null } }),
+    });
+    await screen.findByTestId('add-song-form');
+    expect(screen.getByTestId('song-art-preview')).toHaveAttribute('data-state', 'upload');
+    fireEvent.click(screen.getByTestId('song-art-use-recording'));
+    expect(screen.getByTestId('song-art-preview')).toHaveAttribute('data-state', 'recording');
+    expect(screen.getByTestId('song-art-undo')).toHaveTextContent('Keep my image');
+    fireEvent.click(screen.getByTestId('song-audio-remove'));
+    expect(screen.getByText('The uploaded track will be removed when you save.')).toBeInTheDocument();
+    pickShow('Wicked');
+    fireEvent.click(screen.getByTestId('submit-song'));
+    await waitFor(() => expect(router.state.location.pathname).toBe('/songs/60'));
+    expect(api.calls('PUT /api/songs/60')[0]?.body).toMatchObject({ showId: 1, catalogSongId: null });
+    expect(api.calls('DELETE /api/songs/60/artwork')).toHaveLength(1);
+    expect(api.calls('DELETE /api/songs/60/audio')).toHaveLength(1);
   });
 });

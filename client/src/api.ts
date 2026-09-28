@@ -14,9 +14,16 @@
  *    them to /me) and still throws.
  */
 import type {
+  AdminCatalogRecording,
   AdminUser,
   AdminUserPatch,
   ApiErrorBody,
+  CatalogRecordingTracks,
+  CatalogSearchResult,
+  CatalogShowDetail,
+  CatalogSong,
+  CatalogStatus,
+  CatalogSuggestions,
   Comment,
   CommentInput,
   CommentPatch,
@@ -51,13 +58,16 @@ export class ApiError extends Error {
   readonly details: Record<string, string>;
   /** Machine-readable reason the server sent alongside the status, e.g. 'MUST_CHANGE_PASSWORD'. */
   readonly code: string | undefined;
+  /** Seconds the server asked us to wait (the Retry-After header of a 429/503), when it sent one. */
+  readonly retryAfter: number | undefined;
 
-  constructor(status: number, message: string, details?: Record<string, string>, code?: string) {
+  constructor(status: number, message: string, details?: Record<string, string>, code?: string, retryAfter?: number) {
     super(message);
     this.name = 'ApiError';
     this.status = status;
     this.details = details ?? {};
     this.code = code;
+    this.retryAfter = retryAfter;
   }
 
   /** Message for a specific form field (from `details`), if the server sent one. */
@@ -88,6 +98,35 @@ export class ApiError extends Error {
 /** Narrowing helper: `if (isApiError(e) && e.status === 409) …` */
 export function isApiError(e: unknown): e is ApiError {
   return e instanceof ApiError;
+}
+
+/** Retry-After (seconds, or an HTTP date) → whole seconds from now; undefined when missing or unreadable. */
+export function parseRetryAfter(value: string | null | undefined, now = Date.now()): number | undefined {
+  if (!value) return undefined;
+  const v = value.trim();
+  if (/^\d+$/.test(v)) return Number(v);
+  const t = Date.parse(v);
+  return Number.isFinite(t) ? Math.max(0, Math.ceil((t - now) / 1000)) : undefined;
+}
+
+/** "about 40 seconds" / "a minute" / "about 3 minutes" for a Retry-After. */
+function waitPhrase(seconds: number): string {
+  if (seconds <= 5) return 'a few seconds';
+  if (seconds < 55) return `about ${Math.ceil(seconds / 5) * 5} seconds`;
+  if (seconds <= 90) return 'a minute';
+  return `about ${Math.round(seconds / 60)} minutes`;
+}
+
+/**
+ * Message for a failed Apple Music look-up (recordings, cast-album tracks, "Find recordings"): the site-wide Apple
+ * budget (503 + Retry-After) and the per-person limit (429) get a friendly "wait" line; anything else as usual.
+ */
+export function lookupErrorMessage(e: unknown): string {
+  if (isApiError(e) && e.status === 503 && e.retryAfter !== undefined) {
+    return `Apple Music is busy with other look-ups right now — try again in ${waitPhrase(e.retryAfter)}.`;
+  }
+  if (isApiError(e) && e.status === 429) return `Too many look-ups in a row — try again in ${e.retryAfter !== undefined ? waitPhrase(e.retryAfter) : 'a minute'}.`;
+  return errorMessage(e);
 }
 
 /** A friendly message for any thrown value (for toasts). */
@@ -241,7 +280,8 @@ export async function parseResponse<T>(res: Response, method: string, path: stri
   const body = (data && typeof data === 'object' ? data : {}) as Partial<ApiErrorBody>;
   const message = typeof body.error === 'string' && body.error ? body.error : defaultMessageFor(res.status);
   const code = typeof body.code === 'string' && body.code ? body.code : undefined;
-  const error = new ApiError(res.status, message, toDetails(body.details), code);
+  const retryAfter = res.status === 429 || res.status === 503 ? parseRetryAfter(res.headers?.get?.('Retry-After')) : undefined;
+  const error = new ApiError(res.status, message, toDetails(body.details), code, retryAfter);
   if (res.status === 403 && code === MUST_CHANGE_PASSWORD && passwordChangeHandler) {
     try {
       passwordChangeHandler(error, { method, path });
@@ -429,6 +469,16 @@ export const uploadSongAudio = (id: number, file: File | Blob, options?: UploadO
 /** DELETE /api/songs/:id/audio → Song */
 export const deleteSongAudio = (id: number) => del<Song>(`/api/songs/${enc(id)}/audio`);
 
+/**
+ * POST /api/songs/:id/artwork (multipart `file`; jpeg/png/webp/gif ≤ 5 MB) → Song (SPEC §7c). Replaces the previous
+ * uploaded art; `media.artworkSource` becomes 'upload'. Same 413/429/503/507 limits as audio.
+ */
+export const uploadSongArtwork = (id: number, file: File | Blob, options?: UploadOptions) =>
+  upload<Song>(`/api/songs/${enc(id)}/artwork`, file, options);
+
+/** DELETE /api/songs/:id/artwork → Song (falls back to the recording's art if the song has one, else none). */
+export const deleteSongArtwork = (id: number) => del<Song>(`/api/songs/${enc(id)}/artwork`);
+
 // ---------------------------------------------------------------------------
 // Shows
 // ---------------------------------------------------------------------------
@@ -464,6 +514,54 @@ export const lookupItunes = (title: string, show: string, signal?: AbortSignal) 
 /** GET /api/lookup/wikipedia?name= */
 export const lookupWikipedia = (name: string, signal?: AbortSignal) =>
   get<WikipediaLookupResult>('/api/lookup/wikipedia', { name }, signal);
+
+// ---------------------------------------------------------------------------
+// Show & song catalog (SPEC §7c)
+// ---------------------------------------------------------------------------
+
+/** Shortest query the catalog search answers (shorter → empty results). */
+export const CATALOG_MIN_QUERY = 2;
+
+/** GET /api/catalog → { available, version, shows, songs, … } (available: false when no catalog is loaded). */
+export const getCatalogStatus = (signal?: AbortSignal) => get<CatalogStatus>('/api/catalog', undefined, signal);
+
+/** GET /api/catalog/search?q=&limit= → { results: CatalogHit[] } — typeahead over songs and shows. */
+export const searchCatalog = (q: string, options: { limit?: number } = {}, signal?: AbortSignal) =>
+  get<CatalogSearchResult>('/api/catalog/search', { q, limit: options.limit }, signal);
+
+/** GET /api/catalog/shows/:id(?all=1) → show details + songs (instrumentals only with `all`). */
+export const getCatalogShow = (id: number, options: { all?: boolean } = {}, signal?: AbortSignal) =>
+  get<CatalogShowDetail>(`/api/catalog/shows/${enc(id)}`, { all: options.all }, signal);
+
+/** Accepts `{ songs, album, saved }` (the server), `{ songs, recording }`, `{ tracks }` or a bare array for …/recording-tracks. */
+export function normalizeRecordingTracks(raw: unknown): CatalogRecordingTracks {
+  if (Array.isArray(raw)) return { songs: raw as CatalogSong[], recording: null };
+  if (raw && typeof raw === 'object') {
+    const o = raw as { songs?: unknown; tracks?: unknown; recording?: CatalogRecordingTracks['recording']; album?: CatalogRecordingTracks['recording']; saved?: unknown };
+    const list = Array.isArray(o.songs) ? o.songs : Array.isArray(o.tracks) ? o.tracks : [];
+    return { songs: list as CatalogSong[], recording: o.album ?? o.recording ?? null, ...(typeof o.saved === 'boolean' ? { saved: o.saved } : {}) };
+  }
+  return { songs: [], recording: null };
+}
+
+/**
+ * POST /api/catalog/shows/:id/recording-tracks (logged in + CSRF header) — finds the show's cast album on Apple and
+ * saves its tracks as catalog songs for everyone (`saved: true`), or returns the ones already saved. Lookup rate
+ * limits apply (429), and the site-wide Apple budget (503 + Retry-After).
+ */
+export const loadCatalogRecordingTracks = (id: number, signal?: AbortSignal) =>
+  request<unknown>('POST', `/api/catalog/shows/${enc(id)}/recording-tracks`, { signal }).then(normalizeRecordingTracks);
+
+/** GET /api/catalog/songs/:id/suggestions → pre-fill data for the song form (fast, no Apple calls). */
+export const getCatalogSuggestions = (catalogSongId: number, signal?: AbortSignal) =>
+  get<CatalogSuggestions>(`/api/catalog/songs/${enc(catalogSongId)}/suggestions`, undefined, signal);
+
+/**
+ * GET /api/catalog/songs/:id/recordings → { candidates } best first (the show's cast album first, then a song
+ * search). Each candidate has durationSeconds / artworkUrl / previewUrl / album / artist.
+ */
+export const getCatalogRecordings = (catalogSongId: number, signal?: AbortSignal) =>
+  get<ItunesLookupResult>(`/api/catalog/songs/${enc(catalogSongId)}/recordings`, undefined, signal);
 
 // ---------------------------------------------------------------------------
 // Auth (SPEC §5a)
@@ -560,3 +658,16 @@ export const adminUpdateFestival = (id: number, patch: FestivalPatch) =>
 
 /** DELETE /api/admin/festivals/:id → 204 (people who had picked it go back to "not chosen"). */
 export const adminDeleteFestival = (id: number) => del(`/api/admin/festivals/${enc(id)}`);
+
+/** GET /api/admin/catalog/recordings → cast albums / cast-album songs users saved for catalog shows, newest first. */
+export const adminListCatalogRecordings = (signal?: AbortSignal) =>
+  get<{ shows: AdminCatalogRecording[] }>('/api/admin/catalog/recordings', undefined, signal);
+
+/**
+ * DELETE /api/admin/catalog/shows/:id/recording(?reject=0) → removes a show's saved cast album and its cast-album
+ * songs. By default the album is also rejected for that show (never picked again); `allowAgain` lets it be found again.
+ */
+export const adminRemoveCatalogRecording = (id: number, options: { allowAgain?: boolean } = {}) =>
+  request<{ removedSongs: number; rejectedCollectionId: number | null }>('DELETE', `/api/admin/catalog/shows/${enc(id)}/recording`, {
+    query: options.allowAgain ? { reject: '0' } : undefined,
+  });

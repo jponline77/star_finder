@@ -381,7 +381,7 @@ describe('festivals deleted on the website stay deleted', () => {
       old.close();
       const db = openDb(file);
       try {
-        assert.equal(db.pragma('user_version', { simple: true }), 4);
+        assert.equal(db.pragma('user_version', { simple: true }), Math.max(...MIGRATIONS.map((m) => m.version)));
         assert.deepEqual(db.prepare('PRAGMA table_info(festival_tombstones)').all().map((c) => c.name), ['slug', 'deleted_at']);
       } finally {
         db.close();

@@ -30,6 +30,7 @@ import { GENRES, normalizeVocalRange, fixSubGenre, matchExisting } from '../src/
 import { isItunesPreviewHost, isAppleHost } from '../src/lib/validate.js';
 import { songImportKey, showImportKey, songNameKey, showNameKey } from '../src/lib/import-keys.js';
 import { deleteIfUnreferenced } from '../src/lib/uploads.js';
+import { relinkSiteRows } from '../src/lib/catalog.js';
 import { resolveUserPath } from '../src/lib/paths.js';
 import { readFestivalSeed, upsertFestivals } from '../src/lib/festivals.js';
 import { isSeedImageName, MISSING_IMAGES_HINT } from '../src/lib/seed-media.js';
@@ -734,7 +735,7 @@ export async function importSpreadsheet({
     const stale = allSpreadsheet.filter((r) => !seenSongIds.has(r.id));
     const toDelete = [];
     for (const r of stale) {
-      if ((edited(r) && !overwriteEdits) || r.comment_count > 0 || r.audio_path) {
+      if ((edited(r) && !overwriteEdits) || r.comment_count > 0 || r.audio_path || r.custom_artwork_path) {
         summary.songs.keptStale++;
         warnings.push(`Song "${r.title}" (id ${r.id}) is no longer in the spreadsheet but was kept (it has comments, uploads or website edits)`);
         continue;
@@ -777,6 +778,9 @@ export async function importSpreadsheet({
   })();
 
   for (const p of replacedUploads) await deleteIfUnreferenced(db, uploadsDir, p);
+
+  // Song catalog (SPEC §7c): link new/renamed spreadsheet shows and songs to it (only the link columns).
+  summary.catalogLinks = relinkSiteRows(db);
 
   // One line for all of them: on a fresh checkout every poster/cover is missing until fetch-media runs.
   summary.missingImages = [...missingImages].sort();

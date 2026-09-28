@@ -1,0 +1,332 @@
+{{Infobox Musical
+| name = The Witches of Eastwick
+| subtitle = 
+| image = The Witches of Eastwick (musical).jpg
+| image_size = 300px
+| caption = 
+| music = [[Dana P. Rowe]]
+| lyrics = [[John Dempsey (lyricist)|John Dempsey]]
+| book = John Dempsey
+| basis = ''[[The Witches of Eastwick]]'' novel by [[John Updike]]
+| productions = {{plainlist|
+* 2000 London [[West End theatre|West End]]
+* 2002 [[Melbourne]], [[Australia]]
+* 2003 [[Moscow]]
+* 2007 [[Czech Republic]]
+* 2007 [[Arlington, Virginia]]
+* 2008 UK Tour
+* 2011 [[São Paulo]], [[Brazil]],
+* 2012 Slovenia
+* 2014 Norway
+* 2018 [[Warsaw]]
+* 2019 Stockholm 
+* 2022 West End Concert 
+* 2024 [[Czech Republic]]
+
+}}
+| awards = 
+}}
+==Productions==
+===Original London production===
+===Australia, Russia, and Czech Republic===
+===U.S. premiere (2007)===
+===UK tour (2008–2009)===
+===Brazil (2011)===
+===Slovenia (2012)===
+===Austria (2013)===
+===Norway (2014)===
+===Poland (2018)===
+===Sweden (2019)===
+===Other productions===
+===Readings and amateur productions===
+==Plot==
+==Casts==
+
+{| class="wikitable" style="width:100;"
+|-
+! rowspan="2" | Character
+! West End
+! London
+!Australia
+!Czech Republic
+! U.S. Premiere
+! U.K. Tour
+! Brazil
+! Slovenia
+!Austria
+!Norway
+|-
+!2000
+!2001
+!2002
+! colspan="2" |2007
+!2008
+!2011
+!2012
+!2013
+!2014
+|-
+! Daryl Van Horne
+| colspan="1" align="center" | [[Ian McShane]]
+| colspan="1" align="center" | [[Earl Carpenter (actor)|Earl Carpenter]]
+| colspan="1" align="center" | [[Paul McDermott]]
+| colspan="1" align="center" | Petr Gazdík / Petr Štěpán
+| colspan="1" align="center" | [[Marc Kudisch]]
+| colspan="1" align="center" | [[Marti Pellow]]
+| colspan="1" align="center" | [[Eduardo Galvão]]
+| colspan="1" align="center" | [?]
+| colspan="1" align="center" | Reinwald Kranner
+| colspan="1" align="center" | Lars Arne Rinde
+|-
+! Alexandra "Alex" Spofford
+| align="center" | [[Lucie Arnaz]]
+| colspan="1" align="center" | [[Josefina Gabrielle]]
+| colspan="1" align="center" | Angela Toohey
+| colspan="1" align="center" | Ivana Vaňková / Jana Musilová / [[Yvetta Blanarovičová]]
+| colspan="1" align="center" | [[Emily Skinner (actress, born 1970)|Emily Skinner]]
+| colspan="1" align="center" | Ria Jones
+| colspan="1" align="center" | Maria Clara Gueiros
+| colspan="1" align="center" | [[Tanja Ribič]]
+| colspan="1" align="center" | Kristin Hölck
+| colspan="1" align="center" | Cecilie Due
+|-
+! Jane Smart
+| colspan="2" align="center" | [[Joanna Riding]]
+| colspan="1" align="center" | [[Marina Prior]]
+| colspan="1" align="center" | Johana Gazdíková / Markéta Sedláčková
+| colspan="1" align="center" | [[Christiane Noll]]
+| colspan="1" align="center" | Poppy Tierney
+| colspan="1" align="center" | Sabrina Korgut
+| colspan="1" align="center" | Viktorija Bencik Emeršič / Pia Zemljič
+| colspan="1" align="center" | Daniela Dett
+| colspan="1" align="center" |Kristin Rinde Sunde
+|-
+! Sukie Rougemount
+| colspan="1" align="center" | [[Maria Friedman]]
+| colspan="1" align="center" | Rebecca Thornhill
+| colspan="1" align="center" | [[Pippa Grandison]]
+| colspan="1" align="center" | Alena Antalová / Radka Coufalová
+| colspan="1" align="center" | [[Jacquelyn Piro Donovan]]
+| colspan="1" align="center" | Rebecca Thornhill
+| colspan="1" align="center" | Renata Ricci
+| colspan="1" align="center" | Iva Krajnc Bagola
+| colspan="1" align="center" | Lisa Antoni
+| colspan="1" align="center" | Marianne Snekkestad
+|-
+! Felicia Gabrial
+| colspan="2" align="center" | [[Rosemary Ashe]]
+| colspan="1" align="center" | [[Geraldine Turner]]
+| colspan="1" align="center" | Lenka Bartolšicová
+| colspan="1" align="center" | Karlah Hamilton
+| colspan="1" align="center" | Rachel Izen
+| colspan="1" align="center" | Fafy Siqueira
+| colspan="1" align="center" | Mirjam Korbar
+|Karen Robertson
+|Monica Berg Ludvigsen
+|-
+! Clyde Gabrial
+| colspan="2" align="center" | [[Stephen Tate]]
+| colspan="1" align="center" | [[Tony Sheldon (actor)|Tony Sheldon]]
+| colspan="1" align="center" | Igor Ondříček / Milan Němec
+| colspan="1" align="center" | Harry A. Winter
+| colspan="1" align="center" | [[James Graeme]]
+| colspan="1" align="center" | Renato Rabelo
+| colspan="1" align="center" | Gregor Gruden
+| colspan="1" align="center" | Rob Pelzer
+| colspan="1" align="center" | Brynjar Lilleheim
+|-
+! Jennifer Gabrial
+| colspan="2" align="center" | [[Caroline Sheen]]
+| colspan="1" align="center" | [[Penny McNamee]]
+| colspan="1" align="center" | Mária Lalková
+| colspan="1" align="center" | Erin Driscoll
+| colspan="1" align="center" | Joanna Kirkland
+| colspan="1" align="center" | Clara Verdier
+| colspan="1" align="center" | Viktorija Bencik Emeršič / Tina Potočnik Vrhovnik
+| colspan="1" align="center" | Ariana Schirasi-Fard
+| colspan="1" align="center" | Ida Rinde Sunde
+|-
+! Michael Spofford
+| colspan="1" align="center" | [[Peter Jöback]]
+| colspan="1" align="center" | Paul Spicer
+| colspan="1" align="center" | [[Matt Lee (dancer)|Matt Lee]]
+| colspan="1" align="center" | Jakub Uličník / Dušan Vitázek
+| colspan="1" align="center" | James Gardiner
+| colspan="1" align="center" | [[Chris Thatcher]]
+| colspan="1" align="center" | André Torquato
+| colspan="1" align="center" | Domen Valič
+| colspan="1" align="center" | Oliver Liebl
+| colspan="1" align="center" | Christian Ranke
+|-
+!Fidel
+| colspan="2" align="center" | Gee Williams
+| colspan="1" align="center" | [?]
+| colspan="1" align="center" | Tomáš Sagher
+| align="center" | Scott J. Strasbaugh
+| align="center" | [[Oliver Walker]]
+| align="center" | Ben Ludmer
+| align="center" | Jure Kopušar
+| colspan="1" align="center" | [?]
+| colspan="1" align="center" | Håkon Steinsholt
+|-
+!Little Girl
+| colspan="2" align="center" | [[Sarah Lark]]
+| colspan="1" align="center" | [[Sabrina Batshon]]
+| colspan="1" align="center" | Karolína Čtveráčková / Marie Juráčková
+| align="center" | [[Brittany O'Grady]]
+| align="center" | Victoria Hay
+| align="center" | [[Larissa Manoela]] / Isabella Moreira 
+| align="center" | Liza Humer
+| colspan="1" align="center" | Tina Haas
+| colspan="1" align="center" | Sine Helene Strømberg
+|}
+
+=== Notable cast replacements ===
+'''London (2001)'''
+* Daryl Van Horne: [[Adam Pascal|Clarke Peters]]
+'''Australia (2002)'''
+* Felicia Gabrial: [[Rosemary Ashe]] (Emergency)
+'''Czech Republic (2007)'''
+* Sukie Rougemount: [[Hana Holišová]]
+* Felicia Gabrial: [[Zuzana Mauréry]]
+
+==Musical numbers==
+
+===London (as of closing night - 27 October 2001)===
+{{col-begin}}
+{{col-2}}
+;Act One:
+*Overture
+*Eastwick Knows
+*Make Him Mine
+*A Little Town
+*Eye of the Beholder
+*Waiting for the Music
+*Words, Words, Words
+*Something
+*Dirty Laundry
+*I Wish I May
+{{col-break}}
+;Act Two:
+*Entr’acte
+*Another Night at Darryl's
+*Dance with the Devil
+*Another Night at Darryl's (reprise)
+*Evil
+*Dirty Laundry (reprise)
+*Loose Ends
+*A Little Town (reprise)
+*I Wish I May (reprise)
+*The Glory of Me
+*The Wedding
+*Something (reprise)
+*Look At Me
+{{col-end}}
+;Cut Songs
+*Before the Night (cut in previews)
+*What about the Egrets? (cut in previews)
+*What Everyone Woman Wants (cut in previews)
+*Who's the Man? (cut when the show moved from the Theatre Royal, Drury Lane to the Prince of Wales Theatre, replaced with 'The Glory of Me')
+*Loose Ends (cut during previews in Australia in 2002, as well as all subsequent amateur productions)
+
+===US premiere production===
+{{col-begin}}
+{{col-2}}
+;Act One:
+*Overture
+*Eastwick Knows
+*Make Him Mine
+*Darryl van Horne
+*Waiting for the Music
+*Words, Words, Words
+*Your Wildest Dreams
+*Something
+*Dirty Laundry
+*I Wish I May
+*Finale - Act One
+{{col-break}}
+;Act Two:
+*Another Night at Darryl's
+*Dance with the Devil
+*Evil
+*Dirty Laundry (reprise)
+*Darryl van Horne (reprise)
+*The Wedding / Dance With the Devil (Reprise) - UK Tour 2008
+*Look At Me
+{{col-end}}
+
+===2014 New England premiere===
+{{col-begin}}
+{{col-2}}
+;Act One:
+*Overture
+*Eastwick Knows - Citizens of Eastwick
+*Make Him Mine - Alexandra, Jane, and Sukie
+*Eastwick Knows (reprise) - Felicia and Townsfolk
+*I Love A Little Town - Darryl and Townsfolk
+*Waiting For the Music To Begin - Jane and Darryl
+*Words, Words, Words - Sukie and Darryl
+*The Feminine Mystique - Alexandra
+*Little Miracles - Alexandra, Jane, and Sukie
+*Something - Michael and Jennifer
+*Tennis - Darryl, Alexandra, Jane, and Sukie
+*I Wish I May - Alexandra, Sukie, Jane, and Darryl
+{{col-break}}
+;Act Two:
+*Another Night at Darryl's - Alexandra, Jane, and Sukie
+*Dance with the Devil - Darryl, Michael, and Townsfolk
+*Another Night at Darryl's (reprise) - Little Girl, Alexandra, Jane, and Sukie
+*Evil - Felicia
+*Dirty Laundry (reprise) - Alexandra, Sukie, Jane, and Townsfolk
+*Waiting For the Music To Begin (reprise) - Jane
+*Words, Words, Words (reprise) - Sukie
+*I Love A Little Town (reprise) - Darryl and Townsfolk
+*The Feminine Mystique (reprise) - Little Girl and Alexandra
+*I Wish I May (reprise) - Jennifer
+*The Glory Of Me - Darryl and Townsfolk
+*The Wedding - Company
+*Look At Me - Sukie, Jane, Alexandra
+{{col-end}}
+
+===2019 Stockholm, Production===
+{{col-begin}}
+{{col-2}}
+;Act One:
+*Overture
+*Eastwick Knows - Citizens of Eastwick
+*Make Him Mine - Alexandra, Jane, and Sukie
+*Eastwick Knows (reprise) - Felicia and Townsfolk
+*I Love A Little Town - Darryl and Townsfolk
+*Waiting For the Music To Begin - Jane and Darryl
+*Words, Words, Words - Sukie and Darryl
+*The Eye of the Beholder - Alexandra
+*Something - Michael and Jennifer
+*Tennis - Darryl, Alexandra, Jane, and Sukie
+*I Wish I May - Alexandra, Sukie, Jane, and Darryl
+{{col-break}}
+;Act Two:
+*Another Night at Darryl's - Alexandra, Jane, and Sukie
+*Dance with the Devil - Darryl, Michael, and Townsfolk
+*Another Night at Darryl's (reprise) - Little Girl, Alexandra, Jane, and Sukie
+*Evil - Felicia
+*Dirty Laundry (reprise) - Alexandra, Sukie, Jane, and Townsfolk
+*Waiting For the Music To Begin (reprise) - Jane
+*Three Little Lasdies (new version) - Darryl
+*I wish I may (reprise) - Sukie
+*I Love A Little Town (reprise) - Darryl and Townsfolk
+*I Wish I May (reprise) - Jennifer
+*Who's the Man? - Darryl and Townsfolk
+*The Wedding - Company
+*Look At Me - Sukie, Jane, Alexandra
+{{col-end}}
+
+==Awards and nominations==
+==References==
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+starred [[Marc Kudisch]].
+Cast included [[James Barbour (singer)|James Barbour]], [[Sara Gettelfinger]], [[Sally Struthers]].
+starred [[John Partridge (actor)|John Partridge]].
+featured in the cast were [[Claire Moore (singer)|Claire Moore]].
+starring [[James Stacy Barbour|James Barbour]].

@@ -1,0 +1,267 @@
+{{Infobox musical
+| name = Kinky Boots
+| image = Kinky Boots (musical poster).jpg
+| caption = Chicago preview promotional poster
+| music = [[Cyndi Lauper]]
+| lyrics = Cyndi Lauper
+| book = [[Harvey Fierstein]]
+| basis = ''[[Kinky Boots (film)|Kinky Boots]]''<br>by [[Geoff Deane]]<br>[[Tim Firth]]
+| premiere_date = October 2, 2012
+| premiere_location = [[CIBC Theatre|Bank of America Theatre]], [[Chicago]]
+| productions = {{plainlist|
+*2012 [[Chicago]]
+*2013 [[Broadway theatre|Broadway]]
+*2014 1st US tour
+*2015 [[West End theatre|West End]]
+*2018 2nd US tour
+*2018 UK tour
+*2025 UK tour
+*2025 3rd US tour
+*2026 West End
+}}
+| awards = {{plainlist|
+*[[Tony Award for Best Musical]]
+*[[Tony Award for Best Original Score]]
+*[[Laurence Olivier Award for Best New Musical]]
+}}
+| image_size = 
+}}
+==Background and creation==
+==Synopsis==
+===Act 1===
+===Act 2===
+==Music==
+
+===Musical numbers===
+;Broadway
+{{col-begin}}
+{{col-2}}
+; Act I
+* "Price & Son Theme" – Ensemble
+* "The Most Beautiful Thing" – Mr. Price, Young Charlie, Nicola, Charlie, Young Lola, Company
+* "Take What You Got" – Harry, Charlie, Ensemble
+* "Land of Lola" – Lola, Angels
+* "Land of Lola (Reprise)" – Lola, Angels‡
+* "Charlie's Soliloquy" – Charlie
+* "Step One" – Charlie
+* "Sex Is in the Heel" – Lola, Pat, George, Angels, Lauren, Charlie, Ensemble
+* "The History of Wrong Guys" – Lauren
+* "Not My Father's Son" – Simon, Charlie
+* "Everybody Say Yeah" – Charlie, Simon, Company
+
+{{col-2}}
+; Act II
+* "Entr’acte/Price & Son Theme (Reprise)" – Ensemble‡
+* "What a Woman Wants" – Simon, Pat, Trish, Don, Women
+* "In This Corner" – Simon, Don, Pat, Trish, Ensemble
+* "Charlie's Soliloquy (Reprise)" – Charlie
+* "The Soul of a Man" – Charlie
+* "Hold Me in Your Heart" – Lola
+* "The History of Wrong Guys (Reprise)" – Lauren‡
+* "Raise You Up/Just Be" – Lola, Charlie, Angels, Lauren, Don, Pat, Trish, Nicola, Company
+{{col-end}}
+
+: ‡Song not included on original Broadway cast album or West End cast Recording.
+
+;Chicago
+{{col-begin}}
+{{col-2}}
+; Act I
+* "Price & Son Theme" – Full Company
+* "The Most Beautiful Thing" – Full Company
+* "Take What You Got" – Harry, Charlie, Ensemble
+* "Land of Lola" – Lola, Angels
+* "Beware the Black Widow" — Lola, Angels
+* "I Come to the Rescue" – Charlie
+* "Sex Is in the Heel" – Lola, Pat, George, Angels, Ensemble
+* "The History of Wrong Guys" – Lauren
+* "Not My Father's Son" – Simon, Charlie
+* "Everybody Say Yeah" – Charlie, Simon, Angels, Ensemble
+
+{{col-2}}
+; Act II
+* "Entr’acte/Price & Son Theme (Reprise)" – Full Company
+* "What a Woman Wants" – Simon, Pat, Don, Ensemble
+* "In This Corner" — Simon, Don, Pat, Trish, Angels, Ensemble
+* "So Long, Charlie" – Nicola
+* "The Soul of a Man" – Charlie
+* "Hold Me in Your Heart" – Lola
+* "Raise You Up/Just Be" – Full Company
+{{col-end}}
+===Recordings===
+{{main|Kinky Boots (Broadway cast album)}}
+
+==Principal roles and original casts ==
+{| class="wikitable" style="text-align:center;"
+|-
+! rowspan="2" | Character
+! Broadway
+! US tour
+!Toronto
+! West End
+! Australia
+! UK tour
+! UK tour<br/>{{small|(non-replica)}}
+! West End<br />{{small|(non-replica)}}
+|-
+! <small>2013</small>
+! <small>2014</small>
+! colspan="2" | <small>2015</small>
+! <small>2016</small>
+! <small>2018</small>
+! <small>2025</small>
+! <small>2026</small>
+|-
+! scope="row" | Charlie Price
+| [[Stark Sands]]
+| Steven Booth
+| Graham Scott Fleming
+| [[Killian Donnelly]]
+| Toby Francis
+| Joel Harper-Jackson
+| [[Dan Partridge]]
+|[[Matt Cardle]]
+|-
+! scope="row" | Lola
+| [[Billy Porter (actor)|Billy Porter]]
+| Kyle Taylor Parker
+| [[Alan Mingo Jr.]]
+| [[Matt Henry (singer)|Matt Henry]]
+| colspan="2" | Callum Francis
+| colspan="2"| [[Johannes Radebe]]
+|-
+! scope="row" | Lauren
+| [[Annaleigh Ashford]]
+| [[Lindsay Nicole Chambers]]
+| [[A. J. Bridel|A.J. Bridel]]
+| [[Amy Lennox]]
+| [[Sophie Wright (actress)|Sophie Wright]]
+| [[Paula Lane]]
+| colspan="2"| [[Courtney Bowman]]
+|-
+! scope="row" | Nicola
+| [[Lena Hall]]
+| Grace Stockdale
+| [[Vanessa Sears]]
+| Amy Ross
+| Teagan Wouters
+| Helen Ternent
+| Kara Lily Hayworth
+| Billie-Kay
+|-
+! scope="row" | Don
+| Daniel Sherman
+| Joe Coots
+| Dan Williston
+| Jamie Baughan
+| Joe Kosky
+| Demitri Lampra
+| [[Joe Caffrey]]
+| Billy Roberts
+|-
+! scope="row" | George
+| Marcus Neville
+| Craig Waletzko
+| James Kall
+| Michael Hobbs
+| Nathan Carter
+| Adam Price
+| colspan="2"| Scott Paige
+|-
+! scope="row" | Pat
+| Tory Ross
+| [[Bonnie Milligan]]
+| Kristin Peace
+| Chloe Hart
+| Samm Hagen
+| [[Lizzie Bea]]
+| Kathryn Barnes
+| Rachel Izen
+|-
+! scope="row" | Trish
+| Jennifer Perry
+| Amelia Cormack
+| Nicola Dawn
+| Gillian Hardie
+| Emma Powell
+| [[Niki Evans]]
+| Lucy Williamson
+| Jessica Daley
+|-
+! scope="row" | Harry
+| Andy Kelso
+| Mike Longo
+| Patrick Cook
+| Paul Ayres
+| Jake Speer
+| Joshua St. Clair
+| colspan="2"| Liam Doyle
+|-
+! scope="row" | Mr. Price
+| Stephen Berger
+| David McDonald
+| Sandy Winsby
+| Alan Vicary
+| [[Glenn Butcher]]
+| Andy Watkins
+| colspan="2"| Jonathan Dryden Taylor
+|-
+! scope="row" | Young Charlie
+| Sebastian Hedges Thomas
+| Anthony Picarello
+| Arden Couturier<hr/>Eric Leclair
+| Beau Cripps<hr/>Ben Dawson<hr/>Edward Green
+| {{n/a}}
+| {{n/a}}
+| Joshua Beswick<hr/>Leo Hollingsworth<hr/>Lonan Johnson
+| Archie John Allen<hr/>Joshua Beswick<hr/>Louis Cohen<hr/>Callum George
+|-
+! scope="row" | Young Lola
+| Marquise Neal
+| Andrew Theo Johnson
+| Isaiah Slater<hr/>Kaden Stephen
+| Nana Agyeman-Bediako<hr/>James Gava<hr/>Tumo Reetsang
+| {{n/a}}
+| {{n/a}}
+| Sekhani Dumezweni<hr/>Jesse Manzi<hr/>Lawrence Ndola-Myers
+| Sean Garcia Madiba<hr/>Noah Ronkainen Phillips<hr/>Rio-Blake Power
+|}
+
+=== Broadway replacements ===
+* Charlie Price: [[Killian Donnelly]], [[Brendon Urie]], [[Jake Shears]], [[David Cook (singer)|David Cook]], [[Tyler Glenn]], [[Mark Ballas]], [[Conor Maynard]]
+*Lola/Simon: [[Wayne Brady]], [[J. Harrison Ghee]], [[Todrick Hall]], [[Alan Mingo Jr.]]
+* Lauren: [[Jeanna de Waal]], [[Taylor Louderman]], [[Kirstin Maldonado]]
+* Nicola: [[Caroline Bowman]]
+* Don: [[Tiki Barber]]
+
+=== West End replacements ===
+* Charlie Price: [[David Hunter (actor)|David Hunter]], [[Oliver Tompsett]]
+* Lauren: [[Verity Rushworth]], [[Natalie McQueen]]
+* Don: [[Alan Mehdizadeh]]
+
+== Productions ==
+===Chicago ===
+=== Broadway (2013–2019) ===
+=== Toronto ===
+===West End (2015–2019) ===
+=== Other productions ===
+==== North America ====
+==== Asia ====
+==== Australia (2016–2017) ====
+==== United Kingdom ====
+==== Europe ====
+==== Norwegian Cruise Line ====
+==== Argentina ====
+==Critical reaction==
+==Awards and nominations==
+==Collaboration==
+==Possible film adaptation==
+==References==
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+cast featured Graham Scott Fleming as Charlie Price, [[J. Harrison Ghee]], [[Taylor Louderman]].
+starred [[Teppei Koike]].
+starring [[Johannes Radebe]].
+cast included [[Johannes Radebe]].
+cast included [[Johannes Radebe]], [[Matt Cardle]].

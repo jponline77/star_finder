@@ -48,12 +48,12 @@ client/
 | `/songs` | `pages/BrowsePage.tsx` | done |
 | `/songs/:id` | `pages/SongDetailPage.tsx` | done, remounted per `:id` |
 | `/songs/:id/edit` | `pages/SongFormPage.tsx` | done, `RequireAuth`, remounted per `:id` |
-| `/add` | `pages/SongFormPage.tsx` | done, `RequireAuth` (same file as edit; `useParams().id` is undefined here) |
+| `/add` | `pages/SongFormPage.tsx` | done, `RequireAuth` (same file as edit; `useParams().id` is undefined here). URL-driven steps (SPEC §7c, `lib/catalog` `parseAddStep`/`addHref`): `?q=` Find your song (`song-form/FindSongStep`) → `?catalogShow=<id>` a show's song list (`song-form/CatalogShowStep`) → `?catalogSong=<id>` the form pre-filled from the catalog; `?manual=1[&show=<slug>\|&catalogShow=<id>][&kind=duet]` the form typed by hand; `?show=<slug>` (show-page links) resolves to that show's catalog list, else the manual form. `q`, `kind`, `fromShow` ride along for Back links |
 | `/shows` | `pages/ShowsPage.tsx` | done |
 | `/shows/:slug` | `pages/ShowDetailPage.tsx` | done, remounted per `:slug` |
 | `/match` `/spin` `/setlist` `/star-prep` `/stats` | `MatchPage` `SpinPage` `SetlistPage` `StarPrepPage` `StatsPage` | done |
 | `/me` | `pages/MePage.tsx` | done, `RequireAuth` |
-| `/admin` | `pages/AdminPage.tsx` | done, `RequireAuth` (admin check INSIDE the page); tabs Users / Comments / Festivals (`?tab=festivals`, `admin/FestivalsPanel.tsx`) |
+| `/admin` | `pages/AdminPage.tsx` | done, `RequireAuth` (admin check INSIDE the page); tabs Users / Comments / Festivals (`?tab=festivals`, `admin/FestivalsPanel.tsx`) / Cast albums (`?tab=recordings`, `admin/CatalogRecordingsPanel.tsx`: cast albums saved for catalog shows, remove + reject) |
 | `/login` `/signup` | `LoginPage` `SignupPage` (+ `BackstagePass.tsx`, `AuthPages.css`) | done |
 | `*` | `pages/NotFoundPage.tsx` | done |
 
@@ -113,9 +113,16 @@ an older deploy is gone (`vite:preloadError`).
 | `deleteSong(id)` | DELETE → void |
 | `uploadSongAudio(id, file, {onProgress?})` | POST /api/songs/:id/audio (multipart `file`) → `Song` |
 | `deleteSongAudio(id)` | DELETE /api/songs/:id/audio → `Song` |
+| `uploadSongArtwork(id, file, {onProgress?, signal?})` / `deleteSongArtwork(id)` | POST / DELETE /api/songs/:id/artwork → `Song` (`media.artworkSource`: 'upload' / back to 'recording' or null) |
+| `getCatalogStatus(signal?)` | GET /api/catalog → `CatalogStatus` (`available: false` when the server has no catalog loaded — "Find your song" then says so) — prefer `useCatalogStatus` |
+| `searchCatalog(q, {limit?}, signal?)` | GET /api/catalog/search → `{ results: CatalogHit[] }` (songs + shows; `CATALOG_MIN_QUERY` = 2) — prefer `useCatalogSearch` |
+| `getCatalogShow(id, {all?}, signal?)` | GET /api/catalog/shows/:id → `CatalogShowDetail` (songs with `onSite`, `recordingTracksAvailable` when it has none) — prefer `useCatalogShow` |
+| `loadCatalogRecordingTracks(id, signal?)` | POST /api/catalog/shows/:id/recording-tracks (logged in, CSRF) → `{ songs, recording, saved }` (normalised from the server's `{ songs, album, saved }`; songs with `id: null` are an unsaved preview) |
+| `getCatalogSuggestions(songId, signal?)` | GET /api/catalog/songs/:id/suggestions → `CatalogSuggestions` — prefer `useCatalogSuggestions` |
+| `getCatalogRecordings(songId, signal?)` | GET /api/catalog/songs/:id/recordings → `{ candidates: ItunesCandidate[] }` best first |
 | `listShows(signal?)` | GET /api/shows → `{ shows }` |
 | `getShow(idOrSlug, signal?)` | GET /api/shows/:idOrSlug → `ShowDetail` |
-| `createShow(input: ShowInput)` / `updateShow(id, input)` / `deleteShow(id)` | POST / PUT / DELETE |
+| `createShow(input: ShowInput)` / `updateShow(id, input)` / `deleteShow(id)` | POST / PUT / DELETE (PUT `catalogShowId`: id, `null` = not in the catalog, `'auto'`; the Edit show modal's `show-detail/CatalogLinkField.tsx`) |
 | `uploadShowImage(id, file, opts?)` | POST /api/shows/:id/image → `Show` |
 | `lookupItunes(title, show, signal?)` | GET /api/lookup/itunes → `{ candidates: ItunesCandidate[] }` |
 | `lookupWikipedia(name, signal?)` | GET /api/lookup/wikipedia → `WikipediaLookupResult` |
@@ -126,12 +133,16 @@ an older deploy is gone (`vite:preloadError`).
 | `getContributions(signal?)` | GET /api/me/contributions → `{ songs, shows, comments }` |
 | `adminListUsers()` / `adminUpdateUser(id, {role?, disabled?})` / `adminResetPassword(id)` / `adminListComments(limit=100)` | /api/admin/* |
 | `adminListFestivals()` / `adminCreateFestival(input)` / `adminUpdateFestival(id, patch)` / `adminDeleteFestival(id)` | GET /api/festivals?all=1 · POST/PUT/DELETE /api/admin/festivals (400 `details` per field, 409 name clash) |
+| `adminListCatalogRecordings()` / `adminRemoveCatalogRecording(id, {allowAgain?})` | GET /api/admin/catalog/recordings · DELETE /api/admin/catalog/shows/:id/recording(?reject=0) |
+| `lookupErrorMessage(e)` / `parseRetryAfter(v)` | friendly text for Apple look-up failures: 503 + Retry-After ("Apple Music is busy … try again in about 40 seconds") and 429; `ApiError.retryAfter` holds the seconds |
 
 Types (`src/types.ts`): `Kind, Source, Role, VocalRange, SongPart, ShowRef, SongMedia, CreatedBy,
 Song, SongDetail, User, Comment, CommentTag, CommentTarget, CommentTargetType, CommentAuthor,
 ShowCharacter, Show, ShowDetail, Meta, MetaShow, SubGenreMeta, Festival, FestivalKind, FestivalInput,
 FestivalPatch, Stats, StatBucket,
-ItunesCandidate, ItunesLookupResult, WikipediaLookupResult, SongInput, SongPartInput,
+ItunesCandidate, ItunesLookupResult, WikipediaLookupResult, SongInput (+ `catalogSongId`), SongPartInput,
+ArtworkSource (`SongMedia.artworkSource`), Confidence, Suggested<T>, SuggestedPart, CatalogSuggestions, CatalogHit
+(CatalogSongHit | CatalogShowHit), CatalogSong, CatalogShowDetail, CatalogCharacter, CatalogRecordingTracks,
 SongPreviewInput, ShowInput, SongQuery, SongSort, SignupInput, LoginInput, ProfileUpdateInput,
 CommentInput, CommentPatch, Contributions, AdminUser, AdminUserPatch, ApiErrorBody`.
 
@@ -173,6 +184,11 @@ Order: `Router → ToastProvider → AuthProvider → SongsProvider → Festival
   `useAudioProgress()` → `{ currentTime, duration }`.
 - **`useSetlist()`** (lib/setlist) → `{ ids, count, has, add, remove, toggle, move(from,to), clear, replace(ids), import(ids|'1,2', 'merge'|'replace') }`.
 - **`useTheme()`** (lib/theme) → `{ theme, setTheme, toggle }`.
+- **Catalog** (hooks/useCatalog, SPEC §7c, small in-memory TTL cache so moving between the /add steps is instant;
+  `clearCatalogCaches()` after a save and in tests): `useCatalogSearch(text, {delay=200, limit=20})` →
+  `{ query, results, status: 'idle'|'loading'|'done'|'error', error, current, retry }` (debounced, aborts the previous
+  request, ≥ 2 characters, keeps old results on screen while loading); `useCatalogShow(id|null)` /
+  `useCatalogSuggestions(id|null)` / `useCatalogStatus()` → `{ data, loading, error, reload, setData }`; `recordingCache` (RecordingPicker).
 - hooks/: `useApiData(fetcher, deps, {enabled?})` → `{ data, loading, error, reload, setData }`;
   `useDocumentTitle(title)`; `useMediaQuery(q)`, `useIsDesktop()` (≥900px), `usePrefersReducedMotion()`,
   `prefersReducedMotion()`; `useDebouncedValue(v, ms)`; `useClickOutside(ref, fn, active)`;
@@ -185,6 +201,10 @@ Order: `Router → ToastProvider → AuthProvider → SongsProvider → Festival
 | Component | Props |
 |---|---|
 | `SongCard` | `{ song, query?, headingLevel?: 2|3|4, hideKind?, hideShow?, className? }` — testids `song-card`, `song-title`, `play-preview`, `setlist-heart` |
+| `SuggestionChip<T>` | `{ label, suggestion: {value, source, confidence?, note?, alternatives?}, current, onApply, onClear?, format?, equals?, id?, testId? }` — "✨ from the Wikipedia song list · ●●● high" + Clear; after an edit "Suggested: X · Use it"; alternatives as one-tap `aria-pressed` chips; `id` holds a screen-reader sentence for the field's `aria-describedby` (`<testId>`, `-apply`, `-clear`, `-alt`). Also `ConfidenceMeter` |
+| `CatalogCredit` | `{ wikiTitle? }` — "Song list from Wikipedia (CC BY-SA)" with article + licence links (`catalog-credit`); show it wherever catalog data appears |
+| `RecordingPicker` | `{ catalogSongId|null, title, showName, chosen, onChoose(preview|null, 'auto'|'user'), autoLoad?, autoSelect?, busy?, error?, hideChosen? }` — catalog recordings (or an Apple title search), auto-picks the best only for catalog songs, chosen summary + scrollable strip with ▶ + "No recording" (`recording-picker`, `chosen-preview`, `remove-preview`, `find-preview`, `preview-candidate`, `use-preview-<i>`, `no-recording`, `search-recordings`, `recordings-status`) |
+| `ArtworkDropzone` / `AudioDropzone` | presentational drag & drop / click-to-choose with client checks (`lib/media`), preview, progress + Cancel (`UploadProgress`, `busy: {label, name?, size?, progress|null}`), "Upload my own" / "Use recording art" / "Remove" / undo; "Add your backing track (no vocals)" with pending file / marked-for-removal states. Test ids `<prefix>-dropzone|file-input|choose|remove|upload-progress|upload-cancel|upload-error` (+ `art-preview`, `-use-recording`, `-undo`, `-pending`). `useFileDrop(onFile, disabled)` |
 | `SongTable` | `{ songs, query?, sort?: {column, direction}|null, onSortChange?, caption? }` — `song-table`, `song-row`, `sort-<col>` |
 | `RangeBadge` | `{ range, variant?: 'short'|'full', size?: 'md'|'lg' }` |
 | `GenreTag` / `SubGenreTag` / `KindTag` | `{ genre | subGenre | kind, link? }` (link → filtered /songs) |
@@ -249,6 +269,8 @@ Order: `Router → ToastProvider → AuthProvider → SongsProvider → Festival
 - **permissions**: `isAdmin`, `isOwner`, `canEdit`, `canContribute`, `canEditComment`, `canDeleteComment`.
 - **hash**: `stableHash`, `gradientFor(seed) → {css, from, to, angle, hue}`, `initials(name, max)`, `dateKey`, `pickIndex`, `pickDaily(items, date?)`, `seededRandom(seed)`.
 - **links**: `youtubeSearchUrl`, `backingTrackUrl(song)`, `performancesUrl(song)`, `sheetMusicUrl(song)`, `isSafeHttpUrl`, `isHttpsUrl`, `hostOf`, `safeNextPath`, `loginHref(next)`, `signupHref(next)`, `songPath`, `songEditPath`, `showPath`.
+- **catalog** (SPEC §7c): `CATALOG_CREDIT`, `CC_BY_SA_URL`, `wikipediaUrl`, `addHref({q, catalogShow, catalogSong, manual, show, fromShow, kind})`, `parseAddStep(searchParams)`, `parseKind`, `guessKind` → 'solo'|'duet'|'solo-ensemble'|'duet-ensemble'|'group'|'ensemble'|null, `KIND_GUESS` labels, `kindForGuess`, `kindNoteFor`, `formatSingers`, `titleWithYear`, `groupByAct`, `filterCatalogSongs`, `CONFIDENCE_LEVEL`, `suggestionSentence`, `bestCandidate`, `lengthText`.
+- **media**: `validateImageFile` (jpeg/png/webp/gif ≤ 5 MB, no SVG/HEIC), `validateAudioFile` (moved here; `song-detail/helpers` re-exports), `IMAGE_ACCEPT`, `AUDIO_ACCEPT`, `objectUrlFor`/`revokeObjectUrl` (local image previews). **recordings**: `ChosenPreview`, `candidateToPreview`, `previewFromSong`, `isChosenCandidate`, `artworkSourceOf`, `recordingArtworkOf` (the recording's own art, from `media.recordingArtworkUrl`, also while an upload is shown), `scoreLabel`, `candidateTrack`, `chosenTrack`.
 - **validation**: `validateEmail`, `validatePassword`, `validateDisplayName`, `passwordStrength`, limits.
 - **color**: `hexToRgb`, `relativeLuminance`, `contrastRatio`, `readableTextOn`. **theme**: `useTheme`, `applyTheme`, `getTheme`.
 

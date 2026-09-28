@@ -1,0 +1,193 @@
+==Broadway production==
+===Songs===
+{{col-begin}}
+{{col-2}}
+;Act I
+* Opening ([[Ronny Graham]], [[Peter DeVries]]) and Company
+* Lucky Pierre (Ronny Graham) – Pierre (Robert Clary), Reporter and Chorus
+* [[Guess Who I Saw Today]] (Elisse Boyd, [[Murray Grand]]) – June Carroll
+* Restoration Piece – Lady Sylvia Malpractice, Simple, Sir Solemnity Sourpuss and Sir Militant Malpractice
+* Love Is a Simple Thing (lyrics by [[June Carroll]], music by [[Arthur Siegel]]) – Rosemary O'Reilly, Eartha Kitt, Robert Clary, June Carroll
+* Boston Beguine ([[Sheldon Harnick]]) – Alice Ghostley
+* Nanty Puts Her Hair Up ([[Herbert Farjeon]], Siegel) – Nanty, Father, Mother, Brother and Highlander
+* Time for Tea  (Carroll-Siegel) – Marcella, Lavinia, Lavinia, the Girl, Marcella, the Girl, Mother, Father, John and Guest
+* Bal Petit Bal (Francis Lemarque) – Eartha Kitt, Robert Clary
+* Three for the Road, medley: It's Raining Memories/Waltzing in Venice/Take Off That Mask (Graham)
+{{col-break}}
+;Act II
+* Don't Fall Asleep (Graham) – Wife and Husband 
+* After Canasta—What? – Dorothy and Elsie 
+* Lizzie Borden ([[Michael Brown (writer)|Michael Brown]]) – Townsperson, Man, Judge, Lizzie and District Attorney 
+* I'm in Love with Miss Logan (Graham) – Boy, Miss Logan and Man 
+* Trip of the Month  – The Explorer   
+* Penny Candy (Carroll, Siegel) – Woman, Gussie, Poor Kid, Rich Kid and Candy Vendor
+* Convention Bound
+* Whither America? (Another Revival?) – Switchboard Operator, Stenographer and Man 
+* [[Monotonous (song)|Monotonous]] (Carroll, Siegel) – (Sung by Eartha Kitt)
+* The Great American Opera – Toby, Madame Flora and Effie 
+* He Takes Me Off His Income Tax (Siegel, Carroll) – Virginia de Luce. Song begun, then interrupted four times throughout the show, before 1) Boston Beguine, 2) Nanty Puts Her Hair Up, 3) Three for the Road medley, and 4) I'm in Love with Miss Logan. 
+{{col-end}}
+
+===Sketches===
+== Film adaptation ==
+==Cast recording==
+{{Infobox album
+| name       = Leonard Sillman's New Faces Of 1952
+| type       = Cast recording
+| artist     = Original Cast
+| cover      = Leonard Sillman's New Faces Of 1952 (Original Cast) cover art.jpeg
+| alt        =
+| released   = Late 1952 or early 1953
+| recorded   =
+| venue      =
+| studio     =
+| genre      =
+| length     = {{duration|m=50|s=06}} <small>(LP)</small><br>{{duration|m=55|s=20}} <small>(CD 2009 re-issue)</small>
+| label      = [[RCA Victor]]
+| director   = [[John Beal (actor)|John Beal]]
+| producer   = [[Leonard Sillman]]
+| prev_title =
+| prev_year  =
+| next_title =
+| next_year  =
+}}
+
+===Track listing===
+;12" Long Play
+{{Track listing
+| headline      = Side A
+| extra_column  = Performer(s)
+| total_length  = 25:21
+| title1        = Opening
+| writer1       = {{hlist |[[Peter De Vries|Peter DeVries]]|Ronny Graham}}
+| extra1        = Ronny Graham <small>and Company</small>
+| length1       = 2:11
+| title2        = Lucky Pierre
+| writer2       = Ronny Graham
+| extra2        = {{hlist |Robert Clary|Virginia de Luce|Rosemary O'Reilly|Patricia Hammerlee|Bill Mullikin}}
+| length2       = 3:20
+| title3        = Boston Beguine
+| writer3       = [[Sheldon Harnick]]
+| extra3        = Alice Ghostley <small>Introduced by Virginia de Luce</small>
+| length3       = 4:42
+| title4        = Love Is A Simple Thing
+| writer4       = {{hlist |[[Arthur Siegel]]|[[June Carroll]]}}
+| extra4        = {{hlist |Rosemary O'Reilly|Robert Clary|Eartha Kitt|June Carroll}} <small>Introduced by Virginia de Luce</small>
+| length4       = 5:08
+| title5        = Nanty Puts Her Hair Up
+| writer5       = {{hlist |Arthur Siegel|[[Herbert Farjeon]]}}
+| extra5        = {{hlist |Alice Ghostley|Joe Lautner}} <small>{{hlist |(with Virginia Bosler|Bill Mullikin|Allen Conroy)}} Introduced by Virginia de Luce</small>
+| length5       = 4:42
+| title6        = [[Guess Who I Saw Today]]
+| writer6       = {{hlist |Elisse Boyd|[[Murray Grand]]}}
+| extra6        = June Carroll
+| length6       = 2:20
+| title7        = Bal, petit bal
+| writer7       = Francis Lemarque
+| extra7        = Eartha Kitt <small>Introduced by Robert Clary</small>
+| length7       = 2:58
+}}
+{{Track listing
+| headline      = Side B
+| extra_column  = Performer(s)
+| total_length  = 24:45
+| title1        = Three For The Road"<br><br>a. "Introduction"<br><br>b. "Raining Memories"<br><br>c. "Waltzing In Venice"<br><br>d. "Take Off The Mask
+| writer1       = <br><br><br><br>Ronny Graham<br><br>Ronny Graham<br><br>Ronny Graham
+| extra1        = <br><br>Virginia de Luce<br><br>Robert Clary<br><br>{{hlist |Rosemary O'Reilly|Joe Lautner}}<br>{{hlist |Alice Ghostley|Ronny Graham <small> and Company</small>}}
+| length1       = 5:23
+| title2        = Penny Candy
+| writer2       = {{hlist |Arthur Siegel|June Carroll}}
+| extra2        = June Carroll <small>and Company</small>
+| length2       = 3:26
+| title3        = Don't Fall Asleep
+| writer3       = Ronny Graham
+| extra3        = Rosemary O'Reilly
+| length3       = 2:10
+| title4        = I'm In Love With Miss Logan
+| writer4       = Unknown
+| extra4        = Robert Clary<small>{{hlist |(with Rosemary O'Reilly|Joe Lautner)}} Introduced by Virginia de Luce</small>
+| length4       = 3:57
+| title5        = Monotonous
+| writer5       = {{hlist |Arthur Siegel|June Carroll}}
+| extra5        = Eartha Kitt
+| length5       = 3:47
+| title6        = Lizzie Borden
+| writer6       = [[Michael Brown (writer)|Michael Brown]]
+| extra6        = {{hlist |Joe Lautner|Bill Mullikin|Paul Lynde|Patricia Hammerlee <small>and Company</small>}}
+| length6       = 4:57
+| title7        = (He Takes Me Off His Income Tax)
+| writer7       = {{hlist |Arthur Siegel|June Carroll}}
+| extra7        = Virginia de Luce
+| length7       = 1:05
+}}
+
+;2009 re-issues
+Features previously unreleased song "Time For Tea".
+{{Track listing
+| headline       = CD and Digital release
+| extra_column   = Performer(s)
+| total_length   = 55:20
+| title1   = Opening
+| extra1   = Ronny Graham
+| length1  = 2:11
+
+| title2   = Lucky Pierre
+| extra2   = {{hlist |Robert Clary|Virginia de Luce|Rosemary O'Reilly|Patricia Hammerlee|Bill Mullikin}}
+| length2  = 3:20
+
+| title3   = Guess Who I Saw Today
+| extra3   = June Carroll
+| length3  = 2:20
+
+| title4   = Love Is A Simple Thing
+| extra4   = {{hlist |Virginia de Luce|Rosemary O'Reilly|Robert Clary|Eartha Kitt|June Carroll}}
+| length4  = 5:08
+
+| title5   = Boston Beguine
+| extra5   = {{hlist |Virginia de Luce|Alice Ghostley}}
+| length5  = 4:42
+
+| title6   = Nanty Puts Her Hair Up
+| extra6   = {{hlist |Virginia de Luce|Alice Ghostley|Joe Lautner|Virginia Bosler|Bill Mullikin|Allen Conroy}}
+| length6  = 4:42
+
+| title7   = Time For Tea
+| extra7   = {{hlist |June Carroll|Alice Ghostley}}
+| length7  = 5:14
+
+| title8   = Bal, petit bal
+| extra8   = {{hlist |Robert Clary|Eartha Kitt}}
+| length8  = 2:58
+
+| title9   = Three For The Road 
+| extra9   = {{hlist |Virginia de Luce|Robert Clary|Rosemary O'Reilly|Alice Ghostley|Ronny Graham|Joe Lautner}}
+| length9  = 5:23
+
+| title10  = Don't Fall Asleep
+| extra10  = Rosemary O'Reilly
+| length10 = 2:10
+
+| title11  = Lizzie Borden
+| extra11  = {{hlist |Joe Lautner|Bill Mullikin|Paul Lynde|Patricia Hammerlee}}
+| length11 = 4:57
+
+| title12  = I'm In Love With Miss Logan
+| extra12  = {{hlist |Virginia de Luce|Robert Clary|Rosemary O'Reilly|Joe Lautner}}
+| length12 = 3:57
+
+| title13  = Penny Candy
+| extra13  = June Carroll
+| length13 = 3:26
+
+| title14  = Monotonous
+| extra14  = Eartha Kitt
+| length14 = 3:47
+
+| title15  = He Takes Me Off His Income Tax
+| extra15  = Virginia de Luce
+| length15 = 1:05
+}}
+
+==1982 revival==
+==References==
+==External links==

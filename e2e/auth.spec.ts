@@ -59,7 +59,8 @@ test.describe('Accounts', () => {
     await page.request.post('/api/auth/signup', { data: acct, headers: { 'X-Requested-With': 'star-song-finder' } });
     await page.goto('/login?next=%2Fadd');
     await expect(page).toHaveURL(/\/add$/);
-    await expect(page.getByTestId('add-song-form')).toBeVisible();
+    // "/add" starts with "Find your song" (SPEC §7c)
+    await expect(page.getByTestId('find-song')).toBeVisible();
   });
 
   test('signup validates the display name and password', async ({ page }) => {

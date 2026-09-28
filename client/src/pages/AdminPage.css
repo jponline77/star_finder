@@ -718,3 +718,51 @@
   padding-top: var(--space-sm);
   border-top: 1px solid var(--border);
 }
+
+/* ---- Cast albums (catalog recordings saved from Apple Music) ---- */
+.admin-panel-intro {
+  margin: 0 0 var(--space-sm);
+  color: var(--text-muted);
+  max-width: 70ch;
+}
+
+.admin-recording-icon {
+  display: grid;
+  place-items: center;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background: var(--surface-2);
+  color: var(--accent-teal);
+}
+
+.admin-recording .admin-feed-body a {
+  overflow-wrap: anywhere;
+}
+
+.admin-recording-ext {
+  display: inline-block;
+  margin-left: 0.25em;
+  vertical-align: -1px;
+}
+
+.admin-recording .admin-feed-time {
+  margin: var(--space-2xs) 0 0;
+  font-size: var(--step--1);
+}
+
+.admin-recording-allow {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--space-xs);
+  margin-top: var(--space-sm);
+  cursor: pointer;
+}
+
+.admin-recording-allow input {
+  margin-top: 0.3em;
+  flex: none;
+  width: 18px;
+  height: 18px;
+  accent-color: var(--primary);
+}

@@ -1,0 +1,168 @@
+{{Infobox Musical
+| name         = By Jeeves
+| subtitle     = Jeeves (formerly)
+| image        =By_Jeeves_musical.jpg
+| caption      = Cast recording
+| music        = [[Andrew Lloyd Webber]]
+| lyrics       = [[Alan Ayckbourn]]
+| book         = Alan Ayckbourn
+| basis        = [[Jeeves]] stories<br>by [[P. G. Wodehouse]]
+| productions  = 1975 [[West End theatre|West End]] <br /> 1996 West End revival <br /> 1996 [[Goodspeed Opera House]] <br /> 2001 [[Broadway theatre|Broadway]] <br />2007 UK tour
+
+| awards       =
+}}
+==1975: ''Jeeves''==
+===Background and production===
+===Roles and original cast===
+The following is a list of the roles in the 1975 musical, with the original cast.
+{{Cast listing|
+* [[Bertie Wooster]] – [[David Hemmings]]
+* [[Jeeves]] – [[Michael Aldridge]]
+* [[Stinker Pinker|Harold "Stinker" Pinker]] – [[Gordon Clyde]]
+* [[Gussie Fink-Nottle]] – [[Christopher Good]]
+* [[Sir Watkyn Bassett]] – [[Bill Wallis]]
+* [[Roderick Spode]] – [[John Turner (actor)|John Turner]]
+* [[Honoria Glossop]] – Angela Easterling
+* [[List of Jeeves characters#Seppings|Seppings]] – [[Graham Hamilton]]
+* Ramsay, the parlourmaid – Elaine Louden
+* Dawkins, the kitchenmaid – Jini Steel 
+* [[Madeline Bassett]] – [[Gabrielle Drake]]
+* [[List of Jeeves characters#Stiffy Byng|Stiffy Byng]] – Debbie Bowen
+* [[Bingo Little]] – [[David Wood (actor)|David Wood]]
+* [[Aunt Dahlia]] – [[Betty Marsden]]*
+* Sharkey, a gardener's boy – Peter Kosta
+* Cropper, a gardener's boy – Brett Forrest
+* [[Drones Club|The Drones Club]] – Derek Beard, Bill Boazman, [[John Dicks (actor)|John Dicks]], David Cordwell, Sam Cox, and Terry Wood
+}}
+
+===Musical numbers===
+
+{{col-begin}}
+{{col-2}}
+;Act 1
+* "Banjo Boy" – Bertie, The Drones
+* "The Code Of The Woosters" – Bertie, The Drones
+* "Literary Men" – Bertie, Gussie, Jeeves
+* "Travel Hopefully" – Bertie, Jeeves, The Drones
+* "The Code Of The Woosters" (reprise) – Bertie
+* "Female Of The Species" – Stiffy
+* "Today" – Bertie, Bingo, Company
+* "When Love Arrives" – Bertie, Madeline
+* "Today" (reprise) – Stiffy, Madeline, Honoria
+{{col-break}}
+;Act 2
+* "Entr'acte" – The Drones
+* "Jeeves Is Past His Peak" – Bertie, The Drones
+* "Half A Moment" – Stiffy, Harold
+* "S.P.O.D.E." – Spode, Company
+* "Summer Day" – Bertie, Company
+* "My Sort Of Man" – Honoria
+* "Eulalie" – Bertie, Jeeves
+* "'Tis 'Nature's Plan" – Company
+* "Literary Men" (reprise) – Bertie, Bassett, Honoria, Spode
+* "Banjo Boy" (reprise) – Bertie, The Drones
+{{col-end}}
+
+==1996: ''By Jeeves''==
+===Background===
+===Productions===
+===Plot synopsis===
+====Act One====
+====Act Two====
+===Roles and original cast===
+{| class="wikitable" width="50%"
+|-
+! Character
+! [[Duke of York's Theatre|London]]<br />{{small|(1996)}}
+! [[Goodspeed Musicals|Goodspeed Opera House]]<br />{{small|(1996)}}
+! [[Geffen Playhouse]]<br />{{small|(1997)}}
+! [[Pittsburgh Public Theater]]<br />{{small|(2001)}}
+! Film<br />{{small|(2001)}}
+! [[Hayes Theater|Broadway]]<br />{{small|(2001)}}
+|-
+! Bertie Wooster
+| align="center" | [[Steven Pacey]]
+| align="center" colspan="5" | John Scherer
+|-
+! Jeeves
+| align="center" | [[Malcolm Sinclair (actor)|Malcolm Sinclair]]
+| align="center" | [[Richard Kline]]
+| align="center" | Edward Keith Baker
+| align="center" colspan="3" | [[Martin Jarvis (actor)|Martin Jarvis]]
+|-
+! Honoria Glossop
+| align="center" | Lucy Tregear
+| align="center" colspan="5" | [[Donna Lynne Champlin]]
+|-
+! Gussie Fink-Nottle
+| align="center" | [[Simon Paisley Day]]
+| align="center" colspan="2" | Kevin Ligon
+| align="center" colspan="3" | James Kall
+|-
+! Harold "Stinker" Pinker
+| align="center" | Richard Long
+| align="center" colspan="5" | Ian Knauer
+|-
+! Stiffy Byng
+| align="center" | Cathy Sara
+| align="center" colspan="5" | [[Emily Loesser]]
+|-
+! Sir Watkyn Bassett
+| align="center" | Robert Austin
+| align="center" colspan="2" | Merwin Goldsmith
+| align="center" colspan="2" | [[Heath Lamberts]]
+| align="center" | [[Sam Tsoutsouvas]]
+|-
+! Bingo Little
+| align="center" | Nicholas Haverson
+| align="center" colspan="2" | Randy Redd
+| align="center" colspan="3" | [[Don Stephenson]]
+|-
+! Madeline Bassett
+| align="center" | [[Diana Morrison]]
+| align="center" colspan="2" | Nancy Anderson
+| align="center" colspan="3" | Becky Watson
+|-
+! Cyrus Budge III (Junior)
+| align="center" | Nicolas Collicos
+| align="center" colspan="2" | Jonathan Stewart
+| align="center" colspan="3" | Steve Wilson
+|}
+
+===Musical numbers===
+
+{{col-begin}}
+{{col-2}}
+;Act 1
+* "A False Start" – Bertie
+* "Wooster Will Entertain You" – Bertie
+* "Travel Hopefully" – Bertie, Jeeves, Bingo
+* "That Was Nearly Us" – Honoria, Bertie
+* "Love's Maze" – Stiffy, Bertie, Company
+* "The Hallo Song" – Bertie, Budge, Gussie
+{{col-break}}
+;Act 2
+* "By Jeeves" – Bertie, Bingo, Gussie
+* "When Love Arrives" – Bertie, Madeline
+* "What Have You Got To Say, Jeeves?" – Bertie, Jeeves
+* "Half A Moment" – Harold, Stiffy
+* "It's A Pig!" – Honoria, Madeline, Bertie, Bassett, Gussie
+* "Banjo Boy" – Bertie, Company
+* "Wizard Rainbow Banjo Mix" – Company
+{{col-end}}
+
+==Awards and nominations==
+===1996 London revival===
+{|
+|-
+| links || [[Laurence Olivier Award]] [[Laurence Olivier Award for Best Musical Revival|Best Musical Revival]] [[Laurence Olivier Award for Best Actor in a Musical|Best Actor in a Musical]] [[Steven Pacey]] [[Laurence Olivier Award for Best Costume Design|Best Costume Design]]
+|}
+==<span class="anchor" id="2001 film"></span> Filmed production==
+==Bibliography==
+==References==
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+starring [[David Hemmings]].
+cast featured Scherer (Bertie), James Kall (Gussie) and Martin Jarvis (Jeeves) (who received the [[Theatre World Award]].
+played by [[Sam Tsoutsouvas]].

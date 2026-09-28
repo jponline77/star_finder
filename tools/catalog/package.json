@@ -1,0 +1,16 @@
+{
+  "name": "star-catalog-builder",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Maintainer tool: builds server/seed/catalog/catalog.json.gz (stage musicals and their song lists) from Wikidata (CC0) and English Wikipedia (CC BY-SA 4.0)",
+  "license": "MIT",
+  "type": "module",
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "scripts": {
+    "build": "node src/build.js",
+    "verify": "node src/verify.js",
+    "test": "node --test test/*.test.js"
+  }
+}

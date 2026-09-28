@@ -1,5 +1,8 @@
 import { afterEach, describe, expect, it, vi } from 'vitest';
-import { ApiError, buildQuery, createSong, deleteComment, getMe, getSong, listComments, login, logout, postComment, setPasswordChangeHandler, setUnauthorizedHandler, errorMessage, uploadSongAudio, updateMe } from './api';
+import {
+  ApiError, buildQuery, createSong, deleteComment, getCatalogRecordings, getMe, getSong, listComments, loadCatalogRecordingTracks, login, logout,
+  lookupErrorMessage, parseRetryAfter, postComment, setPasswordChangeHandler, setUnauthorizedHandler, errorMessage, uploadSongAudio, updateMe,
+} from './api';
 
 function mockFetch(status: number, body?: unknown, contentType = 'application/json') {
   const fn = vi.fn(async (..._args: unknown[]) =>
@@ -94,6 +97,35 @@ describe('request', () => {
     await listComments({ type: 'show', id: 'les-miserables' });
     await listComments({ type: 'song', id: 3 });
     expect(fn.mock.calls.map((c) => c[0])).toEqual(['/api/shows/les-miserables/comments', '/api/songs/3/comments']);
+  });
+});
+
+describe('Apple Music look-ups: busy (503 + Retry-After) and cast-album tracks', () => {
+  it('parseRetryAfter reads seconds and HTTP dates', () => {
+    expect(parseRetryAfter('40')).toBe(40);
+    expect(parseRetryAfter(new Date(1_000_000 + 90_000).toUTCString(), 1_000_000)).toBe(90);
+    expect(parseRetryAfter(null)).toBeUndefined();
+    expect(parseRetryAfter('soon')).toBeUndefined();
+  });
+  it('a 503 carries retryAfter and gets a friendly wait message', async () => {
+    vi.stubGlobal(
+      'fetch',
+      vi.fn(async () => new Response(JSON.stringify({ error: 'Apple Music lookups are busy right now' }), { status: 503, headers: { 'Content-Type': 'application/json', 'Retry-After': '12' } })),
+    );
+    const err = await getCatalogRecordings(5).catch((e: unknown) => e);
+    expect(err).toBeInstanceOf(ApiError);
+    expect((err as ApiError).retryAfter).toBe(12);
+    expect(lookupErrorMessage(err)).toBe('Apple Music is busy with other look-ups right now — try again in about 15 seconds.');
+    expect(lookupErrorMessage(new ApiError(503, 'Down for maintenance'))).toBe('Down for maintenance');
+    expect(lookupErrorMessage(new ApiError(429, 'x', undefined, undefined, 60))).toBe('Too many look-ups in a row — try again in a minute.');
+    expect(lookupErrorMessage(new ApiError(429, 'x'))).toBe('Too many look-ups in a row — try again in a minute.');
+  });
+  it('loading a show’s cast-album tracks is a POST with the CSRF header', async () => {
+    const fn = mockFetch(200, { album: { collectionName: 'X (Original Cast)' }, added: 1, saved: true, songs: [{ id: 3, title: 'A' }] });
+    await expect(loadCatalogRecordingTracks(7)).resolves.toMatchObject({ saved: true, recording: { collectionName: 'X (Original Cast)' }, songs: [{ id: 3 }] });
+    expect(fn.mock.calls[0]?.[0]).toBe('/api/catalog/shows/7/recording-tracks');
+    expect(initOf(fn).method).toBe('POST');
+    expect(headersOf(fn)['X-Requested-With']).toBe('star-song-finder');
   });
 });
 

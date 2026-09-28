@@ -1,0 +1,85 @@
+{
+ "_comment": "Every catalog version issued, with the SHA-256 of its content (JSON of { sources, shows }). Written by the build; do not edit or trim: a version string must never be issued twice for different content (see src/version.js). Entries with sha256 null were issued before this ledger existed.",
+ "issued": [
+  {
+   "version": "2026-09-27.1",
+   "sha256": null,
+   "generatedAt": null,
+   "note": "issued before this ledger existed"
+  },
+  {
+   "version": "2026-09-27.2",
+   "sha256": null,
+   "generatedAt": null,
+   "note": "issued before this ledger existed"
+  },
+  {
+   "version": "2026-09-27.3",
+   "sha256": null,
+   "generatedAt": null,
+   "note": "issued before this ledger existed"
+  },
+  {
+   "version": "2026-09-27.4",
+   "sha256": null,
+   "generatedAt": null,
+   "note": "issued before this ledger existed"
+  },
+  {
+   "version": "2026-09-27.5",
+   "sha256": null,
+   "generatedAt": null,
+   "note": "issued before this ledger existed"
+  },
+  {
+   "version": "2026-09-27.6",
+   "sha256": null,
+   "generatedAt": null,
+   "note": "issued before this ledger existed"
+  },
+  {
+   "version": "2026-09-27.7",
+   "sha256": null,
+   "generatedAt": null,
+   "note": "issued twice for different content (18:24:15Z: 2,808 shows; 22:24:06Z: 2,929 shows) before this ledger existed"
+  },
+  {
+   "version": "2026-09-27.8",
+   "sha256": null,
+   "generatedAt": null,
+   "note": "issued before this ledger existed"
+  },
+  {
+   "version": "2026-09-27.9",
+   "sha256": null,
+   "generatedAt": null,
+   "note": "issued before this ledger existed"
+  },
+  {
+   "version": "2026-09-27.10",
+   "sha256": null,
+   "generatedAt": null,
+   "note": "issued before this ledger existed"
+  },
+  {
+   "version": "2026-09-27.11",
+   "sha256": null,
+   "generatedAt": null,
+   "note": "issued before this ledger existed"
+  },
+  {
+   "version": "2026-09-27.12",
+   "sha256": null,
+   "generatedAt": null,
+   "note": "issued before this ledger existed"
+  },
+  {
+   "version": "2026-09-27.28",
+   "sha256": "b85f24dbc6db990300197854a5247d5f346f9c2ce61562ae4aa5e50df6c1b809",
+   "generatedAt": "2026-09-27T23:49:52.508Z",
+   "shows": 2927,
+   "songs": 39932,
+   "out": "seed"
+  }
+ ]
+}

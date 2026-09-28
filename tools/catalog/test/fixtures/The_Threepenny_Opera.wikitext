@@ -1,0 +1,231 @@
+{{Infobox musical
+|name        = {{lang|de|Die Dreigroschenoper}}<br />The Threepenny Opera
+|subtitle    =
+|image       = Dreigroschenoper.JPG
+|caption     = Original German poster from Berlin, 1928
+|music       = [[Kurt Weill]]
+|lyrics      = [[Bertolt Brecht]]<br />Uncredited: [[François Villon]] (four songs translated by [[#K. L. Ammer|K. L. Ammer]])
+|book        = [[Bertolt Brecht]]
+|basis       = ''[[The Beggar's Opera]]'' by [[John Gay]], translated by [[Elisabeth Hauptmann]]
+|premiere_date = 31 August [[1928 in literature#Drama|1928]]
+|premiere_location = [[Theater am Schiffbauerdamm]], Berlin
+}}
+== Background ==
+=== Origins ===
+=== Music ===
+
+== Premieres ==
+=== Germany ===
+=== France ===
+=== Russia ===
+=== Hungary ===
+=== United States ===
+=== United Kingdom ===
+=== Italy ===
+== Roles ==
+{| class="wikitable"
+|+{{sronly|Roles, voice types, premiere cast}}
+|-
+!Role
+![[Voice type]]
+!Premiere cast, 31 August 1928{{sfn|Casaglia|2005}}<br />[[Conducting|Conductor]]: [[Theo Mackeben]]
+|-
+|Macheath ("Mackie Messer"/"Mack the Knife"), ''London's greatest and most notorious criminal''
+|[[tenor]]/[[baritone]]
+|[[Harald Paulsen]]
+|-
+| Jonathan Jeremiah Peachum, ''the "Beggar's Friend",<br />controller of all the beggars in London; conspires to have Mack hanged''
+|baritone
+|[[Erich Ponto]]
+|-
+|Celia Peachum ("Frau Peachum"), ''Peachum's wife; helps him run the business''
+|[[mezzo-soprano]]
+|[[Rosa Valetti]]
+|-
+|Polly Peachum, ''the Peachums' daughter; after knowing Mack for only five days, agrees to marry him''
+|[[soprano]]
+|[[Roma Bahn]]
+|-
+|Jackie "Tiger" Brown, ''Police Chief of London and Mack's best friend from their army days''
+|baritone
+|[[Kurt Gerron]]
+|-
+|Lucy Brown, ''Tiger Brown's daughter; claims to be married to Mack''
+|soprano
+|[[Kate Kühl]]
+|-
+|[[Jenny Diver|Jenny]] ("Spelunken-Jenny"/"Low-Dive Jenny"/"Ginny Jenny"),<br />''a [[prostitute]] once romantically involved with Macheath; is bribed to turn Mack over to the police''
+|mezzo-soprano
+|[[Lotte Lenya]]
+|-
+|Filch, ''a misfit young man who approaches the Peachums in hopes of beggar training''
+|tenor
+|Naphtali Lehrmann
+|-
+|Street Singer ("Moritatensänger"), ''sings 'The Ballad of Mack the Knife' in the opening scene''
+|baritone
+|[[Kurt Gerron]]
+|-
+|Smith, ''a constable''
+|baritone
+|[[Ernst Busch (actor)|Ernst Busch]]
+|-
+|Walter
+|tenor
+|Ernst Rotmund
+|-
+|Matthias
+|tenor
+|Karl Hannemann
+|-
+|Jakob
+|tenor
+|Manfred Fürst
+|-
+|Jimmie
+|tenor
+|Werner Maschmeyer
+|-
+|Ede
+|tenor
+|Albert Venohr
+|-
+| colspan="3" |''Beggars, gangsters, whores, constables''
+|}
+
+== Casts (1920s–1960s) ==
+{|
+|-
+| links || [[The Threepenny Opera (1931 film)|Film version]] [[Lucille Lortel Theatre|Theatre de Lys]] [[Paper Mill Playhouse]] [[The Threepenny Opera (1963 film)|Film version]] [[New York City Opera]] [[Arena Stage]] [[Williamstown Theatre Festival]] [[Harald Paulsen]] [[Rudolf Forster]] [[Bill Owen (actor)|Bill Owen]] [[Curd Jürgens]] [[Kurt Kasznar]] [[James Mitchell (actor)|James Mitchell]] [[Göran Graffman]] [[Hugh Hurd]] [[Charles Siebert]] [[Erich Ponto]] [[Fritz Rasp]] [[Leon Lishner]] [[Eric Pohlmann]] [[Gert Fröbe]] [[Stefan Schnabel]] [[Ingvar Kjellson]] [[Rosa Valetti]] [[Valeska Gert]] [[Charlotte Rae]] [[Jane Connell]] [[Estelle Parsons]] [[Hilde Hildebrand]] [[Lilia Skala]] [[Ulla Sjöblom]] [[Peggy Pope]] [[Roma Bahn]] [[Carola Neher]] [[Steffi Duna]] [[Jo Sullivan Loesser]] [[Daphne Anderson]] [[June Ritchie]] [[Anita Höfer]] [[Helena Brodin]] [[Kurt Gerron]] [[Reinhold Schünzel]] [[George Tyne]] [[George A. Cooper]] [[Lino Ventura]] [[Edward Grover]] [[Robert Prosky]] [[Kate Kühl]] [[Bea Arthur]] [[Georgia Brown (English singer)|Georgia Brown]] [[Grace Lee Whitney]] [[Marion Brash]] [[Barbara Cason]] [[Meta Velander]] [[Dimitra Arliss]] [[Lotte Lenya]] [[Anna Sten]] [[Gypsy Rose Lee]] [[Hildegard Knef]] [[Martha Schlamme]] [[Chita Rivera]] [[Joyce Ebert]] [[Herbert Rudley]] [[William Duell]] [[Walter Giller]] [[Mathew Anden]] [[Ronny Cox]] [[Austin Pendleton]] [[Ernst Busch (actor)|Ernst Busch]] [[Tige Andrews]] [[Ewan MacColl]] [[Sammy Davis Jr.]] [[George S. Irving]] [[Richard Bauer]] [[Vladimir Sokoloff]] [[Gerald Hamer]] [[Howard Witt]] [[Harry Bellaver]] [[Paul Dooley]] [[Herb Edelman]] [[Wolfgang Zilzer|Paul Andor]] [[Dominic Chianese]] [[Richard Masur]] [[John Astin]] [[George Murcell]] [[Len Lesser]] [[Siegfried Wischnewski]] [[Ned Beatty]] [[David Ackroyd]] [[Burgess Meredith]] [[Joseph Beruh]] [[Eddie Lawrence]] [[Warren Mitchell]] [[Louis Guss]] [[Stefan Wigger]] [[Curt Lowens]] [[Donald Elson]] [[Henning Schlüter]]
+|}
+===Notable Replacements===
+==== Original Berlin Production (1928) ====
+==== Off-Broadway Revival (1955–1961) ====
+==== US National Tour (1960) ====
+== Casts (1970s–1990s) ==
+{|
+|-
+| links || [[Williamstown Theatre Festival]] [[Delacorte Theater]] [[Royal National Theatre]] [[Mack the Knife (1989 film)|Film version]] [[Reprise Theatre Company]] [[American Conservatory Theater|ACT]] [[Joe Melia]] [[Christopher Reeve]] [[Raul Julia]] [[Philip Bosco]] [[Tim Curry]] [[Sting (musician)|Sting]] [[Tom Hollander]] [[Patrick Cassidy (actor)|Patrick Cassidy]] [[Philip Casnoff]] [[Ronald Radd]] [[C. K. Alexander]] [[Stephen Moore (actor)|Stephen Moore]] [[Richard Harris]] [[Alvin Epstein]] [[Tom Mannion]] [[Theodore Bikel]] [[Hermione Baddeley]] [[Margo Martindale]] [[Peggy Pope]] [[Elizabeth Wilson]] [[Sara Kestelman]] [[Julie Walters]] [[Georgia Brown (English singer)|Georgia Brown]] [[Marilyn Lovell Matz]] [[Nancy Dussault]] [[Vanessa Redgrave]] [[JoBeth Williams]] [[Caroline Kava]] [[Sally Dexter]] [[Maureen McGovern]] [[Sharon Small]] [[Marguerite MacIntyre]] [[Anika Noni Rose]] [[David Ford (actor)|David Ford]] [[David Sabin]] [[Niall Buggy]] [[Bill Nighy]] [[Larry Marshall (actor)|Larry Marshall]] [[Simon Dormandy]] [[Barbara Windsor]] [[Donna McKechnie]] [[Blair Brown]] [[Joanna Foster]] [[Kim Criswell]] [[Carrie Hamilton]] [[Lisa Vroman]] [[Annie Ross]] [[Virginia Vestoff]] [[Ellen Greene]] [[Lynnie Godfrey]] [[Julia Migenes]] [[Suzzanne Douglas]] [[Jonelle Allen]] [[Bebe Neuwirth]] [[Henry Woolf]] [[Austin Pendleton]] [[Iain Rogerson]] [[Jeff Blumenkrantz]] [[Lon Satton]] [[Roy Brocksmith]] [[Basil Henson]] [[Roger Daltrey]] [[Ethyl Eichelberger]] [[Ken Page]] [[Declan Mulholland]] [[Roy Holder]] [[Victor Maddern]] [[Jonathan Frakes]] [[Barry James]] [[Clive Revill]] [[Josh Mostel]] [[Arthur Mullard]] [[William Duell]] [[Michael Bryant (actor)|Michael Bryant]] [[Mark Northover]] [[Clive Mantle]] [[Emery Battis]] [[John Woodnutt]]
+|}
+===Notable Replacements===
+==== West End Revival (1972) ====
+==== Broadway Revival (1976–1977) ====
+==== Broadway Revival (1989) ====
+==== ACT Production (1999) ====
+== Casts (2000s–2020s) ==
+{|
+|-
+| links || [[Lucille Lortel Theatre|Theatre de Lys]] [[Williamstown Theatre Festival]] [[Atlantic Theater Company]] [[Signature Theatre (Arlington, Virginia)|Signature Theatre]] [[Royal National Theatre]] [[Robert Cuccioli]] [[Jesse L. Martin]] [[Alan Cumming]] [[Joseph Millson]] [[Michael Park (actor)|Michael Park]] [[Rory Kinnear]] [[George Abud]] [[George S. Irving]] [[David Schramm (actor)|David Schramm]] [[Wallace Shawn]] [[Jim Dale]] [[Zubin Varla]] [[F. Murray Abraham]] [[Charlotte Rae]] [[Randy Graff]] [[Christine Baranski]] [[Ana Gasteyer]] [[Mary Beth Peil]] [[Haydn Gwynne]] [[Jo Sullivan Loesser]] [[Melissa Errico]] [[Nellie McKay]] [[Elen Rhys]] [[Laura Osnes]] [[Rosalie Craig]] [[Barbara Walsh]] [[Conrad Nelson]] [[Rick Holmes]] [[Peter de Jersey]] [[Donna McKechnie]] [[Karen Ziemba]] [[Rebecca Metz]] [[Brian Charles Rooney]] [[Lilli Cooper]] [[Debbie Kurup]] [[Mary Testa]] [[Bea Arthur]] [[Betty Buckley]] [[Debbie Harry]] [[Cyndi Lauper]] [[Sharon Small]] [[Katrina Lenk]] [[William Duell]] [[Graeme Hawley]] [[Heinz Karl Gruber]] [[Maureen Moore]] [[Jim Stanek]] [[David Cale]] [[Jamie Beddard]] [[Jack Noseworthy]] [[Adam Alexi-Malle]] [[Hammed Animashaun]]
+|}
+===Notable Replacements===
+==== Broadway Revival (2006) ====
+== Synopsis ==
+=== Overview ===
+=== Prologue ===
+=== Act 1 ===
+=== Act 2 ===
+=== Act 3 ===
+== Musical numbers ==
+=== Prelude ===
+{{0|1}}1. Ouverture<br />
+{{0|1}}2. Die Moritat von Mackie Messer ("The Ballad of [[Mack the Knife]]" – Street singer)
+
+=== Act 1 ===
+{{0|1}}3. Morgenchoral des Peachum (Peachum's Morning Choral – Peachum, Mrs Peachum)<br />
+{{0|1}}4. Anstatt-dass-Song (The "Instead of" Song – Peachum, Mrs Peachum)<br />
+{{0|1}}5. Hochzeits-Lied (Wedding Song – Four Gangsters)<br />
+{{0|1}}6. Seeräuberjenny ([[Pirate Jenny]] – Polly){{efn|In the original version, "Pirate Jenny" is sung by Polly during the wedding scene, but is sometimes moved to the second act and given to Jenny. In the 1956 [[off-Broadway]] production starring [[Lotte Lenya]], Polly sang a version of the "Bilbao Song" from Brecht's and Weill's ''[[Happy End (musical)|Happy End]]'' in the first act wedding scene. Sometimes (e.g. in the 1989 recording) it's sung by Polly in the first act and by Jenny in the second act between song 13 and 14 according to the list above.}}<br />
+{{0|1}}7. Kanonen-Song (Cannon Song – Macheath, Brown)<br />
+{{0|1}}8. Liebeslied (Love Song – Polly, Macheath)<br />
+{{0|1}}9. Barbarasong (Barbara Song – Polly){{efn|In the [[Marc Blitzstein]] adaptation, this song was moved to the second act and sung by Lucy Brown.}}<br />
+10. I. Dreigroschenfinale (First Threepenny Finale – Polly, Peachum, Mrs Peachum)
+
+=== Act 2 ===
+11.{{0|a}} Melodram (Melodrama – Macheath)<br />
+11a. Polly's Lied (Polly's Song – Polly)<br />
+12.{{0|a}} Ballade von der sexuellen Hörigkeit (Ballad of Sexual Dependency – Mrs Peachum){{efn|The 2016 adaptation by [[Simon Stephens]] at the [[Royal National Theatre|National Theatre, London]], included "Surabaya Johnny" from the Brecht/Weill play ''[[Happy End (musical)|Happe End]]'' (sung by Jenny).}}<br />
+13.{{0|a}} Zuhälterballade (Pimp's Ballad or Tango Ballad – Jenny, Macheath)<br />
+14.{{0|a}} Ballade vom angenehmen Leben (Ballad of the Pleasant Life – Macheath)<br />
+15.{{0|a}} Eifersuchtsduett (Jealousy Duet – Lucy, Polly)<br />
+15b. Arie der Lucy (Aria of Lucy – Lucy)<br />
+16.{{0|a}} II. Dreigroschenfinale ([[What Keeps Mankind Alive?|Second Threepenny Finale]] – Macheath, Mrs Peachum, Chorus){{efn|In the 2016 National Theatre, London, adaptation, this song was moved after the Tango Ballad as the finale to act one and sung by Mrs Peachum, Macheath and Chorus.}}
+
+=== Act 3 ===
+17.{{0|a}} Lied von der Unzulänglichkeit menschlichen Strebens (Song of the Insufficiency of Human Struggling – Peachum)<br />
+17a. Reminiszenz (Reminiscence)<br />
+18.{{0|a}} Salomonsong (Solomon Song – Jenny)<br />
+19.{{0|a}} Ruf aus der Gruft (Call from the Grave – Macheath)<br />
+20.{{0|a}} Grabschrift (Grave Inscription – Macheath)<br />
+20a. Gang zum Galgen (Walk to the Gallows – Peachum)<br />
+21.{{0|a}} III. Dreigroschenfinale (Third Threepenny Finale – Brown, Mrs Peachum, Peachum, Macheath, Polly, Chorus)
+
+== Reception ==
+=== Opera or musical theatre? ===
+=== "Mack the Knife" ===
+=== "Pirate Jenny" ===
+=== "The Second Threepenny Finale" ===
+== Revivals ==
+=== Germany ===
+=== France ===
+=== United Kingdom ===
+=== United States ===
+== Film adaptations ==
+== Radio adaptations ==
+== English translations ==
+== Recordings ==
+==Awards and nominations==
+===1954 Off-Broadway revival===
+{|
+|-
+| links || [[Theatre World Award]]
+|}
+===1955 Off-Broadway revival===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Featured Actor in a Musical|Best Featured Actor in a Musical]] [[Tony Award for Best Featured Actress in a Musical|Best Featured Actress in a Musical]] [[Lotte Lenya]] [[Special Tony Award]]
+|}
+===1976 Broadway revival===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Revival|Most Innovative Production of a Revival]] [[Tony Award for Best Actor in a Musical|Best Actor in a Musical]] [[Raul Julia]] [[Tony Award for Best Featured Actress in a Musical|Best Featured Actress in a Musical]] [[Ellen Greene]] [[Tony Award for Best Costume Design|Best Costume Design]] [[Theoni V. Aldredge]] [[Tony Award for Best Lighting Design|Best Lighting Design]] [[Pat Collins (lighting designer)|Pat Collins]]
+|}
+===1989 Broadway revival===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Actress in a Musical|Best Actress in a Musical]] [[Georgia Brown (English singer)|Georgia Brown]]
+|}
+===1994 London revival===
+{|
+|-
+| links || [[Laurence Olivier Award]] [[Laurence Olivier Award for Best Musical Revival|Best Musical Revival]] [[Laurence Olivier Award for Best Performance in a Supporting Role in a Musical|Best Performance in a Supporting Role in a Musical]]
+|}
+===2006 Broadway revival===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Revival of a Musical|Best Revival of a Musical]] [[Tony Award for Best Featured Actor in a Musical|Best Featured Actor in a Musical]] [[Jim Dale]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Featured Actor in a Musical|Outstanding Featured Actor in a Musical]] [[Theatre World Award]] [[Nellie McKay]]
+|}
+===2016 London revival===
+{|
+|-
+| links || [[Laurence Olivier Award]] [[Laurence Olivier Award for Best Actress in a Supporting Role in a Musical|Best Actress in a Supporting Role in a Musical]] [[Haydn Gwynne]]
+|}
+== See also ==
+== Notes ==
+== References ==
+=== Sources ===
+== External links ==
+
+== Actors mentioned in prose (fixture) ==
+cast included [[Pál Jávor]].
+cast included [[Pál Jávor]], [[Franciska Gaal]], [[Gerő Mály]], [[Ella Gombaszögi]].
+cast included: [[Tino Carraro]], [[Mario Carotenuto]], [[Milly (actress)|Milly]].
+starring [[Lotte Lenya]].
+starred [[Sting (musician)|Sting]].
+starred [[Elly Stone]].
+starred [[Jesse L. Martin]].
+starred [[Curd Jürgens]].
+cast included [[Paul Bentley]].
+cast included [[Paul Bentley]], [[Sarah Badel]], [[Johanna Peters]], [[Harold Kasket]], [[Jan Waters]], [[Julia McKenzie]], [[Peter Pratt]], [[John Hollis]].
+cast included [[Joseph Millson]].
+cast included [[Joseph Millson]], [[Elen Rhys]], [[Zubin Varla]].
+starring [[Jo Sullivan]].

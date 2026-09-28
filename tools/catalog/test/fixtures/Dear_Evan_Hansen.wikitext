@@ -1,0 +1,269 @@
+{{Infobox musical
+| name = Dear Evan Hansen
+| subtitle = 
+| image = DearEvanposter.png
+| image_size = 
+| caption = Broadway promotional poster
+| music = {{Plainlist|
+* [[Benj Pasek]]
+* [[Justin Paul]]
+}}
+| lyrics = {{Plainlist|
+* Benj Pasek
+* Justin Paul
+}}
+| book = [[Steven Levenson]]
+| basis = 
+| setting = 
+| premiere_date = July 30, 2015
+| premiere_location = [[Arena Stage]], Washington, D.C.
+| productions = 2015 [[Washington, D.C.|Washington]]<br />2016 [[Off-Broadway]]<br />2016 [[Broadway theatre|Broadway]]<br />2018 First US tour<br />2019 [[West End Theatre|West End]]<br />2024 Second US tour<br />2024 UK tour
+| awards =  [[Tony Award for Best Musical]]<br />[[Tony Award for Best Book of a Musical]]<br /> [[Tony Award for Best Original Score]]<br />[[Grammy Award for Best Musical Theater Album]]<br />[[Drama Desk Award|Drama Desk]] for Outstanding Lyrics<br />[[Obie Award]] for Musical Theatre<br />[[Drama League Award]] for Outstanding Production of a Broadway or Off-Broadway Production<br />[[Laurence Olivier Award for Best New Musical]]<br />[[Laurence Olivier Award for Best Original Score or New Orchestrations]]
+}}
+==Plot==
+===Act 1===
+===Act 2===
+==Roles and principal casts==
+===Cast===
+<div style="overflow-x:auto;">
+{| class="wikitable" style="text-align:center"
+|+{{sronly|Cast of ''Dear Evan Hansen''}}
+|-
+! scope="col" rowspan=2|Character
+! scope="col" | First Reading
+! scope="col" | Second Reading
+! scope="col" | Third Reading
+! scope="col" | Washington, D.C.
+! scope="col" | Off-Broadway
+! scope="col" | Broadway
+! scope="col" | First US tour
+! scope="col" | Toronto
+! scope="col" | West End
+! scope="col" | Buenos Aires
+! scope="col" | Second US tour
+! scope="col" | Australia
+! scope="col" | UK tour
+! scope="col" | International tour
+! scope="col" | Netherlands tour
+|-
+!colspan=3|{{Small|2014}}
+!{{Small|2015}}
+!colspan=2|{{Small|2016}}
+!{{Small|2018}}
+!colspan=2|{{Small|2019}}
+!{{Small|2023}}
+! colspan="3" |{{Small|2024}}
+!{{Small|2025}}
+!{{Small|2025}}
+|-
+! [[Evan Hansen]]
+|colspan="6"| [[Ben Platt]]
+| [[Ben Levi Ross]] 
+| Robert Markus
+| [[Sam Tutty]]
+| Máximo Meyer
+| Michael Fabisch
+| Beau Woodbridge
+| [[Ryan Kopel]]
+|Ellis Kirk
+|Ward van Klinken
+|-
+! Heidi Hansen
+|colspan="6"| [[Rachel Bay Jones]]
+| [[Jessica Phillips (actress)|Jessica Phillips]]
+| Jessica Sherman
+| [[Rebecca McKinnis]]
+| [[Julia Zenko]]
+| Bre Cade
+| [[Verity Hunt-Ballard]]
+| [[Alice Fearn]]
+|[[Rebecca McKinnis]]
+|{{ill|Marlijn Weerdenburg|nl}}
+|-
+! Zoe Murphy
+| [[Barrett Wilbert Weed]]
+|colspan="5"| [[Laura Dreyfuss]]
+| Max McKenna
+| [[Steph La Rochelle|Stephanie La Rochelle]]
+| Lucy Anderson
+| Rocío Hernández
+| Hatty Ryan King
+| Georgia Laga'aia
+| Lauren Conroy
+|Zoë Athena
+|{{ill|Lisa Schol|nl}}
+|-
+! Cynthia Murphy
+|colspan="6"| [[Jennifer Laura Thompson]]
+| [[Christiane Noll]]
+| [[Claire Rankin]]
+| [[Lauren Ward]]
+| Laura Conforte
+| Caitlin Sams
+| Natalie O'Donnell
+| colspan="2" | [[Helen Anker]]
+|{{ill|Cystine Carreon|nl}}, [[Nyncke Beekhuyzen]]
+|-
+! Larry Murphy
+|colspan="4"| [[Michael Park (actor)|Michael Park]]
+| [[John Dossett]]
+| [[Michael Park (actor)|Michael Park]]
+| [[Aaron Lazar]]
+| [[Evan Buliung]]
+| [[Rupert Young]]
+| Fabio Aste
+| Jeff Brooks
+| [[Martin Crewes]]
+| Richard Hurst
+|Hal Fowler
+|Alex van Bergen
+|-
+! Connor Murphy
+| Will Pullen
+|colspan="5"| [[Mike Faist]]
+| Marrick Smith
+| Sean Patrick Dolan
+| Doug Colling
+| Guido Balzaretti
+| Alex Pharo
+| Harry Targett
+| Killian Thomas Lefevre
+|Rhys Hopkins
+|Pepijn van den Berg
+|-
+! Jared Kleinman
+| [[Alex Wyse]]
+|colspan="5"| [[Will Roland]]
+| Jared Goldsmith
+| Alessandro Costantini
+| Jack Loxton
+| Mariano Condoluci
+| Gabriel Vernon Nunag
+| Jacob Rozario
+| colspan="2" | Tom Dickerson
+|Dave Rijnders
+|-
+! Alana Beck
+| [[Erin Wilhelmi]]
+| Emily Walton
+| [[Emily Skeggs]]
+| Alexis Molnar
+|colspan="2"| Kristolyn Lloyd
+| Phoebe Koyabe 
+| Shakura Dickerson
+| [[Nicole Raquel Dennis]]
+| Mariel Percossi
+| Makena Jackson
+| Carmel Rodrigues
+| [[Vivian Panka]]
+|Olivia-Faith Kamau
+|Naima Bayo
+|}
+</div>
+
+===Notable Broadway cast replacements===
+*Evan Hansen: [[Noah Galvin]], [[Taylor Trensch]], [[Andrew Barth Feldman]], [[Jordan Fisher]], Roman Banks, [[Ben Levi Ross]]
+*Heidi Hansen: [[Lisa Brescia]], [[Jessica Phillips (actress)|Jessica Phillips]]
+*Zoe Murphy: [[Mallory Bechtel]]
+*Cynthia Murphy: [[Christiane Noll]]
+*Larry Murphy: [[Manoel Felciano]]
+*Jared Kleinman: [[Gaten Matarazzo]], Jared Goldsmith
+*Connor Murphy: [[Alex Boniello]]
+
+===Character descriptions===
+* Evan Hansen – A high school senior with [[social anxiety]]. He is assigned by his therapist to write letters to himself about why each day will be good, which becomes the catalyst for the plot of the story (hence the name, Dear Evan Hansen).
+* Heidi Hansen – Evan's mother, a nurse's aide who attends paralegal school at night, often leaving Evan on his own as a result.
+* Connor Murphy – A classmate of Evan and high school senior who, like Evan, is also a social outcast with no friends, and is a frequent drug user, getting high to cope with his aggressive and violent tendencies. Connor eventually takes his own life during Act 1. His ghost appears in Evan's mind throughout the rest of the musical.
+* Zoe Murphy – Connor's younger sister and Evan's longtime crush. She was never close to Connor, even hated him and thought he was a monster, but wishes she had known him better and turns to Evan after he lies and says he was friends with Connor.
+* Cynthia Murphy – Connor and Zoe's stay-at-home mother. She is constantly trying to keep her fragile family from falling apart but is often unsuccessful.
+* Larry Murphy – Connor and Zoe's busy and distant father.
+* Jared Kleinman – Evan's droll and sarcastic friend. He helps Evan and Alana found The Connor Project.
+* Alana Beck – Evan's earnest but melodramatic classmate. She is constantly looking for academic and extracurricular activities to boost her collegiate chances.
+
+==Musical numbers==
+{{col-begin}}
+{{col-2}}
+;Act 1
+* "Anybody Have a Map?" – Heidi, Cynthia 
+* "[[Waving Through a Window]]" – Evan, Company
+* "Waving Through a Window (Reprise #1)"* – Evan
+* "Waving Through a Window (Reprise #2)"* – Alana
+* "For Forever" – Evan
+* "[[Sincerely, Me (Dear Evan Hansen song)|Sincerely, Me]]" – Connor, Evan, Jared
+* "Requiem" – Zoe, Cynthia, Larry
+* "If I Could Tell Her" – Evan, Zoe
+* "Disappear" – Connor, Evan, Alana, Jared, Larry, Cynthia, Zoe
+* "[[You Will Be Found]]" – Evan, Alana, Jared, Zoe, Company, VC (virtual community)
+{{col-break}}
+;Act 2
+* "Sincerely, Me (Reprise)"* – Connor, Jared
+* "To Break In a Glove" – Larry, Evan
+* "[[Only Us (Dear Evan Hansen song)|Only Us]]" – Zoe, Evan
+* "Good for You" – Heidi, Alana, Jared, Evan 
+* "For Forever (Reprise)"* – Connor
+* "You Will Be Found (Reprise)"* – Alana, Jared, VC 
+* "Words Fail" – Evan
+* "So Big/So Small" – Heidi
+* "Finale" – Evan, Company
+{{col-end}}*Not included on the Original Broadway Cast Recording
+
+===Orchestration===
+
+===Recording===
+{{Main|Dear Evan Hansen: Original Broadway Cast Recording}}
+
+==Background==
+==Productions==
+===Washington D.C. (2015)===
+===Off-Broadway (2016)===
+===Broadway (2016–2022)===
+===First US national tour (2018–2023)===
+===Toronto (2019)===
+===West End (2019–2022)===
+===Buenos Aires (2023–2024)===
+===Finland (2023)===
+===South Korea (2024)===
+===Second US National tour (2024–2025)===
+===UK tour (2024)===
+===Australia (2024–2025)===
+===Sweden (2025)===
+=== Philippines (2025) ===
+===Singapore (2025)===
+===Netherlands (2025) ===
+===Denmark (2026–present)===
+===Non-replica productions===
+==Critical response==
+==Awards and honors==
+===Original Washington, D.C., production===
+{|
+|-
+| links || [[Helen Hayes Award]] [[Michael Greif]] [[Laura Dreyfuss]] [[Jennifer Laura Thompson]] [[Peter Nigrini]] [[Steven Levenson]] [[Benj Pasek]] [[Justin Paul]]
+|}
+===Original off-Broadway production===
+{|
+|-
+| links || [[Outer Critics Circle Award]] [[Outer Critics Circle Award for Outstanding New Off-Broadway Musical|Outstanding New Off-Broadway Musical]] [[Outer Critics Circle Award for Outstanding New Score|Outstanding New Score]] [[Outer Critics Circle Award for Outstanding Book of a Musical|Outstanding Book of a Musical]] [[Outer Critics Circle Award for Outstanding Director of a Musical|Outstanding Director of a Musical]] [[Michael Greif]] [[Outer Critics Circle Award for Outstanding Actor in a Musical|Outstanding Actor in a Musical]] [[Ben Platt (actor)|Ben Platt]] [[Outer Critics Circle Award for Outstanding Projection Design|Outstanding Projection Design]] [[Peter Nigrini]] [[Drama League Award]] [[Drama League Distinguished Performance Award|Distinguished Performance]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Lyrics|Outstanding Lyrics]] [[Drama Desk Award for Outstanding Featured Actress in a Musical|Outstanding Featured Actress in a Musical]] [[Rachel Bay Jones]] [[Drama Desk Award for Outstanding Projection Design|Outstanding Projection Design]] [[Obie Awards]] [[Lucille Lortel Awards]]
+|}
+===Original Broadway production===
+{|
+|-
+| links || [[71st Tony Awards|Tony Awards]] [[Tony Award for Best Musical|Best Musical]] [[Tony Award for Best Book of a Musical|Best Book of a Musical]] [[Tony Award for Best Original Score|Best Original Score]] [[Tony Award for Best Actor in a Musical|Best Performance by a Leading Actor in a Musical]] [[Tony Award for Best Featured Actor in a Musical|Best Performance by an Actor in a Featured Role in a Musical]] [[Mike Faist]] [[Tony Award for Best Featured Actress in a Musical|Best Performance by an Actress in a Featured Role in a Musical]] [[Tony Award for Best Lighting Design in a Musical|Best Lighting Design of a Musical]] [[Tony Award for Best Direction of a Musical|Best Direction of a Musical]] [[Tony Award for Best Orchestrations|Best Orchestrations]] [[Alex Lacamoire]] [[Drama League Awards]] [[60th Grammy Awards|Grammy Awards]] [[Grammy Award for Best Musical Theater Album|Best Musical Theater Album]] [[45th Daytime Creative Arts Emmy Awards|Daytime Emmy Awards]] [[Daytime Emmy Award for Outstanding Musical Performance in a Daytime Program|Outstanding Musical Performance in a Daytime Program]]
+|}
+===Original West End production===
+{|
+|-
+| links || [[Critics' Circle Theatre Award]] [[Critics' Circle Theatre Award#The Jack Tinker Award for Most Promising Newcomer (other than a playwright)|Most Promising Newcomer]] [[Sam Tutty]] [[2020 Laurence Olivier Awards|Laurence Olivier Award]] [[Laurence Olivier Award for Best New Musical|Best New Musical]] [[Laurence Olivier Award for Best Actor in a Musical|Best Actor in a Leading Role in a Musical]] [[Laurence Olivier Award for Best Actor in a Supporting Role in a Musical|Best Actor in a Supporting Role in a Musical]] [[Rupert Young]] [[Laurence Olivier Award for Best Actress in a Supporting Role in a Musical|Best Actress in a Supporting Role in a Musical]] [[Lauren Ward]] [[Laurence Olivier Award for Outstanding Achievement in Music|Best Original Score or New Orchestrations]] [[Alex Lacamoire]] [[Benj Pasek]] [[Justin Paul]]
+|}
+==Adaptations==
+===Novelization===
+===Film===
+==Books==
+==See also==
+==References==
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+starred [[Jessica Phillips (actress)|Jessica Phillips]].
+played by [[Sam Tutty]].
+starring [[Martin Stokke Mathiesen]].
+played by [[Sara Viktoria Bjerregaard.]].

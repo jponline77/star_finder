@@ -1,0 +1,68 @@
+{{Infobox musical
+| name = Redwood
+| image = Redwood 2025 Broadway Playbill cover.jpg
+| caption = The 2025 Broadway Playbill cover
+| music = Kate Diaz
+| lyrics = Kate Diaz <br> [[Tina Landau]]
+| book = [[Tina Landau]]
+| premiere_date = {{Start Date|2024|02|25}}
+| premiere_location = [[La Jolla Playhouse]]
+| productions = 2024 [[La Jolla Playhouse]]<br />2025 [[Broadway theatre|Broadway]]
+| image_size = 220px
+}}
+==Synopsis==
+== Productions ==
+=== San Diego (2024) ===
+===Broadway (2025)===
+==Musical numbers and instrumentation ==
+*"Drive" - Jesse, Mel, Spencer
+*"The Trees"
+*"Climb" - Jesse, Becca, Finn
+*"Little Redwood" - Becca
+*"The Stars" - Jesse
+*"A Dream" - Spencer, Mel, Jesse
+*"Big Tree Religion" - Finn, Becca, Jesse
+*"Back Then" - Mel, Jesse
+*"The Ascent"
+*"Great Escape" - Jesse
+*"Roots" - Finn
+*"Little Redwood (Reprise)" - Finn, Becca, Jesse
+*"Looking Through This Lens" - Mel
+*"In the Leaves" - Jesse, Stella
+*"Becca's Song" - Becca
+*"No Repair" - Jesse
+*"The Fires" - Jesse
+*"Still" - Spencer, Jesse, Stella, The Trees
+*"Finale" - All
+
+==Characters and original cast==
+{| class="wikitable" style="width:1000;"
+|-
+! rowspan="2" | Character
+!San Diego
+!Broadway
+|-
+!<small>2024</small>
+!<small>2025</small>
+|-
+! Jesse
+| colspan="2" style="text-align:center;" |[[Idina Menzel]]
+|-
+! Mel
+| colspan="2" style="text-align:center;" |[[De'Adre Aziza]]
+|-
+! Spencer, Clerk, Man in Rain, Mateo
+|colspan="2" style="text-align:center;" | Zachary Noah Piser
+|-
+! Finn
+| colspan="2" style="text-align:center;" |[[Michael Park (actor)|Michael Park]]
+|-
+! Becca
+| style="text-align:center;" |Nkeki Obi-Melekwe
+| style="text-align:center;" | Khaila Wilcoxon
+|-
+! Vocals for Stella, The Trees
+| colspan="2" style="text-align:center;" | Kate Diaz
+|}
+
+== References ==

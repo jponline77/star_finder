@@ -116,6 +116,55 @@ describe('ShowDetailPage', () => {
     expect(api.calls('PUT /api/shows/5')[0]?.body).toMatchObject({ licensingNote: 'Teen Edition only.', imageUrl: null });
   });
 
+  it('the song-catalog link: keep by default, "not in the catalog", or pick another catalog show', async () => {
+    const linked = { ...hadestown, catalogShowId: 44 };
+    const { api } = setup(linked, makeUser({ id: 1, role: 'admin' }), {
+      'GET /api/catalog/shows/44': () => json(200, { id: 44, title: 'Hadestown', year: 2016, songCount: 33, wikiTitle: 'Hadestown', composer: null, lyricist: null, bookWriter: null, onSite: null, songs: [] }),
+      'GET /api/catalog/search': () =>
+        json(200, {
+          results: [
+            { type: 'show', id: 45, title: 'Hadestown', year: 2006, composer: 'Anaïs Mitchell', songCount: 20, onSite: null },
+            { type: 'song', id: 9, title: 'Hadestown', show: { id: 44, title: 'Hadestown', year: 2016 }, singers: [], reprise: false, ensemble: true, onSite: null },
+          ],
+        }),
+      'PUT /api/shows/5': (req) => json(200, { ...linked, ...req.body, songs: undefined, characters: undefined }),
+    });
+    fireEvent.click(await screen.findByTestId('edit-button'));
+    const modal = screen.getByTestId('edit-show-modal');
+    expect(await within(modal).findByTestId('catalog-link-current')).toHaveTextContent('Linked to Hadestown (2016) · 33 songs.');
+    expect(within(modal).getByTestId('catalog-link-keep')).toBeChecked();
+    // picking without choosing a show is caught before saving
+    fireEvent.click(within(modal).getByTestId('catalog-link-pick'));
+    fireEvent.click(screen.getByTestId('save-show'));
+    expect(await within(modal).findByText(/Pick a catalog show from the search/)).toBeInTheDocument();
+    expect(api.calls('PUT /api/shows/5')).toHaveLength(0);
+    fireEvent.change(within(modal).getByTestId('catalog-link-search'), { target: { value: 'hades' } });
+    const hits = await within(modal).findAllByTestId('catalog-link-hit', {}, { timeout: 3000 });
+    expect(hits).toHaveLength(1); // shows only
+    fireEvent.click(hits[0]!);
+    expect(hits[0]).toHaveAttribute('aria-pressed', 'true');
+    fireEvent.click(screen.getByTestId('save-show'));
+    await waitFor(() => expect(api.calls('PUT /api/shows/5')).toHaveLength(1));
+    expect(api.calls('PUT /api/shows/5')[0]?.body).toMatchObject({ catalogShowId: 45 });
+  });
+
+  it('the song-catalog link is not sent when left as it is; "not in the catalog" sends null', async () => {
+    const { api } = setup(hadestown, makeUser({ id: 7 }), {
+      'PUT /api/shows/5': (req) => json(200, { ...hadestown, ...req.body, songs: undefined, characters: undefined }),
+    });
+    fireEvent.click(await screen.findByTestId('edit-button'));
+    const modal = screen.getByTestId('edit-show-modal');
+    expect(within(modal).getByTestId('catalog-link-current')).toHaveTextContent('Not linked to the catalog.');
+    fireEvent.click(screen.getByTestId('save-show'));
+    await waitFor(() => expect(api.calls('PUT /api/shows/5')).toHaveLength(1));
+    expect(api.calls('PUT /api/shows/5')[0]?.body).not.toHaveProperty('catalogShowId');
+    fireEvent.click(await screen.findByTestId('edit-button'));
+    fireEvent.click(within(screen.getByTestId('edit-show-modal')).getByTestId('catalog-link-none'));
+    fireEvent.click(screen.getByTestId('save-show'));
+    await waitFor(() => expect(api.calls('PUT /api/shows/5')).toHaveLength(2));
+    expect(api.calls('PUT /api/shows/5')[1]?.body).toMatchObject({ catalogShowId: null });
+  });
+
   it('deletes a show with no songs after confirming', async () => {
     const { api, router } = setup(empty, makeUser({ id: 7 }), { 'DELETE /api/shows/9': () => new Response(null, { status: 204 }) });
     expect(await screen.findByText('No songs here yet')).toBeInTheDocument();

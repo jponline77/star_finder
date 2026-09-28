@@ -1,0 +1,77 @@
+{{Infobox musical
+| name        = Holidays
+| subtitle    =
+| image       = Holidays Musical Poster.png
+| image_size  =
+| caption     = Official poster for the original Paris production.
+| music       = Various
+| lyrics      = Various
+| book        = Gaétan Borg
+| basis       = [[Madonna]] discography
+| productions = 2023 [[Balma]] (previews)<br/>2023 Paris<br/>2024 France tour
+
+| awards      =
+}}
+== Synopsis ==
+==Musical Numbers==
+*"La Isla Bonita"
+*"Open Your Heart"
+*"Express Yourself"
+*"Papa Don’t Preach"
+*"Secret"
+*"Like a Prayer"
+
+== Productions ==
+==Critical reception==
+==Cast and characters==
+{| class="wikitable" style="text-align: center;"
+|-
+! rowspan="2" | Character
+!Balma
+!Paris
+!France tour
+|-
+!<small>2023</small>
+!<small>2023</small>
+!<small>2024</small>
+|-
+! Louise
+| colspan="3" |Juliette Behar
+|-
+! Véronica
+| colspan="3" |Fanny Delaigue
+|-
+! Nikki
+| colspan="3" |Nevedya
+|-
+! Suzanne
+| colspan="3" |Ana Ka
+|-
+! 16-year-old Louise 
+| colspan="3" |Naïmy Guichet
+|-
+! 16-year-old Veronica
+| colspan="3" |Joséphine Auzat
+|-
+! 16-year-old Nikki
+| colspan="3" |Ilona Samassi
+|-
+! 16-year-old Suzanne
+| colspan="3" |Sarah Vinum Baudrand
+|-
+! 10-year-old Louise 
+| colspan="3" |Lejla Kurtic
+|-
+! 10-year-old Veronica
+| colspan="3" |Lila Watson
+|-
+! 10-year-old Nikki
+| colspan="3" |Melina Masungi
+|-
+! 10-year-old Suzanne
+| colspan="3" |Marylou Alexis
+|-
+|}
+
+==References==
+==External links==

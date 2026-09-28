@@ -1,0 +1,57 @@
+{{Infobox Musical
+|name         = The Good Companions
+|subtitle     = 
+|image        = GoodCompanionsPoster.jpg
+|image_size   = 200px
+|caption      = Poster for the 1974 West End production
+|music        = [[André Previn]]
+|lyrics       = [[Johnny Mercer]]
+|book         = [[Ronald Harwood]]
+|basis        = ''[[The Good Companions]]'' by [[J. B. Priestley]]
+|productions  = 1974 Manchester<br>1974 London<br>2000 San Francisco
+
+|awards       = 
+}}
+==Plot==
+==Productions==
+==Musical numbers==
+{{col-begin}}
+{{col-2}}
+;Act One
+*Goodbye ..... The Dinky-Doos
+*Camaraderie ..... The Dinky-Doos
+*Bruddersford ..... Jess and His Friends
+:All Mucked Up
+:The Pools
+:Aye, Lad
+*Footloose
+:The Great North Road ..... Jess
+:Fancy Free ..... Miss Trant
+:On My Way ..... Inigo
+*Pleasure of Your Company ..... Morton and Inigo
+*Stage Struck ..... Susie
+*Dance of Life ..... Miss Trant
+*Pleasure of Your Company (Reprise) ..... Inigo
+*The Pools (Reprise) ..... Jess
+*Good Companions .... Morton, Inigo, and the Good Companions
+{{col-break}}
+;Act Two
+*Slippin' Around the Corner ..... Jerry
+*A Little Travelling Music ..... The Company
+*And Points Beyond ..... Jess and the Company
+*Darkest Before the Dawn ..... Miss Trant
+*Goodbye (Reprise) ..... The Good Companions
+*Susie for Everybody ..... Susie and Inigo
+*Ta, Luv ..... Jess
+*I'll Tell the World ..... Susie, Jerry, and Inigo
+*Stage Door John ..... Susie
+*Ta, Luv (Reprise) ..... Susie and Jess
+*Good Companions (Reprise) ..... The Good Companions
+{{col-end}}
+
+==References==
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+cast included [[John Mills]].
+cast included [[John Mills]], [[Judi Dench]], [[Christopher Gable]], [[Marti Webb]].

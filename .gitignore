@@ -16,3 +16,5 @@ blob-report/
 *.db-wal
 *.db-shm
 backups/
+# catalog builder: raw Wikidata/Wikipedia responses (rebuildable cache)
+tools/catalog/.cache/

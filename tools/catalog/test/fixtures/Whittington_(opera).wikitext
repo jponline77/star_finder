@@ -1,0 +1,343 @@
+==Background==
+==Performance history==
+==Roles==
+
+{| class="wikitable"
+|+{{sronly|Roles, voice types, premiere cast}}
+!Role
+![[Voice type]]
+!Premiere cast,<br>26 December 1874
+!Revised Paris premiere,<br>19 October 1893<br>Conductor: [[Alexandre Artus]]
+|-
+|Dick Whittington
+|[[soprano]] ([[tenor]] in French)
+|[[Kate Santley]]
+|Alexandre
+|-
+|Fitzwarren, ''alderman and draper''
+|[[baritone]]
+|Charles Heywood
+|Scipion
+|-
+|Alice, ''daughter of Fitzwarren''
+|soprano
+|[[Julia Matthews]]
+|Mlle Marette
+|-
+|Thomas, ''Dick's cat''
+|mute
+|Abrahams
+|F Prévost
+|-
+|Dorothy, ''Fitzwarren's cook''
+|soprano
+|Lennox Grey
+|Blanche Miroir
+|-
+|Police sergeant
+|
+|Harry Paulton
+|
+|-
+|Captain Bobstay
+|
+|J Rouse
+|Thiry
+|-
+|Princess Hirvaia
+|[[mezzo-soprano]]
+|Grace Armytage
+|Juliette Darcourt
+|-
+|Moonshi
+|
+|W Worboys
+|
+|-
+|[[King Edward III]]
+|
+|Hutton
+|
+|-
+|King Lallali
+|
+|
+|Gardel
+|-
+|Zazi
+|
+|
+|Mlle Dumont
+|-
+| colspan="4"|''Chorus, Dancers''
+|}
+
+==Synopsis==
+==Musical numbers==
+
+''In square brackets are additional words on the inner pages.''
+
+{|class="wikitable"
+!Act
+!No.
+!colspan="2"|Description in the score
+!First line in English
+!First line in French
+|-
+|I
+|
+|Instrumental[e] introduction
+|
+|
+|
+|-
+|
+|1
+|Chœur des acheteurs
+|Shop chorus
+|Come shop, there shop no more be trying
+|Répondez donc à la pratique
+|-
+|
+|2
+|From sand glass and sundia [(The bell ringer)]
+|Song & chorus
+|From sand glass and sun dial folks the hour take, ah!
+|De mainte horloge on fait l'éloge
+|-
+|
+|3
+|A prentice linen-draper
+|Rondo
+|A prentice linen-draper
+|Nous étions dans la rue
+|-
+|
+|4
+|Good English beer
+|Finale, scene 1<br />[scene 1, act 1]
+|So long as there's good beer in England
+|Tout bon citoyen d'Angleterre
+|-
+|
+|4bis
+|Marche de la patrouille
+|[Scene 2, Highgate]
+|
+|
+|-
+|
+|5
+|O slumber and dream
+|[Ballad]
+|O slumber and dream for dark the way across the lonely moor
+|Sur toi dans sa rage si d'abord s'acharne un mauvais sort
+|-
+|
+|6
+|Look him up
+|Finale, scene 2<br />[Scene 2, act 1]
+|Look him up
+|Il est pris
+|-
+|
+|6bis
+|Hornpipe scene, the ship
+|[Scene 3]
+|
+|
+|-
+|
+|7
+|The haunted kickabo
+|Song & chorus
+|Ah! Well I remember Tom Bellows
+|J'ai là dans un coin de la cale
+|-
+|
+|8
+|Sweetheart, here I am
+|Finale, scene 3<br />[Scene 3, act 1]
+|Sweetheart, here I am
+|Alice ! pstt, pstt, pstt
+|-
+|II
+|
+|Entr'acte, instrumental
+|
+|
+|
+|-
+|
+|1
+|Here in dreamly leisur
+|Hammock chorus
+|Here in dreamly leisure
+|Pendant qu'en cadence
+|-
+|
+|2
+|Woman's wil[l]<br />[(Ça m'est égal)]
+|Couplets avec chœur
+|A Princess I but still a woman
+|Que l'eau soit froide, chaude ou tiède
+|-
+|
+|3
+|The ship was old<br />[(Prenez pitié)]
+|Quintett[e]
+|The ship was old
+|Prenez pitié
+|-
+|
+|4
+|O tell me pray<br />[(Mais qu'est ce donc qu'une chatte)]
+|Duett
+|O tell me pray what's a cat?
+|Mais qu'est ce donc qu'une chatte ?
+|-
+|
+|5
+|Great at colonizing<br />[Fils de l'Angleterre]
+|Rondo & chorus
+|Great at colonizing
+|Fils de l'Angleterre
+|-
+|
+|5bis
+|D° D°{{clarify|date=February 2024|reason=Meaning?}}<br />[Exit of court]
+|
+|Great at colonizing
+|Fils de l'Angleterre
+|-
+|
+|6
+|Cortege instrumental<br />[Cortège]
+|
+|
+|
+|-
+|
+|7
+|Ballet music
+|
+|
+|
+|-
+|
+|8
+|D° D°{{clarify|date=February 2024|reason=Meaning?}}
+|
+|
+|
+|-
+|
+|9
+|Corps de ballet
+|
+|
+|
+|-
+|
+|10,&nbsp;11,&nbsp;12
+|Variations on D°{{clarify|date=February 2024|reason=Meaning?}} [Var:]
+|
+|
+|
+|-
+|
+|13
+|Galop finale
+|
+|
+|
+|-
+|
+|14
+|O wind that blows [across the sea]
+|Ballad
+|I wander where fair flow's are fairest
+|Dans ce beau pays de l'Asie
+|-
+|
+|15
+|We are very wise<br />[(Nous possédons tous)]
+|Chorus of moonshi's
+|We are very wise
+|Nous possédons tous
+|-
+|
+|16
+|Song of the hird & the maiden
+|[The] Rat song
+|The song of the bird and the maiden
+|L'oiseau chante sous la ramée
+|-
+|
+|17
+|The banquet's prepared
+|Finale & [(A)] chorus [(B) Dinner rondo]
+|The banquet's prepared bannish sorrow
+|Voici le moment où l'on dîne
+|-
+|
+|18 [17B]
+|English meats are brought
+|Dinner rondo & chorus
+|English meats are brought together
+|Ce pâté de Bécassines
+|-
+|III
+|19
+|While yet the earth is sleeping
+|[Chœur et ballet]
+|While yet the earth is sleeping
+|Allons jeunes filles
+|-
+|
+|20
+|Valse
+|
+|
+|
+|-
+|
+|21
+|Thimblerig song<br />[(Paddok était un petit homme)]
+|Chanson
+|My gentleman so quick and nimble
+|Paddock était un petit homme, Sir
+|-
+|
+|22
+|Little we've found out<br />[(Avez vous trouvé quelque trace ?]
+|[Trio]
+|Ah! little we've found out for master!
+|Avez-vous trouvé quelque trace ?
+|-
+|
+|23
+|Again, again<br />[C'est toi !]
+|Duet[t]
+|Again, again
+|C'est toi ! C'est toi !
+|-
+|
+|24
+|Finale [At last I hope<br />(Je suis le père)]
+|
+|At last I hope
+|Je suis le père
+|-
+|
+|25
+|[Finale The] Lord Major's show
+|March & chorus<br />[Marche]
+|To our Lord Major's glory
+|Gloire au nouveau Lord Maire !
+|}
+
+==References==
+
+== Actors mentioned in prose (fixture) ==
+cast included Sally Bruce-Payne in the title rôle, [[Constance Hauman]], [[John Suchet]].

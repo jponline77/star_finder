@@ -85,13 +85,8 @@ export const EMPTY_NEW_SHOW: NewShowDetails = {
   wikiDescription: '',
 };
 
-/** A chosen 30-second preview (from an iTunes candidate, or the song's current media). */
-export interface ChosenPreview {
-  input: SongPreviewInput;
-  /** Track name shown in the UI. */
-  trackName: string;
-  durationSeconds: number | null;
-}
+/** A chosen 30-second preview — lives in lib/recordings (shared with the RecordingPicker). */
+export type { ChosenPreview } from '../../lib/recordings';
 
 export const emptyPart = (): PartValues => ({ character: '', vocalRange: '' });
 
@@ -135,22 +130,7 @@ export function valuesFromSong(song: Song, genres: readonly string[]): SongFormV
 }
 
 /** The song's current iTunes preview as a ChosenPreview (edit mode), or null. */
-export function previewFromSong(song: Song): ChosenPreview | null {
-  const m = song.media;
-  if (!m.previewUrl) return null;
-  return {
-    input: {
-      previewUrl: m.previewUrl,
-      artworkUrl: m.artworkUrl,
-      appleMusicUrl: m.appleMusicUrl,
-      recordingName: m.recordingName,
-      recordingArtist: m.recordingArtist,
-      itunesTrackId: null,
-    },
-    trackName: song.title,
-    durationSeconds: null,
-  };
-}
+export { previewFromSong } from '../../lib/recordings';
 
 function formatMss(seconds: number): string {
   const m = Math.floor(seconds / 60);
@@ -190,6 +170,7 @@ export const FIELD_DOM_IDS: ReadonlyArray<[key: string, domId: string]> = [
   ['newShow.description', 'new-show-description'],
   ['newShow.imageUrl', 'fetch-wikipedia'],
   ['title', 'song-title'],
+  ['catalogSongId', 'song-title'],
   ['parts', 'part-1-character'],
   ['parts.0.character', 'part-1-character'],
   ['parts.0.vocalRange', 'part-1-range'],
@@ -197,11 +178,12 @@ export const FIELD_DOM_IDS: ReadonlyArray<[key: string, domId: string]> = [
   ['parts.1.vocalRange', 'part-2-range'],
   ['genre', 'song-genre'],
   ['subGenre', 'song-subgenre'],
+  ['preview', 'act-recording-title'],
   ['length', 'song-length'],
-  ['preview', 'find-preview'],
-  ['audioLink', 'song-audio-link'],
-  ['audioFile', 'song-audio-file'],
   ['notes', 'song-notes'],
+  ['artwork', 'song-art-choose'],
+  ['audioFile', 'song-audio-choose'],
+  ['audioLink', 'song-audio-link'],
 ];
 
 export function domIdFor(key: string): string | undefined {
@@ -330,6 +312,7 @@ export function mapServerDetails(details: Record<string, string>, prefix: '' | '
     else if (key === 'length' || key === 'lengthSeconds') put('length', msg);
     else if (key.startsWith('preview')) put('preview', msg);
     else if (key === 'file') put('audioFile', msg);
+    else if (key === 'catalogSongId') put('catalogSongId', msg);
     else if (/^parts(\.\d+\.(character|vocalRange))?$/.test(key)) put(key, msg);
     else if (['title', 'kind', 'genre', 'subGenre', 'notes', 'audioLink'].includes(key)) put(key, msg);
     else put('_form', msg);
@@ -343,6 +326,8 @@ export interface BuildOptions {
   showId: number | null;
   /** undefined = omit (keep media on PUT / no preview on POST), null = clear, object = set */
   preview?: SongPreviewInput | null;
+  /** SPEC §7c: undefined = omit, null = clear the link, number = the catalog song the form came from. */
+  catalogSongId?: number | null;
 }
 
 export function toSongInput(values: SongFormValues, options: BuildOptions): SongInput {
@@ -361,6 +346,7 @@ export function toSongInput(values: SongFormValues, options: BuildOptions): Song
   if (options.showId !== null) input.showId = options.showId;
   else input.showName = values.showText.trim();
   if (options.preview !== undefined) input.preview = options.preview;
+  if (options.catalogSongId !== undefined) input.catalogSongId = options.catalogSongId;
   return input;
 }
 
@@ -406,4 +392,15 @@ export function shortenExtract(extract: string | null | undefined, max = 600): s
 /** Stable JSON snapshot for dirty-checking. */
 export function snapshot(values: SongFormValues): string {
   return JSON.stringify(values);
+}
+
+/**
+ * A full PUT body for an existing song with a few media fields changed — used by the song page's owner tools
+ * (changing the recording / length) without opening the form. Keeps the song's catalog link.
+ */
+export function inputFromSong(song: Song, options: { preview?: SongPreviewInput | null; lengthSeconds?: number | null } = {}): SongInput {
+  const values = valuesFromSong(song, song.genre ? [song.genre] : []);
+  const input = toSongInput(values, { showId: song.show.id, preview: options.preview, catalogSongId: song.catalogSongId ?? undefined });
+  if (options.lengthSeconds !== undefined) input.lengthSeconds = options.lengthSeconds;
+  return input;
 }

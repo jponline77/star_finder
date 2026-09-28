@@ -1,0 +1,331 @@
+{{Infobox musical
+| name = Company
+| image = KertCompany.jpg
+| image_size = 170px
+| caption = Original Broadway playbill
+| music = [[Stephen Sondheim]]
+| lyrics = Stephen Sondheim
+| book = [[George Furth]]
+| basis = 
+| premiere_date = {{start date|1970|3|24}}
+| premiere_location = [[Shubert Theatre (Boston)|Shubert Theatre]], [[Boston]]
+| productions = 1970 [[Broadway theatre|Broadway]]<br />1971 [[North America]]n tour<br />1972 [[West End theatre|West End]]<br />1995 Broadway [[revival (theatre)|revival]]<br />1995 London revival<br />2006 Broadway revival<br />2018 West End revival<br />2021 Broadway revival<br />2023 North American tour
+| awards = 1971 [[Tony Award for Best Musical]]<br />1971 [[Tony Award for Best Book of a Musical]]<br />1971 [[Tony Award for Best Original Score|Tony Award for Best Score (music)]]<br />1971 [[Tony Award for Best Original Score|Tony Award for Best Lyrics]]<br />2007 [[Tony Award for Best Revival of a Musical]]<br />2019 [[Laurence Olivier Award for Best Musical Revival]]<br />2022 [[Tony Award for Best Revival of a Musical]]
+}}
+==Background==
+==Synopsis==
+===Act I===
+===Act II===
+==Principal casts==
+{| class="wikitable"
+! rowspan="2" |Character
+!Broadway
+!North American tour
+!West End
+!Broadway revival
+!West End revival
+!Kennedy Center
+!Broadway revival
+!New York Philharmonic concert
+!West End revival{{Efn|Gender bent production}}
+!Broadway revival{{Efn|Gender bent production}}
+!North American tour{{Efn|Gender bent production}}
+|-
+!<small>1970</small>
+!<small>1971</small>
+!<small>1972</small>
+!<small>1995</small>
+!<small>1996</small>
+!<small>2002</small>
+!<small>2006</small>
+!<small>2011</small>
+!<small>2018</small>
+!<small>2021</small>
+!<small>2023</small>
+|-
+!Robert{{refn|group=note|Sometimes referred to as "Bobby"}}
+|align=center|[[Dean Jones (actor)|Dean Jones]]
+|align=center|[[George Chakiris]]
+|align=center|[[Larry Kert]]
+|align=center|[[Boyd Gaines]]
+|align=center|[[Adrian Lester]]
+|align=center|[[John Barrowman]]
+|align=center|[[Raúl Esparza]]
+|align=center|[[Neil Patrick Harris]]
+|align=center|[[Rosalie Craig]]<br />''<small>(as Bobbie)</small>''
+|align=center|[[Katrina Lenk]]<br />''<small>(as Bobbie)</small>''
+|align=center|[[Britney Coleman]]<br />''<small>(as Bobbie)</small>''
+|-
+!Joanne
+| colspan="3" align=center|[[Elaine Stritch]]
+|align=center|[[Debra Monk]]
+|align=center|[[Sheila Gish]]
+|align=center|[[Lynn Redgrave]]
+|align=center|[[Barbara Walsh]]
+| colspan="3" align=center|[[Patti LuPone]]
+|align=center|Judy McLane
+|-
+!Larry
+|align=center|Charles Braswell
+| colspan="2" align=center|Robert Goss
+|align=center|Timothy Landfield
+|align=center|[[Paul Bentley]]
+|align=center|[[Walter Charles]]
+|align=center|[[Bruce Sabath]]
+|align=center|[[Jim Walton (actor)|Jim Walton]]
+|align=center|[[Ben Lewis (Australian actor)|Ben Lewis]]
+|align=center|Terence Archie
+|align=center|Derrick Davis
+|-
+!Amy
+| colspan="3" align=center|[[Beth Howland]]
+|align=center|[[Veanne Cox]]
+|align=center|[[Sophie Thompson]]
+|align=center|[[Alice Ripley]]
+|align=center|Heather Laws
+|align=center|[[Katie Finneran]]
+|align=center|[[Jonathan Bailey]]<br />''<small>(as Jamie)</small>''
+|align=center|[[Matt Doyle (actor)|Matt Doyle]]<br />''<small>(as Jamie)</small>''
+|align=center|Matt Rodin<br />''<small>(as Jamie)</small>''
+|-
+!Paul
+|align=center|Steve Elmore
+|align=center|Del Hinkley
+|align=center|Steve Elmore
+|align=center|[[Danny Burstein]]
+|align=center|Michael Simkins
+|align=center|Matt Bogart
+|align=center|Robert Cunningham
+|align=center|[[Aaron Lazar]]
+|align=center|[[Alex Gaumond]]
+|align=center|[[Etai Benson]]
+|align=center|[[Ali Louis Bourzgui]]
+|-
+!Sarah
+|align=center|[[Barbara Barrie]]
+|align=center colspan="2" |[[Marti Stevens (actress)|Marti Stevens]]
+|align=center|[[Kate Burton (actress)|Kate Burton]]
+|align=center|[[Rebecca Front]]
+|align=center|Keira Naughton
+|align=center|Kristin Huffman
+|align=center|[[Martha Plimpton]]
+|align=center|[[Mel Giedroyc]]
+|align=center|[[Jennifer Simard]]
+|align=center|[[Kathryn Allison]]
+|-
+!Harry
+|align=center|[[Charles Kimbrough]]
+|align=center|Charles Braswell
+|align=center|Kenneth Kimmins
+|align=center|[[Robert Westenberg]]
+|align=center|[[Clive Rowe]]
+|align=center|[[David Pittu]]
+|align=center|Keith Buterbaugh
+|align=center|[[Stephen Colbert]]
+|align=center|Gavin Spokes
+|align=center|[[Christopher Sieber]]
+|align=center|James Earl Jones II
+|-
+!Susan
+|align=center|[[Merle Louise]]
+|align=center|Milly Ericson
+|align=center|[[Joy Franz]]
+|align=center|[[Patricia Ben Peterson]]
+|align=center|[[Clare Burt]]
+|align=center|[[Christy Baron]]
+|align=center|Amy Justman
+|align=center|[[Jill Paice]]
+|align=center|Daisy Maywood
+|align=center|Rashidra Scott
+|align=center|Marina Kondo
+|-
+!Peter
+|align=center|John Cunningham
+|align=center|Gary Krawford
+|align=center|J. T. Cromwell
+|align=center|[[Jonathan Dokuchitz]]
+|align=center|Gareth Snook
+|align=center|Dan Cooney
+|align=center|Matt Castle
+|align=center|[[Craig Bierko]]
+|align=center|[[Ashley Campbell (actor)|Ashley Campbell]]
+|align=center|Greg Hildreth
+|align=center|Javier Ignacio
+|-
+!Jenny
+| colspan="3" align=center|Teri Ralston
+|align=center|[[Diana Canova]]
+|align=center|[[Liza Sadovy]]
+|align=center|[[Emily Skinner (actress, born 1970)|Emily Skinner]]
+|align=center|Leenya Rideout
+|align=center|[[Jennifer Laura Thompson]]
+|align=center|Jennifer Saayeng
+|align=center|[[Nikki Renée Daniels]]
+|align=center|Emma Stratton
+|-
+!David
+|align=center|[[George Coe]]
+| colspan="2" align=center|Lee Goodman
+|align=center|John Hillner
+|align=center|Teddy Kempner
+|align=center|Marc Vietor
+|align=center|Fred Rose
+|align=center|[[Jon Cryer]]
+|align=center|[[Richard Henders]]
+|align=center|[[Christopher Fitzgerald (actor)|Christopher Fitzgerald]]
+|align=center|Matt Bittner
+|-
+!April
+|align=center|[[Susan Browning]]
+|align=center|[[Bobbi Jordan]]
+|align=center|Carol Richards
+|align=center|[[Jane Krakowski]]
+|align=center|Hannah James
+|align=center|Kim Director
+|align=center|[[Elizabeth Stanley (actress)|Elizabeth Stanley]]
+|align=center|[[Christina Hendricks]]
+|align=center|[[Richard Fleeshman]]<br /><small>''(as Andy)''</small>
+|align=center|[[Claybourne Elder]]<br /><small>''(as Andy)''</small>
+|align=center|Jacob Dickey<br /><small>''(as Andy)''</small>
+|-
+!Marta
+| colspan="3" align=center|[[Pamela Myers]]
+|align=center|[[LaChanze]]
+|align=center|[[Anna Francolini]]
+|align=center|[[Marcy Harriell|Marcy Harriel]]
+|align=center|[[Angel Desai]]
+|align=center|[[Anika Noni Rose]]
+|align=center|[[George Blagden]]<br /><small>''(as PJ)''</small>
+|align=center|Bobby Conte Thornton<br /><small>''(as PJ)''</small>
+|align=center|Tyler Hardwick<br /><small>''(as PJ)''</small>
+|-
+!Kathy
+| colspan="3" align=center|[[Donna McKechnie]]
+|align=center|[[Charlotte d'Amboise]]
+|align=center|Kiran Hocking
+|align=center|Elizabeth Zins
+|align=center|Kelly Jeanne Grant
+|align=center|[[Chryssie Whitehead]]
+|align=center|Matthew Seadon-Young<br /><small>''(as Theo)''</small>
+|align=center|[[Manu Narayan]]<br><small>''(as Theo)''</small>
+|align=center|David Socolar<br /><small>''(as Theo)''</small>
+|}
+
+===Notable replacements===
+;Broadway (1970–1972)
+*Robert: [[Larry Kert]]
+*Joanne: [[Vivian Blaine]], [[Jane Russell]]
+*Larry: [[Stanley Grover]]
+*Amy: [[Marian Hailey-Moss|Marian Haley]]
+*Sarah: [[Cynthia Harris]]
+*Harry: [[Kenneth Kimmins]]
+*David: [[George D. Wallace]]
+*Kathy: [[Priscilla Lopez]]
+
+;2nd Broadway revival (2006)
+*Robert: [[Bradley Dean]] (s/b)
+
+;3rd Broadway revival (2020–2022)
+*Joanne: [[Jennifer Simard]]
+*David: [[Jeff Kready]]
+*Theo: [[Kyle Dean Massey]]
+
+==Song list==
+{{col-begin}}
+{{col-2}}
+; Act I
+* "[[Company (Broadway song)|Company]]" – Robert and Company
+* "The Little Things You Do Together" – Joanne and Couples
+* "Sorry-Grateful" – Harry, David and Larry
+* "You Could Drive a Person Crazy" – Kathy, April and Marta
+* "Have I Got a Girl for You" – Larry, Peter, Paul, David, Harry
+* "Someone Is Waiting" – Robert
+* "Another Hundred People" – Marta
+* "[[Getting Married Today (song)|Getting Married Today]]" – Amy, Paul, Choirgirl, and Company
+* "Marry Me a Little"† – Robert
+{{col-break}}
+; Act II
+* "Side by Side by Side"/"What Would We Do without You?" – Robert and Couples
+* "Poor Baby" – Sarah, Jenny, Susan, Amy, Joanne
+* "Have I Got a Girl for You" (Reprise)<sup>€</sup> – Larry, Peter, Paul, David, Harry
+* "Tick-Tock"<sup>‡</sup> – Kathy (Instrumental)
+* "Barcelona" – Robert and April
+* "[[The Ladies Who Lunch (song)|The Ladies Who Lunch]]" – Joanne
+* "[[Being Alive]]" – Robert and Couples
+* "Finale" – Company
+{{col-end}}
+
+; Notes on the songs
+* † Restored permanently to close Act I and added in the 1995 revival and every following production
+* € Only used in 1995 revival
+* ‡ Abridged for the first Broadway revival and afterward deleted entirely from the score, however, has been restored in some productions, such as the 2011 New York Philharmonic staging, the 2021 Broadway revival and others
+
+==Productions==
+===Original Broadway production===
+==== ''Original Cast Album: Company'' ====
+====First national tour====
+===Original London production===
+=== Original Australian production ===
+=== 1993 reunion concerts ===
+===1995 Broadway revival===
+===1995 London revival===
+===Kennedy Center production===
+===2006 Broadway revival===
+===2007 Australian production===
+===2011 New York Philharmonic concert===
+=== 2018 West End gender-bent production ===
+=== 2021 Broadway gender-bent revival ===
+==== Second national tour ====
+===International productions===
+==Recordings==
+==Awards and nominations==
+===Original Broadway production===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Musical|Best Musical]] [[Tony Award for Best Book of a Musical|Best Book of a Musical]] [[George Furth]] [[Tony Award for Best Original Score|Best Score (music)]] [[Stephen Sondheim]] [[Tony Award for Best Original Score|Best Lyrics]] [[Tony Award for Best Actor in a Musical|Best Actor in a Musical]] [[Larry Kert]] [[Tony Award for Best Actress in a Musical|Best Actress in a Musical]] [[Elaine Stritch]] [[Susan Browning]] [[Tony Award for Best Featured Actor in a Musical|Best Featured Actor in a Musical]] [[Charles Kimbrough]] [[Tony Award for Best Featured Actress in a Musical|Best Featured Actress in a Musical]] [[Barbara Barrie]] [[Pamela Myers]] [[Tony Award for Best Direction of a Musical|Best Direction of a Musical]] [[Harold Prince]] [[Tony Award for Best Choreography|Best Choreography]] [[Michael Bennett (theater)|Michael Bennett]] [[Tony Award for Best Scenic Design|Best Scenic Design]] [[Boris Aronson]] [[Tony Award for Best Lighting Design|Best Lighting Design]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Book of a Musical|Outstanding Book of a Musical]] [[Drama Desk Award for Outstanding Director of a Musical|Outstanding Director of a Musical]] [[Drama Desk Award for Outstanding Lyrics|Outstanding Lyrics]] [[Drama Desk Award for Outstanding Music|Outstanding Music]] [[Drama Desk Award for Outstanding Set Design|Outstanding Set Design]] [[Theatre World Award]] [[New York Drama Critics' Circle|New York Drama Critics' Circle Award]]
+|}
+===1995 Broadway revival===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Revival of a Musical|Best Revival of a Musical]] [[Tony Award for Best Featured Actress in a Musical|Best Featured Actress in a Musical]] [[Veanne Cox]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Featured Actress in a Musical|Outstanding Featured Actress in a Musical]]
+|}
+===1995 London revival===
+{|
+|-
+| links || [[Laurence Olivier Award]] [[Laurence Olivier Award for Best Actor in a Musical|Best Actor in a Leading Role in a Musical]] [[Adrian Lester]] [[Laurence Olivier Award for Best Performance in a Supporting Role in a Musical|Best Performance in a Supporting Role in a Musical]] [[Sheila Gish]] [[Sophie Thompson]] [[Laurence Olivier Award for Best Director|Best Director]] [[Sam Mendes]]
+|}
+===2006 Broadway revival===
+{|
+|-
+| links || [[Tony Award]] [[Tony Award for Best Revival of a Musical|Best Revival of a Musical]] [[Tony Award for Best Actor in a Musical|Best Actor in a Musical]] [[Raúl Esparza]] [[Tony Award for Best Direction of a Musical|Best Direction of a Musical]] [[John Doyle (director)|John Doyle]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Revival of a Musical|Outstanding Revival of a Musical]] [[Drama Desk Award for Outstanding Actor in a Musical|Outstanding Actor in a Musical]] [[Drama Desk Award for Outstanding Featured Actress in a Musical|Outstanding Featured Actress in a Musical]] [[Barbara Walsh]] [[Drama Desk Award for Outstanding Director of a Musical|Outstanding Director of a Musical]] [[Drama Desk Award for Outstanding Orchestrations|Outstanding Orchestrations]]
+|}
+===2018 West End revival===
+{|
+|-
+| links || [[Evening Standard Theatre Awards|Evening Standard Theatre Award]] [[Rosalie Craig]] [[Marianne Elliott]] [[Bunny Christie]] [[Critics' Circle Theatre Award]] [[Critics' Circle Theatre Award#The Peter Hepple Award for Best Musical|Best Musical]] [[Critics' Circle Theatre Award#Best Designer|Best Designer]] [[Laurence Olivier Award]] [[Laurence Olivier Award for Best Musical Revival|Best Musical Revival]] [[Laurence Olivier Award for Best Actress in a Musical|Best Actress in a Leading Role in a Musical]] [[Laurence Olivier Award for Best Actress in a Supporting Role in a Musical|Best Actress in a Supporting Role in a Musical]] [[Patti LuPone]] [[Laurence Olivier Award for Best Actor in a Supporting Role in a Musical|Best Actor in a Supporting Role in a Musical]] [[Jonathan Bailey]] [[Richard Fleeshman]] [[Laurence Olivier Award for Best Director|Best Director]] [[Laurence Olivier Award for Best Set Design|Best Set Design]] [[Laurence Olivier Award for Best Lighting Design|Best Lighting Design]] [[Neil Austin (lighting designer)|Neil Austin]] [[Laurence Olivier Award for Best Theatre Choreographer|Best Theatre Choreographer]] [[South Bank Sky Arts Award]]
+|}
+===2021 Broadway revival===
+{|
+|-
+| links || [[75th Tony Awards|Tony Awards]] [[Tony Award for Best Revival of a Musical|Best Revival of a Musical]] [[Tony Award for Best Direction of a Musical|Best Direction of a Musical]] [[Marianne Elliott]] [[Tony Award for Best Performance by a Featured Actor in a Musical|Best Performance by a Featured Actor in a Musical]] [[Matt Doyle (actor)|Matt Doyle]] [[Tony Award for Best Performance by a Featured Actress in a Musical|Best Performance by a Featured Actress in a Musical]] [[Patti LuPone]] [[Jennifer Simard]] [[Tony Award for Best Scenic Design of a Musical|Best Scenic Design of a Musical]] [[Bunny Christie]] [[Tony Award for Best Lighting Design of a Musical|Best Lighting Design of a Musical]] [[Tony Award for Best Sound Design of a Musical|Best Sound Design of a Musical]] [[Tony Award for Best Orchestrations|Best Orchestrations]] [[Drama Desk Award]] [[Drama Desk Award for Outstanding Revival of a Musical|Outstanding Revival of a Musical]] [[Drama Desk Award for Outstanding Featured Actor in a Musical|Outstanding Featured Actor in a Musical]] [[Drama Desk Award for Outstanding Featured Actress in a Musical|Outstanding Featured Actress in a Musical]] [[Drama Desk Award for Outstanding Director of a Musical|Outstanding Director of a Musical]] [[Drama Desk Award for Outstanding Choreography|Outstanding Choreography]] [[Drama Desk Award for Outstanding Scenic Design of a Musical|Outstanding Scenic Design for a Musical]] [[Drama Desk Award for Outstanding Sound Design in a Musical|Outstanding Sound Design for a Musical]] [[Drama League Award]] [[Outer Critics Circle Award]]
+|}
+== Unproduced film ==
+==Notes==
+==References==
+== Further reading ==
+==External links==
+
+== Actors mentioned in prose (fixture) ==
+cast included [[Dean Jones (actor)|Dean Jones]].
+cast included [[Boyd Gaines]].
+cast included [[Adrian Lester]].
+cast included [[John Barrowman]].
+starring [[David Campbell (singer)|David Campbell]].
+played by [[Rosalie Craig]].
+starring [[Daniel Evans (actor)|Daniel Evans]].
+cast included [[Rossana Fernández-Maldonado]].
+starred [[OJ Mariano]].
+starring [[Antonio Banderas]].
+starring [[Adrian Lester]].
+starring [[Raul Esparza]].
+starring [[Neil Patrick Harris]].
